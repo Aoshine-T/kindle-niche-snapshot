@@ -1,26 +1,32 @@
 # kindle-niche-snapshot
 
-Weekly snapshot of Kindle nonfiction niche data, consumed by the `clawcreek-howto-author` skill.
+Daily snapshot of Kindle nonfiction niche data, consumed by the `clawcreek-howto-author` skill.
 The skill runs in a sandbox and downloads these files via their `raw.githubusercontent.com` URLs,
-e.g. `https://raw.githubusercontent.com/clawcreek/kindle-niche-snapshot/main/snapshot/manifest.json`.
+e.g. `https://raw.githubusercontent.com/Aoshine-T/kindle-niche-snapshot/main/snapshot/manifest.json`.
 
 ## Update frequency
 
-Daily small batches, produced by `scripts/refresh.sh` on the maintainer's own machine (launchd, 03:00 local;
-not GitHub Actions, not a server):
+Generated every day on ClawCreek's server (the KDP workspace of the automation executor, as a zero-token cron job)
+and pushed here by the server host every 15 minutes when something changed (`data: snapshot YYYY-MM-DD`):
 
-- The hot list is rebuilt from the Kindle list pages, which are refetched once a week (7-day cache).
-- Each day deep-checks at most 12 due topics from the top 30 by heat (~250 requests, 8–12 s between pages,
-  60 s between keywords). A topic is due when it has no card or its card is older than 7 days.
-- A CAPTCHA stops the batch at once; the next day continues from the topic it stopped on.
-- Cards accumulate across days; `card_index` in the manifest gives each card's fetch date.
-- A day's batch is committed only if it added at least one card (`data: snapshot YYYY-MM-DD`).
+- **Hot list**: checked daily at 02:00 UTC, refetched when the last successful fetch is 7 days old (about 48 list
+  pages of Best Sellers / Hot New Releases in 16 nonfiction Kindle categories). A failed week retries the next day.
+- **Deep checks**: daily from 02:30 UTC, one keyword at a time in queue order until the day's request budget is
+  spent (default 120 Amazon requests a day for the server's one outbound IP, including the server's own product-page
+  checks; about 21 requests per keyword, 8–12 s between pages, 60 s between keywords).
+- **Queue**: hot-list topics with no card first, then topics whose card is 7 days old, each by heat. `queue` in the
+  manifest lists them with an estimated date (`eta_date`).
+- A CAPTCHA or bot check stops the day at once; nothing is retried or worked around. The next day continues
+  from the keyword it stopped on.
+- Cards accumulate across days; `card_index` in the manifest gives each card's fetch date. The manifest (and its
+  `generated_at`) is rewritten only when the hot list or a card changed.
 
 ## Data source
 
 Parsed summaries of Amazon's public Kindle list pages (Best Sellers / Hot New Releases) and the search and
 product pages for each deep-checked keyword. The data is produced by the step-01 script of
-`clawcreek-howto-author` (`niche_research.py`), which is **not** in this repository; `manifest.json` records
+`clawcreek-howto-author` (`niche_research.py`), which is **not** in this repository (`scripts/` here is the
+retired local batch, no longer run); `manifest.json` records
 the skill branch and commit used. This repository only holds the parsed output.
 
 ## Layout
@@ -53,6 +59,8 @@ snapshot/
 | `new_cards`    | Card slugs added by this run                                   |
 | `stopped`      | `null`, or why this run's batch ended early and the next topic (`{"reason": "captcha", "next": "…"}`) |
 | `card_index`   | slug → `{keyword, fetched_at}` for every card in `cards/`      |
+| `queue`        | Topics still to deep-check, in order: `[{slug, keyword, position, eta_date}]`; `eta_date` is an estimate from the daily budget (`null` = no budget) |
+| `budget`       | Amazon requests of the generating day: `{date, used, limit}` (UTC date; `used` includes the server's product-page checks) |
 
 ## Rules
 
