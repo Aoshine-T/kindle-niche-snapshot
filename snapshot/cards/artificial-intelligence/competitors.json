@@ -1,0 +1,264 @@
+[
+ {
+  "asin": "B07MYWPQSK",
+  "title": "Artificial Intelligence: A Guide for Thinking Humans",
+  "bsr": 24275,
+  "rating": 4.6,
+  "price": 12.99,
+  "pub_date": "2019-10-15",
+  "pages": 338,
+  "publisher": "Farrar, Straus and Giroux",
+  "cats": [
+   [
+    10,
+    "Social Aspects of Technology"
+   ],
+   [
+    13,
+    "Computer History & Culture (Books)"
+   ],
+   [
+    14,
+    "AI & Semantics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1386,
+  "description": "“After reading Mitchell’s guide, you’ll know what you don’t know and what other people don’t know, even though they claim to know it. And that’s invaluable.” — The New York Times A leading computer scientist brings human sense to the AI bubble. No recent scientific enterprise has proved as alluring, terrifying, and filled with extravagant promise and frustrating setbacks as artificial intelligence. The award-winning author Melanie Mitchell, a leading computer scientist, now reveals AI’s turbulent history and the recent spate of apparent successes, grand hopes, and emerging fears surrounding it. In Artificial Intelligence , Mitchell turns to the most urgent questions concerning AI today: How intelligent—really—are the best AI programs? How do they work? What can they actually do, and when do they fail? How humanlike do we expect them to become, and how soon do we need to worry about them surpassing us? Along the way, she introduces the dominant models of modern AI and machine learning, describing cutting-edge AI programs, their human inventors, and the historical lines of thought underpinning recent achievements. She meets with fellow experts such as Douglas Hofstadter, the cognitive scientist and Pulitzer Prize–winning author of the modern classic Gödel, Escher, Bach , who explains why he is “terrified” about the future of AI. She explores the profound disconnect between the hype and the actual achievements in AI, providing a clear sense of what the field has accomplished and how much further it has to go. Interweaving stories about the science of AI and the people behind it, Artificial Intelligence brims with clear-sighted, captivating, and accessible accounts of the most interesting and provocative modern work in the field, flavored with Mitchell’s humor and personal "
+ },
+ {
+  "asin": "B0HJ349HH4",
+  "title": "The Mathematics of Artificial Intelligence Agents: A Readable Guide to Decisions, Planning",
+  "bsr": 27738,
+  "rating": 4.8,
+  "price": 12.99,
+  "pub_date": "2026-09-07",
+  "pages": 983,
+  "publisher": null,
+  "cats": [
+   [
+    1,
+    "Computer Mathematics"
+   ],
+   [
+    1,
+    "Computer Systems Analysis & Design"
+   ],
+   [
+    3,
+    "Cybernetics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 19,
+  "description": "Updated October 2026: This edition adds a comprehensive subject index with more than 2,000 entries, with each entry linked directly to the relevant locations in the ebook. It also includes an online companion with 29 Jupyter notebooks, 108 interactive mathematical demonstrations, and 28 ready-to-use skills for AI assistants. Readers can use the companion materials to run the book’s examples, change parameters, check results, and explore the mathematics directly. What changes when an AI model stops merely answering and starts acting? A language model predicts what comes next. An AI agent has to do something more. It must choose, plan, remember, use tools, respond to observations, cooperate with other agents, manage uncertainty, operate within permissions, and decide when to stop and return control to a person. Each of those problems has mathematics behind it. The Mathematics of Artificial Intelligence Agents is a readable guide to that mathematics. It moves beyond the model itself to examine the larger system built around it: the loops, states, tools, memories, decisions, constraints, and interactions that turn predictions into actions. The book develops the mathematics through research, historical examples, constructed problems, diagrams, and worked calculations. Equations are presented at full strength, but important formulas are accompanied by two explanations: What It Does explains why the equation exists and what problem it solves. Reading the Formula walks through how to interpret the notation. The goal is not to remove the mathematics. It is to make the real mathematics readable. Inside the book The chapters move from the foundations of agent behavior into decision theory, planning, learning, architecture, multi-agent systems, safety, evaluation, and delegation. T"
+ },
+ {
+  "asin": "B0GBZ2MDDJ",
+  "title": "The AGI Chronicles: The Inside Story of the Race to Create an Artificial Superintelligence",
+  "bsr": 1859,
+  "rating": 4.7,
+  "price": 16.99,
+  "pub_date": "2026-10-06",
+  "pages": 551,
+  "publisher": "Farrar, Straus and Giroux",
+  "cats": [
+   [
+    1,
+    "Robotics & Automation"
+   ],
+   [
+    1,
+    "Robotics & Automation (Books)"
+   ],
+   [
+    1,
+    "History & Philosophy of Science (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 77,
+  "description": "AN INSTANT NEW YORK TIMES BESTSELLER \"Exciting and brilliantly reported . . . Roose makes the technology understandable while also conveying the historic nature of a new world being born.\" —Walter Isaacson, author of Elon Musk \"[Kevin Roose] came out with the most important story in AI: how a few executives, and the relationships between them, somehow came to determine the future of everything.” —David Pierce, The Verge This is the story of the twenty-first century’s Manhattan Project: the race to create artificial general intelligence. For the last decade, a handful of AI companies have been racing to build the most powerful technology in history: artificial general intelligence, or AGI—a computer system capable of outdoing humans at almost anything. Some of them hoped AGI would cure diseases and heal the planet. Others feared it could kill everyone on Earth. They decided to build it anyway. Kevin Roose’s The AGI Chronicles is the definitive, behind-the-scenes account of the trillion-dollar sprint to create AGI. Drawing on more than 150 interviews with insiders at OpenAI, Anthropic, and Google DeepMind, as well as unpublished company documents and research memos, Roose reconstructs the most consequential decade in tech history. He takes us inside the rooms where researchers watch large language models learn to talk, reason, and code at superhuman speed. He brings us to the White House, where top officials grapple with a technology that is improving too fast to understand, let alone regulate. He offers new details on the disagreements that led the founders of Anthropic to defect from OpenAI, and fresh reporting on Sam Altman’s dramatic firing—and equally dramatic reinstatement—as CEO. He gives us the inside story of Google’s frantic attempt to catch up to the AI frontie"
+ },
+ {
+  "asin": "B0DK8MXGVY",
+  "title": "Artificial Intelligence For Dummies",
+  "bsr": 81466,
+  "rating": 4.3,
+  "price": 18.0,
+  "pub_date": "2024-10-16",
+  "pages": 344,
+  "publisher": "For Dummies",
+  "cats": [
+   [
+    33,
+    "Artificial Intelligence & Semantics"
+   ],
+   [
+    54,
+    "AI & Semantics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 320,
+  "description": "Dive into the intelligence that powers artificial intelligence Artificial intelligence is swiftly moving from a sci-fi future to a modern reality. This edition of Artificial Intelligence For Dummies keeps pace with the lighting-fast expansion of AI tools that are overhauling every corner of reality. This book demystifies how artificial intelligence systems operate, giving you a look at the inner workings of AI and explaining the important role of data in creating intelligence. You'll get a primer on using AI in everyday life, and you'll also get a glimpse into possible AI-driven futures. What's next for humanity in the age of AI? How will your job and your life change as AI continue to evolve? How can you take advantage of AI today to make your live easier? This jargon-free Dummies guide answers all your most pressing questions about the world of artificial intelligence. Learn the basics of AI hardware and software, and how intelligence is created from code Get up to date with the latest AI trends and disruptions across industries Wrap your mind around what the AI revolution means for humanity, and for you Discover tips on using generative AI ethically and effectively Artificial Intelligence For Dummies is the ideal starting point for anyone seeking a deeper technological understanding of how artificial intelligence works and what promise it holds for the future.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstance-Hj2nqz4fvpDd1Hsrbj4qw')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webki"
+ },
+ {
+  "asin": "B0CM8TRWK3",
+  "title": "Co-Intelligence: Living and Working with AI",
+  "bsr": 14086,
+  "rating": 4.5,
+  "price": 14.99,
+  "pub_date": "2024-04-02",
+  "pages": 253,
+  "publisher": "Portfolio",
+  "cats": [
+   [
+    2,
+    "Robotics & Automation"
+   ],
+   [
+    2,
+    "Robotics & Automation (Books)"
+   ],
+   [
+    2,
+    "Automation Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 4291,
+  "description": "AN INSTANT NEW YORK TIMES BESTSELLER From Wharton professor and author of the popular One Useful Thing Substack newsletter Ethan Mollick comes the definitive playbook for working, learning, and living in the new age of AI Something new entered our world in November 2022 — the first general purpose AI that could pass for a human and do the kinds of creative, innovative work that only humans could do previously. Wharton professor Ethan Mollick immediately understood what ChatGPT meant: after millions of years on our own, humans had developed a kind of co-intelligence that could augment, or even replace, human thinking. Through his writing, speaking, and teaching, Mollick has become one of the most prominent and provocative explainers of AI, focusing on the practical aspects of how these new tools for thought can transform our world. In Co-Intelligence , Mollick urges us to engage with AI as co-worker, co-teacher, and coach. He assesses its profound impact on business and education, using dozens of real-time examples of AI in action. Co-Intelligence shows what it means to think and work together with smart machines, and why it's imperative that we master that skill. Mollick challenges us to utilize AI's enormous power without losing our identity, to learn from it without being misled, and to harness its gifts to create a better human future. Wide ranging, hugely thought-provoking, optimistic, and lucid, Co-Intelligence reveals the promise and power of this new era.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstance4-68r6mGAlrrFuhz-dq7Zw')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_8',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-"
+ },
+ {
+  "asin": "B0H2GWG3Y8",
+  "title": "Co-Existence: The Next Phase of AI",
+  "bsr": 673,
+  "rating": 5.0,
+  "price": 16.99,
+  "pub_date": "2026-10-20",
+  "pages": 233,
+  "publisher": "Portfolio",
+  "cats": [
+   [
+    1,
+    "AI & Semantics"
+   ],
+   [
+    1,
+    "Generative AI (Books)"
+   ],
+   [
+    1,
+    "Generative AI"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 3,
+  "description": "How do we live alongside machines that are sometimes smarter than us? We are entering a new era. AI systems can already outperform humans in some domains while failing spectacularly in others. They can act as tutors, collaborators, researchers, strategists, and creators...yet they can also produce falsehoods, generate convincing nonsense, and fail unpredictably. The challenge is no longer simply adopting new technology. It is learning how to think, work, and live in a world where machines are sometimes smarter than us. In Co-Existence , Ethan Mollick—a Wharton professor and author of the widely read One Useful Thing newsletter—argues that the future of AI will not be defined by replacement, but by interaction. Drawing on years of research, experimentation, and frontline experience with rapidly evolving AI systems, Mollick shows readers how to: • work productively with AI while retaining judgment and autonomy; • distinguish where human insight matters most; • avoid becoming overly dependent on systems designed to persuade and imitate; • adapt creatively as AI reshapes education, business, and everyday life; and • build a durable human advantage in a world of intelligent machines. Clear-eyed, practical, and written with warmth and humor, Co-Existence is your guide to navigating the next phase of the AI revolution.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_7\"]', '#CardInstanceRURGurDN273nCvMxXHm10g')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_7',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhou"
+ },
+ {
+  "asin": "B0HJLMWQ64",
+  "title": "Artificial Intelligence: From Basics to AI Agents: A Practical Beginner's Guide to Generat",
+  "bsr": 259687,
+  "rating": 4.8,
+  "price": 2.99,
+  "pub_date": "2026-09-12",
+  "pages": 179,
+  "publisher": null,
+  "cats": [
+   [
+    36,
+    "Expert Systems"
+   ],
+   [
+    89,
+    "Artificial Intelligence Expert Systems"
+   ],
+   [
+    106,
+    "Generative AI"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 8,
+  "description": "Artificial Intelligence has suddenly become one of the most discussed subjects in the world. We hear about AI almost everywhere—in newspapers, television, mobile phones, banking, healthcare, education and business. Tools such as ChatGPT have made it possible for ordinary people to experience the power of Artificial Intelligence directly. However, I found that many people, particularly beginners and senior citizens, are interested in AI but are not sure what it really is, how it works and how it can be used in everyday life. Having personally witnessed the remarkable journey from manual banking and early computers to Core Banking Solutions, the Internet and now Artificial Intelligence, I felt that I should learn about this new technology and share my understanding with others in a simple and practical manner. This book has therefore been written mainly for beginners, students, senior citizens and anyone who wants to understand Artificial Intelligence without going deeply into complicated technical details. My objective is not to make the reader an AI expert, but to help them understand this powerful technology, use it wisely and confidently, and continue learning as technology continues to change.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceOLoMQ85PcOPEbID4Izd65g')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width"
+ },
+ {
+  "asin": "B092J75GML",
+  "title": "Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence)",
+  "bsr": 181467,
+  "rating": 4.5,
+  "price": 94.99,
+  "pub_date": "2021-04-14",
+  "pages": 1133,
+  "publisher": "Pearson",
+  "cats": [
+   [
+    138,
+    "AI & Semantics"
+   ],
+   [
+    173,
+    "Artificial Intelligence & Semantics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 456,
+  "description": "The most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence The long-anticipated revision of Artificial Intelligence: A Modern Approach explores the full breadth and depth of the field of artificial intelligence (AI). The 4th Edition brings readers up to date on the latest technologies, presents concepts in a more unified manner, and offers new or expanded coverage of machine learning, deep learning, transfer learning, multiagent systems, robotics, natural language processing, causality, probabilistic programming, privacy, fairness, and safe AI.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_2\"]', '#CardInstancenWdHfuUia5qrIS6ioP-S7Q')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_2',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x"
+ },
+ {
+  "asin": "B0DZ1ZTPSM",
+  "title": "If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All",
+  "bsr": 10741,
+  "rating": 4.5,
+  "price": 13.99,
+  "pub_date": "2025-09-16",
+  "pages": 232,
+  "publisher": "Little, Brown and Company",
+  "cats": [
+   [
+    2,
+    "Social Aspects of Technology"
+   ],
+   [
+    2,
+    "General Technology & Reference"
+   ],
+   [
+    4,
+    "AI & Semantics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1682,
+  "description": "INSTANT NEW YORK TIMES BESTSELLER | The New Yorker 's Best Books of 2025 | The Guardian 's Best Books of 2025 | A 2025 Booklist Editors' Choice Pick The scramble to create superhuman AI has put us on the path to extinction—but it’s not too late to change course, as two of the field’s earliest researchers explain in this clarion call for humanity. \"May prove to be the most important book of our time.”—Tim Urban, Wait But Why In 2023, hundreds of AI luminaries signed an open letter warning that artificial intelligence poses a serious risk of human extinction. Since then, the AI race has only intensified. Companies and countries are rushing to build machines that will be smarter than any person. And the world is devastatingly unprepared for what would come next. For decades, two signatories of that letter—Eliezer Yudkowsky and Nate Soares—have studied how smarter-than-human intelligences will think, behave, and pursue their objectives. Their research says that sufficiently smart AIs will develop goals of their own that put them in conflict with us—and that if it comes to conflict, an artificial superintelligence would crush us. The contest wouldn’t even be close. How could a machine superintelligence wipe out our entire species? Why would it want to? Would it want anything at all? In this urgent book, Yudkowsky and Soares walk through the theory and the evidence, present one possible extinction scenario, and explain what it would take for humanity to survive. The world is racing to build something truly new under the sun. And if anyone builds it, everyone dies. “The best no-nonsense, simple explanation of the AI risk problem I've ever read.”—Yishan Wong, Former CEO of Reddit  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInst"
+ },
+ {
+  "asin": "B0B9SH82C2",
+  "title": "A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our B",
+  "bsr": 32975,
+  "rating": 4.7,
+  "price": 15.99,
+  "pub_date": "2023-10-24",
+  "pages": 432,
+  "publisher": "Mariner Books",
+  "cats": [
+   [
+    4,
+    "Neurology"
+   ],
+   [
+    5,
+    "Educational Psychology"
+   ],
+   [
+    7,
+    "Evolution (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1359,
+  "description": "“I found this book amazing. I read it through quickly because it was so interesting, then turned around and read much of it again.”—Daniel Kahneman, winner of the Nobel Prize in Economics and bestselling author of Thinking Fast & Slow “I've been recommending A Brief History of Intelligence to everyone I know. A truly novel, beautifully crafted thesis on what intelligence is and how it has developed since the dawn of life itself.\"—Angela Duckworth, bestselling author of Grit Equal parts Sapiens , Behave, and Superintelligence , but wholly original in scope, A Brief History of Intelligence offers a paradigm shift for how we understand neuroscience and AI. Artificial intelligence entrepreneur Max Bennett chronicles the five “breakthroughs” in the evolution of human intelligence and reveals what brains of the past can tell us about the AI of tomorrow. In the last decade, capabilities of artificial intelligence that had long been the realm of science fiction have, for the first time, become our reality. AI is now able to produce original art, identify tumors in pictures, and even steer our cars. And yet, large gaps remain in what modern AI systems can achieve—indeed, human brains still easily perform intellectual feats that we can’t replicate in AI systems. How is it possible that AI can beat a grandmaster at chess but can’t effectively load a dishwasher? As AI entrepreneur Max Bennett compellingly argues, finding the answer requires diving into the billion-year history of how the human brain evolved; a history filled with countless half-starts, calamities, and clever innovations. Not only do our brains have a story to tell—the future of AI may depend on it. Now, in A Brief History of Intelligence , Bennett bridges the gap between neuroscience and AI to tell the brain’s evol"
+ }
+]
