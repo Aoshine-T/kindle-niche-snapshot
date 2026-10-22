@@ -1,37 +1,47 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-10-22T02:44:41Z",
+ "generated_at": "2026-10-22T02:56:52Z",
  "topics": 72,
- "cards": 15,
+ "cards": 18,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 60,
- "elapsed_seconds": 866,
+ "requests": 107,
+ "elapsed_seconds": 1597,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 480
   },
   "deep": {
-   "words": 4,
-   "requests": 60,
-   "seconds": 866
+   "words": 7,
+   "requests": 107,
+   "seconds": 1597
   }
  },
  "new_cards": [
   "lsat-prep",
   "right-broke",
   "artificial-intelligence",
-  "smarter-decisions"
+  "smarter-decisions",
+  "walt-disney",
+  "bucket-retirement",
+  "out-loud"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "request-budget",
+  "next": "road trip"
+ },
  "card_index": {
   "artificial-intelligence": {
    "keyword": "artificial intelligence",
+   "fetched_at": "2026-10-22"
+  },
+  "bucket-retirement": {
+   "keyword": "bucket retirement",
    "fetched_at": "2026-10-22"
   },
   "coding-required": {
@@ -62,6 +72,10 @@
    "keyword": "middle east",
    "fetched_at": "2026-10-21"
   },
+  "out-loud": {
+   "keyword": "out loud",
+   "fetched_at": "2026-10-22"
+  },
   "practice-tests": {
    "keyword": "practice tests",
    "fetched_at": "2026-10-20"
@@ -89,11 +103,17 @@
   "terminal-atc": {
    "keyword": "terminal atc",
    "fetched_at": "2026-10-21"
+  },
+  "walt-disney": {
+   "keyword": "walt disney",
+   "fetched_at": "2026-10-22"
   }
  },
  "files": {
   "cards/artificial-intelligence/card.md": "1a42fe6709749061b45afd778e46b722c31562699e8cc2f7e9231ad756a3484b",
   "cards/artificial-intelligence/competitors.json": "eae96bb6a01ccbc2e6b737f2bf22e8a39be6d06645c1df30e370e96c22e3a919",
+  "cards/bucket-retirement/card.md": "034f965e1c4bdb030a78ab3e25d5dd79396b7422547235f8aaa66556ac5cbd36",
+  "cards/bucket-retirement/competitors.json": "00f88159443926f8b7c75927dcf0cd26ab2b8c58a17e09f6020ff817422ac20e",
   "cards/coding-required/card.md": "a85fb5103ff687e5f996decc8186f5ed607a76f421f0d7f65b6a70d2e7f46129",
   "cards/coding-required/competitors.json": "21ed8089aa6b869851e4cf5605e47260a0d35cd76a4a0076e7c8b530ce2abbca",
   "cards/ged-study/card.md": "c09d3021f5ac978290787800c2c95576148144a940768cdadcf974d26e4eadb8",
@@ -108,6 +128,8 @@
   "cards/lsat-prep/competitors.json": "6745beaa9aeecbbf8e8922c91816a2faacd2138b0501e07c707edfc2e9acdcdd",
   "cards/middle-east/card.md": "808fa53edb789b3c94a218c610b5a0caec1f477c94ccf35d7772788cece73b48",
   "cards/middle-east/competitors.json": "3a110b0442b9b1fa96df745868162efab6f97d06c152729b368766facd859a67",
+  "cards/out-loud/card.md": "1dd0caf30412bac6c7f1dc229d5b905ee406f7a1cbe07d161c9ac5def924e87a",
+  "cards/out-loud/competitors.json": "f509e1b63f87ca4d3bc54aed3240e48bbb19f729ae159f2f6fa509b06a91a90a",
   "cards/practice-tests/card.md": "0fb1e61f1eeef70ef824cee3541ed595d2b2b9900fcc2f3e2f3f850494378e09",
   "cards/practice-tests/competitors.json": "6a499c7fd4d93aad1556ecedd178129bf0aa28c0b44d3de7c785e310abd72b94",
   "cards/right-broke/card.md": "b755dfe6321018007cdc6273181faa253b3adda5d3f76ee3d00122fc8093db0e",
@@ -122,355 +144,339 @@
   "cards/stress-less/competitors.json": "4408ab107e31d614259c3022362dbd16269f935b587327c4af9fcedc9c55e285",
   "cards/terminal-atc/card.md": "371e64807c1ea55566e82aa1dcf8c708d4851f40c41b4e30b4ec1563db79387e",
   "cards/terminal-atc/competitors.json": "0deef10bab9ddff9cb08e1d8e63ca79cc02f06e2258711f93db1f97034967de8",
+  "cards/walt-disney/card.md": "170705276d6ddde822cec8910998e741ef73292f21369bac2b2dffd3f754719d",
+  "cards/walt-disney/competitors.json": "c705d308f3bff26bd9486b2fdbdff762d90d31c1c8a1dd7de4a3404334f2de24",
   "topics.json": "c39744703f74e0441dd272e8736d6f2dca0b2e3c0422b6d8d9e02abcdca82c33"
  },
  "queue": [
   {
-   "slug": "walt-disney",
-   "keyword": "walt disney",
-   "position": 1,
-   "eta_date": "2026-10-22"
-  },
-  {
-   "slug": "bucket-retirement",
-   "keyword": "bucket retirement",
-   "position": 2,
-   "eta_date": "2026-10-22"
-  },
-  {
-   "slug": "out-loud",
-   "keyword": "out loud",
-   "position": 3,
-   "eta_date": "2026-10-23"
-  },
-  {
    "slug": "road-trip",
    "keyword": "road trip",
-   "position": 4,
+   "position": 1,
    "eta_date": "2026-10-23"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 5,
+   "position": 2,
    "eta_date": "2026-10-23"
   },
   {
    "slug": "sweet-hockey",
    "keyword": "sweet hockey",
-   "position": 6,
+   "position": 3,
    "eta_date": "2026-10-23"
   },
   {
    "slug": "small-engines",
    "keyword": "small engines",
-   "position": 7,
+   "position": 4,
    "eta_date": "2026-10-23"
   },
   {
    "slug": "peak-performance",
    "keyword": "peak performance",
-   "position": 8,
-   "eta_date": "2026-10-24"
+   "position": 5,
+   "eta_date": "2026-10-23"
   },
   {
    "slug": "bestselling-author",
    "keyword": "bestselling author",
-   "position": 9,
+   "position": 6,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 10,
+   "position": 7,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "plant-based-recipes",
    "keyword": "plant-based recipes",
-   "position": 11,
+   "position": 8,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "learn-ai",
    "keyword": "learn ai",
-   "position": 12,
+   "position": 9,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 13,
-   "eta_date": "2026-10-25"
+   "position": 10,
+   "eta_date": "2026-10-24"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 14,
+   "position": 11,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "youtube-millionaire",
    "keyword": "youtube millionaire",
-   "position": 15,
+   "position": 12,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "just-add-water-mason",
    "keyword": "just-add-water mason",
-   "position": 16,
+   "position": 13,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "affordable-retirement",
    "keyword": "affordable retirement",
-   "position": 17,
+   "position": 14,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "household-cybersecurity",
    "keyword": "household cybersecurity",
-   "position": 18,
-   "eta_date": "2026-10-26"
+   "position": 15,
+   "eta_date": "2026-10-25"
   },
   {
    "slug": "comfort-food",
    "keyword": "comfort food",
-   "position": 19,
+   "position": 16,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "potty-training",
    "keyword": "potty training",
-   "position": 20,
+   "position": 17,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "foolproof-recipes",
    "keyword": "foolproof recipes",
-   "position": 21,
+   "position": 18,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "usa-road",
    "keyword": "usa road",
-   "position": 22,
+   "position": 19,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "class-act",
    "keyword": "class act",
-   "position": 23,
-   "eta_date": "2026-10-27"
+   "position": 20,
+   "eta_date": "2026-10-26"
   },
   {
    "slug": "adult-ccrn",
    "keyword": "adult ccrn",
-   "position": 24,
+   "position": 21,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "fix-common",
    "keyword": "fix common",
-   "position": 25,
+   "position": 22,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 26,
+   "position": 23,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "happy-place",
    "keyword": "happy place",
-   "position": 27,
+   "position": 24,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "mature-bass",
    "keyword": "mature bass",
-   "position": 28,
-   "eta_date": "2026-10-28"
+   "position": 25,
+   "eta_date": "2026-10-27"
   },
   {
    "slug": "rick-steves",
    "keyword": "rick steves",
-   "position": 29,
+   "position": 26,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "care-scripts",
    "keyword": "care scripts",
-   "position": 30,
+   "position": 27,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 31,
+   "position": 28,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "ruined-earth",
    "keyword": "ruined earth",
-   "position": 32,
+   "position": 29,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "right-numbers",
    "keyword": "right numbers",
-   "position": 33,
-   "eta_date": "2026-10-29"
+   "position": 30,
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "hidden-tuition",
    "keyword": "hidden tuition",
-   "position": 34,
+   "position": 31,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "homemade-bread",
    "keyword": "homemade bread",
-   "position": 35,
+   "position": 32,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 36,
+   "position": 33,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "estate-business",
    "keyword": "estate business",
-   "position": 37,
+   "position": 34,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "content-creation",
    "keyword": "content creation",
-   "position": 38,
-   "eta_date": "2026-10-30"
+   "position": 35,
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "healthy-everyday",
    "keyword": "healthy everyday",
-   "position": 39,
+   "position": 36,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 40,
+   "position": 37,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 41,
+   "position": 38,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "legendary-highway",
    "keyword": "legendary highway",
-   "position": 42,
+   "position": 39,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "brain-storytelling",
    "keyword": "brain storytelling",
-   "position": 43,
-   "eta_date": "2026-10-31"
+   "position": 40,
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
-   "position": 44,
+   "position": 41,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "observing-behavior",
    "keyword": "observing behavior",
-   "position": 45,
+   "position": 42,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "elon-musk",
    "keyword": "elon musk",
-   "position": 46,
+   "position": 43,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "agentic-ai",
    "keyword": "agentic ai",
-   "position": 47,
+   "position": 44,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 48,
-   "eta_date": "2026-11-01"
+   "position": 45,
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "silk-roads",
    "keyword": "silk roads",
-   "position": 49,
+   "position": 46,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "slow-cooker",
    "keyword": "slow cooker",
-   "position": 50,
+   "position": 47,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "national-park",
    "keyword": "national park",
-   "position": 51,
+   "position": 48,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "tasty-recipes",
    "keyword": "tasty recipes",
-   "position": 52,
+   "position": 49,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
-   "position": 53,
-   "eta_date": "2026-11-02"
+   "position": 50,
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "relieve-stress",
    "keyword": "relieve stress",
-   "position": 54,
+   "position": 51,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "personal-finance",
    "keyword": "personal finance",
-   "position": 55,
+   "position": 52,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "appalachian-trail",
    "keyword": "appalachian trail",
-   "position": 56,
+   "position": 53,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "international-bestseller",
    "keyword": "international bestseller",
-   "position": 57,
+   "position": 54,
    "eta_date": "2026-11-02"
   }
  ],
  "budget": {
   "date": "2026-10-22",
-  "used": 60,
+  "used": 107,
   "limit": 120
  }
 }
