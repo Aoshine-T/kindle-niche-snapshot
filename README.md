@@ -11,11 +11,14 @@ and pushed here by the server host every 15 minutes when something changed (`dat
 
 - **Hot list**: checked daily at 02:00 UTC, refetched when the last successful fetch is 7 days old (about 48 list
   pages of Best Sellers / Hot New Releases in 16 nonfiction Kindle categories). A failed week retries the next day.
+  A fixed list of evergreen how-to seed keywords is merged into `topics.json` every day (see the table below).
 - **Deep checks**: daily from 02:30 UTC, one keyword at a time in queue order until the day's request budget is
-  spent (default 120 Amazon requests a day for the server's one outbound IP, including the server's own product-page
-  checks; about 21 requests per keyword, 8–12 s between pages, 60 s between keywords).
-- **Queue**: hot-list topics with no card first, then topics whose card is 7 days old, each by heat. `queue` in the
-  manifest lists them with an estimated date (`eta_date`).
+  spent (240 Amazon requests a day for the server's one outbound IP, including the server's own product-page
+  checks; at most 21 requests per keyword, 8–12 s between pages, 60 s between keywords).
+- **Queue**: how-to topics only. Hot-list topics marked `howto` come first, by heat; then seed keywords that are not
+  on the hot list, in seed-file order. Topics with no card are queued before topics whose card is 7 days old.
+  Narrative topics (`howto: false`) stay in `topics.json` but get no card. `queue` in the manifest lists the queued
+  keywords with an estimated date (`eta_date`).
 - A CAPTCHA or bot check stops the day at once; nothing is retried or worked around. The next day continues
   from the keyword it stopped on.
 - Cards accumulate across days; `card_index` in the manifest gives each card's fetch date. The manifest (and its
@@ -42,6 +45,16 @@ snapshot/
         ├── card.md                       # topic card for one keyword
         └── competitors.json              # competitor data for that keyword
 ```
+
+`snapshot/topics.json` is `{"fetched_at", "books", "topics": [...]}`. Each topic has the skill's hot-list fields
+(`topic`, `heat`, `books`, `on_hot_new_releases`, `on_best_sellers`, `best_rank`, `median_reviews`, `categories`,
+`examples`) plus:
+
+| Field    | Meaning                                                                                       |
+|----------|-----------------------------------------------------------------------------------------------|
+| `howto`  | `true` when at least half of the titles behind the topic carry a how-to marker; `false` topics are not queued |
+| `source` | `"list"` = from Best Sellers / Hot New Releases; `"seed"` = a seed keyword not on the hot list (`heat: null`, `books: 0`, empty lists; its card reports only its own search results) |
+| `seed`   | `true` on a hot-list topic that is also a seed keyword (absent otherwise)                      |
 
 `snapshot/manifest.json` fields:
 
