@@ -1,40 +1,33 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-10-22T02:56:52Z",
+ "generated_at": "2026-10-23T02:42:22Z",
  "topics": 72,
- "cards": 18,
+ "cards": 21,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 107,
- "elapsed_seconds": 1597,
+ "requests": 49,
+ "elapsed_seconds": 716,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 480
   },
   "deep": {
-   "words": 7,
-   "requests": 107,
-   "seconds": 1597
+   "words": 3,
+   "requests": 49,
+   "seconds": 716
   }
  },
  "new_cards": [
-  "lsat-prep",
-  "right-broke",
-  "artificial-intelligence",
-  "smarter-decisions",
-  "walt-disney",
-  "bucket-retirement",
-  "out-loud"
+  "road-trip",
+  "learn-faster",
+  "sweet-hockey"
  ],
- "stopped": {
-  "reason": "request-budget",
-  "next": "road trip"
- },
+ "stopped": null,
  "card_index": {
   "artificial-intelligence": {
    "keyword": "artificial intelligence",
@@ -64,6 +57,10 @@
    "keyword": "human body",
    "fetched_at": "2026-10-20"
   },
+  "learn-faster": {
+   "keyword": "learn faster",
+   "fetched_at": "2026-10-23"
+  },
   "lsat-prep": {
    "keyword": "lsat prep",
    "fetched_at": "2026-10-22"
@@ -84,6 +81,10 @@
    "keyword": "right broke",
    "fetched_at": "2026-10-22"
   },
+  "road-trip": {
+   "keyword": "road trip",
+   "fetched_at": "2026-10-23"
+  },
   "silicon-valley": {
    "keyword": "silicon valley",
    "fetched_at": "2026-10-20"
@@ -99,6 +100,10 @@
   "stress-less": {
    "keyword": "stress less",
    "fetched_at": "2026-10-21"
+  },
+  "sweet-hockey": {
+   "keyword": "sweet hockey",
+   "fetched_at": "2026-10-23"
   },
   "terminal-atc": {
    "keyword": "terminal atc",
@@ -124,6 +129,8 @@
   "cards/hindenburg-disaster/competitors.json": "b4aab18e6be9785aef531ceae3db787ae28995695ddbdc99f20afe7e9e697492",
   "cards/human-body/card.md": "0b39688bbe75796fdc3238fe83ebc7bdf1de9f9380770c76062c64228588628a",
   "cards/human-body/competitors.json": "272cffb72c5e62cd4ccac4c799c7b0227e4a7aa88f2308a8cc1c8c42dd949c46",
+  "cards/learn-faster/card.md": "a4447389dc00562d47a695f766e6621641ccfdf6768c5fc688d4f773e7659e2a",
+  "cards/learn-faster/competitors.json": "11a18b260c6f45a8a4831d792790ffadad39b9616d000eddef2376bd0c3eebce",
   "cards/lsat-prep/card.md": "69d07d9762ea2f845b4bb399108f4ab996aed1b850da46325674ef6099a21f20",
   "cards/lsat-prep/competitors.json": "6745beaa9aeecbbf8e8922c91816a2faacd2138b0501e07c707edfc2e9acdcdd",
   "cards/middle-east/card.md": "808fa53edb789b3c94a218c610b5a0caec1f477c94ccf35d7772788cece73b48",
@@ -134,6 +141,8 @@
   "cards/practice-tests/competitors.json": "6a499c7fd4d93aad1556ecedd178129bf0aa28c0b44d3de7c785e310abd72b94",
   "cards/right-broke/card.md": "b755dfe6321018007cdc6273181faa253b3adda5d3f76ee3d00122fc8093db0e",
   "cards/right-broke/competitors.json": "0caf5fb936c66406d05d34cdfec6050d945b7cc2131276453277cd241606eed7",
+  "cards/road-trip/card.md": "495889467cc8bf4876b88fbda162812177128ae3efba6262a47f87cc34b36cd2",
+  "cards/road-trip/competitors.json": "1ae1241bf211718a4ceff268ba48acaa9f8d93d669f1cc8d9b66c7c0cce4f786",
   "cards/silicon-valley/card.md": "ff1bfb1ebd077cdf282f85cbc77b295802a05feb698d31770e0e0a3168697ffb",
   "cards/silicon-valley/competitors.json": "94e48fcb10cd6408260cf3f2ae6314c7a681a2f876f0bd11b76d20f063d4f96e",
   "cards/small-changes/card.md": "e429fc737fa98af3e549e696f86025eb664b2227b037d0642b168629445a3324",
@@ -142,6 +151,8 @@
   "cards/smarter-decisions/competitors.json": "9a298ed3a0379b56ef43bac95129130eb8dc38154712570adc009241ccab9678",
   "cards/stress-less/card.md": "ca3951fb1e41a7e000146c39bc71d9f0db4387ba22613fdddc2c547d56cb8bc1",
   "cards/stress-less/competitors.json": "4408ab107e31d614259c3022362dbd16269f935b587327c4af9fcedc9c55e285",
+  "cards/sweet-hockey/card.md": "6c6225c881d3d229f9c99acb6eac48c3bb3ca577c4acefda46d10d796b761891",
+  "cards/sweet-hockey/competitors.json": "f1898383b70ffc170e5eb6fbfc961ae6d97712e7329c8dd3a3175d93679834bb",
   "cards/terminal-atc/card.md": "371e64807c1ea55566e82aa1dcf8c708d4851f40c41b4e30b4ec1563db79387e",
   "cards/terminal-atc/competitors.json": "0deef10bab9ddff9cb08e1d8e63ca79cc02f06e2258711f93db1f97034967de8",
   "cards/walt-disney/card.md": "170705276d6ddde822cec8910998e741ef73292f21369bac2b2dffd3f754719d",
@@ -150,333 +161,315 @@
  },
  "queue": [
   {
-   "slug": "road-trip",
-   "keyword": "road trip",
-   "position": 1,
-   "eta_date": "2026-10-23"
-  },
-  {
-   "slug": "learn-faster",
-   "keyword": "learn faster",
-   "position": 2,
-   "eta_date": "2026-10-23"
-  },
-  {
-   "slug": "sweet-hockey",
-   "keyword": "sweet hockey",
-   "position": 3,
-   "eta_date": "2026-10-23"
-  },
-  {
    "slug": "small-engines",
    "keyword": "small engines",
-   "position": 4,
+   "position": 1,
    "eta_date": "2026-10-23"
   },
   {
    "slug": "peak-performance",
    "keyword": "peak performance",
-   "position": 5,
+   "position": 2,
    "eta_date": "2026-10-23"
   },
   {
    "slug": "bestselling-author",
    "keyword": "bestselling author",
-   "position": 6,
-   "eta_date": "2026-10-24"
+   "position": 3,
+   "eta_date": "2026-10-23"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 7,
+   "position": 4,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "plant-based-recipes",
    "keyword": "plant-based recipes",
-   "position": 8,
+   "position": 5,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "learn-ai",
    "keyword": "learn ai",
-   "position": 9,
+   "position": 6,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 10,
+   "position": 7,
    "eta_date": "2026-10-24"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 11,
-   "eta_date": "2026-10-25"
+   "position": 8,
+   "eta_date": "2026-10-24"
   },
   {
    "slug": "youtube-millionaire",
    "keyword": "youtube millionaire",
-   "position": 12,
+   "position": 9,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "just-add-water-mason",
    "keyword": "just-add-water mason",
-   "position": 13,
+   "position": 10,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "affordable-retirement",
    "keyword": "affordable retirement",
-   "position": 14,
+   "position": 11,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "household-cybersecurity",
    "keyword": "household cybersecurity",
-   "position": 15,
+   "position": 12,
    "eta_date": "2026-10-25"
   },
   {
    "slug": "comfort-food",
    "keyword": "comfort food",
-   "position": 16,
-   "eta_date": "2026-10-26"
+   "position": 13,
+   "eta_date": "2026-10-25"
   },
   {
    "slug": "potty-training",
    "keyword": "potty training",
-   "position": 17,
+   "position": 14,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "foolproof-recipes",
    "keyword": "foolproof recipes",
-   "position": 18,
+   "position": 15,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "usa-road",
    "keyword": "usa road",
-   "position": 19,
+   "position": 16,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "class-act",
    "keyword": "class act",
-   "position": 20,
+   "position": 17,
    "eta_date": "2026-10-26"
   },
   {
    "slug": "adult-ccrn",
    "keyword": "adult ccrn",
-   "position": 21,
-   "eta_date": "2026-10-27"
+   "position": 18,
+   "eta_date": "2026-10-26"
   },
   {
    "slug": "fix-common",
    "keyword": "fix common",
-   "position": 22,
+   "position": 19,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 23,
+   "position": 20,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "happy-place",
    "keyword": "happy place",
-   "position": 24,
+   "position": 21,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "mature-bass",
    "keyword": "mature bass",
-   "position": 25,
+   "position": 22,
    "eta_date": "2026-10-27"
   },
   {
    "slug": "rick-steves",
    "keyword": "rick steves",
-   "position": 26,
-   "eta_date": "2026-10-28"
+   "position": 23,
+   "eta_date": "2026-10-27"
   },
   {
    "slug": "care-scripts",
    "keyword": "care scripts",
-   "position": 27,
+   "position": 24,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 28,
+   "position": 25,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "ruined-earth",
    "keyword": "ruined earth",
-   "position": 29,
+   "position": 26,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "right-numbers",
    "keyword": "right numbers",
-   "position": 30,
+   "position": 27,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "hidden-tuition",
    "keyword": "hidden tuition",
-   "position": 31,
-   "eta_date": "2026-10-29"
+   "position": 28,
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "homemade-bread",
    "keyword": "homemade bread",
-   "position": 32,
+   "position": 29,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 33,
+   "position": 30,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "estate-business",
    "keyword": "estate business",
-   "position": 34,
+   "position": 31,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "content-creation",
    "keyword": "content creation",
-   "position": 35,
+   "position": 32,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "healthy-everyday",
    "keyword": "healthy everyday",
-   "position": 36,
-   "eta_date": "2026-10-30"
+   "position": 33,
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 37,
+   "position": 34,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 38,
+   "position": 35,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "legendary-highway",
    "keyword": "legendary highway",
-   "position": 39,
+   "position": 36,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "brain-storytelling",
    "keyword": "brain storytelling",
-   "position": 40,
+   "position": 37,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
-   "position": 41,
-   "eta_date": "2026-10-31"
+   "position": 38,
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "observing-behavior",
    "keyword": "observing behavior",
-   "position": 42,
+   "position": 39,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "elon-musk",
    "keyword": "elon musk",
-   "position": 43,
+   "position": 40,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "agentic-ai",
    "keyword": "agentic ai",
-   "position": 44,
+   "position": 41,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 45,
+   "position": 42,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "silk-roads",
    "keyword": "silk roads",
-   "position": 46,
-   "eta_date": "2026-11-01"
+   "position": 43,
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "slow-cooker",
    "keyword": "slow cooker",
-   "position": 47,
+   "position": 44,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "national-park",
    "keyword": "national park",
-   "position": 48,
+   "position": 45,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "tasty-recipes",
    "keyword": "tasty recipes",
-   "position": 49,
+   "position": 46,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
-   "position": 50,
+   "position": 47,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "relieve-stress",
    "keyword": "relieve stress",
-   "position": 51,
-   "eta_date": "2026-11-02"
+   "position": 48,
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "personal-finance",
    "keyword": "personal finance",
-   "position": 52,
+   "position": 49,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "appalachian-trail",
    "keyword": "appalachian trail",
-   "position": 53,
+   "position": 50,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "international-bestseller",
    "keyword": "international bestseller",
-   "position": 54,
+   "position": 51,
    "eta_date": "2026-11-02"
   }
  ],
  "budget": {
-  "date": "2026-10-22",
-  "used": 107,
+  "date": "2026-10-23",
+  "used": 49,
   "limit": 120
  }
 }
