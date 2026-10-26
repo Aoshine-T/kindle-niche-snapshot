@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-10-26T02:59:25Z",
+ "generated_at": "2026-10-26T03:00:25Z",
  "topics": 105,
  "cards": 47,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 115,
- "elapsed_seconds": 1760,
+ "requests": 116,
+ "elapsed_seconds": 1820,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 480
   },
   "deep": {
-   "words": 8,
-   "requests": 115,
-   "seconds": 1760
+   "words": 9,
+   "requests": 116,
+   "seconds": 1820
   },
   "seeds": {
    "seeds": 34
@@ -35,7 +35,10 @@
   "right-numbers",
   "hidden-tuition"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "captcha",
+  "next": "homemade bread"
+ },
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -328,31 +331,31 @@
    "slug": "homemade-bread",
    "keyword": "homemade bread",
    "position": 1,
-   "eta_date": "2026-10-26"
+   "eta_date": "2026-10-27"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
    "position": 2,
-   "eta_date": "2026-10-26"
+   "eta_date": "2026-10-27"
   },
   {
    "slug": "estate-business",
    "keyword": "estate business",
    "position": 3,
-   "eta_date": "2026-10-26"
+   "eta_date": "2026-10-27"
   },
   {
    "slug": "content-creation",
    "keyword": "content creation",
    "position": 4,
-   "eta_date": "2026-10-26"
+   "eta_date": "2026-10-27"
   },
   {
    "slug": "healthy-everyday",
    "keyword": "healthy everyday",
    "position": 5,
-   "eta_date": "2026-10-26"
+   "eta_date": "2026-10-27"
   },
   {
    "slug": "self-help-author",
@@ -394,31 +397,31 @@
    "slug": "agentic-ai",
    "keyword": "agentic ai",
    "position": 12,
-   "eta_date": "2026-10-27"
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
    "position": 13,
-   "eta_date": "2026-10-27"
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
    "position": 14,
-   "eta_date": "2026-10-27"
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "relieve-stress",
    "keyword": "relieve stress",
    "position": 15,
-   "eta_date": "2026-10-27"
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "personal-finance",
    "keyword": "personal finance",
    "position": 16,
-   "eta_date": "2026-10-27"
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "appalachian-trail",
@@ -460,31 +463,31 @@
    "slug": "credit-repair",
    "keyword": "credit repair",
    "position": 23,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "retirement-planning",
    "keyword": "retirement planning",
    "position": 24,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
    "position": 25,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
    "position": 26,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
    "position": 27,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "youtube-channel",
@@ -526,31 +529,31 @@
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
    "position": 34,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
    "position": 35,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
    "position": 36,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
    "position": 37,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
    "position": 38,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "air-fryer",
@@ -592,31 +595,31 @@
    "slug": "woodworking",
    "keyword": "woodworking",
    "position": 45,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
    "position": 46,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
    "position": 47,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
    "position": 48,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
    "position": 49,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "genealogy",
@@ -627,7 +630,7 @@
  ],
  "budget": {
   "date": "2026-10-26",
-  "used": 115,
+  "used": 116,
   "limit": 240
  }
 }
