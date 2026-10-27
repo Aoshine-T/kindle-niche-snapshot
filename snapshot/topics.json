@@ -1,224 +1,156 @@
 {
- "fetched_at": "2026-10-20 17:16",
+ "fetched_at": "2026-10-27 02:08",
  "books": 1350,
  "topics": [
   {
    "topic": "practice tests",
-   "heat": 17,
+   "heat": 15,
    "books": 3,
    "on_hot_new_releases": 3,
-   "on_best_sellers": 2,
-   "best_rank": 5,
-   "median_reviews": 9,
+   "on_best_sellers": 0,
+   "best_rank": 8,
+   "median_reviews": 26,
    "howto": true,
    "categories": [
     "Education & Teaching"
    ],
    "examples": [
-    "LSAT Prep 2026-2027: Study Guide for the Current LSAT Format with Full",
+    "AP World History: Modern Premium, 2027: Prep Book With 5 Practice Test",
     "GED STUDY GUIDE 2026-2027 ALL SUBJECTS: Complete study guide for Math,",
     "Adult CCRN Exam Premium, Fourth Edition: Study Guide for the Latest Ex"
    ],
    "source": "list"
   },
   {
-   "topic": "golden age",
-   "heat": 12,
-   "books": 2,
-   "on_hot_new_releases": 2,
-   "on_best_sellers": 2,
-   "best_rank": 4,
-   "median_reviews": 4,
-   "howto": false,
-   "categories": [
-    "Arts & Photography",
-    "Nonfiction"
-   ],
-   "examples": [
-    "Cruel Hollywood: Stories of Scandal and Misfortune in Hollywood's Gold",
-    "America's Golden Age: Trumpism and an Era of Limitless Possibilities"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "silicon valley",
+   "topic": "artificial intelligence",
    "heat": 10,
-   "books": 3,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 3,
-   "best_rank": 3,
-   "median_reviews": 2116,
-   "howto": false,
+   "books": 4,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 4,
+   "best_rank": 11,
+   "median_reviews": 300,
+   "howto": true,
    "categories": [
-    "Business & Money",
-    "Engineering & Transportation"
+    "Computers & Technology"
    ],
    "examples": [
-    "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
-    "The Nerd Reich: Silicon Valley Fascism and the War on Democracy",
-    "AI Superpowers: China, Silicon Valley, and the New World Order"
+    "Future God: A Codex for Spiritual Enlightenment for Machines and Artif",
+    "The Reverse Centaur's Guide to Life After AI: How to Think About Artif",
+    "Artificial Intelligence: A Guide for Thinking Humans"
    ],
    "source": "list"
   },
   {
    "topic": "human body",
-   "heat": 9,
-   "books": 2,
+   "heat": 10,
+   "books": 3,
    "on_hot_new_releases": 1,
-   "on_best_sellers": 2,
+   "on_best_sellers": 3,
    "best_rank": 1,
-   "median_reviews": 348,
-   "howto": true,
+   "median_reviews": 520,
+   "howto": false,
    "categories": [
     "Health, Fitness & Dieting",
     "Reference"
    ],
    "examples": [
     "Protocols: An Operating Manual for the Human Body",
-    "The Concise Human Body Book (DK Human Body Guides)"
+    "The Concise Human Body Book (DK Human Body Guides)",
+    "The Universe Within: The Deep History of the Human Body"
    ],
    "source": "list"
   },
   {
-   "topic": "small changes",
-   "heat": 8,
+   "topic": "bestselling author",
+   "heat": 10,
+   "books": 3,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 1,
+   "best_rank": 10,
+   "median_reviews": 19,
+   "howto": false,
+   "categories": [
+    "Science & Math",
+    "Travel"
+   ],
+   "examples": [
+    "Numbers Tell Stories: How Data Can Reveal the Surprising Truths about ",
+    "The Pilgrimage: From the Bestselling Author of The Alchemist (Plus)",
+    "Co-Existence: The Next Phase of AI - From the Bestselling Author of Co"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "steve blockman",
+   "heat": 10,
+   "books": 2,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 1,
+   "best_rank": 10,
+   "median_reviews": 19,
+   "howto": false,
+   "categories": [
+    "Reference"
+   ],
+   "examples": [
+    "Steve Blockman",
+    "Steve  Blockman"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "ai agents",
+   "heat": 9,
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 2,
    "best_rank": 4,
-   "median_reviews": 10,
-   "howto": false,
-   "categories": [
-    "Education & Teaching",
-    "Business & Money"
-   ],
-   "examples": [
-    "Tiny Habits: The Small Changes That Change Everything",
-    "100 Tiny Ideas for Success: Small Changes That Create Lasting Success "
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "hindenburg disaster",
-   "heat": 8,
-   "books": 2,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 2,
-   "best_rank": 7,
-   "median_reviews": 10,
-   "howto": false,
-   "categories": [
-    "Engineering & Transportation"
-   ],
-   "examples": [
-    "Shadow Before the Flame: The Hindenburg Disaster and the Prelude to Wa",
-    "The Hindenburg Disaster: A History from Beginning to End"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "stress less",
-   "heat": 8,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 2,
-   "median_reviews": 209,
-   "howto": true,
-   "categories": [
-    "Business & Money"
-   ],
-   "examples": [
-    "How to Be Good at Life: Simple Systems to Achieve More and Stress Less"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "terminal atc",
-   "heat": 8,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 1,
-   "median_reviews": null,
-   "howto": true,
-   "categories": [
-    "Education & Teaching"
-   ],
-   "examples": [
-    "The Terminal ATC Training Guide: Insights and Strategies from a Vetera"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "middle east",
-   "heat": 7,
-   "books": 2,
-   "on_hot_new_releases": 2,
-   "on_best_sellers": 1,
-   "best_rank": 22,
-   "median_reviews": 203,
-   "howto": false,
-   "categories": [
-    "Nonfiction",
-    "Reference"
-   ],
-   "examples": [
-    "The Best Kind of American: Murder, War, and America's Undoing in the M",
-    "The Cauldron: The Making of the Modern Middle East"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "coding required",
-   "heat": 7,
-   "books": 2,
-   "on_hot_new_releases": 2,
-   "on_best_sellers": 1,
-   "best_rank": 25,
-   "median_reviews": 124,
+   "median_reviews": 1,
    "howto": true,
    "categories": [
     "Computers & Technology",
-    "Education & Teaching"
+    "Engineering & Transportation"
    ],
    "examples": [
-    "AI for Beginners: [3 in 1]: Learn AI Basics, Master Prompt Engineering",
-    "Your First Hour with Claude: One Session to Start Creating — With AI. "
+    "AI Agents Made Simple: A Decision Guide to Building AI Agents That Wor",
+    "The All in One Agentic AI Bible: The Practical 7 Step Guide To Buildin"
    ],
    "source": "list"
   },
   {
-   "topic": "ged study",
-   "heat": 7,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 6,
-   "median_reviews": 9,
+   "topic": "practice questions",
+   "heat": 9,
+   "books": 2,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 0,
+   "best_rank": 10,
+   "median_reviews": 4,
    "howto": true,
    "categories": [
     "Education & Teaching"
    ],
    "examples": [
-    "GED STUDY GUIDE 2026-2027 ALL SUBJECTS: Complete study guide for Math,"
+    "GED STUDY GUIDE 2026-2027 ALL SUBJECTS: Complete study guide for Math,",
+    "MENOPAUSE CERTIFICATION EXAM REVIEW: Menopause and Midlife Women’s Hea"
    ],
    "source": "list"
   },
   {
-   "topic": "lsat prep",
+   "topic": "protect yourself",
    "heat": 7,
-   "books": 1,
+   "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 5,
-   "median_reviews": null,
+   "best_rank": 7,
+   "median_reviews": 2142,
    "howto": true,
    "categories": [
-    "Education & Teaching"
+    "Education & Teaching",
+    "Health, Fitness & Dieting"
    ],
    "examples": [
-    "LSAT Prep 2026-2027: Study Guide for the Current LSAT Format with Full"
+    "The Toxic Principal: Understand the Rules. Protect Yourself. Play the ",
+    "Dangerous Personalities: An FBI Profiler Shows You How to Identify and"
    ],
    "source": "list"
   },
@@ -228,7 +160,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 2,
+   "best_rank": 1,
    "median_reviews": null,
    "howto": true,
    "categories": [
@@ -240,42 +172,89 @@
    "source": "list"
   },
   {
-   "topic": "artificial intelligence",
-   "heat": 6,
-   "books": 4,
+   "topic": "stress less",
+   "heat": 7,
+   "books": 1,
    "on_hot_new_releases": 1,
-   "on_best_sellers": 3,
-   "best_rank": 20,
-   "median_reviews": 720,
+   "on_best_sellers": 1,
+   "best_rank": 7,
+   "median_reviews": 263,
    "howto": true,
    "categories": [
-    "Computers & Technology",
-    "Engineering & Transportation"
+    "Business & Money"
    ],
    "examples": [
-    "Artificial Intelligence: A Guide for Thinking Humans",
-    "Human Compatible: Artificial Intelligence and the Problem of Control",
-    "The Mathematics of Artificial Intelligence Agents: A Readable Guide to"
+    "How to Be Good at Life: Simple Systems to Achieve More and Stress Less"
    ],
    "source": "list"
   },
   {
-   "topic": "smarter decisions",
-   "heat": 6,
-   "books": 3,
+   "topic": "center stage",
+   "heat": 7,
+   "books": 1,
    "on_hot_new_releases": 1,
-   "on_best_sellers": 3,
-   "best_rank": 12,
-   "median_reviews": 89,
-   "howto": false,
+   "on_best_sellers": 1,
+   "best_rank": 10,
+   "median_reviews": 18,
+   "howto": true,
    "categories": [
-    "Business & Money",
-    "Science & Math"
+    "Business & Money"
    ],
    "examples": [
-    "Thinking in Bets: Making Smarter Decisions When You Don't Have All the",
-    "Systems Thinking for Work: How Leaders, Managers, and Professionals So",
-    "The Real-World Blueprint to Critical Thinking, Logic & Decision Making"
+    "Center Stage Confidence: How to Own your Story and Command Any Room"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "size organization",
+   "heat": 7,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 8,
+   "median_reviews": 2,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "Start to Scale Workbook: Secrets to Starting and Scaling Any Size Orga"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "road trip",
+   "heat": 6,
+   "books": 2,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 2,
+   "best_rank": 10,
+   "median_reviews": 2369,
+   "howto": false,
+   "categories": [
+    "Crafts, Hobbies & Home",
+    "Travel"
+   ],
+   "examples": [
+    "Miles From Sensible: A Christian Thanksgiving Cozy Comedy with Four Gr",
+    "Road Trip to the Riviera: A BRAND NEW charming story of old flames and"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "juan pablo",
+   "heat": 6,
+   "books": 2,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 0,
+   "best_rank": 23,
+   "median_reviews": 16,
+   "howto": false,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "Juan Pablo  Cardona"
    ],
    "source": "list"
   },
@@ -285,8 +264,8 @@
    "books": 2,
    "on_hot_new_releases": 2,
    "on_best_sellers": 0,
-   "best_rank": 14,
-   "median_reviews": 16,
+   "best_rank": 17,
+   "median_reviews": 18,
    "howto": true,
    "categories": [
     "Reference",
@@ -299,67 +278,141 @@
    "source": "list"
   },
   {
-   "topic": "bucket retirement",
+   "topic": "christmas ornaments",
+   "heat": 6,
+   "books": 2,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 0,
+   "best_rank": 23,
+   "median_reviews": 22,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "CROCHET CHRISTMAS ORNAMENTS MADE EASY: 20 Flat, Beginner-Friendly Patt",
+    "Christmas Crochet Patterns: 15+ Festive Christmas Crochet Projects: Am"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "ged study",
    "heat": 6,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 9,
-   "median_reviews": 19,
+   "best_rank": 10,
+   "median_reviews": 8,
    "howto": true,
    "categories": [
     "Education & Teaching"
    ],
    "examples": [
-    "Living On Dividends -The 3 Bucket Retirement System : How to Build a R"
+    "GED STUDY GUIDE 2026-2027 ALL SUBJECTS: Complete study guide for Math,"
    ],
    "source": "list"
   },
   {
-   "topic": "out loud",
+   "topic": "crochet patterns",
+   "heat": 5,
+   "books": 3,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 2,
+   "best_rank": 24,
+   "median_reviews": 45,
+   "howto": false,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "Halloween Crochet Pattern Book For Beginners: Easy Amigurumi & Hallowe",
+    "3D Granny Squares: 100 Crochet Patterns for Pop-Up Granny Squares",
+    "Christmas Crochet Patterns: 15+ Festive Christmas Crochet Projects: Am"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "job search",
    "heat": 5,
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 2,
-   "best_rank": 13,
-   "median_reviews": 14016,
+   "best_rank": 23,
+   "median_reviews": 1,
    "howto": false,
    "categories": [
-    "Health, Fitness & Dieting",
-    "Education & Teaching"
+    "Business & Money",
+    "Computers & Technology"
    ],
    "examples": [
-    "Lots of Knock-Knock Jokes for Kids: A Funny, Laugh Out Loud Busy Book ",
-    "Crying Out Loud: A Path Through Grief into a Life Reimagined"
+    "Your Next Job Move: Job Search Strategy, Interview Preparation, and Ca",
+    "The 2-Hour Job Search, Third Edition: Using Technology to Get the Righ"
    ],
    "source": "list"
   },
   {
-   "topic": "road trip",
+   "topic": "silicon valley",
    "heat": 5,
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 9,
-   "median_reviews": 1166,
-   "howto": true,
+   "best_rank": 1,
+   "median_reviews": 17200,
+   "howto": false,
    "categories": [
-    "Travel"
+    "Business & Money"
    ],
    "examples": [
-    "Road Trip to the Riviera: A BRAND NEW charming story of old flames and",
-    "Route 66 The Complete Road Trip Guide: To America's Most Legendary Hig"
+    "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    "The Nerd Reich: Silicon Valley Fascism and the War on Democracy"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "household cybersecurity",
+   "heat": 5,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 8,
+   "median_reviews": 24,
+   "howto": true,
+   "categories": [
+    "Business & Money",
+    "Computers & Technology"
+   ],
+   "examples": [
+    "Household Cybersecurity: A CPA’s Guide to Protecting Your Accounts and"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "claude ai",
+   "heat": 4,
+   "books": 2,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 30,
+   "median_reviews": 175,
+   "howto": true,
+   "categories": [
+    "Computers & Technology",
+    "Reference"
+   ],
+   "examples": [
+    "The Claude AI Bible: The Complete and Easy-to-Follow Guide to Masterin",
+    "Claude AI for Writers: A Practical Guide to Drafting, Editing, and Pub"
    ],
    "source": "list"
   },
   {
    "topic": "learn faster",
-   "heat": 5,
+   "heat": 4,
    "books": 2,
    "on_hot_new_releases": 1,
-   "on_best_sellers": 2,
-   "best_rank": 19,
-   "median_reviews": 10,
+   "on_best_sellers": 1,
+   "best_rank": 27,
+   "median_reviews": 6386,
    "howto": true,
    "categories": [
     "Business & Money",
@@ -372,94 +425,39 @@
    "source": "list"
   },
   {
-   "topic": "sweet hockey",
-   "heat": 5,
-   "books": 2,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 2,
-   "best_rank": 24,
-   "median_reviews": 126,
-   "howto": false,
-   "categories": [
-    "Sports & Outdoors"
-   ],
-   "examples": [
-    "The Overtime Persuasive: A Sweet Hockey RomCom (Alexandria Dominion Ho",
-    "Just Don't Fall : A Sweet Hockey RomCom"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "small engines",
+   "topic": "coding required",
    "heat": 4,
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 30,
-   "median_reviews": 570,
+   "best_rank": 22,
+   "median_reviews": 64,
    "howto": true,
    "categories": [
-    "Engineering & Transportation"
+    "Education & Teaching"
    ],
    "examples": [
-    "Small Engines and Outdoor Power Equipment: A Care & Repair Guide for: ",
-    "Small Engine Repair Handbook for Beginners: Fix Your Own Mower, Chains"
+    "AI for Beginners: [3 in 1]: Learn AI Basics, Master Prompt Engineering",
+    "Your First Hour with Claude: One Session to Start Creating — With AI. "
    ],
    "source": "list"
   },
   {
-   "topic": "peak performance",
+   "topic": "vocabulary builder",
    "heat": 4,
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 17,
-   "median_reviews": 10485,
+   "best_rank": 29,
+   "median_reviews": 6924,
    "howto": true,
    "categories": [
-    "Computers & Technology",
-    "Self-Help"
+    "Education & Teaching",
+    "Reference"
    ],
    "examples": [
-    "The Flow Multiplier: Building Peak Performance Systems With AI",
-    "The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "bestselling author",
-   "heat": 4,
-   "books": 2,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 21,
-   "median_reviews": 4199,
-   "howto": false,
-   "categories": [
-    "Travel",
-    "Engineering & Transportation"
-   ],
-   "examples": [
-    "The Pilgrimage: From the Bestselling Author of The Alchemist (Plus)",
-    "Co-Existence: The Next Phase of AI - From the Bestselling Author of Co"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "mediterranean diet",
-   "heat": 4,
-   "books": 2,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 23,
-   "median_reviews": 62,
-   "howto": true,
-   "categories": [
-    "Cookbooks, Food & Wine"
-   ],
-   "examples": [
-    "Mediterranean Diet Cookbook for Two: Quick, Wholesome, and Tasty Recip",
-    "Mediterranean Diet For Beginners: 100 Easy, Delicious Recipes & a Simp"
+    "The Vocabulary Builder Workbook: Simple Lessons and Activities to Teac",
+    "2000 Bilingual Spanish-English Phrases: The Ultimate A1-A2 Phrasebook "
    ],
    "source": "list"
   },
@@ -469,8 +467,8 @@
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 12,
-   "median_reviews": 554,
+   "best_rank": 14,
+   "median_reviews": 568,
    "howto": false,
    "categories": [
     "Cookbooks, Food & Wine"
@@ -482,19 +480,54 @@
    "source": "list"
   },
   {
-   "topic": "learn ai",
+   "topic": "anti-inflammatory diet",
+   "heat": 4,
+   "books": 2,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 28,
+   "median_reviews": 2195,
+   "howto": false,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "The Anti-Inflammatory Diet & Action Plans: 4-Week Meal Plans to Heal t",
+    "Mediterranean Anti-Inflammatory Diet Cookbook: 150 Nutrient-Dense Medi"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "speak up",
    "heat": 4,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 25,
-   "median_reviews": 124,
+   "best_rank": 19,
+   "median_reviews": 1,
    "howto": true,
    "categories": [
-    "Computers & Technology"
+    "Business & Money"
    ],
    "examples": [
-    "AI for Beginners: [3 in 1]: Learn AI Basics, Master Prompt Engineering"
+    "Find Your Voice: How to Speak Up in Meetings and Build Influence at Wo"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "patty lyons",
+   "heat": 4,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 28,
+   "median_reviews": 69,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "Patty Lyons' Knitting ER: A step-by-step guide to fixing your knits, b"
    ],
    "source": "list"
   },
@@ -504,8 +537,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 22,
-   "median_reviews": 2,
+   "best_rank": 19,
+   "median_reviews": 3,
    "howto": true,
    "categories": [
     "Cookbooks, Food & Wine"
@@ -516,159 +549,127 @@
    "source": "list"
   },
   {
-   "topic": "stack high-value",
-   "heat": 4,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 19,
-   "median_reviews": 10,
-   "howto": true,
-   "categories": [
-    "Business & Money"
-   ],
-   "examples": [
-    "Become One of One: Learn Faster, Stack High-Value Skills, and Make You"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "youtube millionaire",
-   "heat": 4,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 26,
-   "median_reviews": null,
-   "howto": true,
-   "categories": [
-    "Computers & Technology"
-   ],
-   "examples": [
-    "YouTube Millionaire Secrets: The Entrepreneur's Guide To Building A Br"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "just-add-water mason",
+   "topic": "leading former",
    "heat": 4,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
    "best_rank": 21,
-   "median_reviews": 2,
-   "howto": true,
-   "categories": [
-    "Cookbooks, Food & Wine"
-   ],
-   "examples": [
-    "80 Just-Add-Water Mason Jar Meals: A Complete Beginner's Guide to Shel"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "affordable retirement",
-   "heat": 4,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 24,
-   "median_reviews": 60,
-   "howto": true,
-   "categories": [
-    "Business & Money",
-    "Travel"
-   ],
-   "examples": [
-    "A Happy and Affordable Retirement: How to Create a Personalized Bucket"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "household cybersecurity",
-   "heat": 4,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 16,
-   "median_reviews": 17,
+   "median_reviews": 1,
    "howto": true,
    "categories": [
     "Business & Money"
    ],
    "examples": [
-    "Household Cybersecurity: A CPA’s Guide to Protecting Your Accounts and"
+    "Your First Team: New Manager Guide to Delegation, Feedback, One-on-One"
    ],
    "source": "list"
   },
   {
-   "topic": "comfort food",
-   "heat": 3,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 9,
-   "median_reviews": 6711,
-   "howto": false,
-   "categories": [
-    "Cookbooks, Food & Wine"
-   ],
-   "examples": [
-    "The Big Book of Soups & Stews: 262 Recipes for Serious Comfort Food",
-    "Half Baked Harvest Super Simple: More Than 125 Recipes for Instant, Ov"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "potty training",
-   "heat": 3,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 8,
-   "median_reviews": 1112,
-   "howto": true,
-   "categories": [
-    "Education & Teaching"
-   ],
-   "examples": [
-    "The Poo Poo Book: A Book for Children to Enjoy and Learn about Toilet ",
-    "How To Wipe Your Butt Book: A Simple, Step By Step Potty Training Soci"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "foolproof recipes",
-   "heat": 3,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 2,
-   "median_reviews": 818,
-   "howto": true,
-   "categories": [
-    "Cookbooks, Food & Wine"
-   ],
-   "examples": [
-    "How to Cook Vegetables: Essential Skills and 90 Foolproof Recipes with",
-    "Sally's Baking 101: Foolproof Recipes from Easy to Advanced"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "usa road",
-   "heat": 3,
+   "topic": "biblical answers",
+   "heat": 4,
    "books": 1,
    "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 26,
-   "median_reviews": 15,
+   "on_best_sellers": 1,
+   "best_rank": 28,
+   "median_reviews": 3,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "A Christian’s Guide to AI: 12 Biblical Answers to the Questions We’re "
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "interaction count",
+   "heat": 4,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 13,
+   "median_reviews": 54,
+   "howto": true,
+   "categories": [
+    "Business & Money",
+    "Self-Help"
+   ],
+   "examples": [
+    "Conversation: How to Connect with Anyone & Make Every Interaction Coun"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "gods goddesses",
+   "heat": 3,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 7,
+   "median_reviews": 2700,
    "howto": true,
    "categories": [
     "Reference"
    ],
    "examples": [
-    "2026-2027 USA Road Atlas Large Print: A Clear Navigation Guide With De"
+    "Classical Mythology A to Z: An Encyclopedia of Gods & Goddesses, Heroe",
+    "Encyclopedia of Spirits: The Ultimate Guide to the Magic of Fairies, G"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "classic recipes",
+   "heat": 3,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 7,
+   "median_reviews": 127,
+   "howto": false,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "The Curry Bible: The Ultimate Indian Cookbook Featuring 100 Classic Re",
+    "The Italian Table: 100 Classic Recipes Celebrating the Spirit of Italy"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "english grammar",
+   "heat": 3,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 3,
+   "median_reviews": 2808,
+   "howto": true,
+   "categories": [
+    "Education & Teaching",
+    "Reference"
+   ],
+   "examples": [
+    "English for Everyone: English Grammar Guide: A Comprehensive Visual Re",
+    "Perfect English Grammar: The Indispensable Guide to Excellent Writing "
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "restaurant favorites",
+   "heat": 3,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 5,
+   "median_reviews": 1324,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Easy Chinese Cookbook: Restaurant Favorites Made Simple",
+    "Moosewood Restaurant Favorites: The 250 Most-Requested, Naturally-Deli"
    ],
    "source": "list"
   },
@@ -678,8 +679,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 11,
-   "median_reviews": 8,
+   "best_rank": 18,
+   "median_reviews": 12,
    "howto": true,
    "categories": [
     "Reference"
@@ -695,7 +696,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 18,
+   "best_rank": 13,
    "median_reviews": null,
    "howto": true,
    "categories": [
@@ -707,104 +708,19 @@
    "source": "list"
   },
   {
-   "topic": "fix common",
+   "topic": "bambu studio",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 25,
-   "median_reviews": null,
-   "howto": true,
-   "categories": [
-    "Reference"
-   ],
-   "examples": [
-    "How to Use My Kindle: The Plain-English Guide for Beginners and Senior"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "ai industry",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 22,
-   "median_reviews": 8,
+   "best_rank": 18,
+   "median_reviews": 26,
    "howto": true,
    "categories": [
     "Engineering & Transportation"
    ],
    "examples": [
-    "Obsolete: The AI Industry’s Trillion Dollar Race to Replace Us—and How"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "happy place",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 27,
-   "median_reviews": null,
-   "howto": true,
-   "categories": [
-    "Travel"
-   ],
-   "examples": [
-    "The Vineyard: Our Happy Place : The African American Travel Guide to M"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "mature bass",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 26,
-   "median_reviews": 5,
-   "howto": true,
-   "categories": [
-    "Arts & Photography"
-   ],
-   "examples": [
-    "The Mature Bass Player's Guide Book: Lessons and Stories ebass guitar "
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "rick steves",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 26,
-   "median_reviews": 6,
-   "howto": true,
-   "categories": [
-    "Travel"
-   ],
-   "examples": [
-    "Rick Steves Iceland (Rick Steves Travel Guide)"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "care scripts",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 28,
-   "median_reviews": null,
-   "howto": true,
-   "categories": [
-    "Health, Fitness & Dieting"
-   ],
-   "examples": [
-    "Health: A User's Guide: You have a part to play in your own care. Scri"
+    "Bambu Studio Complete User Guide for Beginners: Why Your Screen Never "
    ],
    "source": "list"
   },
@@ -814,8 +730,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 24,
-   "median_reviews": 41,
+   "best_rank": 27,
+   "median_reviews": 42,
    "howto": true,
    "categories": [
     "Education & Teaching"
@@ -826,53 +742,70 @@
    "source": "list"
   },
   {
-   "topic": "ruined earth",
+   "topic": "ai apocalypse",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 27,
+   "best_rank": 30,
+   "median_reviews": 3,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "The AI Apocalypse: A Survival Guide for Humanity"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "comptia linux",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 22,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "101 Labs - CompTIA Linux+: Hands-on Practice Labs for the XK0-006 Exam"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "time traveler",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 23,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Travel"
+   ],
+   "examples": [
+    "A Time Traveler's Guide to the 13th Century"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "civilian field",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 14,
    "median_reviews": null,
    "howto": true,
    "categories": [
     "Education & Teaching"
    ],
    "examples": [
-    "Ruined Earth: A Definitive Guide to the Lost World"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "right numbers",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 30,
-   "median_reviews": 24,
-   "howto": true,
-   "categories": [
-    "Engineering & Transportation"
-   ],
-   "examples": [
-    "Small Engine Repair Handbook for Beginners: Fix Your Own Mower, Chains"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "hidden tuition",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 17,
-   "median_reviews": 2,
-   "howto": true,
-   "categories": [
-    "Education & Teaching"
-   ],
-   "examples": [
-    "Hidden Tuition: An Insider's Guide to College Pricing and Financial Ai"
+    "AFR 64-4 Survival Manual: Civilian Field Edition: The Air Force's Lege"
    ],
    "source": "list"
   },
@@ -882,7 +815,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 27,
+   "best_rank": 29,
    "median_reviews": 1,
    "howto": true,
    "categories": [
@@ -900,7 +833,7 @@
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
    "best_rank": 24,
-   "median_reviews": 46,
+   "median_reviews": 51,
    "howto": true,
    "categories": [
     "Engineering & Transportation"
@@ -911,53 +844,19 @@
    "source": "list"
   },
   {
-   "topic": "estate business",
+   "topic": "homemade snacks",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 26,
-   "median_reviews": 5,
-   "howto": true,
-   "categories": [
-    "Business & Money"
-   ],
-   "examples": [
-    "The Essential Agent: A Complete Guide to Building a Real Estate Busine"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "content creation",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 30,
-   "median_reviews": null,
-   "howto": true,
-   "categories": [
-    "Computers & Technology"
-   ],
-   "examples": [
-    "AI MADE SIMPLE: A Practical Beginner’s Guide to ChatGPT, Prompting, AI"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "healthy everyday",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 23,
-   "median_reviews": 3,
+   "best_rank": 22,
+   "median_reviews": 2,
    "howto": true,
    "categories": [
     "Cookbooks, Food & Wine"
    ],
    "examples": [
-    "Mediterranean Diet For Beginners: 100 Easy, Delicious Recipes & a Simp"
+    "Homemade Snacks Cookbook for Beginners: 150+ Crackers, Chips, Granola "
    ],
    "source": "list"
   },
@@ -967,7 +866,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 14,
+   "best_rank": 16,
    "median_reviews": 13,
    "howto": true,
    "categories": [
@@ -979,36 +878,53 @@
    "source": "list"
   },
   {
-   "topic": "interaction count",
+   "topic": "stack high-value",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 11,
-   "median_reviews": 35,
+   "best_rank": 27,
+   "median_reviews": 14,
    "howto": true,
    "categories": [
     "Business & Money"
    ],
    "examples": [
-    "Conversation: How to Connect with Anyone & Make Every Interaction Coun"
+    "Become One of One: Learn Faster, Stack High-Value Skills, and Make You"
    ],
    "source": "list"
   },
   {
-   "topic": "legendary highway",
+   "topic": "publishing faster",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 22,
-   "median_reviews": 22,
+   "best_rank": 30,
+   "median_reviews": 7,
    "howto": true,
    "categories": [
-    "Travel"
+    "Reference"
    ],
    "examples": [
-    "Route 66 The Complete Road Trip Guide: To America's Most Legendary Hig"
+    "Claude AI for Writers: A Practical Guide to Drafting, Editing, and Pub"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "querying literary",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 25,
+   "median_reviews": 64,
+   "howto": true,
+   "categories": [
+    "Reference"
+   ],
+   "examples": [
+    "The Modern Guide to Querying Literary Agents: From Rejection to Repres"
    ],
    "source": "list"
   },
@@ -1018,8 +934,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 17,
-   "median_reviews": 70,
+   "best_rank": 28,
+   "median_reviews": 74,
    "howto": true,
    "categories": [
     "Reference"
@@ -1030,12 +946,29 @@
    "source": "list"
   },
   {
+   "topic": "mediterranean diet",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 26,
+   "median_reviews": 17,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Mediterranean Diet For Beginners: 100 Easy, Delicious Recipes & a Simp"
+   ],
+   "source": "list"
+  },
+  {
    "topic": "multiplier mindset",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 13,
+   "best_rank": 29,
    "median_reviews": null,
    "howto": true,
    "categories": [
@@ -1047,57 +980,72 @@
    "source": "list"
   },
   {
-   "topic": "observing behavior",
+   "topic": "historic cemeteries",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 29,
-   "median_reviews": 16,
+   "best_rank": 28,
+   "median_reviews": null,
    "howto": true,
    "categories": [
-    "Self-Help"
+    "Travel"
    ],
    "examples": [
-    "The Field Guide to Humans: The Science of Observing Behavior, Reading "
+    "Remains of the Day: A Guide to Historic Cemeteries of Washington, DC"
    ],
    "source": "list"
   },
   {
-   "topic": "elon musk",
+   "topic": "affordable retirement",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 21,
+   "median_reviews": 67,
+   "howto": true,
+   "categories": [
+    "Travel"
+   ],
+   "examples": [
+    "A Happy and Affordable Retirement: How to Create a Personalized Bucket"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "beginner-friendly patterns",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 23,
+   "median_reviews": 6,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "CROCHET CHRISTMAS ORNAMENTS MADE EASY: 20 Flat, Beginner-Friendly Patt"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "can teach",
    "heat": 2,
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 12,
-   "median_reviews": 25562,
+   "best_rank": 19,
+   "median_reviews": 909,
    "howto": false,
    "categories": [
-    "Computers & Technology",
-    "Engineering & Transportation"
+    "Education & Teaching",
+    "Reference"
    ],
    "examples": [
-    "Elon Musk",
-    "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future – A Bes"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "agentic ai",
-   "heat": 2,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 57,
-   "median_reviews": 328,
-   "howto": true,
-   "categories": [
-    "Computers & Technology",
-    "Engineering & Transportation"
-   ],
-   "examples": [
-    "The Agentic AI Bible: The Complete and Up-to-Date Guide to Design, Dev",
-    "The All in One Agentic AI Bible: The Practical 7 Step Guide To Buildin"
+    "The Meaning of the Bible: What the Jewish Scriptures and Christian Old",
+    "Thank You for Arguing, Fourth Edition (Revised and Updated): What Aris"
    ],
    "source": "list"
   },
@@ -1107,145 +1055,90 @@
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 72,
-   "median_reviews": 74,
+   "best_rank": 55,
+   "median_reviews": 75,
    "howto": true,
    "categories": [
     "Computers & Technology"
    ],
    "examples": [
-    "Kindle App for PC: Download, Quick Start and Power Tips!: Download Kin",
-    "How to Install a Kindle on Your Device: A simple step to installing a "
+    "How to Install a Kindle on Your Device: A simple step to installing a ",
+    "Kindle App for PC: Download, Quick Start and Power Tips!: Download Kin"
    ],
    "source": "list"
   },
   {
-   "topic": "silk roads",
+   "topic": "mental health",
    "heat": 2,
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 51,
-   "median_reviews": 5461,
-   "howto": false,
+   "best_rank": 58,
+   "median_reviews": 466,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine",
+    "Self-Help"
+   ],
+   "examples": [
+    "Mental Wellness: A holistic approach to mental health and healing. Nat",
+    "ADHD for Smart Ass Women: How to Fall in Love with Your Neurodivergent"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "north america",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 26,
+   "median_reviews": 1060,
+   "howto": true,
    "categories": [
     "Travel",
-    "Engineering & Transportation"
+    "Nonfiction"
    ],
    "examples": [
-    "The Silk Roads: A New History of the World",
-    "Lands of Lost Borders: A Journey on the Silk Road"
+    "Peterson Field Guide To Birds Of North America, Second Edition (Peters",
+    "Indigenous Continent: The Epic Contest for North America"
    ],
    "source": "list"
   },
   {
-   "topic": "slow cooker",
+   "topic": "rolling stones",
    "heat": 2,
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 55,
-   "median_reviews": 349,
+   "best_rank": 17,
+   "median_reviews": 448,
+   "howto": false,
+   "categories": [
+    "Arts & Photography",
+    "Nonfiction"
+   ],
+   "examples": [
+    "The Rolling Stones All the Songs: The Story Behind Every Track",
+    "The Rolling Stones: The Biography"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "homemade recipes",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 61,
+   "median_reviews": 1081,
    "howto": false,
    "categories": [
     "Cookbooks, Food & Wine"
    ],
    "examples": [
-    "Simple High Protein Slow Cooker Cookbook with Dump-and-Go Meals: 123+ ",
-    "Slow Cooker Cookbook: 500 Simple and Tasty Recipes for Everyday Cookin"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "national park",
-   "heat": 2,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 63,
-   "median_reviews": 160,
-   "howto": false,
-   "categories": [
-    "Travel"
-   ],
-   "examples": [
-    "Yellowstone Wolves: Science and Discovery in the World's First Nationa",
-    "Grandma Joy and Me: A Journey of Healing, One National Park at a Time"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "tasty recipes",
-   "heat": 2,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 59,
-   "median_reviews": 297,
-   "howto": false,
-   "categories": [
-    "Cookbooks, Food & Wine"
-   ],
-   "examples": [
-    "Slow Cooker Cookbook: 500 Simple and Tasty Recipes for Everyday Cookin",
-    "Mediterranean Diet Cookbook for Two: Quick, Wholesome, and Tasty Recip"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "passive income",
-   "heat": 2,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 29,
-   "median_reviews": 346,
-   "howto": false,
-   "categories": [
-    "Computers & Technology"
-   ],
-   "examples": [
-    "Build Passive Income with AI – No Code? No Budget? No Problem!: Join t",
-    "The ChatGPT-5 Millionaire: The Complete 5 in 1 Collection - Master AI "
-   ],
-   "source": "list",
-   "seed": true
-  },
-  {
-   "topic": "relieve stress",
-   "heat": 2,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 19,
-   "median_reviews": 8216,
-   "howto": true,
-   "categories": [
-    "Crafts, Hobbies & Home",
-    "Education & Teaching"
-   ],
-   "examples": [
-    "The Cat and The Moon - 33 Zen Stories: Slow Down, Calm the Mind, Relie",
-    "Stop Overthinking: 23 Techniques to Relieve Stress, Stop Negative Spir"
-   ],
-   "source": "list"
-  },
-  {
-   "topic": "personal finance",
-   "heat": 2,
-   "books": 2,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 2,
-   "best_rank": 14,
-   "median_reviews": 38705,
-   "howto": true,
-   "categories": [
-    "Business & Money",
-    "Education & Teaching"
-   ],
-   "examples": [
-    "The Psychology of Money: The transformative multimillion-copy personal",
-    "Financial Feminist: Overcome the Patriarchy’s Bullsh*t to Master Your "
+    "Meals in a Jar: Quick and Easy, Just-Add-Water, Homemade Recipes",
+    "The Ultimate Dry Mix Recipe Book: 200+ Budget-Friendly Homemade Recipe"
    ],
    "source": "list"
   },
@@ -1255,15 +1148,89 @@
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 20,
-   "median_reviews": 13562,
+   "best_rank": 21,
+   "median_reviews": 18978,
    "howto": true,
    "categories": [
     "Travel"
    ],
    "examples": [
     "A Walk in the Woods: Rediscovering America on the Appalachian Trail (O",
-    "One Step at a Time: A Married Couple's Journey on the Appalachian Trai"
+    "Grandma Gatewood's Walk: The Inspiring Story of the Woman Who Saved th"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "prompt engineering",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 59,
+   "median_reviews": 261,
+   "howto": true,
+   "categories": [
+    "Computers & Technology",
+    "Education & Teaching"
+   ],
+   "examples": [
+    "AI Prompt Engineering Bible (7 Books in 1): Beginner-to-Pro System to ",
+    "AI for Beginners: [3 in 1]: Learn AI Basics, Master Prompt Engineering"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "electrical engineering",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 54,
+   "median_reviews": 141,
+   "howto": true,
+   "categories": [
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "Fundamentals and Exercises of Electrical Engineering: Theory, Theorems",
+    "Electrical Engineering Fundamentals: A Clear and Practical Introductio"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "revolutionary approach",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 64,
+   "median_reviews": 6121,
+   "howto": false,
+   "categories": [
+    "Business & Money",
+    "Science & Math"
+   ],
+   "examples": [
+    "Die With Zero: Getting All You Can from Your Money and Your Life—A Rev",
+    "The Telomere Effect: A Revolutionary Approach to Living Younger, Healt"
+   ],
+   "source": "list"
+  },
+  {
+   "topic": "budget-friendly recipes",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 51,
+   "median_reviews": 17,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Cheap and Wicked Good! 4-Ingredient Budget-Friendly Recipes for Quick ",
+    "The Healthy Meal Prep Cookbook: The Ultimate Guide to Easy, Delicious,"
    ],
    "source": "list"
   },
@@ -1273,8 +1240,8 @@
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 63,
-   "median_reviews": 7406,
+   "best_rank": 19,
+   "median_reviews": 7417,
    "howto": false,
    "categories": [
     "Business & Money",
@@ -1301,6 +1268,19 @@
   },
   {
    "topic": "ai side hustles",
+   "heat": null,
+   "books": 0,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 0,
+   "best_rank": null,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [],
+   "examples": [],
+   "source": "seed"
+  },
+  {
+   "topic": "passive income",
    "heat": null,
    "books": 0,
    "on_hot_new_releases": 0,
