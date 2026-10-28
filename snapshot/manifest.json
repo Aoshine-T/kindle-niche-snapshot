@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-10-28T02:59:03Z",
+ "generated_at": "2026-10-28T03:00:03Z",
  "topics": 104,
  "cards": 62,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 112,
- "elapsed_seconds": 1720,
+ "requests": 113,
+ "elapsed_seconds": 1780,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 493
   },
   "deep": {
-   "words": 8,
-   "requests": 112,
-   "seconds": 1720
+   "words": 9,
+   "requests": 113,
+   "seconds": 1780
   },
   "seeds": {
    "seeds": 34
@@ -35,7 +35,10 @@
   "gods-goddesses",
   "english-grammar"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "captcha",
+  "next": "restaurant favorites"
+ },
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -418,31 +421,31 @@
    "slug": "restaurant-favorites",
    "keyword": "restaurant favorites",
    "position": 1,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
    "position": 2,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "ai-apocalypse",
    "keyword": "ai apocalypse",
    "position": 3,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "comptia-linux",
    "keyword": "comptia linux",
    "position": 4,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "time-traveler",
    "keyword": "time traveler",
    "position": 5,
-   "eta_date": "2026-10-28"
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "civilian-field",
@@ -484,31 +487,31 @@
    "slug": "querying-literary",
    "keyword": "querying literary",
    "position": 12,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "brain-storytelling",
    "keyword": "brain storytelling",
    "position": 13,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
    "position": 14,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "historic-cemeteries",
    "keyword": "historic cemeteries",
    "position": 15,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "beginner-friendly-patterns",
    "keyword": "beginner-friendly patterns",
    "position": 16,
-   "eta_date": "2026-10-29"
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "kindle-app",
@@ -550,31 +553,31 @@
    "slug": "budget-friendly-recipes",
    "keyword": "budget-friendly recipes",
    "position": 23,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "side-hustles",
    "keyword": "side hustles",
    "position": 24,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "ai-side-hustles",
    "keyword": "ai side hustles",
    "position": 25,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
    "position": 26,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "chatgpt-for-beginners",
    "keyword": "chatgpt for beginners",
    "position": 27,
-   "eta_date": "2026-10-30"
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "ai-for-beginners",
@@ -616,31 +619,31 @@
    "slug": "etsy-selling",
    "keyword": "etsy selling",
    "position": 34,
-   "eta_date": "2026-10-31"
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
    "position": 35,
-   "eta_date": "2026-10-31"
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
    "position": 36,
-   "eta_date": "2026-10-31"
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "excel",
    "keyword": "excel",
    "position": 37,
-   "eta_date": "2026-10-31"
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
    "position": 38,
-   "eta_date": "2026-10-31"
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "public-speaking",
@@ -682,31 +685,31 @@
    "slug": "meal-prep",
    "keyword": "meal prep",
    "position": 45,
-   "eta_date": "2026-11-01"
+   "eta_date": "2026-11-02"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
    "position": 46,
-   "eta_date": "2026-11-01"
+   "eta_date": "2026-11-02"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
    "position": 47,
-   "eta_date": "2026-11-01"
+   "eta_date": "2026-11-02"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
    "position": 48,
-   "eta_date": "2026-11-01"
+   "eta_date": "2026-11-02"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
    "position": 49,
-   "eta_date": "2026-11-01"
+   "eta_date": "2026-11-02"
   },
   {
    "slug": "beekeeping",
@@ -748,31 +751,31 @@
    "slug": "crochet",
    "keyword": "crochet",
    "position": 56,
-   "eta_date": "2026-11-02"
+   "eta_date": "2026-11-03"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
    "position": 57,
-   "eta_date": "2026-11-02"
+   "eta_date": "2026-11-03"
   },
   {
    "slug": "practice-tests",
    "keyword": "practice tests",
    "position": 58,
-   "eta_date": "2026-11-02"
+   "eta_date": "2026-11-03"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
    "position": 59,
-   "eta_date": "2026-11-02"
+   "eta_date": "2026-11-03"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
    "position": 60,
-   "eta_date": "2026-11-02"
+   "eta_date": "2026-11-03"
   },
   {
    "slug": "coding-required",
@@ -783,7 +786,7 @@
  ],
  "budget": {
   "date": "2026-10-28",
-  "used": 112,
+  "used": 113,
   "limit": 240
  }
 }
