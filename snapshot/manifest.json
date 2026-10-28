@@ -1,25 +1,25 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-10-28T02:44:26Z",
+ "generated_at": "2026-10-28T02:59:03Z",
  "topics": 104,
- "cards": 58,
+ "cards": 62,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 57,
- "elapsed_seconds": 843,
+ "requests": 112,
+ "elapsed_seconds": 1720,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 493
   },
   "deep": {
-   "words": 4,
-   "requests": 57,
-   "seconds": 843
+   "words": 8,
+   "requests": 112,
+   "seconds": 1720
   },
   "seeds": {
    "seeds": 34
@@ -29,7 +29,11 @@
   "vocabulary-builder",
   "speak-up",
   "patty-lyons",
-  "leading-former"
+  "leading-former",
+  "biblical-answers",
+  "interaction-count",
+  "gods-goddesses",
+  "english-grammar"
  ],
  "stopped": null,
  "card_index": {
@@ -56,6 +60,10 @@
   "bestselling-author": {
    "keyword": "bestselling author",
    "fetched_at": "2026-10-23"
+  },
+  "biblical-answers": {
+   "keyword": "biblical answers",
+   "fetched_at": "2026-10-28"
   },
   "bucket-retirement": {
    "keyword": "bucket retirement",
@@ -85,6 +93,10 @@
    "keyword": "coding required",
    "fetched_at": "2026-10-21"
   },
+  "english-grammar": {
+   "keyword": "english grammar",
+   "fetched_at": "2026-10-28"
+  },
   "fix-common": {
    "keyword": "fix common",
    "fetched_at": "2026-10-25"
@@ -96,6 +108,10 @@
   "ged-study": {
    "keyword": "ged study",
    "fetched_at": "2026-10-21"
+  },
+  "gods-goddesses": {
+   "keyword": "gods goddesses",
+   "fetched_at": "2026-10-28"
   },
   "golden-age": {
    "keyword": "golden age",
@@ -124,6 +140,10 @@
   "human-body": {
    "keyword": "human body",
    "fetched_at": "2026-10-20"
+  },
+  "interaction-count": {
+   "keyword": "interaction count",
+   "fetched_at": "2026-10-28"
   },
   "just-add-water-mason": {
    "keyword": "just-add-water mason",
@@ -279,6 +299,8 @@
   "cards/artificial-intelligence/competitors.json": "eae96bb6a01ccbc2e6b737f2bf22e8a39be6d06645c1df30e370e96c22e3a919",
   "cards/bestselling-author/card.md": "f530dbcb53937dc863dcedd2221dd725790dd5cfa94dc6d961e7d15ca5282094",
   "cards/bestselling-author/competitors.json": "5426d7606d7429fdd25f89b55279a4e120a1fe332f21d17bd6e5be889bae0344",
+  "cards/biblical-answers/card.md": "2d95e76fdb816bb21608e65eb88648b1798fcd951218c73b44061d404f03755c",
+  "cards/biblical-answers/competitors.json": "0e0f1bbc34fcfdea7fe8b6848a7521116697adcfeb41633d7cffe3935a2af873",
   "cards/bucket-retirement/card.md": "034f965e1c4bdb030a78ab3e25d5dd79396b7422547235f8aaa66556ac5cbd36",
   "cards/bucket-retirement/competitors.json": "00f88159443926f8b7c75927dcf0cd26ab2b8c58a17e09f6020ff817422ac20e",
   "cards/care-scripts/card.md": "0c7c14e2c6e240b4c0e0567ab30a40ab49630344ef528fef6509edb49955ad8b",
@@ -293,12 +315,16 @@
   "cards/claude-ai/competitors.json": "1c3281901839423b55dd3ee954b32f691be39c04e871c62841a25d47d9c7b592",
   "cards/coding-required/card.md": "a85fb5103ff687e5f996decc8186f5ed607a76f421f0d7f65b6a70d2e7f46129",
   "cards/coding-required/competitors.json": "21ed8089aa6b869851e4cf5605e47260a0d35cd76a4a0076e7c8b530ce2abbca",
+  "cards/english-grammar/card.md": "025c36abb2fac5ffcac7e6abb11f4fb30919897a5dd4312a1f86fe7b61418190",
+  "cards/english-grammar/competitors.json": "3db5b5a578611690d859721e1da08711f240a72a89fd9ce99a9fa95c3d1293bb",
   "cards/fix-common/card.md": "54cdd5211ecc14cb4ec034431f833a6efc8e78c2f6a382173d1f4bfb54fe1074",
   "cards/fix-common/competitors.json": "921d7e2230e3a70b52e7e53df611359724da4fe6c2327c18639809d5fec5687b",
   "cards/foolproof-recipes/card.md": "7199a29c06a72368c6193fd2cd8ffad85bb7cc0dbc65d9115aedd6344fa6015d",
   "cards/foolproof-recipes/competitors.json": "dcbd662523f473a9376ec1d29a4d17ae1789c88ca6bddb65fedd031eff272794",
   "cards/ged-study/card.md": "c09d3021f5ac978290787800c2c95576148144a940768cdadcf974d26e4eadb8",
   "cards/ged-study/competitors.json": "4ff38a63dd9eb91c9c0d58df07f93a0daccb86435cd5c392f2c0ad42839c1845",
+  "cards/gods-goddesses/card.md": "7edc8308ed8f6a2be96d21499b063c7a97d494ecd366387948d599edb8087e4c",
+  "cards/gods-goddesses/competitors.json": "7ff9ce6e55f1a07c298effe62f327771bb53e8789772acce1397fb72a3a4353f",
   "cards/golden-age/card.md": "60b11a1881b455aacbb1074d58776f01566dfe35f4221776c6909cb13df8dc78",
   "cards/golden-age/competitors.json": "36a103ab83ecf90473c506c7a3699bf45136c89b6601c47fccd62b2243b6896f",
   "cards/happy-place/card.md": "0234c64afc412f28cc6731d4f791bb39c087b16c421e12afa62f6ab683289b60",
@@ -313,6 +339,8 @@
   "cards/household-cybersecurity/competitors.json": "12dfdd90621cf80b6785d1d1cebba0775de608593510c2edf33b80c236154ac7",
   "cards/human-body/card.md": "0b39688bbe75796fdc3238fe83ebc7bdf1de9f9380770c76062c64228588628a",
   "cards/human-body/competitors.json": "272cffb72c5e62cd4ccac4c799c7b0227e4a7aa88f2308a8cc1c8c42dd949c46",
+  "cards/interaction-count/card.md": "644d694545efc8237a3f5c2f300de6c78394097e6c878c709759587480b9467a",
+  "cards/interaction-count/competitors.json": "cad6e135e36c54f47dcd157e41bb7ec9daf2a6f3187df7589f94b5ec51b11ba2",
   "cards/just-add-water-mason/card.md": "1ee51c7ba22a9edf9e7375744e073eb861fc77b5d8230e00e45276235b61c8b4",
   "cards/just-add-water-mason/competitors.json": "a411beccd7b87fc8c80338514c80a7ae8bdbb73f09cca7dc8f4d3d6f6ca6a513",
   "cards/leading-former/card.md": "2cd028deb7cfb40c72dd20f6aeef8d29353af449fdec9f220544fb5183ddaf89",
@@ -387,399 +415,375 @@
  },
  "queue": [
   {
-   "slug": "biblical-answers",
-   "keyword": "biblical answers",
-   "position": 1,
-   "eta_date": "2026-10-28"
-  },
-  {
-   "slug": "interaction-count",
-   "keyword": "interaction count",
-   "position": 2,
-   "eta_date": "2026-10-28"
-  },
-  {
-   "slug": "gods-goddesses",
-   "keyword": "gods goddesses",
-   "position": 3,
-   "eta_date": "2026-10-28"
-  },
-  {
-   "slug": "english-grammar",
-   "keyword": "english grammar",
-   "position": 4,
-   "eta_date": "2026-10-28"
-  },
-  {
    "slug": "restaurant-favorites",
    "keyword": "restaurant favorites",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "ai-apocalypse",
    "keyword": "ai apocalypse",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "comptia-linux",
    "keyword": "comptia linux",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-10-28"
   },
   {
    "slug": "time-traveler",
    "keyword": "time traveler",
-   "position": 9,
-   "eta_date": "2026-10-29"
+   "position": 5,
+   "eta_date": "2026-10-28"
   },
   {
    "slug": "civilian-field",
    "keyword": "civilian field",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "homemade-bread",
    "keyword": "homemade bread",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "homemade-snacks",
    "keyword": "homemade snacks",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "publishing-faster",
    "keyword": "publishing faster",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "querying-literary",
    "keyword": "querying literary",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "brain-storytelling",
    "keyword": "brain storytelling",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "historic-cemeteries",
    "keyword": "historic cemeteries",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-10-29"
   },
   {
    "slug": "beginner-friendly-patterns",
    "keyword": "beginner-friendly patterns",
-   "position": 20,
-   "eta_date": "2026-10-30"
+   "position": 16,
+   "eta_date": "2026-10-29"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "mental-health",
    "keyword": "mental health",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "north-america",
    "keyword": "north america",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "appalachian-trail",
    "keyword": "appalachian trail",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "prompt-engineering",
    "keyword": "prompt engineering",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "electrical-engineering",
    "keyword": "electrical engineering",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "budget-friendly-recipes",
    "keyword": "budget-friendly recipes",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "side-hustles",
    "keyword": "side hustles",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "ai-side-hustles",
    "keyword": "ai side hustles",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-10-30"
   },
   {
    "slug": "chatgpt-for-beginners",
    "keyword": "chatgpt for beginners",
-   "position": 31,
-   "eta_date": "2026-10-31"
+   "position": 27,
+   "eta_date": "2026-10-30"
   },
   {
    "slug": "ai-for-beginners",
    "keyword": "ai for beginners",
-   "position": 32,
+   "position": 28,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "budgeting",
    "keyword": "budgeting",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "credit-repair",
    "keyword": "credit repair",
-   "position": 34,
+   "position": 30,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "retirement-planning",
    "keyword": "retirement planning",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 38,
+   "position": 34,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 39,
+   "position": 35,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 40,
+   "position": 36,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 41,
+   "position": 37,
    "eta_date": "2026-10-31"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 42,
-   "eta_date": "2026-11-01"
+   "position": 38,
+   "eta_date": "2026-10-31"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 43,
+   "position": 39,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 44,
+   "position": 40,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 45,
+   "position": 41,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 46,
+   "position": 42,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 47,
+   "position": 43,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 48,
+   "position": 44,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 49,
+   "position": 45,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 50,
+   "position": 46,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 51,
+   "position": 47,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 52,
+   "position": 48,
    "eta_date": "2026-11-01"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 53,
-   "eta_date": "2026-11-02"
+   "position": 49,
+   "eta_date": "2026-11-01"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 54,
+   "position": 50,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 55,
+   "position": 51,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 56,
+   "position": 52,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 57,
+   "position": 53,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 58,
+   "position": 54,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 59,
+   "position": 55,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 60,
+   "position": 56,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 61,
+   "position": 57,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "practice-tests",
    "keyword": "practice tests",
-   "position": 62,
+   "position": 58,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 63,
+   "position": 59,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 64,
-   "eta_date": "2026-11-03"
+   "position": 60,
+   "eta_date": "2026-11-02"
   },
   {
    "slug": "coding-required",
    "keyword": "coding required",
-   "position": 65,
+   "position": 61,
    "eta_date": "2026-11-03"
   }
  ],
  "budget": {
   "date": "2026-10-28",
-  "used": 57,
+  "used": 112,
   "limit": 240
  }
 }
