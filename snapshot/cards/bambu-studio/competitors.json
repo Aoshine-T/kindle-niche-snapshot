@@ -1,0 +1,272 @@
+[
+ {
+  "asin": "B0HKDP6RBG",
+  "title": "Bambu Studio Complete User Guide for Beginners: Why Your Screen Never Matches the Tutorial",
+  "bsr": 85959,
+  "rating": 4.6,
+  "price": 9.99,
+  "pub_date": "2026-09-19",
+  "pages": 261,
+  "publisher": null,
+  "cats": [
+   [
+    2,
+    "Industrial Manufacturing"
+   ],
+   [
+    2,
+    "3D Printing Books"
+   ],
+   [
+    2,
+    "Manufacturing Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 26,
+  "description": "YOUR SCREEN DOESN'T MATCH THE VIDEO. YOU ARE NOT THE PROBLEM. You paused the video, went looking for the setting he just changed, and it wasn't there. You searched for Print Speed and Bambu Studio doesn't have one. You hit a pop-up asking whether to Transfer, Discard or Save, guessed, and hoped you hadn't broken something. None of that means you bought the wrong printer. It means the advice was written against a different screen, and nobody handed you the map. WHAT THIS BOOK DOES DIFFERENTLY A translation table, 53 rows of it. What the video calls a setting, what Bambu Studio calls it, and the exact path to click. Elephant's foot, extrusion width, print speed, retraction, and fifty more. Every setting is given as a click path , like Prepare > Process > Quality > Layer height , so when the software updates and a control moves you can still find it. That is the one property a slicer book needs to survive its own subject. A symptom index in the words you'd actually use. 54 entries under ten plain headings, starting from what the print looks like, not from what the defect is called. You shouldn't need the vocabulary before you're allowed to find the answer. Most bad prints are not a settings problem, and chapter one proves it. Wash the plate with dish soap and not isopropyl. Dry the filament. Stop touching the plate. Start on the stock profile. Ten minutes that rule out the causes people spend a weekend chasing in menus. The pop-up nobody explains. Transfer, Discard and Save, what each one really does, and what you lose by picking wrong. The purge bill, in grams. On one measured six-color print, 225.9 g went to toolchange purge and 58.3 g to the prime tower against 68.5 g of actual part. All four sources of waste named, and how to cut each one without touching gcode. Calibr"
+ },
+ {
+  "asin": "B0HFKX1FYM",
+  "title": "THE COMPLETE BAMBU STUDIO GUIDE FOR BEGINNERS: Easy Step-by-Step Instructions to Slice Mod",
+  "bsr": 114451,
+  "rating": 5.0,
+  "price": 4.99,
+  "pub_date": "2026-08-17",
+  "pages": 140,
+  "publisher": null,
+  "cats": [
+   [
+    4,
+    "Manufacturing Engineering"
+   ],
+   [
+    5,
+    "Craft & Hobby Models"
+   ],
+   [
+    13,
+    "3D Printing Books"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2,
+  "description": "You bought a Bambu Lab printer because you were ready to start creating. Then you opened Bambu Studio and suddenly found yourself staring at settings, slicing options, profiles, and tools you did not understand. Which settings should you change? Why did your print fail? And how do you get clean, reliable results without wasting filament? If Bambu Studio feels harder than the printer itself, this guide will help you fix that. The Complete Bambu Studio Guide walks beginners through the software step by step, helping you understand the settings that matter, prepare models correctly, fix common issues, and create better 3D prints with confidence. Inside This Guide, You Will Learn How To: ✅ Set Up Bambu Studio Correctly: Install the software, connect your printer, and get ready for printing. ✅ Understand the Workspace: Learn what the important menus, tools, panels, and controls actually do. ✅ Prepare and Slice Models: Import, move, rotate, resize, arrange, and slice models correctly. ✅ Configure Filaments: Work with PLA, PETG, ABS, TPU, and other common materials. ✅ Adjust Important Print Settings: Understand layer height, infill, walls, speed, temperature, cooling, and more. ✅ Improve Supports and Bed Adhesion: Learn when to use tree supports, brims, rafts, skirts, and other helpful options. ✅ Create Multi-Color Prints: Learn AMS basics, color assignment, filament changes, and painting tools. ✅ Fix Common Printing Issues: Troubleshoot stringing, warping, poor adhesion, failed supports, rough surfaces, and other frustrating print problems. ✅ Improve Print Quality: Make smarter adjustments for cleaner, stronger, and more reliable results. Specially Helpful For: New Bambu Lab owners, complete beginners, hobbyists, makers, and anyone tired of guessing which settings to change w"
+ },
+ {
+  "asin": "B0GN8YNNTV",
+  "title": "Bambu Studio Made Simple 2026: A Beginner's Step-by-Step Guide to Mastering Your Bambu Lab",
+  "bsr": 538323,
+  "rating": 3.3,
+  "price": 6.0,
+  "pub_date": "2026-02-13",
+  "pages": 129,
+  "publisher": null,
+  "cats": [
+   [
+    9,
+    "3D Graphic Design"
+   ],
+   [
+    32,
+    "3D Printing Books"
+   ],
+   [
+    48,
+    "Graphics & Multimedia Programming"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 5,
+  "description": "Unlock the full potential of your Bambu Lab 3D printer with Bambu Studio Made Simple 2026 – the gentle, beginner-friendly guide designed specifically for newcomers who feel a little intimidated by slicing software. Whether you've just unboxed your first A1, P1S, X1C, H2D, or any other Bambu Lab model, or you're upgrading to take advantage of the exciting 2026 updates, this book removes the guesswork and builds your skills one calm, reassuring step at a time. Written in a warm, patient tone, this complete handbook assumes zero prior experience. You'll start with the basics: safely downloading and installing the latest Bambu Studio (version 2.5 and beyond), navigating the clean, intuitive interface, and connecting your printer effortlessly via Wi-Fi or USB. From there, you'll progress logically through loading your first model (starting with fun classics like Benchy), choosing perfect beginner settings for PLA and other easy filaments, enabling smart features like auto-orientation and tree supports, slicing with confidence, previewing every layer to spot potential issues early, and finally sending your print with real-time monitoring. Special attention is given to the powerful new 2026 enhancements that make printing even more enjoyable and reliable: remote AMS drying control for hassle-free filament prep, optimized prime tower strategies for seamless PLA/PETG mixing, ironing on support interfaces for smoother finishes, scale-to-print-volume tools, consistent surface acceleration options, and more granular control over multi-material projects. You'll learn these advanced-yet-accessible features without jargon overload – each explained slowly with practical tips, real-life examples (like printing a custom phone stand or multi-color keychain), and gentle reminders that mist"
+ },
+ {
+  "asin": "B0GX36QGKJ",
+  "title": "Bambu Studio User Guide 2026: The Ultimate Illustrated Step-by-Step Manual for Beginners &",
+  "bsr": 407177,
+  "rating": 5.0,
+  "price": 9.99,
+  "pub_date": "2026-05-13",
+  "pages": 182,
+  "publisher": null,
+  "cats": [
+   [
+    31,
+    "Industrial Design"
+   ],
+   [
+    39,
+    "Manufacturing Engineering"
+   ],
+   [
+    84,
+    "Industrial Design (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Stop wasting expensive filament on \"spaghetti prints\" and start achieving first-layer perfection with every single click… Are you struggling with these common roadblocks? Are you frustrated by \"hidden\" advanced settings that the official wiki fails to explain clearly? Do you feel overwhelmed by the complexity of multi-color AMS workflows and purge calculations? Are you tired of community profiles from MakerWorld accidentally overwriting your carefully tuned local calibration? Author Isabelle Webster bridges the gap between hardware speed and software complexity. This guide replaces fragmented online advice with an authoritative, engineered roadmap to mastery , focusing on the \"Trinity of Presets\" and systematic troubleshooting frameworks that ensure repeatable success. Inside this, you will master: The Trinity of Presets: Master the hierarchy of Printer, Filament, and Process settings. First-Layer Perfection: Eliminate warping and bed adhesion failures for good. AMS Optimization: Slash \"printer poop\" and purge waste by up to 30% with manual tuning. MakerWorld Safety: Learn to import models without nuking your custom local profiles. Flow Dynamics Mastery: Precision calibration techniques for cleaner, sharper corners. Adaptive Layer Height: Balance museum-quality detail with rapid print speeds. Modifier Meshes: Gain localized control to strengthen parts exactly where they need it. Production Workflows: Set up high-efficiency batch printing for Etsy shops or labs. Multi-Color Painting: Turn single-part files into vibrant, professional display pieces. The Desk-Side Cheat Sheet: Essential keyboard shortcuts to slice and prepare models 2x faster. While many believe they can learn everything through scattered videos, the time lost searching for specific answers is money and fi"
+ },
+ {
+  "asin": "B0HHX5S6JM",
+  "title": "Bambu Studio User Guide for Beginners: A Beginner- Friendly Manual to Prepare Models, Unde",
+  "bsr": 1135250,
+  "rating": 5.0,
+  "price": 7.53,
+  "pub_date": "2026-09-05",
+  "pages": 186,
+  "publisher": null,
+  "cats": [
+   [
+    383,
+    "3D Printing Books"
+   ],
+   [
+    480,
+    "CAD Graphic Design Guides"
+   ],
+   [
+    562,
+    "Computer Graphic Design"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Have you ever wondered why your 3D prints do not turn out as expected even when your model looks correct? Many new users struggle with choosing the right settings, preparing models properly, understanding slicing results, managing materials, and knowing which adjustments can improve print quality. Bambu Studio offers powerful tools, but using them effectively requires a clear understanding of how each part of the workflow connects. This practical guide helps you understand the essential processes behind preparing models, configuring print settings, managing materials, and creating more reliable printing results. It is written for beginners who want a clear path through Bambu Studio while also providing useful techniques for users who want to improve their workflow. Inside, you will find straightforward explanations, practical examples, visual learning support, and troubleshooting guidance designed to help you work through the complete printing process. From importing models and adjusting settings to reviewing slices and improving future projects, each section focuses on skills that can be applied during real printing tasks. This guide turns Bambu Studio from a collection of settings into a structured workflow you can understand and use with confidence. What’s inside Clear explanations of Bambu Studio’s role in the 3D printing workflow Guidance for navigating the main workspace, tools, and sections Practical methods for preparing models and adjusting print settings Material selection guidance and filament profile management Visual explanations of slicing previews, layers, and print information Troubleshooting methods for common workflow and print quality issues Helpful checklists and practical workflows for improving printing habits Who’s this guide for? Beginners learni"
+ },
+ {
+  "asin": "B0HKWWQCPS",
+  "title": "Bambu Studio Mastery for Beginners: The Complete 2026 Guide to Slicing, Filament Settings,",
+  "bsr": 174579,
+  "rating": 5.0,
+  "price": 5.99,
+  "pub_date": "2026-09-24",
+  "pages": 209,
+  "publisher": null,
+  "cats": [
+   [
+    9,
+    "Industrial Design"
+   ],
+   [
+    26,
+    "3D Printing Books"
+   ],
+   [
+    33,
+    "Computer Hardware"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "Your Bambu Lab printer was supposed to change everything. So why does it feel like it's fighting you? You unboxed it with excitement. You watched the videos, scrolled through hundreds of flawless multicolor prints, and told yourself, \"I can do that too.\" But somewhere between the first failed layer, the AMS error you couldn't decode, and the settings menu that looked more like a cockpit than a creative tool — that excitement quietly turned into doubt. You're not bad at this. You just never had a guide that actually explained why , not just what . Bambu Studio Mastery for Beginners is the complete, no-fluff roadmap that takes you from confused first-timer to confident creator — someone who understands their printer instead of just hoping it cooperates. Written in plain, human language (not engineer-speak), this 2026-updated guide walks you through every single stage of the process, from your very first slice to jaw-dropping, professional-quality multicolor prints you'll be proud to hold, gift, or sell. Inside, you'll discover how to: Navigate Bambu Studio's interface with total confidence — no more guessing what a button does Master filament settings so your prints come out strong, clean, and consistent every time Set up and troubleshoot the AMS for smooth, waste-free multicolor printing Diagnose and fix the most common (and most frustrating) print failures — before they ruin your project Calibrate your printer like a pro using flow rate, pressure advance, and temperature tuning Finish your prints with sanding, priming, and painting techniques that erase layer lines and elevate your work from \"homemade\" to \"professionally made\" This isn't just a manual. It's the mentor you wish came in the box — patient, thorough, and genuinely invested in your success. Whether you're pr"
+ },
+ {
+  "asin": "B0HFLN87X5",
+  "title": "Bambu Studio for Beginners 2026-2027: A Hands-On Guide to Better Slicing, Stronger Prints,",
+  "bsr": 783779,
+  "rating": 5.0,
+  "price": 12.99,
+  "pub_date": "2026-08-17",
+  "pages": 222,
+  "publisher": null,
+  "cats": [
+   [
+    5,
+    "3D Printing Books"
+   ],
+   [
+    282,
+    "CAD Graphic Design Guides"
+   ],
+   [
+    347,
+    "Computer Graphic Design"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Your 3D printer can only print what your slicer tells it to print. The real question is: do you understand what Bambu Studio is telling your printer to do? If you have ever opened Bambu Studio, imported a model, selected a profile, and wondered whether you were choosing the right settings, you are not alone. Maybe your prints take longer than expected. Maybe supports leave ugly marks. Maybe functional parts break too easily. Maybe you are using far more filament than necessary. Or perhaps you have started experimenting with multicolor printing, AMS, different materials, and advanced settings, but changing one option seems to create another problem somewhere else. BAMBU STUDIO FOR BEGINNERS 2026-2027 is designed to help you move beyond trial and error. Rather than overwhelming you with every menu and setting in the software, this practical guide focuses on the decisions that have the greatest impact on your finished prints. You will learn how to examine a model, prepare it intelligently, slice it, inspect the preview, compare your options, identify problems, and make controlled adjustments for a clear reason. The goal is simple: help you become more confident using Bambu Studio instead of depending blindly on default profiles. Inside this hands-on guide, you will learn how to: Set up a reliable model-to-print workflow in Bambu Studio Import, position, rotate, scale, and prepare models correctly Choose useful layer heights without sacrificing unnecessary print time Use walls, shells, and infill more intelligently Strengthen functional parts without simply increasing infill Reduce unnecessary support material and improve support removal Control seams and improve visible surface quality Improve bridges, overhangs, top surfaces, curves, text, and fine details Understand how "
+ },
+ {
+  "asin": "B0H2Q8WBVX",
+  "title": "Bambu studio for absolute beginners: The Complete User Guide to Creating, Slicing, and Pri",
+  "bsr": 1542992,
+  "rating": 4.0,
+  "price": 4.99,
+  "pub_date": "2026-05-23",
+  "pages": 196,
+  "publisher": null,
+  "cats": [
+   [
+    506,
+    "3D Printing Books"
+   ],
+   [
+    998,
+    "Business Software"
+   ],
+   [
+    1578,
+    "Computer Hardware"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "Have you ever downloaded a 3D model, opened slicing software, and immediately felt overwhelmed by all the buttons, settings, profiles, and technical terms? You’re not alone. Many beginners enter the world of 3D printing excited to create amazing projects—only to end up frustrated by failed prints, confusing software menus, poor print quality, and endless trial and error. That’s where Bambu Studio for Absolute Beginners comes in. Designed specifically for newcomers, this practical and beginner-friendly guide takes you step by step through the complete process of using Bambu Studio with confidence. Whether you’re setting up your first printer, importing models, learning how slicing works, adjusting print settings, or troubleshooting common mistakes, this book simplifies the learning process into clear, easy-to-follow explanations anyone can understand. Inside this comprehensive user guide, you’ll discover how to confidently navigate the Bambu Studio interface, prepare and repair 3D models, optimize slicing settings, use supports correctly, improve print quality, manage materials and filament profiles, and create successful prints from start to finish. You’ll also learn practical workflows, essential beginner techniques, real-world printing tips, and smart troubleshooting methods that can save you time, filament, and frustration. This book is perfect for: • First-time 3D printing users • Beginners using Bambu Lab printers • Hobbyists looking to improve print quality • DIY creators and makers • Students and tech enthusiasts • Anyone wanting a simple, structured learning path Unlike overly technical manuals filled with jargon, this guide focuses on clarity, practical learning, and real results. Every chapter is carefully organized to help you build confidence progressively w"
+ },
+ {
+  "asin": "B0GQR6475M",
+  "title": "THE COMPLETE GUIDE TO BAMBU STUDIO Unofficial Edition (2026): A Beginner-Friendly, Step-by",
+  "bsr": 514499,
+  "rating": 4.2,
+  "price": 9.99,
+  "pub_date": "2026-03-01",
+  "pages": 154,
+  "publisher": null,
+  "cats": [
+   [
+    58,
+    "Manufacturing Engineering"
+   ],
+   [
+    161,
+    "3D Printing Books"
+   ],
+   [
+    216,
+    "Computer Graphic Design"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 3,
+  "description": "Stop Wasting Filament and Start Printing Flawless Masterpieces. You own one of the most powerful 3D printers on the planet. But if you are still wrestling with confusing slicer settings, frustrating spaghetti failures, and stringy overhangs, you are only scratching the surface of what your Bambu Lab machine can do. The hardware is revolutionary, but without mastering the software, its true potential remains securely locked away. THE COMPLETE GUIDE TO BAMBU STUDIO is the definitive, educational user guide book crafted to bridge the gap between your imagination and physical reality. This step-by-step roadmap strips away the technical intimidation, handing you the exact, practical strategies needed to master the X1 Carbon, P1S, P1P, and A1. Inside this comprehensive guide, you will instantly discover : The \"Perfect First Layer\" Protocol : Say goodbye to thermal warping and bed adhesion nightmares forever. AMS Multi-Color Mastery : Learn to digitally paint models with surgical precision, effortlessly mix incompatible materials like PLA and PETG, and slash your purge waste by up to 30%. Hardware-Specific Tuning : Unlock the hidden settings required to optimize the X1C's micro-lidar, the P1S's enclosed chamber, and the A1's high-speed bed-slinger dynamics. The Ultimate Troubleshooting Matrix : Stop guessing. Learn to read physical clues to instantly diagnose and permanently cure stringing, zits, blobs, and under-extrusion like a seasoned engineer. Advanced Slicer : Utilize modifier meshes, dynamic variable layer heights, and the built-in Cut Tool to conquer massive, gravity-defying projects that used to seem impossible. Stop relying on generic default profiles and start engineering your own success. Whether you are manufacturing heavy-duty mechanical assemblies or printing vi"
+ },
+ {
+  "asin": "B0GY8CQ6LX",
+  "title": "Bambu Studio Mastery: A Practical Guide for Bambu Lab A1, P1S, P2S, X2D & H2D — Setup, Adv",
+  "bsr": 915355,
+  "rating": 4.2,
+  "price": 9.99,
+  "pub_date": "2026-05-23",
+  "pages": 243,
+  "publisher": null,
+  "cats": [
+   [
+    77,
+    "Computer Hardware Peripherals"
+   ],
+   [
+    212,
+    "Computer Hardware Peripherals (Books)"
+   ],
+   [
+    319,
+    "3D Printing Books"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Bambu Studio Mastery A Practical Guide for Bambu Lab A1, P1S, P2S, X2D & H2D — Setup, Advanced Slicing, AMS 2 Multi-Color Printing, Dual-Nozzle Printing, Calibration & Troubleshooting By Emilio L. Tassone Have you just unboxed your Bambu Lab printer and found yourself wondering where to begin with Bambu Studio? Are you excited to start printing—but also unsure which slicing settings actually matter, how to dial in clean results, or how to avoid wasting filament on failed jobs? Maybe you’ve already printed a few parts and now you’re asking bigger questions. How do you get smoother surfaces and stronger prints? How do you speed up your workflow without sacrificing quality? How do you make multi-color printing feel simple instead of frustrating? How do you confidently use AMS 2, dual-nozzle capabilities, and advanced slicing features without second-guessing every setting? This book was written for exactly those moments. Bambu Studio Mastery is your practical, step-by-step companion for understanding Bambu Studio and unlocking the full potential of your Bambu Lab printer. Whether you’re completely new to the ecosystem or ready to move beyond the basics, this guide walks you through the software with clarity, real-world explanations, and a hands-on approach that helps you print smarter and more confidently. Because the truth is—great 3D printing isn’t only about owning a powerful machine. It’s about knowing how to make the software work for you. Inside this guide, you’ll learn how to: • Set up Bambu Studio correctly and build a workflow that feels efficient from day one • Understand slicing fundamentals and make smart decisions for speed, detail, and print strength • Fine-tune advanced slicing settings without feeling overwhelmed • Use AMS 2 for smooth multi-color printing w"
+ }
+]
