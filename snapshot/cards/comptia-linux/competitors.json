@@ -1,0 +1,264 @@
+[
+ {
+  "asin": "B0FML1W623",
+  "title": "CompTIA Linux+ Study Guide: Exam XK0-006 (Sybex Study Guide)",
+  "bsr": 371048,
+  "rating": 4.7,
+  "price": 54.0,
+  "pub_date": "2025-08-14",
+  "pages": 1001,
+  "publisher": "Sybex",
+  "cats": [
+   [
+    5,
+    "Linux Certification Guides"
+   ],
+   [
+    7,
+    "Linux & UNIX Administration (Books)"
+   ],
+   [
+    9,
+    "Linux Networking & System Administration"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 30,
+  "description": "The latest edition of the gold standard in Linux+ certification exam prep and skills reinforcement In the newly revised sixth edition of the CompTIA Linux+ Study Guide: Exam XK0-006, veteran system and network administrator Richard Blum delivers a fully up-to-date guide to the challenging CompTIA Linux+ certification exam, as well as a concise discussion of the skills and knowledge you'll need to succeed in the real world as a Linux systems professional. The book contains clear and straightforward information on all Linux administration topics, including system management, services and user management, security, automation, orchestration, scripting, and troubleshooting. You'll also find: Coverage of every subject tested by the newly updated XK0-006 Linux+ certification exam New material for DevOps engineers seeking to understand how to deploy applications on different Linux distributions and cloud platforms Intuitively organized quick-reference information perfect for newly minted system and network administrators working with Linux operating systems Complimentary access to the Sybex online learning environment, including the online test bank, a practice assessment test, chapter review questions, flashcards, and a searchable key term glossary Perfect for network and system admins studying for the new Linux+ certification exam, the CompTIA Linux+ Study Guide is also a must-read for Linux admins and IT professionals looking to update their skillset, as well as certification candidates seeking a roadmap to attaining further Linux certifications.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_1\"]', '#CardInstanceHZx6iDm2XmmQB96Vb7xtWQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_1',{wb: 1})} ._tell-amazo"
+ },
+ {
+  "asin": "B0HP6XTL9B",
+  "title": "101 Labs - CompTIA Linux+: Hands-on Practice Labs for the XK0-006 Exam",
+  "bsr": 47069,
+  "rating": 4.9,
+  "price": 4.99,
+  "pub_date": "2026-10-24",
+  "pages": 537,
+  "publisher": null,
+  "cats": [
+   [
+    1,
+    "Certification, Training & Reference"
+   ],
+   [
+    1,
+    "Linux"
+   ],
+   [
+    1,
+    "Linux Certification Guides"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "101 Labs – Book Series Experts agree that we retain only 10% of what we read but 90% of what we do. Perhaps this explains why the global pass rate for most IT exams is a ghastly 40%. This is where the 101 Labs book series can help. We are revolutionizing how IT people train for their exams and the real world with our Learn-By-Doing teaching method. 101 Labs’ mission is to turn you into an IT expert by doing, not reading. Using free software and free trials, our experts take you by the hand and walk you through every aspect of the technologies you will encounter in your IT career. We share configuration tips and tricks, as well as how to avoid the common mistakes many novice engineers make, which can quickly become career-ending. The 101 Labs series covers CompTIA A+, Network+, Security+, Linux+, CySA+ and PenTest+, Cisco CCNA and CCNP, CEH and GIAC, plus LPIC-1, Python, Wireshark and IP subnetting. 101 Labs – CompTIA Linux+ (XK0-006) Linux runs the modern world. It powers over 96% of the top one million web servers, every major cloud platform, almost all of the world’s supercomputers, the container and Kubernetes infrastructure behind today’s applications, and the GPU clusters training the AI models everyone is talking about. Google, Amazon, Meta and Netflix were all built on it. Over 85% of organizations use Linux somewhere in their IT infrastructure. Here’s the opportunity: demand for engineers who can actually administer Linux has exploded, while certified talent hasn't kept up. Employers consistently rank Linux among the hardest skills to hire for, and they pay accordingly. Cloud engineer, DevOps engineer, site reliability engineer, security analyst, platform engineer — every one of those roles assumes you can work confidently at a Linux command line. Even Cisco and"
+ },
+ {
+  "asin": "B0GSR25MJT",
+  "title": "CompTIA Linux+ XK0-006 STUDY GUIDE 2026-2028: Mastering the Command Line with Practice Tes",
+  "bsr": 768487,
+  "rating": 4.1,
+  "price": 9.99,
+  "pub_date": "2026-03-16",
+  "pages": 808,
+  "publisher": null,
+  "cats": [
+   [
+    50,
+    "Linux Certification Guides"
+   ],
+   [
+    62,
+    "Linux & UNIX Administration"
+   ],
+   [
+    82,
+    "Unix Computer Operating Systems"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 7,
+  "description": "One definitive guide built to take you from capable professional to certified Linux+ engineer You fix the servers nobody else can. So why does someone with a certification and half your experience keep getting the job? The gap between where you are and where you should be is not your skill set. It is a single credential and this guide closes it. Marcus M. Reid was that person. At 31, he had spent three years as an IT support specialist in Houston, Texas the one his team called when the servers went down, when the scripts broke, when nobody else could diagnose what the kernel was doing. He was indispensable and invisible at the same time. Colleagues with certifications and less experience were promoted around him. The frustration was quiet but relentless. Then he stopped waiting. He committed to structured preparation with this guide late nights, terminal open, working every command until the syntax was instinct, treating every practice question as a gap to close rather than a score to chase. The turning point came when the PBQ scenarios stopped feeling foreign and started feeling routine. He passed the XK0-006 on his first attempt. Ninety days later, he signed an offer as Senior Linux Systems Engineer 40% more than he had ever earned. The skills were never the problem. The credential made them impossible to ignore. The CompTIA Linux+ XK0-006 (V8) does not test what you know. It tests what you can do. Every chapter delivers precise, domain-weighted coverage across all five exam domains built entirely from a production environment perspective. This guide does not produce exam takers. It produces engineers. Command reference tables, 20 embedded concept diagrams, and real-world performance scenarios go far beyond definitions. Every practice question explanation exposes not "
+ },
+ {
+  "asin": "B0BKTVGWMN",
+  "title": "CompTIA Linux+ Certification All-in-One Exam Guide, Second Edition (Exam XK0-005)",
+  "bsr": 1117019,
+  "rating": 4.7,
+  "price": 24.56,
+  "pub_date": "2023-05-26",
+  "pages": 758,
+  "publisher": "McGraw Hill",
+  "cats": [
+   [
+    13,
+    "Linux Certification Guides"
+   ],
+   [
+    639,
+    "Certification, Training & Reference"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 130,
+  "description": "This comprehensive study guide delivers 100% coverage of every topic on the challenging CompTIA Linux+ exam Get complete coverage of all the objectives included on CompTIA Linux+ exam XK0-005 from this up-to-date resource. Written by Linux experts and technology trainers, the book provides learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth answer explanations. Designed to help you pass this challenging exam, this definitive volume also serves as an essential on-the-job reference. Covers all exam topics, including how to: Use the vi text editor Work with the Linux shell Manage Linux users, groups, files, and directories Administer ownership, permissions, and quotas Install Linux and manage the boot process Perform container operations and version control with Git Manage software and hardware Write shell scripts Manage network settings and services Secure Linux and use encryption Online content includes: 180 practice exam questions in a customizable test engine 4 interactive questions Downloadable virtual machines 40 video clips  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_3\"]', '#CardInstanceemkwvdQwS6-dR9WYXlfI4g')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_3',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner_"
+ },
+ {
+  "asin": "B0FQPDMKBW",
+  "title": "CompTIA Systems and Cloud Master Linux+, Server+ Cloud+ : Fast Track Study Guide",
+  "bsr": 892092,
+  "rating": 5.0,
+  "price": 9.99,
+  "pub_date": "2025-09-11",
+  "pages": 1077,
+  "publisher": null,
+  "cats": [
+   [
+    14,
+    "Linux Certification Guides"
+   ],
+   [
+    456,
+    "Certification, Training & Reference"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 4,
+  "description": "Are You Preparing for Linux+, Server+, or Cloud+? Why Not Master All Three—Faster? Unlock your IT career potential with the ultimate 3-in-1 fast track guide: COMPTIA SYSTEMS AND CLOUD MASTER – FAST TRACK STUDY GUIDE Linux+ Server+ Cloud+ — All-in-One Study Companion Why This Book? In today’s technology-driven world, CompTIA’s Linux+, Server+, and Cloud+ certifications are more than credentials—they’re your gateway to advanced IT careers . This bundled study guide condenses Linux system administration, enterprise server operations, and cloud architecture into a visual, scenario-driven format designed for rapid learning and strong retention. Whether you’re a system admin in training, a career changer targeting infrastructure and cloud roles, or a professional seeking multi-domain expertise, this book equips you to pass with confidence and perform with precision . What’s Inside 500+ Key Glossary Terms – Exam-focused definitions for quick recall Chapter-Wise Cheat Sheets – Fast reference summaries of every topic 100+ Practice Questions – Step-by-step knowledge checks and explanations Visual Aids & Tables – Diagrams, charts, and comparison guides for clarity Hands-On Examples – Real-world tasks, troubleshooting steps, and scenarios Quick Exam Tips & Alerts – Focus on what matters most and avoid common pitfalls Aligned with the Latest CompTIA Exam Objectives Linux+ (XK0-005): Boot process, filesystems, LVM, RAID, shell, networking, scripting, and troubleshooting Server+ (SK0-005): Hardware installation, RAID/storage, OS administration, virtualization, HA, and disaster recovery Cloud+ (CV0-004): Cloud service models, networking, storage, IAM, automation, observability, and DevOps integration Built for Real-World Application This isn’t just exam prep—it’s a career readiness gui"
+ },
+ {
+  "asin": "B0H64NS3L5",
+  "title": "CompTIA Linux+ Study Guide 2026: Pass the XK0-006 Exam on Your First Try — All-in-One Prep",
+  "bsr": 1460028,
+  "rating": 1.0,
+  "price": 4.99,
+  "pub_date": "2026-06-20",
+  "pages": 152,
+  "publisher": null,
+  "cats": [
+   [
+    106,
+    "Linux Certification Guides"
+   ],
+   [
+    150,
+    "Linux & UNIX Administration"
+   ],
+   [
+    196,
+    "Unix Computer Operating Systems"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "Pass the CompTIA Linux+ (XK0-006) exam with confidence using the CompTIA Linux+ Study Guide 2026 — your all-in-one exam prep resource for the XK0-006 certification. This study guide is fully updated to the latest XK0-006 objectives for 2026, delivering focused, no-fluff content that helps you master Linux administration and pass the exam on your first attempt. Whether you are a beginner or transitioning into IT, this guide simplifies complex topics with clear explanations and real-world examples. What You'll Learn Inside: System Management – Manage boot processes, kernel modules, systemd, GRUB, filesystems (ext4, XFS, Btrfs), logical volume management (LVM), disk partitioning, and system logging (rsyslog, journald). Services and User Management – Configure and maintain network services (SSH, NTP, DNS, DHCP, HTTP/HTTPS, FTP), manage user accounts, groups, permissions (SUID, SGID, sticky bit), and implement Pluggable Authentication Modules (PAM). Security – Harden Linux systems with firewalls (firewalld, iptables, nftables), SELinux, AppArmor, encryption (LUKS, GPG), key-based authentication, and security auditing (auditd, aide). Automation, Orchestration, and Scripting – Write and debug Bash scripts, use cron and systemd timers, automate tasks with Ansible, manage containers with Docker and Podman, and orchestrate with Kubernetes basics. Troubleshooting – Diagnose boot issues, network connectivity problems (ping, traceroute, netstat, ss), performance bottlenecks (top, htop, iostat, vmstat), storage failures, and application errors using logs and diagnostic tools. Why This Study Guide Stands Out: Aligned to the official CompTIA Linux+ XK0-006 objectives – Every chapter maps directly to the 2026 exam blueprint, so you study exactly what is tested. Original diagrams and ref"
+ },
+ {
+  "asin": "B0HHSG7DCC",
+  "title": "CompTIA Linux+ XK0-006: The Complete Study Guide to Linux System Management, Security, Aut",
+  "bsr": 2617598,
+  "rating": 2.0,
+  "price": 9.99,
+  "pub_date": "2026-09-04",
+  "pages": 723,
+  "publisher": null,
+  "cats": [
+   [
+    210,
+    "Linux Certification Guides"
+   ],
+   [
+    767,
+    "Linux"
+   ],
+   [
+    1492,
+    "Security Certifications"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "CompTIA Linux+ XK0-006 is a comprehensive study guide designed for IT professionals, system administrators, and aspiring Linux professionals who want to build practical skills and prepare for the CompTIA Linux+ certification. Linux powers enterprise servers, cloud platforms, web applications, containers, virtualization environments, networking infrastructure, and cybersecurity systems. Success in modern IT requires more than memorizing Linux commands—it requires understanding how Linux systems, services, users, storage, networking, security, automation, and troubleshooting work together in real-world environments. This book provides a structured learning path through the five major areas of the CompTIA Linux+ XK0-006 curriculum: System Management, Services and User Management, Security, Automation, Orchestration and Scripting, and Troubleshooting. Begin by developing a strong understanding of Linux fundamentals, including distributions, the filesystem hierarchy, boot processes, kernels, command-line operations, package management, storage, networking, virtualization, and system administration. Progress into essential administrative tasks involving users, groups, permissions, ACLs, services, processes, and system management. Explore critical Linux security concepts, including authentication, authorization, sudo, PAM, Polkit, firewalls, SELinux, AppArmor, SSH security, cryptography, patch management, vulnerability management, and system hardening. Learn how security controls help protect Linux systems and support secure administration. The book also covers modern Linux automation and administration practices. Discover shell scripting, Python, Git, Infrastructure as Code, configuration management, containers, orchestration, and automation techniques used to improve efficie"
+ },
+ {
+  "asin": "B083QVW33P",
+  "title": "CompTIA Linux+ Certification All-in-One Exam Guide: Exam XK0-004",
+  "bsr": 3427511,
+  "rating": 4.7,
+  "price": 32.99,
+  "pub_date": "2020-02-07",
+  "pages": 752,
+  "publisher": "McGraw Hill",
+  "cats": [
+   [
+    130,
+    "Linux Certification Guides"
+   ],
+   [
+    203,
+    "Client-Server Systems"
+   ],
+   [
+    317,
+    "Enterprise Data Computing"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 507,
+  "description": "Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product. This comprehensive study guide delivers 100% coverage of every topic on the challenging CompTIA Linux+ exam Get complete coverage of all the objectives included on CompTIA Linux+ exam XK0-004 from this up-to-date resource. Written by Linux experts and technology trainers, the book provides learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth answer explanations. Designed to help you pass these challenging exams, this definitive volume also serves as an essential on-the-job reference. Covers all exam topics, including how to: • Use the vi text editor • Work with the Linux shell • Manage Linux users, groups, files, and directories • Administer ownership, permissions, and quotas • Install Linux and manage the boot process • Configure the graphical environment • Manage software and hardware • Write shell scripts • Manage network settings and services • Secure Linux and use encryption Online content includes: • 180 practice exam questions • Downloadable virtual machines • 20+ video clips  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_4\"]', '#CardInstance2VE8oEZusXj_wKmEJWPwGA')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_4',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;m"
+ },
+ {
+  "asin": "B0B5YLW8FC",
+  "title": "CompTIA Linux+ Study Guide: Exam XK0-005 (Sybex Study Guide)",
+  "bsr": 1183080,
+  "rating": 4.5,
+  "price": 36.0,
+  "pub_date": "2022-07-04",
+  "pages": 939,
+  "publisher": "Sybex",
+  "cats": [
+   [
+    61,
+    "Linux Certification Guides"
+   ],
+   [
+    246,
+    "Linux"
+   ],
+   [
+    389,
+    "Network Security"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 116,
+  "description": "The best-selling, hands-on roadmap to acing the new Linux+ exam In the newly updated Fifth Edition of CompTIA Linux+ Study Guide: Exam XK0-005 , IT industry veterans and tech education gurus Richard Blum and Christine Bresnahan deliver a concise and practical blueprint to success on the CompTIA Linux+ exam and in your first role as a Linux network or system administrator. In the book, you’ll find concrete strategies and proven techniques to master Linux system management, security, scripting, containers, automation, and troubleshooting. Every competency tested on the Linux+ exam is discussed here. You’ll also get: Hands-on Linux advice that ensures you’re job-ready on the first day of your new network or sysadmin role Test-taking tips and tactics that decrease exam anxiety and get you ready for the challenging Linux+ exam Complimentary access to the Sybex learning environment, complete with online test bank, bonus practice exams, electronic flashcards, and a searchable glossary Perfect for practicing network and system admins seeking an in-demand and valuable credential for working with Linux servers and computers, CompTIA Linux+ Study Guide: Exam XK0-005, Fifth Edition, will also earn a place in the libraries of people looking to change careers and start down an exciting new path in tech. And save 10% when you purchase your CompTIA exam voucher with our exclusive WILEY10 coupon code.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_5\"]', '#CardInstancezGJp6jkztcNM6y5t4YLsbA')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_5',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:n"
+ },
+ {
+  "asin": "B0FKN1H9XN",
+  "title": "CompTIA Linux+ CERTIFICATION EXAM PREP 2025-2027: Proven Strategies with Realistic Practic",
+  "bsr": 1557661,
+  "rating": 4.2,
+  "price": 9.99,
+  "pub_date": "2025-07-30",
+  "pages": 736,
+  "publisher": null,
+  "cats": [
+   [
+    98,
+    "Linux Certification Guides"
+   ],
+   [
+    375,
+    "Linux"
+   ],
+   [
+    772,
+    "Study & Test-Taking Skills"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 4,
+  "description": "Pass the CompTIA Linux+ Exam with Confidence: Master the XK0-006 with Proven Strategies for Success! Are you ready to fast-track your career with the CompTIA Linux+ certification? Do you need a clear, actionable plan to cut down your revision time and boost your chances of passing on your first attempt? Whether you're aiming to become a systems administrator, cloud engineer, or DevOps professional, Linux+ V8 is your key to success—and this guide will get you there faster and more confidently than ever. Take Chua, an IT support specialist from Singapore, for example. Last year, she faced the same struggles many of us do—two failed attempts at the CompTIA Linux+ exam, with notes scattered everywhere and outdated tutorials. Then, she discovered the CompTIA Linux+ Certification Exam Prep 2025-2027 guide. In just a few focused weeks, using the guide’s diagnostic assessments, lab exercises, and practice drills, Chua boosted her practice test score from 63% to 94%. On exam day, she exceeded the passing score by over 770 points and was promoted to systems administrator within three months. Today, her team turns to her for expert guidance on kernel troubleshooting and container orchestration—all made possible by the hands-on, practical approach in this guide. The latest Linux+ domains bring challenging topics, including SELinux policy tuning, nftables rule translation, Kubernetes pod networking, and live-patching. Candidates often face three key challenges: identifying the most important commands, linking isolated facts into practical workflows, and retaining exam-specific terminology. This guide tackles these hurdles head-on by offering clear command references, real-world scenario-based labs, and memory aids designed to align with CompTIA's official terminology, ensuring you'r"
+ }
+]
