@@ -1,0 +1,272 @@
+[
+ {
+  "asin": "B0HGC383N8",
+  "title": "Autodesk Fusion 360 for Beginners, Step-by-Step: Design, Print, and Fix Real Parts: The CA",
+  "bsr": 75973,
+  "rating": 4.6,
+  "price": 9.99,
+  "pub_date": "2026-08-24",
+  "pages": 113,
+  "publisher": null,
+  "cats": [
+   [
+    2,
+    "Drafting & Mechanical Drawing"
+   ],
+   [
+    2,
+    "Manufacturing Engineering"
+   ],
+   [
+    3,
+    "3D Printing Books"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 51,
+  "description": "If your screen doesn't match the tutorial, you are not the problem. Every Fusion 360 tutorial you open starts on a screen you do not have. In January 2026 Autodesk changed the first thing you see, and most books and videos were made before that. Step one fails, and your first evening goes on hunting for a button instead of designing anything. This book is for the person who wants a real object at the end. A bracket that fits. A replacement knob for the range. A part that survives the printer. Why this one is different: Figures you can actually read. Cropped to the panel the step is about, captioned with where the tool lives, and printed at a size that survives the page. A symptom index written in the words you would actually use. Not \"boundary fill\", but \"why is my sketch still blue\" and \"why can I not select this\". When you are stuck you look up the symptom, not the command name. It tells you why, not just which button. The reason a step exists is the part you can reuse tomorrow on a part this book has never seen. The clearance question, answered with numbers. The three measurements that decide whether two printed parts actually fit, and the one setting that lets you change all of them at once. What to do when Fusion refuses. The error messages you will actually hit, what each one is really telling you, and the way out. Three projects that get harder on purpose. The last one hands you a specification and nothing else, because following a tutorial and designing your own part are different skills , and only one of them is the one you wanted. What it leaves out, so you are not hunting for it: simulation, rendering, animation, and CAM beyond one section on print orientation. Those are real disciplines and each deserves its own book. This one is about getting from an idea, "
+ },
+ {
+  "asin": "B0HH8WV6M4",
+  "title": "Autodesk Fusion for Beginners: Learn CAD by Fixing What Breaks — Sketches, Components, Joi",
+  "bsr": 572693,
+  "rating": 4.6,
+  "price": 0.99,
+  "pub_date": "2026-08-31",
+  "pages": 97,
+  "publisher": null,
+  "cats": [
+   [
+    165,
+    "CAD Graphic Design Guides"
+   ],
+   [
+    169,
+    "Two-Hour Travel Short Reads"
+   ],
+   [
+    226,
+    "Computer Graphic Design"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Most Fusion beginners don't quit because the software is hard. They quit because the book they bought was already out of date, printed too dark to read, or silent the moment something broke. This book is built differently. Autodesk updates Fusion almost every month. So instead of chasing exact button locations that will move again by the time you read this, every chapter teaches you the underlying logic — plus a callout box, \"If Your Screen Looks Different,\" that shows you how to find any tool even after the interface changes. Instead of vague step-by-step instructions with no explanation, you'll learn the four habits that separate a Fusion model that behaves from one that falls apart the moment you try to edit it: organizing parts into components, locking down your sketches, using the Timeline as an editable history instead of a dead end, and driving your model with parameters instead of raw numbers. A hands-on mini project ties all four together before you move on. Instead of abandoning you the moment something goes wrong, the final chapter is a 38-entry troubleshooting table — symptom, likely cause, fix — covering the exact errors that stop beginners cold: sketches that won't fully constrain, joints that rotate the wrong way, STL exports that come out faceted, CAM toolpaths that cut in the wrong place, and file-management headaches like sync conflicts and sluggish files. And instead of one more disconnected tutorial project per chapter, you'll build a phone stand from your very first sketch all the way through joints, a technical drawing, and a 3D-printable export — so you see how a real design actually comes together, start to finish. What's inside: Understanding Fusion's four license types, so you know exactly what Personal Use does and doesn't allow before you get"
+ },
+ {
+  "asin": "B0GX2GHWXS",
+  "title": "Autodesk Fusion 360: A Power Guide for Beginners and Intermediate Users (8th Edition): 202",
+  "bsr": 660618,
+  "rating": 3.7,
+  "price": 39.0,
+  "pub_date": "2026-04-13",
+  "pages": 768,
+  "publisher": null,
+  "cats": [
+   [
+    31,
+    "Drafting & Mechanical Drawing (Books)"
+   ],
+   [
+    40,
+    "Drafting & Mechanical Drawing"
+   ],
+   [
+    223,
+    "CAD Graphic Design Guides"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 7,
+  "description": "Autodesk Fusion 360: A Power Guide for Beginners and Intermediate Users (8th Edition): 2026 is designed for both instructor-led training and self-paced learning, this textbook is an essential resource for engineers, designers, and students aiming to master 3D mechanical design. This comprehensive guide spans 14 chapters and 768 pages , covering key Autodesk Fusion workspaces, including DESIGN, ANIMATION, and DRAWING . It provides a structured approach to creating parametric 3D solid components, assemblies, animations, and detailed 2D drawings . Serving as both a valuable learning tool for beginners and an effective teaching aid for instructors. This edition has been developed using Autodesk Fusion version 2701.1.27 (March 2026) to ensure compatibility with the latest features and enhancements.. What Makes This Book Unique Unlike traditional software manuals, this book goes beyond explaining tools and commands. It emphasizes design principles and real-world application , helping users build both technical skills and conceptual understanding. Step-by-step tutorials in every chapter Real-world mechanical design projects Clear explanations for complex concepts Hands-on exercises for skill development Each chapter concludes with Hands-on Test Drives , enabling learners to practice and reinforce their understanding effectively. Who Should Read This Book This textbook is ideal for: Beginners starting their journey with Autodesk Fusion Intermediate and advanced users seeking structured skill enhancement Faculty members and Autodesk Fusion instructors conducting classroom training The clear, logically organized chapters make complex concepts easy to understand while building a strong foundation in design principles and software workflows. Interactive Learning Support Key tutoria"
+ },
+ {
+  "asin": "B0GSWQHV5Q",
+  "title": "AUTODESK FUSION 360 FOR BEGINNERS AND INTERMEDIATES 2025/2026: Complete Step-by-Step Guide",
+  "bsr": 279280,
+  "rating": 4.5,
+  "price": 5.0,
+  "pub_date": "2026-03-17",
+  "pages": 298,
+  "publisher": null,
+  "cats": [
+   [
+    19,
+    "Manufacturing Engineering"
+   ],
+   [
+    19,
+    "Industrial Design"
+   ],
+   [
+    57,
+    "Industrial Design (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 15,
+  "description": "Most people who download Fusion 360 quit within two weeks. Not because it's too hard. Because nobody showed them the right way to think about it. They watch disconnected tutorials, copy steps they don't understand, build models that break the moment anything changes - - and walk away convinced 3D design isn't for them. It is. This book proves it. Autodesk Fusion 360 for Beginners and Intermediates is the structured, no-assumptions guide that takes you from a blank screen to finished, manufacturable designs - with complete understanding of every step between. WHAT MAKES THIS BOOK DIFFERENT Most Fusion 360 books teach you buttons. This one teaches you thinking. You won't just learn to extrude a shape — you'll understand why parametric modeling works and why that matters every time you edit a design months later. The difference between a designer who fights their CAD software and one who flows through it isn't talent. It's mental models. This book builds them from the ground up. WHAT YOU WILL LEARN Parametric vs. direct modeling Fully constrained sketching — the foundation every stable 3D model stands on and the #1 skill most self-taught users never build correctly Complete 3D modeling: Extrude, Revolve, Sweep, Loft, Shell, patterns, mirrors, multi-body construction, parameters and equations, surface modeling, and T-Spline freeform sculpting Professional assemblies: bodies vs. components, all seven joint types, motion links, degrees of freedom, contact sets, and interference detection Engineering tools: technical drawings, static stress simulation, full CAM workflow covering 2D milling, 3D milling, toolpath simulation, and G-code post-processing Rendering, animation, and 3D printing for FDM, resin, and SLS — including snap fits, press fits, and heat-set thread inserts AND "
+ },
+ {
+  "asin": "B0GX32T2GP",
+  "title": "AUTODESK FUSION 360 FOR ABSOLUTE BEGINNERS 2026: A Visual Step-by-Step Guide to 3D Printin",
+  "bsr": 507702,
+  "rating": 4.6,
+  "price": 8.99,
+  "pub_date": "2026-04-24",
+  "pages": 160,
+  "publisher": null,
+  "cats": [
+   [
+    28,
+    "Drafting & Mechanical Drawing"
+   ],
+   [
+    109,
+    "Drafting & Mechanical Drawing (Books)"
+   ],
+   [
+    136,
+    "CAD Graphic Design Guides"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 5,
+  "description": "Starting Fusion 360 for the first time after getting a 3D printer feels exciting at first. Then the confusion begins after opening the interface and trying to create your first design. The interface feels overwhelming, the tools look unfamiliar, and almost every tutorial seems to assume you already understand sketches, constraints, assemblies, and parametric workflows before even getting started. For many beginners, Fusion 360 does not feel difficult because they lack creativity or intelligence. It feels difficult because the learning process itself is often disconnected, rushed, and unnecessarily intimidating. Instead of building confidence step by step, most beginners end up jumping between scattered tutorials, guessing their way through important tools, and struggling to understand how everything connects together in real projects. That is exactly why this book was created. AUTODESK FUSION 360 FOR ABSOLUTE BEGINNERS 2026 is a visual step-by-step guide designed to help complete beginners confidently learn modern 3D modeling, CAD design, and 3D printing workflows through practical projects, beginner-friendly explanations, structured visual learning, and real-world guidance that makes sense. Instead of throwing random tools at beginners and expecting everything to click instantly, this guide teaches Fusion 360 through practical creation and hands-on learning designed specifically for beginners who want to understand both the tools and the workflows behind real projects. Inside this beginner-friendly guide, you will learn how to: ✔ Navigate the Autodesk Fusion 360 2026 workspace confidently ✔ Understand sketches, dimensions, constraints, bodies, components, assemblies, and parametric workflows without feeling lost ✔ Create accurate 3D models using Extrude, Revolve, Sweep"
+ },
+ {
+  "asin": "B0H853NC3Z",
+  "title": "Autodesk Fusion: Introduction to Parametric Modeling (Mixed Units)",
+  "bsr": 3865947,
+  "rating": 5.0,
+  "price": 60.03,
+  "pub_date": "2026-07-08",
+  "pages": 769,
+  "publisher": null,
+  "cats": [
+   [
+    599,
+    "Graphics & Multimedia Programming"
+   ],
+   [
+    2043,
+    "Mechanical Engineering (Books)"
+   ],
+   [
+    2191,
+    "CAD Graphic Design Guides"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Autodesk® Fusion®:Introduction to Parametric Modeling provides you with an understanding of the parametric design philosophy using the Autodesk® Fusion® software. Through a hands-on, practice-intensive curriculum, you will learn the key skills and knowledge required to design models using the Autodesk Fusion software. Software Version This course was developed using Autodesk Fusion version 2703.1.20. As a cloud-based platform, updates are frequently released for Fusion. If you are using a different version of Fusion, you may notice some differences in images or workflows compared to what is presented in this content. Topics Covered Understanding the Autodesk Fusion interface Creating, constraining, and dimensioning 2D sketches Creating and editing solid 3D features Creating and using construction features Creating equations and working with parameters Manipulating the feature history of a design Duplicating geometry in a design Creating components and features in a multi-component design Documenting a design in drawings Creating components in a single design file Defining motion in a multi-component design Creating and editing T-spline geometry  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_5\"]', '#CardInstanceI279RXh_Si7exW6AVf7_4Q')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_5',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_s"
+ },
+ {
+  "asin": "B07H5V9CN1",
+  "title": "Autodesk Fusion 360 Basics Tutorial",
+  "bsr": 1498152,
+  "rating": 4.4,
+  "price": 9.99,
+  "pub_date": "2018-09-06",
+  "pages": 458,
+  "publisher": null,
+  "cats": [
+   [
+    100,
+    "Drafting & Mechanical Drawing"
+   ],
+   [
+    434,
+    "Drafting & Mechanical Drawing (Books)"
+   ],
+   [
+    642,
+    "CAD Graphic Design Guides"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 112,
+  "description": "The Autodesk Fusion 360 Basics Tutorial book helps you to learn parametric modeling using the Autodesk Fusion 360 software. This book will get you started with basics of part modeling, assembly modeling, animations, and drawings. Next, it teaches you some additional part modeling tools, top down assembly feature, assembly joints, and dimension & annotations. Brief explanations, practical examples and step wise instructions make this tutorial a useful guide.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_7\"]', '#CardInstanceWVaVxWOHzfpQAOEbcIh4_w')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_7',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-am"
+ },
+ {
+  "asin": "B09MTCF184",
+  "title": "Autodesk Fusion 360: A Power Guide for Beginners and Intermediate Users (5th Edition)",
+  "bsr": 527507,
+  "rating": 4.4,
+  "price": 33.93,
+  "pub_date": "2021-11-30",
+  "pages": 760,
+  "publisher": null,
+  "cats": [
+   [
+    18,
+    "CAD Graphic Design Guides"
+   ],
+   [
+    27,
+    "Drafting & Mechanical Drawing (Books)"
+   ],
+   [
+    29,
+    "Drafting & Mechanical Drawing"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 45,
+  "description": "Autodesk Fusion 360: A Power Guide for Beginners and Intermediate Users (5th Edition) textbook has been designed for instructor-led courses as well as self-paced learning. It is intended to help engineers and designers, interested in learning Fusion 360, to create 3D mechanical designs. This textbook is a great help for new Fusion 360 users and a great teaching aid for classroom training. This textbook consists of 14 chapters, a total of 760 pages covering major workspaces of Fusion 360 such as DESIGN, ANIMATION, and DRAWING. The textbook teaches you to use Fusion 360 mechanical design software for building parametric 3D solid components and assemblies as well as creating animations and 2D drawings. This edition of textbook has been developed using Autodesk Fusion 360 software version: 2.0.11415. This textbook not only focuses on the usages of the tools/commands of Fusion 360 but also on the concept of design. Every chapter in this textbook contains tutorials that provide users with step-by-step instructions for creating mechanical designs and drawings with ease. Moreover, every chapter ends with hands-on test drives that allow users to experience for themselves the user friendly and powerful capacities of Fusion 360. Table of Contents: Chapter 1. Introducing Fusion 360 Chapter 2. Drawing Sketches with Autodesk Fusion 360 Chapter 3. Editing and Modifying Sketches Chapter 4. Applying Constraints and Dimensions Chapter 5. Creating Base Feature of Solid Models Chapter 6. Creating Construction Geometries Chapter 7. Advanced Modeling - I Chapter 8. Advanced Modeling - II Chapter 9. Patterning and Mirroring Chapter 10. Editing and Modifying 3D Models Chapter 11. Working with Assemblies - I Chapter 12. Working with Assemblies - II Chapter 13. Creating Animation of a Design Cha"
+ },
+ {
+  "asin": "B0HGP5D1GN",
+  "title": "Autodesk Fusion 360 For Beginners: Complete Step-by-Step Guide to CAD and 3D Modeling for ",
+  "bsr": 452692,
+  "rating": 5.0,
+  "price": 4.99,
+  "pub_date": "2026-08-26",
+  "pages": 146,
+  "publisher": null,
+  "cats": [
+   [
+    17,
+    "Drafting & Mechanical Drawing"
+   ],
+   [
+    92,
+    "Drafting & Mechanical Drawing (Books)"
+   ],
+   [
+    110,
+    "CAD Graphic Design Guides"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2,
+  "description": "Start Learning Autodesk Fusion 360 with Confidence Autodesk Fusion 360 for Beginners is a practical, beginner-friendly guide designed for anyone who wants to understand 3D design, CAD modeling, prototyping, and digital manufacturing with confidence . Whether you are a student, maker, hobbyist, designer, or small-business owner, this book helps you move from your first time opening Fusion 360 to creating useful designs step by step. Fusion 360 can seem complicated at first because of its many tools, workspaces, and technical features. This guide removes the confusion by explaining everything in simple language and showing you how each feature works . You will learn how to create accurate sketches, build detailed 3D models, organize designs properly, prepare files for 3D printing, and understand the workflow used by modern creators and designers. Inside this book, you will learn how to: Understand the Fusion 360 interface, workspaces, navigation tools, and file organization Create accurate sketches using dimensions, constraints, and essential sketching techniques Build 3D models using tools such as extrude, revolve, sweep, loft, fillet, chamfer, and more Work with components, assemblies, joints, and design relationships Edit and improve designs using parameters and timeline-based modeling Prepare models for 3D printing and digital fabrication Understand basic CAM concepts, CNC workflows, and manufacturing preparation Create technical drawings and professional design presentations Import, export, and manage common design file formats Solve common beginner problems and avoid mistakes that slow down your progress To make learning easier, this book includes: Step-by-step instructions that guide you through each process Beginner-friendly examples to help you practice new skill"
+ },
+ {
+  "asin": "B07RBYKR5M",
+  "title": "AUTODESK FUSION 360 EXERCISES: 200 Practice Drawings For FUSION 360 and Other Feature-Base",
+  "bsr": 1379743,
+  "rating": 4.0,
+  "price": 9.99,
+  "pub_date": "2019-04-30",
+  "pages": 112,
+  "publisher": null,
+  "cats": [
+   [
+    90,
+    "Drafting & Mechanical Drawing"
+   ],
+   [
+    121,
+    "Industrial Design"
+   ],
+   [
+    252,
+    "Drafting & Mechanical Drawing (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 127,
+  "description": "Watched Fusion 360 tutorials but still can't design a part on your own? Practice is the missing step. This workbook gives you 200 real, fully dimensioned practice drawings, from simple sketches to advanced machine parts, so you build genuine Fusion 360 skill one part at a time. Why this book 200 practice drawings , each with an image of the finished 3D model and every dimension you need (mm). Basic to advanced: start simple and progress to complex industrial parts. Works with any version of Autodesk Fusion, including the 2026 interface: the drawings don't depend on menus or buttons. Real engineering drawings in Third Angle Projection, the standard on industrial prints worldwide. Use it your way: every exercise stands alone, so teachers can assign them and learners can pick any part. Also works with SolidWorks, Inventor, Onshape, FreeCAD and other 3D CAD software. Who it's for: beginners who finished a tutorial or course and need practice; engineering and design students; makers and 3D-printing hobbyists who want to design their own parts; instructors who need ready-made class exercises. Please note: this is a practice workbook, not a step-by-step tutorial. You should know the basic Fusion 360 tools and how to read orthographic views. Ready for more? See the Autodesk Fusion 360 All-in-One Workbook with 500+ exercises.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_2\"]', '#CardInstanceZqR2OUMaHy7vU8nPWvePng')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_2',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-s"
+ }
+]
