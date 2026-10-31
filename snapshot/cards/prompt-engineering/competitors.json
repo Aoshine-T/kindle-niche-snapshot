@@ -1,0 +1,272 @@
+[
+ {
+  "asin": "B0G4BBJRNP",
+  "title": "AI Prompt Engineering: Foundations of Communication with LLMs – Building Generative AI and",
+  "bsr": 61529,
+  "rating": 4.5,
+  "price": 9.92,
+  "pub_date": "2025-11-27",
+  "pages": 355,
+  "publisher": null,
+  "cats": [
+   [
+    1,
+    "Technical Writing Reference"
+   ],
+   [
+    1,
+    "Documentation & Technical Writing"
+   ],
+   [
+    4,
+    "Technical Writing Reference (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 170,
+  "description": "“Writing a really great prompt for a chatbot persona is an amazingly high-leverage skill and an early example of programming in a little bit of natural language.” — Sam Altman, OpenAI Prompt engineering is what determines every AI output. Even as large language models continue to develop at a dizzying speed, a majority of AI-driven tools, content, and applications suffer from what the online community has coined as “slop.” The important realization is this: AI already has the capability , but it can only go as far as the user who is prompting it. Computer scientist and bestselling author Nelson Ming leads the discussion across 44 modules organized into eight chapters. As you progress through the various levels of prompt design, techniques, and systems, each step is supported by clear examples and visual diagrams, providing a thorough, in-depth understanding of the topic. Main Topics • Foundational prompt components and techniques • Prompting AI agents and autonomous systems • Prompting for image and video generation • Building and maintaining prompt systems Features • Personal insights from production environments • Prompt examples • 60+ visualizations and figures • 140+ primary research citations Who This Book Is For This book is written for developers, AI architects, engineers, and enthusiasts who are interested in replicable, high-quality outcomes. You do not need any prior knowledge of coding or machine learning. The material is presented at an intermediate level. Table of Contents • Chapter I – Introduction to Prompt Engineering • Chapter II – Prompting Techniques • Chapter III – Prompting AI Agents • Chapter IV – Image and Video Generation • Chapter V – Building Prompt Systems • Chapter VI – Evaluation and Testing • Chapter VII – Governance and Risk • Chapter VIII"
+ },
+ {
+  "asin": "B0D4FBPLX1",
+  "title": "Prompt Engineering for Generative AI",
+  "bsr": 667786,
+  "rating": 4.2,
+  "price": 47.5,
+  "pub_date": "2024-05-16",
+  "pages": 691,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    8,
+    "Machine Theory (Books)"
+   ],
+   [
+    16,
+    "Computer Neural Networks"
+   ],
+   [
+    26,
+    "Natural Language Processing (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 121,
+  "description": "Large language models (LLMs) and diffusion models such as ChatGPT and Stable Diffusion have unprecedented potential. Because they have been trained on all the public text and images on the internet, they can make useful contributions to a wide variety of tasks. And with the barrier to entry greatly reduced today, practically any developer can harness LLMs and diffusion models to tackle problems previously unsuitable for automation. With this book, you'll gain a solid foundation in generative AI, including how to apply these models in practice. When first integrating LLMs and diffusion models into their workflows, most developers struggle to coax reliable enough results from them to use in automated systems. Authors James Phoenix and Mike Taylor show you how a set of principles called prompt engineering can enable you to work effectively with AI. Learn how to empower AI to work for you. This book explains: The structure of the interaction chain of your program's AI model and the fine-grained steps in between How AI model requests arise from transforming the application problem into a document completion problem in the model training domain The influence of LLM and diffusion model architecture—and how to best interact with it How these principles apply in practice in the domains of natural language processing, text and image generation, and code  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_6\"]', '#CardInstancew6Uo4ApEF1AtSDDhy_rnPg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_6',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-s"
+ },
+ {
+  "asin": "B0GZYPV2W9",
+  "title": "Prompt Engineering Specialization: Become a Prompt Engineering Expert: Practical AI Patter",
+  "bsr": 743817,
+  "rating": 5.0,
+  "price": 2.99,
+  "pub_date": "2026-05-07",
+  "pages": 446,
+  "publisher": null,
+  "cats": [
+   [
+    746,
+    "Generative AI"
+   ],
+   [
+    963,
+    "Generative AI (Books)"
+   ],
+   [
+    3171,
+    "Business & Money Skills"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "Master the practical skill behind the AI revolution. Generative AI is changing how people write, research, plan, analyze, create, study, and solve problems. But the real advantage does not come from simply opening an AI tool and typing a question. The advantage comes from knowing how to think with AI. Prompt Engineering Specialization is a practical, beginner-friendly, and deeply useful guide to using generative AI as an extension of your mind. Written for professionals, students, creators, entrepreneurs, educators, and everyday users, this book teaches you how to design better prompts, guide AI conversations, improve outputs, check quality, and build repeatable workflows that save time and raise the level of your thinking. Inside, you will learn how to: Write clearer prompts that produce stronger, more useful answers Use roles, context, constraints, examples, and output formats effectively Turn AI into a brainstorming partner, research assistant, writing coach, planning tool, and productivity system Create outlines, summaries, presentations, reports, marketing content, emails, and learning plans faster Extract key information from documents and organize it into usable insights Build prompt patterns for business, education, creativity, analysis, and daily work Avoid common AI mistakes, weak prompts, hallucinations, vague outputs, and overreliance Use verification, revision, and human judgment to keep AI work accurate and responsible This book moves from the foundations of prompt engineering to advanced workflow thinking. You will learn not only what to type, but how to structure your thinking before, during, and after an AI conversation. Each chapter includes practical examples, reflection prompts, exercises, mistake warnings, and action steps so you can immediately app"
+ },
+ {
+  "asin": "B0FHDQ62YJ",
+  "title": "AI Prompt Engineering Bible (7 Books in 1): Beginner-to-Pro System to Master ChatGPT and G",
+  "bsr": 45292,
+  "rating": 4.6,
+  "price": 9.99,
+  "pub_date": "2025-07-12",
+  "pages": 175,
+  "publisher": null,
+  "cats": [
+   [
+    1,
+    "Computer Image Processing"
+   ],
+   [
+    4,
+    "Expert Systems"
+   ],
+   [
+    4,
+    "Small Business Advertising"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 397,
+  "description": "“View this workbook using the free Kindle app for best results.” If you want to master ChatGPT, Midjourney, or other Generative AI tools but feel stuck, overwhelmed, or unsure of what to type, this is the book for you. FREE POWER BONUS inside: Get instant access to a downloadable Prompt Toolkit with 500+ expert-crafted prompts for writing, visuals, voice, video, multimodal tools, and even making money with AI. Enjoy the flexibility! Dive deeper into your book here, or download your favorite prompts instantly as a handy PDF. SPECIAL FREE GIFT: Faceless Creator Bundle - an exclusive toolkit designed to help you build a profitable, AI-powered brand without ever showing your face. It includes done-for-you prompts, a faceless brand ebook, a checklist, a workbook, and an expert strategy guide to grow privately and profitably. You’ve seen what AI can do—write blog posts, create viral content, generate art, narrate audio, and even compose music. However, when you try it, the results are often random, repetitive, or completely off-target. You’re not the only one. Most people struggle with AI not because it’s broken, but because they don’t know how to communicate with it effectively. And that language is prompt engineering. The good news? Prompting is not a secret skill for tech elites. It’s a learnable framework. This book will teach you how to use it, providing practical guidance and step-by-step instructions. In AI Prompt Engineering Bible (7 books in 1) , you’ll learn how to: Use the powerful framework to structure prompts for crystal-clear results every time Turn vague requests into clear commands that get AI tools to deliver exactly what you want Write prompts that generate blog posts, marketing copy, professional emails, stories, and scripts Create AI-generated art , uniqu"
+ },
+ {
+  "asin": "B0DPLNK9GN",
+  "title": "AI Engineering: Building Applications with Foundation Models",
+  "bsr": 32806,
+  "rating": 4.6,
+  "price": 43.7,
+  "pub_date": "2024-12-04",
+  "pages": 875,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    1,
+    "Enterprise Applications"
+   ],
+   [
+    1,
+    "Natural Language Processing"
+   ],
+   [
+    1,
+    "Computer Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1019,
+  "description": "Recent breakthroughs in AI have not only increased demand for AI products, they've also lowered the barriers to entry for those who want to build AI products. The model-as-a-service approach has transformed AI from an esoteric discipline into a powerful development tool that anyone can use. Everyone, including those with minimal or no prior AI experience, can now leverage AI models to build applications. In this book, author Chip Huyen discusses AI engineering: the process of building applications with readily available foundation models. The book starts with an overview of AI engineering, explaining how it differs from traditional ML engineering and discussing the new AI stack. The more AI is used, the more opportunities there are for catastrophic failures, and therefore, the more important evaluation becomes. This book discusses different approaches to evaluating open-ended models, including the rapidly growing AI-as-a-judge approach. AI application developers will discover how to navigate the AI landscape, including models, datasets, evaluation benchmarks, and the seemingly infinite number of use cases and application patterns. You'll learn a framework for developing an AI application, starting with simple techniques and progressing toward more sophisticated methods, and discover how to efficiently deploy these applications. Understand what AI engineering is and how it differs from traditional machine learning engineering Learn the process for developing an AI application, the challenges at each step, and approaches to address them Explore various model adaptation techniques, including prompt engineering, RAG, fine-tuning, agents, and dataset engineering, and understand how and why they work Examine the bottlenecks for latency and cost when serving foundation models "
+ },
+ {
+  "asin": "B0DM3VLNSK",
+  "title": "Prompt Engineering for LLMs: The Art and Science of Building Large Language Model–Based Ap",
+  "bsr": 847767,
+  "rating": 4.0,
+  "price": 51.78,
+  "pub_date": "2024-11-04",
+  "pages": 471,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    35,
+    "Web Services"
+   ],
+   [
+    61,
+    "Web Services & APIs"
+   ],
+   [
+    119,
+    "Natural Language Processing (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 65,
+  "description": "Large language models (LLMs) are revolutionizing the world, promising to automate tasks and solve complex problems. A new generation of software applications are using these models as building blocks to unlock new potential in almost every domain, but reliably accessing these capabilities requires new skills. This book will teach you the art and science of prompt engineering-the key to unlocking the true potential of LLMs. Industry experts John Berryman and Albert Ziegler share how to communicate effectively with AI, transforming your ideas into a language model-friendly format. By learning both the philosophical foundation and practical techniques, you'll be equipped with the knowledge and confidence to build the next generation of LLM-powered applications. Understand LLM architecture and learn how to best interact with it Design a complete prompt-crafting strategy for an application Gather, triage, and present context elements to make an efficient prompt Master specific prompt-crafting techniques like few-shot learning, chain-of-thought prompting, and RAG  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstancem4bgusaxbGB-LQnwuXO2Bg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 2"
+ },
+ {
+  "asin": "B0HLCSQNJP",
+  "title": "The Prompt Engineering Masterclass: A Practical Guide to Writing Better AI Prompts and Get",
+  "bsr": 816283,
+  "rating": 5.0,
+  "price": 2.99,
+  "pub_date": "2026-09-29",
+  "pages": 96,
+  "publisher": null,
+  "cats": [
+   [
+    473,
+    "Two-Hour Computers & Technology Short Reads"
+   ],
+   [
+    1086,
+    "AI & Semantics"
+   ],
+   [
+    1184,
+    "Two-Hour Business & Money Short Reads"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Learn prompt engineering the practical way. Write clearer AI prompts, fix bad outputs and get consistent, useful results from any AI tool.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_7\"]', '#CardInstance9CY49h2bfaAmgpv9eXl9bQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_7',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{display:none}._tell-amazon-desktop_style_tell_amazon_freeform_text__DOb62{margin:10px 0}._tell-amazon-desktop_style_tell_amazon_try_again_message__3L5ej{display:none;float:left}._tell-amazon-desktop_style_t"
+ },
+ {
+  "asin": "B0HKWBXKB9",
+  "title": "Prompt Engineering - From Prompt to AI Systems: A practical playbook for context design, e",
+  "bsr": 826056,
+  "rating": 4.6,
+  "price": 1.59,
+  "pub_date": "2026-09-24",
+  "pages": 67,
+  "publisher": null,
+  "cats": [
+   [
+    201,
+    "Information Management"
+   ],
+   [
+    487,
+    "Two-Hour Computers & Technology Short Reads"
+   ],
+   [
+    487,
+    "Software Testing"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "AMove beyond better prompts. Learn how to engineer better AI systems. Prompt engineering has evolved. What began as the craft of writing effective instructions for large language models is becoming a broader discipline involving context engineering, retrieval, evaluation, structured outputs, tools, agents, multimodal interaction, security, governance, cost optimization, and production operations. Prompt Engineering Handbook: From Prompt to AI Systems is a practical guide for professionals who want to move from experimenting with AI to designing dependable AI-powered workflows and systems. Rather than offering another collection of “magic prompts,” this handbook develops a systematic approach to working with modern generative AI. Readers will learn how to: • Design prompts around goals, context, constraints, evidence, and output contracts • Build reusable prompt and context templates • Understand when prompting alone is insufficient • Ground AI applications with retrieval-augmented generation (RAG) • Design evaluation frameworks for quality, reliability, and safety • Use structured outputs and tool calling effectively • Build practical AI-agent workflows • Design multimodal interactions involving text, images, documents, and other inputs • Defend applications against prompt injection and unsafe instructions • Establish governance and human oversight for enterprise AI • Optimize token consumption, latency, and operating cost • Monitor AI systems in production • Translate AI capabilities into repeatable business workflows Throughout the handbook, concepts are reinforced through frameworks, diagrams, templates, comparison tables, exercises, implementation guidance, and realistic business cases. Whether you are a business professional adopting AI, a developer building AI app"
+ },
+ {
+  "asin": "B0HNGSSVL6",
+  "title": "Prompt Engineering for Professionals: Master the Art of Talking to AI for Career Growth (A",
+  "bsr": 690326,
+  "rating": 4.6,
+  "price": 0.99,
+  "pub_date": "2026-10-18",
+  "pages": 48,
+  "publisher": null,
+  "cats": [
+   [
+    156,
+    "90-Minute Computers & Technology Short Reads"
+   ],
+   [
+    384,
+    "90-Minute Business & Money Short Reads"
+   ],
+   [
+    584,
+    "Business"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Are you tired of wasting hours staring at a blinking cursor, trying to write boardroom-ready reports? Do you feel stuck in the corporate grind, while a quiet, invisible gap opens up between you and the tech-savvy elite who get promoted faster? There is a brutal realignment happening inside the modern corporate office. Over 95% of white-collar professionals are using artificial intelligence as a basic, glorified search bar. They type in lazy, five-word prompts, receive average, robotic text, and wonder why their careers are still stagnant. But a select group of the top 5% have discovered a dark corporate secret: AI is not a chatbot; it is an infinitely scalable, highly intelligent workforce waiting to be directed. The corporate race won't be won by working harder or sleeping less. It will be won by mastering the language of advanced prompt engineering . In Prompt Engineering for Professionals: Master the Art of Talking to AI for Career Growth , you will unlock a practical, framework-driven field manual written specifically for ambitious white-collar employees, team leaders, and managers. You will discover how to transition from a mere operator to an Executive Director , completely wiping out 80% of your administrative drag and freeing up your calendar for deep, irreplaceable human leadership. Inside this book, you will unlock: The Multi-Persona Delegation Model: How to assign distinct corporate identities to force AI out of its generic default setting and extract expert-level strategic insights. The \"Board of Directors\" Technique: How to summon an artificial panel of domain experts (CFO, CMO, COO) to stress-test your business proposals in private before pitching to management. Few-Shot & Chain-of-Thought Architectures: Precision logic models that systematically eliminate"
+ },
+ {
+  "asin": "B0H1T2GSH7",
+  "title": "AI Prompt Engineering Bible for Creators: 14 Day Generative AI Action Plan to Turn Prompts",
+  "bsr": 239781,
+  "rating": 4.8,
+  "price": 7.99,
+  "pub_date": "2026-06-09",
+  "pages": 155,
+  "publisher": null,
+  "cats": [
+   [
+    14,
+    "Online Advertising"
+   ],
+   [
+    30,
+    "Business Writing Skills"
+   ],
+   [
+    40,
+    "Digital Media"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 128,
+  "description": "Do you have a folder full of \"1,000+ Mega-Prompts\" but haven't made a single dollar from any of them? You keep researching AI tools, watching tutorials, and collecting prompts, but nothing you create is making money. Are you tired of \"Hello World\" examples and generic AI advice that sounds like it was written by a robot? You are not alone. Many digital creators feel \"AI Paralysis\": the overwhelming anxiety of trying to keep up with 3,000+ new tools while failing to produce a single consistent result for a client or a profitable product for themselves. The secret isn't more prompts. It is a system. In AI Prompt Engineering Bible for Creators, you will stop \"playing\" with AI and start profiting from it. This is not a dictionary of technical terms; it is a 14-day action plan designed to turn your ideas into ready-to-sell digital products . IN JUST TWO WEEKS: Your 14-Day Rapid-Launch Blueprint . Forget \"learning\" for the sake of learning. In exactly 14 days, you won't just understand AI. You will have a finished, live digital product ready for its first customer . Here is exactly how: Week 1: Master the System Logic. Forget memorizing prompts. Learn the underlying architecture of Generative AI, identify your most profitable product path, and build skills that remain relevant even as the tools change. Week 2: Build, Refine, and Launch. Move beyond generic text. Follow \"click-here-then-do-this\" instructions to build PDFs, courses, templates, and specialized services, refine your \"Anti-Robotic\" output, and open your storefront before Day 14 ends. The \"Anti-Robotic\" Framework : Proven techniques to ensure your AI output is indistinguishable from human talent, so every product you sell looks polished and professional. The 3-Tool Tech Stack : Stop the infinite scroll. Discover th"
+ }
+]
