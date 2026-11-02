@@ -1,25 +1,25 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-02T02:44:42Z",
+ "generated_at": "2026-11-02T02:56:48Z",
  "topics": 104,
- "cards": 95,
+ "cards": 98,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 56,
- "elapsed_seconds": 855,
+ "requests": 103,
+ "elapsed_seconds": 1581,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 493
   },
   "deep": {
-   "words": 4,
-   "requests": 56,
-   "seconds": 855
+   "words": 7,
+   "requests": 103,
+   "seconds": 1581
   },
   "seeds": {
    "seeds": 34
@@ -29,7 +29,10 @@
   "credit-repair",
   "retirement-planning",
   "real-estate-investing",
-  "stock-market"
+  "stock-market",
+  "etsy-selling",
+  "youtube-channel",
+  "self-publishing"
  ],
  "stopped": null,
  "card_index": {
@@ -152,6 +155,10 @@
   "english-grammar": {
    "keyword": "english grammar",
    "fetched_at": "2026-10-28"
+  },
+  "etsy-selling": {
+   "keyword": "etsy selling",
+   "fetched_at": "2026-11-02"
   },
   "fix-common": {
    "keyword": "fix common",
@@ -345,6 +352,10 @@
    "keyword": "self-help author",
    "fetched_at": "2026-10-30"
   },
+  "self-publishing": {
+   "keyword": "self publishing",
+   "fetched_at": "2026-11-02"
+  },
   "side-hustles": {
    "keyword": "side hustles",
    "fetched_at": "2026-11-01"
@@ -408,6 +419,10 @@
   "walt-disney": {
    "keyword": "walt disney",
    "fetched_at": "2026-10-22"
+  },
+  "youtube-channel": {
+   "keyword": "youtube channel",
+   "fetched_at": "2026-11-02"
   },
   "youtube-millionaire": {
    "keyword": "youtube millionaire",
@@ -475,6 +490,8 @@
   "cards/electrical-engineering/competitors.json": "30f2437bf0305dd7e0168d4c87631b7f1e9c8042fabf2659e5d6578084343fc5",
   "cards/english-grammar/card.md": "025c36abb2fac5ffcac7e6abb11f4fb30919897a5dd4312a1f86fe7b61418190",
   "cards/english-grammar/competitors.json": "3db5b5a578611690d859721e1da08711f240a72a89fd9ce99a9fa95c3d1293bb",
+  "cards/etsy-selling/card.md": "9693b742e8893bb5df127e7cc444016d32e7d45a5e4fba60d4178622d0da178e",
+  "cards/etsy-selling/competitors.json": "c6538e81408a3a9859587bed5d8f4eb737243b00cc73aa319dee1fadec3aaa27",
   "cards/fix-common/card.md": "54cdd5211ecc14cb4ec034431f833a6efc8e78c2f6a382173d1f4bfb54fe1074",
   "cards/fix-common/competitors.json": "921d7e2230e3a70b52e7e53df611359724da4fe6c2327c18639809d5fec5687b",
   "cards/foolproof-recipes/card.md": "7199a29c06a72368c6193fd2cd8ffad85bb7cc0dbc65d9115aedd6344fa6015d",
@@ -571,6 +588,8 @@
   "cards/ruined-earth/competitors.json": "939811b24d16ab264b7ff3b41a2c802b4449fd2f763700ba09533e737c5d2a64",
   "cards/self-help-author/card.md": "8d0d6a28ec4446ec4519cefab64a64171ac27c85311dcfa1f0c4ee77e9049221",
   "cards/self-help-author/competitors.json": "f95295b078e8065d2007d61bb6d4d6d3fff4605f7403108f24694947a05b4bb5",
+  "cards/self-publishing/card.md": "d4bb87708a35f6e9753dd231eaff19d6ef8edf85ba57c9bdacfd6900597543fc",
+  "cards/self-publishing/competitors.json": "5888e16f3496c4e35473647e7eb33f556b9428ef0e52413069cc4c29974cddfd",
   "cards/side-hustles/card.md": "c7823745bf007bdc891e74ec7acbe2083df6eecd240d432635282d7538130715",
   "cards/side-hustles/competitors.json": "1ec8dfefe940addc77632b4c4c4ef81282c0de61520d872fcc4841fd0b4e5df5",
   "cards/silicon-valley/card.md": "ff1bfb1ebd077cdf282f85cbc77b295802a05feb698d31770e0e0a3168697ffb",
@@ -603,255 +622,239 @@
   "cards/vocabulary-builder/competitors.json": "86811ac4de945f25b057cceb8f21ccc12a83d6126dc72f646b4e75adbb5aefcb",
   "cards/walt-disney/card.md": "170705276d6ddde822cec8910998e741ef73292f21369bac2b2dffd3f754719d",
   "cards/walt-disney/competitors.json": "c705d308f3bff26bd9486b2fdbdff762d90d31c1c8a1dd7de4a3404334f2de24",
+  "cards/youtube-channel/card.md": "cfe90b678080185fd1f5e1bd024f42b018434edac6dc3ce0b66a1dc9e5ad9c6c",
+  "cards/youtube-channel/competitors.json": "17b24e65678d258fe84a6b6aa881c5c58dad27aa1bf23a3e546a46bb8ab66498",
   "cards/youtube-millionaire/card.md": "22d672d8f9adc57574a27c6e41d5ba30c1d4e6bfc42e68dd3694b8f7a3a2d4bb",
   "cards/youtube-millionaire/competitors.json": "9d4a6f8949467305cfd5dbcaace30fa1b27e40e58cce02539b9de2896f5f63fb",
   "topics.json": "aa085f1df1cf4c2e083877195355842fdb622f5eaec041f2491098888dbcbdf2"
  },
  "queue": [
   {
-   "slug": "etsy-selling",
-   "keyword": "etsy selling",
-   "position": 1,
-   "eta_date": "2026-11-02"
-  },
-  {
-   "slug": "youtube-channel",
-   "keyword": "youtube channel",
-   "position": 2,
-   "eta_date": "2026-11-02"
-  },
-  {
-   "slug": "self-publishing",
-   "keyword": "self publishing",
-   "position": 3,
-   "eta_date": "2026-11-02"
-  },
-  {
    "slug": "excel",
    "keyword": "excel",
-   "position": 4,
+   "position": 1,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 5,
+   "position": 2,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 6,
+   "position": 3,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 7,
+   "position": 4,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 8,
+   "position": 5,
    "eta_date": "2026-11-02"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 9,
-   "eta_date": "2026-11-03"
+   "position": 6,
+   "eta_date": "2026-11-02"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 10,
+   "position": 7,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 11,
+   "position": 8,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 12,
+   "position": 9,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 13,
+   "position": 10,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 14,
+   "position": 11,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 15,
+   "position": 12,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 16,
+   "position": 13,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 17,
+   "position": 14,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 18,
+   "position": 15,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 19,
+   "position": 16,
    "eta_date": "2026-11-03"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 20,
-   "eta_date": "2026-11-04"
+   "position": 17,
+   "eta_date": "2026-11-03"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 21,
+   "position": 18,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 22,
+   "position": 19,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 23,
+   "position": 20,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 24,
+   "position": 21,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "practice-tests",
    "keyword": "practice tests",
-   "position": 25,
+   "position": 22,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
-   "position": 26,
+   "position": 23,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 27,
+   "position": 24,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 28,
+   "position": 25,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 29,
+   "position": 26,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 30,
+   "position": 27,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "household-cybersecurity",
    "keyword": "household cybersecurity",
-   "position": 31,
-   "eta_date": "2026-11-05"
+   "position": 28,
+   "eta_date": "2026-11-04"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 32,
+   "position": 29,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "coding-required",
    "keyword": "coding required",
-   "position": 33,
+   "position": 30,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 34,
+   "position": 31,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "class-act",
    "keyword": "class act",
-   "position": 35,
+   "position": 32,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "adult-ccrn",
    "keyword": "adult ccrn",
-   "position": 36,
+   "position": 33,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 37,
+   "position": 34,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 38,
+   "position": 35,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 39,
+   "position": 36,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "affordable-retirement",
    "keyword": "affordable retirement",
-   "position": 40,
+   "position": 37,
    "eta_date": "2026-11-05"
   }
  ],
  "budget": {
   "date": "2026-11-02",
-  "used": 56,
+  "used": 103,
   "limit": 240
  }
 }
