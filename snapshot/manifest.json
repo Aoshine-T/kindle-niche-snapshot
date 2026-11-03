@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-03T02:58:09Z",
+ "generated_at": "2026-11-03T03:00:17Z",
  "topics": 86,
  "cards": 107,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 108,
- "elapsed_seconds": 1662,
+ "requests": 126,
+ "elapsed_seconds": 1790,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 8,
-   "requests": 108,
-   "seconds": 1662
+   "words": 9,
+   "requests": 126,
+   "seconds": 1790
   },
   "seeds": {
    "seeds": 34
@@ -35,7 +35,10 @@
   "flavorful-recipes",
   "grid-survival"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "captcha",
+  "next": "grok bot"
+ },
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -688,25 +691,25 @@
    "slug": "grok-bot",
    "keyword": "grok bot",
    "position": 1,
-   "eta_date": "2026-11-03"
+   "eta_date": "2026-11-04"
   },
   {
    "slug": "learn-hebrew",
    "keyword": "learn hebrew",
    "position": 2,
-   "eta_date": "2026-11-03"
+   "eta_date": "2026-11-04"
   },
   {
    "slug": "online-safety",
    "keyword": "online safety",
    "position": 3,
-   "eta_date": "2026-11-03"
+   "eta_date": "2026-11-04"
   },
   {
    "slug": "quebec-french",
    "keyword": "quebec french",
    "position": 4,
-   "eta_date": "2026-11-03"
+   "eta_date": "2026-11-04"
   },
   {
    "slug": "health-recoded",
@@ -754,25 +757,25 @@
    "slug": "less-time",
    "keyword": "less time",
    "position": 12,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "small-talk",
    "keyword": "small talk",
    "position": 13,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "prepper-survival",
    "keyword": "prepper survival",
    "position": 14,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "long-term-survival",
    "keyword": "long-term survival",
    "position": 15,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "survival-project",
@@ -820,25 +823,25 @@
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
    "position": 23,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
    "position": 24,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
    "position": 25,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
    "position": 26,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "canning-and-preserving",
@@ -886,25 +889,25 @@
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
    "position": 34,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
    "position": 35,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
    "position": 36,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
    "position": 37,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "artificial-intelligence",
@@ -952,25 +955,25 @@
    "slug": "right-broke",
    "keyword": "right broke",
    "position": 45,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
    "position": 46,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
    "position": 47,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
    "position": 48,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "stack-high-value",
@@ -987,7 +990,7 @@
  ],
  "budget": {
   "date": "2026-11-03",
-  "used": 153,
+  "used": 171,
   "limit": 240
  }
 }
