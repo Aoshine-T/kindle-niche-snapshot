@@ -1,44 +1,37 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-03T03:00:17Z",
+ "generated_at": "2026-11-04T02:44:22Z",
  "topics": 86,
- "cards": 107,
+ "cards": 111,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 126,
- "elapsed_seconds": 1790,
+ "requests": 58,
+ "elapsed_seconds": 858,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 9,
-   "requests": 126,
-   "seconds": 1790
+   "words": 4,
+   "requests": 58,
+   "seconds": 858
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "full-length-practice",
-  "smart-decisions",
-  "grid-living",
-  "dry-mix",
-  "off-grid",
-  "tested-advice",
-  "flavorful-recipes",
-  "grid-survival"
+  "grok-bot",
+  "learn-hebrew",
+  "online-safety",
+  "quebec-french"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "grok bot"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -208,6 +201,10 @@
    "keyword": "grid survival",
    "fetched_at": "2026-11-03"
   },
+  "grok-bot": {
+   "keyword": "grok bot",
+   "fetched_at": "2026-11-04"
+  },
   "happy-place": {
    "keyword": "happy place",
    "fetched_at": "2026-10-26"
@@ -268,6 +265,10 @@
    "keyword": "learn faster",
    "fetched_at": "2026-10-23"
   },
+  "learn-hebrew": {
+   "keyword": "learn hebrew",
+   "fetched_at": "2026-11-04"
+  },
   "lsat-logical": {
    "keyword": "lsat logical",
    "fetched_at": "2026-10-26"
@@ -303,6 +304,10 @@
   "off-grid": {
    "keyword": "off grid",
    "fetched_at": "2026-11-03"
+  },
+  "online-safety": {
+   "keyword": "online safety",
+   "fetched_at": "2026-11-04"
   },
   "out-loud": {
    "keyword": "out loud",
@@ -343,6 +348,10 @@
   "publishing-faster": {
    "keyword": "publishing faster",
    "fetched_at": "2026-10-30"
+  },
+  "quebec-french": {
+   "keyword": "quebec french",
+   "fetched_at": "2026-11-04"
   },
   "querying-literary": {
    "keyword": "querying literary",
@@ -554,6 +563,8 @@
   "cards/grid-living/competitors.json": "1bd5c1828cdc1674bbf76c7b6e0a365297ef033658b64fa8b69af8528c7a6108",
   "cards/grid-survival/card.md": "4e7718ecf6b01f6c69d8b94e7e999c40066391de4015555e9d81e67155518288",
   "cards/grid-survival/competitors.json": "ebead43dd6f401639929617581218b2dd771f5a343f72fc7342e33c83ea9c497",
+  "cards/grok-bot/card.md": "af8d28d1b9d8582560c7bf1a5a12e231fa6f5808dd8b73162cd857578733b97d",
+  "cards/grok-bot/competitors.json": "0113aa4971b21aff28305d2867c080364078f90815856c2d65aa5ad0fadb1b9d",
   "cards/happy-place/card.md": "0234c64afc412f28cc6731d4f791bb39c087b16c421e12afa62f6ab683289b60",
   "cards/happy-place/competitors.json": "46ceafd696e6b994db73d1ade85232db3c31d0e77cb56cd717ac25a37b2cf749",
   "cards/hidden-tuition/card.md": "2a16fe859d276890d5f40479d33de6701753b327fd84cf2089d7db7dcc2a1b9e",
@@ -584,6 +595,8 @@
   "cards/learn-ai/competitors.json": "b99b32d6ff644a586dafbabed621ad6f44e6582a1f8877c43b77c63bf7188e63",
   "cards/learn-faster/card.md": "a4447389dc00562d47a695f766e6621641ccfdf6768c5fc688d4f773e7659e2a",
   "cards/learn-faster/competitors.json": "11a18b260c6f45a8a4831d792790ffadad39b9616d000eddef2376bd0c3eebce",
+  "cards/learn-hebrew/card.md": "44925ba4fd6d51caadd0885a6aa8b4bb61d483e6b5bfb3035a429d8230dc1ef9",
+  "cards/learn-hebrew/competitors.json": "8791145138bcd5762194411dd804b914a23172ff577eee84b458ba3295fd0589",
   "cards/lsat-logical/card.md": "1a050becedae1d1090dbb6136d484f0ac8854fbd6734134998c9126dfffc3025",
   "cards/lsat-logical/competitors.json": "5c29c8664e5e4aae7ed73ffa432c764155a11e104f14f853c55c06a31c1b65bc",
   "cards/lsat-prep/card.md": "69d07d9762ea2f845b4bb399108f4ab996aed1b850da46325674ef6099a21f20",
@@ -602,6 +615,8 @@
   "cards/north-america/competitors.json": "414e69436cf3285d493e8ed0f70567afac2512c75495413007f70bf0a52c8321",
   "cards/off-grid/card.md": "6a7511a7edc11ce6b32cb1a5d2f618c5285112a0b0306508bd8d6383825443ed",
   "cards/off-grid/competitors.json": "4c675d93033d6473fb6dacbe431afe0cf99ec28d54914e531203a56cc4f3787a",
+  "cards/online-safety/card.md": "b07598045f1ccf51f48d61370152ae74f56726ed31b8fdc761240bc4bffe2df8",
+  "cards/online-safety/competitors.json": "e4b66f9dee58858a8e0ece86ded2ea98dd99479532529baf6993f8b4f69d921f",
   "cards/out-loud/card.md": "1dd0caf30412bac6c7f1dc229d5b905ee406f7a1cbe07d161c9ac5def924e87a",
   "cards/out-loud/competitors.json": "f509e1b63f87ca4d3bc54aed3240e48bbb19f729ae159f2f6fa509b06a91a90a",
   "cards/passive-income/card.md": "241458d47e4ba4d6ce467a8fa15378992f51024ae43da3117bff8388a58102a6",
@@ -622,6 +637,8 @@
   "cards/protect-yourself/competitors.json": "1bbfcdb2dd6d961f9ae7c776e081a19585993e8d0b0b74bbf00ffaa665c6ac2b",
   "cards/publishing-faster/card.md": "31b75ba319eaf12950bef7f9dc3be5d0767ab61fc8feada0280eaa05cedc1824",
   "cards/publishing-faster/competitors.json": "918fad5afc8ec7139c4ba8a4fe74b44685f4868560f0d8b0392d894cedbc9e9b",
+  "cards/quebec-french/card.md": "9e56d74713e796ad944c7ec9a787a7f9afa3d6957ce9f862f8ba92326b763518",
+  "cards/quebec-french/competitors.json": "86ff7fcea7671442d6fcd6757d0b253f93f72f9153a749e5599ec7e0fb0d0609",
   "cards/querying-literary/card.md": "742138f0d3d01d03ed778888df12eda86d104e0422f81529372ee83c5fc74c5c",
   "cards/querying-literary/competitors.json": "ad7fa8d4a22f9840bf82a846fea36b66a5506c439389490227db5e1674fa2e2f",
   "cards/real-estate-investing/card.md": "6394316aa7715cbdc71a6ef2c0e6b436e5ed6313609b4a37dd46285d3e4f2a0e",
@@ -688,309 +705,291 @@
  },
  "queue": [
   {
-   "slug": "grok-bot",
-   "keyword": "grok bot",
-   "position": 1,
-   "eta_date": "2026-11-04"
-  },
-  {
-   "slug": "learn-hebrew",
-   "keyword": "learn hebrew",
-   "position": 2,
-   "eta_date": "2026-11-04"
-  },
-  {
-   "slug": "online-safety",
-   "keyword": "online safety",
-   "position": 3,
-   "eta_date": "2026-11-04"
-  },
-  {
-   "slug": "quebec-french",
-   "keyword": "quebec french",
-   "position": 4,
-   "eta_date": "2026-11-04"
-  },
-  {
    "slug": "health-recoded",
    "keyword": "health recoded",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "lymphatic-flow",
    "keyword": "lymphatic flow",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "homemade-pantry",
    "keyword": "homemade pantry",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "comptia-security",
    "keyword": "comptia security",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "guided-devotional",
    "keyword": "guided devotional",
-   "position": 9,
+   "position": 5,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "homemade-casseroles",
    "keyword": "homemade casseroles",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "statistics-probability",
    "keyword": "statistics probability",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "less-time",
    "keyword": "less time",
-   "position": 12,
-   "eta_date": "2026-11-05"
+   "position": 8,
+   "eta_date": "2026-11-04"
   },
   {
    "slug": "small-talk",
    "keyword": "small talk",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "prepper-survival",
    "keyword": "prepper survival",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "long-term-survival",
    "keyword": "long-term survival",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "survival-project",
    "keyword": "survival project",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 20,
+   "position": 16,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 23,
-   "eta_date": "2026-11-06"
+   "position": 19,
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 31,
+   "position": 27,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 32,
+   "position": 28,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 34,
-   "eta_date": "2026-11-07"
+   "position": 30,
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
-   "position": 38,
+   "position": 34,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 39,
+   "position": 35,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 40,
+   "position": 36,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 41,
+   "position": 37,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 42,
+   "position": 38,
+   "eta_date": "2026-11-07"
+  },
+  {
+   "slug": "interaction-count",
+   "keyword": "interaction count",
+   "position": 39,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
-   "position": 43,
+   "position": 40,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 44,
+   "position": 41,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 45,
+   "position": 42,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 46,
+   "position": 43,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 47,
+   "position": 44,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 48,
+   "position": 45,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 49,
+   "position": 46,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 50,
+   "position": 47,
    "eta_date": "2026-11-08"
   }
  ],
  "budget": {
-  "date": "2026-11-03",
-  "used": 171,
+  "date": "2026-11-04",
+  "used": 58,
   "limit": 240
  }
 }
