@@ -1,25 +1,25 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-04T02:44:22Z",
+ "generated_at": "2026-11-04T02:59:28Z",
  "topics": 86,
- "cards": 111,
+ "cards": 115,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 58,
- "elapsed_seconds": 858,
+ "requests": 116,
+ "elapsed_seconds": 1764,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 4,
-   "requests": 58,
-   "seconds": 858
+   "words": 8,
+   "requests": 116,
+   "seconds": 1764
   },
   "seeds": {
    "seeds": 34
@@ -29,7 +29,11 @@
   "grok-bot",
   "learn-hebrew",
   "online-safety",
-  "quebec-french"
+  "quebec-french",
+  "health-recoded",
+  "lymphatic-flow",
+  "homemade-pantry",
+  "comptia-security"
  ],
  "stopped": null,
  "card_index": {
@@ -141,6 +145,10 @@
    "keyword": "comptia linux",
    "fetched_at": "2026-10-29"
   },
+  "comptia-security": {
+   "keyword": "comptia security",
+   "fetched_at": "2026-11-04"
+  },
   "credit-repair": {
    "keyword": "credit repair",
    "fetched_at": "2026-11-02"
@@ -209,6 +217,10 @@
    "keyword": "happy place",
    "fetched_at": "2026-10-26"
   },
+  "health-recoded": {
+   "keyword": "health recoded",
+   "fetched_at": "2026-11-04"
+  },
   "hidden-tuition": {
    "keyword": "hidden tuition",
    "fetched_at": "2026-10-26"
@@ -228,6 +240,10 @@
   "homemade-candy": {
    "keyword": "homemade candy",
    "fetched_at": "2026-10-24"
+  },
+  "homemade-pantry": {
+   "keyword": "homemade pantry",
+   "fetched_at": "2026-11-04"
   },
   "homemade-snacks": {
    "keyword": "homemade snacks",
@@ -276,6 +292,10 @@
   "lsat-prep": {
    "keyword": "lsat prep",
    "fetched_at": "2026-10-22"
+  },
+  "lymphatic-flow": {
+   "keyword": "lymphatic flow",
+   "fetched_at": "2026-11-04"
   },
   "mature-bass": {
    "keyword": "mature bass",
@@ -533,6 +553,8 @@
   "cards/coding-required/competitors.json": "21ed8089aa6b869851e4cf5605e47260a0d35cd76a4a0076e7c8b530ce2abbca",
   "cards/comptia-linux/card.md": "84d5dc4e68f0b5838dc300ccd475c406fdee074793e98df9d20fc62e4d2030ef",
   "cards/comptia-linux/competitors.json": "d9e44a9786896f33f29f7c66a4edbe1956e57dba0d9bedab648a3fa4bdcf0192",
+  "cards/comptia-security/card.md": "483745d80e744c71539a227722db55b860d0f68597f043ee62964d2d1a301367",
+  "cards/comptia-security/competitors.json": "3b7e1075083f7136a6821e90136e64b7e7323e3ab2a0539b5965eec8924a4516",
   "cards/credit-repair/card.md": "1dc62fca278036608a1b249e1d57779caadcd3b2e6f45ad1210d465f4408fbf3",
   "cards/credit-repair/competitors.json": "d8851f9ef331b618010eebcf0e7e94c80f42104125c7ce597d1711adbb826678",
   "cards/dry-mix/card.md": "533951e3d45075d227d1c577b5eeb923c733340ab9956cc482df7cc36fd58b9e",
@@ -567,6 +589,8 @@
   "cards/grok-bot/competitors.json": "0113aa4971b21aff28305d2867c080364078f90815856c2d65aa5ad0fadb1b9d",
   "cards/happy-place/card.md": "0234c64afc412f28cc6731d4f791bb39c087b16c421e12afa62f6ab683289b60",
   "cards/happy-place/competitors.json": "46ceafd696e6b994db73d1ade85232db3c31d0e77cb56cd717ac25a37b2cf749",
+  "cards/health-recoded/card.md": "b6945198bb1950a16b7dafe75cb19d7bd229cc868e74303f16f21b65ca4ec251",
+  "cards/health-recoded/competitors.json": "61b9e2d542165512f7a5e869d01def3babb8c8bffe7b058a8c3390987b23ece9",
   "cards/hidden-tuition/card.md": "2a16fe859d276890d5f40479d33de6701753b327fd84cf2089d7db7dcc2a1b9e",
   "cards/hidden-tuition/competitors.json": "bf834faf719964a8384bb4701081ddfb4be8ff51a450b01836ccc3922b9a1254",
   "cards/hindenburg-disaster/card.md": "c19d08c1732a4c1ec6ef7ac61d5084e38d344e35c7102073a58fca4fcb026043",
@@ -577,6 +601,8 @@
   "cards/homemade-bread/competitors.json": "bcad4a5eea92e89c6b0acc111f93b68163de8be30a27279819cebd48946177e1",
   "cards/homemade-candy/card.md": "f1749657a45e223897216d00d31b527bd9fc2fa6c0b1cea42ec21ed0afbd11e0",
   "cards/homemade-candy/competitors.json": "ae54b0f9dd5a72dffed075df39d5be23aa8227b2ed82dab717acf5d8dd38ac48",
+  "cards/homemade-pantry/card.md": "5da2908b1674ee7ea92b7b71726b6fb5b20fca5756e4bda5f9986dbf32047b6a",
+  "cards/homemade-pantry/competitors.json": "ef2ff26d102207aace9a740b52200b9e7d5f5edecb7434866c7ff32918b98ef9",
   "cards/homemade-snacks/card.md": "fd7d041ca87795760dd20b52d925df29622e0eda1ccf9434cdac43862a2c38ec",
   "cards/homemade-snacks/competitors.json": "85830716630600703382240bea4259292722a63aa50bf2108302d878acc8e1ff",
   "cards/household-cybersecurity/card.md": "ab18882cd9108ad7068869a1714025a92572435cedd73fe728b2511e7171e9a3",
@@ -601,6 +627,8 @@
   "cards/lsat-logical/competitors.json": "5c29c8664e5e4aae7ed73ffa432c764155a11e104f14f853c55c06a31c1b65bc",
   "cards/lsat-prep/card.md": "69d07d9762ea2f845b4bb399108f4ab996aed1b850da46325674ef6099a21f20",
   "cards/lsat-prep/competitors.json": "6745beaa9aeecbbf8e8922c91816a2faacd2138b0501e07c707edfc2e9acdcdd",
+  "cards/lymphatic-flow/card.md": "d1140a4563aec4cab39f34279ecec0b2855e1c4fdb1bd737ed6690bbf453a092",
+  "cards/lymphatic-flow/competitors.json": "d44bfe92e71283c46eaf8f4750253814cac21541480e697b9e6be55f4aee7c00",
   "cards/mature-bass/card.md": "17fc4d512e9fe83eb94f5323ae38798310497fe3e1a71ac890fead2c8ba3993e",
   "cards/mature-bass/competitors.json": "1fe1579e28c08de91a7cdab39a08a64c3706af920e631b2c0b74a09b3a4c2eef",
   "cards/mediterranean-diet/card.md": "2f743ff4992bb87922a1640c23564330e9c0b24f957aecc421968e65bd1df638",
@@ -705,291 +733,267 @@
  },
  "queue": [
   {
-   "slug": "health-recoded",
-   "keyword": "health recoded",
-   "position": 1,
-   "eta_date": "2026-11-04"
-  },
-  {
-   "slug": "lymphatic-flow",
-   "keyword": "lymphatic flow",
-   "position": 2,
-   "eta_date": "2026-11-04"
-  },
-  {
-   "slug": "homemade-pantry",
-   "keyword": "homemade pantry",
-   "position": 3,
-   "eta_date": "2026-11-04"
-  },
-  {
-   "slug": "comptia-security",
-   "keyword": "comptia security",
-   "position": 4,
-   "eta_date": "2026-11-04"
-  },
-  {
    "slug": "guided-devotional",
    "keyword": "guided devotional",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "homemade-casseroles",
    "keyword": "homemade casseroles",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "statistics-probability",
    "keyword": "statistics probability",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "less-time",
    "keyword": "less time",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-04"
   },
   {
    "slug": "small-talk",
    "keyword": "small talk",
-   "position": 9,
-   "eta_date": "2026-11-05"
+   "position": 5,
+   "eta_date": "2026-11-04"
   },
   {
    "slug": "prepper-survival",
    "keyword": "prepper survival",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "long-term-survival",
    "keyword": "long-term survival",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "survival-project",
    "keyword": "survival project",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 20,
-   "eta_date": "2026-11-06"
+   "position": 16,
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 31,
-   "eta_date": "2026-11-07"
+   "position": 27,
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 32,
+   "position": 28,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
-   "position": 34,
+   "position": 30,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 38,
+   "position": 34,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 39,
+   "position": 35,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
-   "position": 40,
+   "position": 36,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 41,
+   "position": 37,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 42,
-   "eta_date": "2026-11-08"
+   "position": 38,
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 43,
+   "position": 39,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 44,
+   "position": 40,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 45,
+   "position": 41,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 46,
+   "position": 42,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 47,
+   "position": 43,
    "eta_date": "2026-11-08"
   }
  ],
  "budget": {
   "date": "2026-11-04",
-  "used": 58,
+  "used": 116,
   "limit": 240
  }
 }
