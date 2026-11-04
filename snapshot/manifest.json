@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-04T02:59:28Z",
+ "generated_at": "2026-11-04T03:00:29Z",
  "topics": 86,
  "cards": 115,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 116,
- "elapsed_seconds": 1764,
+ "requests": 117,
+ "elapsed_seconds": 1825,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 8,
-   "requests": 116,
-   "seconds": 1764
+   "words": 9,
+   "requests": 117,
+   "seconds": 1825
   },
   "seeds": {
    "seeds": 34
@@ -35,7 +35,10 @@
   "homemade-pantry",
   "comptia-security"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "captcha",
+  "next": "guided devotional"
+ },
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -736,31 +739,31 @@
    "slug": "guided-devotional",
    "keyword": "guided devotional",
    "position": 1,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "homemade-casseroles",
    "keyword": "homemade casseroles",
    "position": 2,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "statistics-probability",
    "keyword": "statistics probability",
    "position": 3,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "less-time",
    "keyword": "less time",
    "position": 4,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "small-talk",
    "keyword": "small talk",
    "position": 5,
-   "eta_date": "2026-11-04"
+   "eta_date": "2026-11-05"
   },
   {
    "slug": "prepper-survival",
@@ -802,31 +805,31 @@
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
    "position": 12,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
    "position": 13,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
    "position": 14,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
    "position": 15,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
    "position": 16,
-   "eta_date": "2026-11-05"
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "air-fryer",
@@ -868,31 +871,31 @@
    "slug": "woodworking",
    "keyword": "woodworking",
    "position": 23,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
    "position": 24,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
    "position": 25,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
    "position": 26,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
    "position": 27,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "genealogy",
@@ -934,31 +937,31 @@
    "slug": "ai-agents",
    "keyword": "ai agents",
    "position": 34,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
    "position": 35,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
    "position": 36,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
    "position": 37,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
    "position": 38,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "walt-disney",
@@ -993,7 +996,7 @@
  ],
  "budget": {
   "date": "2026-11-04",
-  "used": 116,
+  "used": 117,
   "limit": 240
  }
 }
