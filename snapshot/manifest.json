@@ -1,44 +1,36 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-04T03:00:29Z",
+ "generated_at": "2026-11-05T02:41:19Z",
  "topics": 86,
- "cards": 115,
+ "cards": 118,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 117,
- "elapsed_seconds": 1825,
+ "requests": 47,
+ "elapsed_seconds": 665,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 9,
-   "requests": 117,
-   "seconds": 1825
+   "words": 3,
+   "requests": 47,
+   "seconds": 665
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "grok-bot",
-  "learn-hebrew",
-  "online-safety",
-  "quebec-french",
-  "health-recoded",
-  "lymphatic-flow",
-  "homemade-pantry",
-  "comptia-security"
+  "guided-devotional",
+  "homemade-casseroles",
+  "statistics-probability"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "guided devotional"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -216,6 +208,10 @@
    "keyword": "grok bot",
    "fetched_at": "2026-11-04"
   },
+  "guided-devotional": {
+   "keyword": "guided devotional",
+   "fetched_at": "2026-11-05"
+  },
   "happy-place": {
    "keyword": "happy place",
    "fetched_at": "2026-10-26"
@@ -243,6 +239,10 @@
   "homemade-candy": {
    "keyword": "homemade candy",
    "fetched_at": "2026-10-24"
+  },
+  "homemade-casseroles": {
+   "keyword": "homemade casseroles",
+   "fetched_at": "2026-11-05"
   },
   "homemade-pantry": {
    "keyword": "homemade pantry",
@@ -456,6 +456,10 @@
    "keyword": "stack high-value",
    "fetched_at": "2026-10-24"
   },
+  "statistics-probability": {
+   "keyword": "statistics probability",
+   "fetched_at": "2026-11-05"
+  },
   "stock-market": {
    "keyword": "stock market",
    "fetched_at": "2026-11-02"
@@ -590,6 +594,8 @@
   "cards/grid-survival/competitors.json": "ebead43dd6f401639929617581218b2dd771f5a343f72fc7342e33c83ea9c497",
   "cards/grok-bot/card.md": "af8d28d1b9d8582560c7bf1a5a12e231fa6f5808dd8b73162cd857578733b97d",
   "cards/grok-bot/competitors.json": "0113aa4971b21aff28305d2867c080364078f90815856c2d65aa5ad0fadb1b9d",
+  "cards/guided-devotional/card.md": "24b061852b0591c63494ad7d4a1346f16e53135f2a840ebfb94075c43e5989fc",
+  "cards/guided-devotional/competitors.json": "82f9d98d4c2566ba0f4d64fd22e275c09c7d196a54d614219d45d4f344e698d6",
   "cards/happy-place/card.md": "0234c64afc412f28cc6731d4f791bb39c087b16c421e12afa62f6ab683289b60",
   "cards/happy-place/competitors.json": "46ceafd696e6b994db73d1ade85232db3c31d0e77cb56cd717ac25a37b2cf749",
   "cards/health-recoded/card.md": "b6945198bb1950a16b7dafe75cb19d7bd229cc868e74303f16f21b65ca4ec251",
@@ -604,6 +610,8 @@
   "cards/homemade-bread/competitors.json": "bcad4a5eea92e89c6b0acc111f93b68163de8be30a27279819cebd48946177e1",
   "cards/homemade-candy/card.md": "f1749657a45e223897216d00d31b527bd9fc2fa6c0b1cea42ec21ed0afbd11e0",
   "cards/homemade-candy/competitors.json": "ae54b0f9dd5a72dffed075df39d5be23aa8227b2ed82dab717acf5d8dd38ac48",
+  "cards/homemade-casseroles/card.md": "77da73cc160beb0a287c4fa003835c9018be36e7123834d9662c5708204846ab",
+  "cards/homemade-casseroles/competitors.json": "1d8cead75edc67575062f43e7ba6ddd668b2b832cb813748533ee0c9e5c3eb78",
   "cards/homemade-pantry/card.md": "5da2908b1674ee7ea92b7b71726b6fb5b20fca5756e4bda5f9986dbf32047b6a",
   "cards/homemade-pantry/competitors.json": "ef2ff26d102207aace9a740b52200b9e7d5f5edecb7434866c7ff32918b98ef9",
   "cards/homemade-snacks/card.md": "fd7d041ca87795760dd20b52d925df29622e0eda1ccf9434cdac43862a2c38ec",
@@ -710,6 +718,8 @@
   "cards/speak-up/competitors.json": "5f44c9d12bd95251fe7e71e870ec8f7145db912de55582d17a8179e882151d3d",
   "cards/stack-high-value/card.md": "6b9ba16fead32bf3b3f5585d3501a1d2a35a7477589c2176b60c5678f6d3748a",
   "cards/stack-high-value/competitors.json": "d94dcb0c6a98acda895e9d8140d8bdb815ae4ace0778484fdd00236c7d10df72",
+  "cards/statistics-probability/card.md": "6d6e03e6f29209a22b6402f58889cc3a14a77c69cfa2d9ddc5470b2c1fe5f81a",
+  "cards/statistics-probability/competitors.json": "ab6de536ffea79dc1c265ce9762bb7d5909d0338780ca9610c0fd665b8d55a39",
   "cards/stock-market/card.md": "e81063b82b49bc251e67a2db9598b43d1baff45d594249a76f2709fced5f0f1f",
   "cards/stock-market/competitors.json": "69928d32098dccb277d32f9fb64fa5391180ccba36435474a8c31d22ced20021",
   "cards/stress-less/card.md": "ca3951fb1e41a7e000146c39bc71d9f0db4387ba22613fdddc2c547d56cb8bc1",
@@ -736,267 +746,261 @@
  },
  "queue": [
   {
-   "slug": "guided-devotional",
-   "keyword": "guided devotional",
-   "position": 1,
-   "eta_date": "2026-11-05"
-  },
-  {
-   "slug": "homemade-casseroles",
-   "keyword": "homemade casseroles",
-   "position": 2,
-   "eta_date": "2026-11-05"
-  },
-  {
-   "slug": "statistics-probability",
-   "keyword": "statistics probability",
-   "position": 3,
-   "eta_date": "2026-11-05"
-  },
-  {
    "slug": "less-time",
    "keyword": "less time",
-   "position": 4,
+   "position": 1,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "small-talk",
    "keyword": "small talk",
-   "position": 5,
+   "position": 2,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "prepper-survival",
    "keyword": "prepper survival",
-   "position": 6,
+   "position": 3,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "long-term-survival",
    "keyword": "long-term survival",
-   "position": 7,
+   "position": 4,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "survival-project",
    "keyword": "survival project",
-   "position": 8,
+   "position": 5,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 9,
+   "position": 6,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 10,
+   "position": 7,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 11,
+   "position": 8,
    "eta_date": "2026-11-05"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 12,
+   "position": 9,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 13,
+   "position": 10,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 14,
+   "position": 11,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 15,
+   "position": 12,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 16,
+   "position": 13,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 17,
+   "position": 14,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 18,
+   "position": 15,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 19,
+   "position": 16,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 20,
+   "position": 17,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 21,
+   "position": 18,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 22,
+   "position": 19,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 23,
+   "position": 20,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 24,
+   "position": 21,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 25,
+   "position": 22,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 26,
+   "position": 23,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 27,
+   "position": 24,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 28,
+   "position": 25,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
-   "position": 29,
+   "position": 26,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
-   "position": 30,
+   "position": 27,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 31,
+   "position": 28,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 32,
+   "position": 29,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 33,
+   "position": 30,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 34,
+   "position": 31,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 35,
+   "position": 32,
+   "eta_date": "2026-11-08"
+  },
+  {
+   "slug": "restaurant-favorites",
+   "keyword": "restaurant favorites",
+   "position": 33,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
-   "position": 36,
+   "position": 34,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 37,
+   "position": 35,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 38,
+   "position": 36,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 39,
+   "position": 37,
+   "eta_date": "2026-11-08"
+  },
+  {
+   "slug": "bambu-studio",
+   "keyword": "bambu studio",
+   "position": 38,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 40,
+   "position": 39,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 41,
+   "position": 40,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 42,
+   "position": 41,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 43,
-   "eta_date": "2026-11-08"
+   "position": 42,
+   "eta_date": "2026-11-09"
   }
  ],
  "budget": {
-  "date": "2026-11-04",
-  "used": 117,
+  "date": "2026-11-05",
+  "used": 47,
   "limit": 240
  }
 }
