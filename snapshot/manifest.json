@@ -1,25 +1,25 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-06T02:42:37Z",
+ "generated_at": "2026-11-06T02:58:33Z",
  "topics": 86,
- "cards": 126,
+ "cards": 130,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 46,
- "elapsed_seconds": 727,
+ "requests": 107,
+ "elapsed_seconds": 1683,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 4,
-   "requests": 46,
-   "seconds": 727
+   "words": 8,
+   "requests": 107,
+   "seconds": 1683
   },
   "seeds": {
    "seeds": 34
@@ -29,7 +29,11 @@
   "survival-project",
   "python-programming",
   "public-speaking",
-  "time-management"
+  "time-management",
+  "anxiety-relief",
+  "sleep-better",
+  "intermittent-fasting",
+  "strength-training-over-50"
  ],
  "stopped": null,
  "card_index": {
@@ -60,6 +64,10 @@
   "ai-side-hustles": {
    "keyword": "ai side hustles",
    "fetched_at": "2026-11-01"
+  },
+  "anxiety-relief": {
+   "keyword": "anxiety relief",
+   "fetched_at": "2026-11-06"
   },
   "appalachian-trail": {
    "keyword": "appalachian trail",
@@ -265,6 +273,10 @@
    "keyword": "interaction count",
    "fetched_at": "2026-10-28"
   },
+  "intermittent-fasting": {
+   "keyword": "intermittent fasting",
+   "fetched_at": "2026-11-06"
+  },
   "just-add-water-mason": {
    "keyword": "just-add-water mason",
    "fetched_at": "2026-10-24"
@@ -453,6 +465,10 @@
    "keyword": "size organization",
    "fetched_at": "2026-10-27"
   },
+  "sleep-better": {
+   "keyword": "sleep better",
+   "fetched_at": "2026-11-06"
+  },
   "small-changes": {
    "keyword": "small changes",
    "fetched_at": "2026-10-21"
@@ -488,6 +504,10 @@
   "stock-market": {
    "keyword": "stock market",
    "fetched_at": "2026-11-02"
+  },
+  "strength-training-over-50": {
+   "keyword": "strength training over 50",
+   "fetched_at": "2026-11-06"
   },
   "stress-less": {
    "keyword": "stress less",
@@ -553,6 +573,8 @@
   "cards/ai-industry/competitors.json": "bc8cc27eb77a38277de46e4b20fedd7a708130678f58b4c9cc0398b77bb15e21",
   "cards/ai-side-hustles/card.md": "6f0829425b9fee885e083c509532bce85b91f4a3c86729d34e74e04f2222205e",
   "cards/ai-side-hustles/competitors.json": "5c0370d4348da451bafdec76557a8654bbe773d2aadb1d2cd5ae602a2a6cdc7f",
+  "cards/anxiety-relief/card.md": "80b78c4ad0a0f21a74285214f85c432624cf1251a6929acdad9a3ff7821594ce",
+  "cards/anxiety-relief/competitors.json": "ca0125a0b0ea2ff0bf1bafc63546a17b922758e08e504cc49a834c86648bba23",
   "cards/appalachian-trail/card.md": "1cb83e15aeb69624d48620ebbd05cf6fc28a69df719b8085661290b7eb708f8d",
   "cards/appalachian-trail/competitors.json": "f4faba9d0e9f6c4351f6a2b34b28b485fe1ca001ba01c9075c5121fbf8c3c45a",
   "cards/artificial-intelligence/card.md": "1a42fe6709749061b45afd778e46b722c31562699e8cc2f7e9231ad756a3484b",
@@ -655,6 +677,8 @@
   "cards/human-body/competitors.json": "272cffb72c5e62cd4ccac4c799c7b0227e4a7aa88f2308a8cc1c8c42dd949c46",
   "cards/interaction-count/card.md": "644d694545efc8237a3f5c2f300de6c78394097e6c878c709759587480b9467a",
   "cards/interaction-count/competitors.json": "cad6e135e36c54f47dcd157e41bb7ec9daf2a6f3187df7589f94b5ec51b11ba2",
+  "cards/intermittent-fasting/card.md": "a70439942210f3430c78b409366489c36880d28a41741a0357b2fd14fdf4eeef",
+  "cards/intermittent-fasting/competitors.json": "72c369d35a51a6013dc00f8edd22ea086c28003768c57c80df25e0eaa2ac30ab",
   "cards/just-add-water-mason/card.md": "1ee51c7ba22a9edf9e7375744e073eb861fc77b5d8230e00e45276235b61c8b4",
   "cards/just-add-water-mason/competitors.json": "a411beccd7b87fc8c80338514c80a7ae8bdbb73f09cca7dc8f4d3d6f6ca6a513",
   "cards/kindle-app/card.md": "f0740d8137b51dcd8940eee293356f370cfef5127cad27cec7ae8612b9b67e6b",
@@ -749,6 +773,8 @@
   "cards/silicon-valley/competitors.json": "94e48fcb10cd6408260cf3f2ae6314c7a681a2f876f0bd11b76d20f063d4f96e",
   "cards/size-organization/card.md": "42e5e0d06b0cffc81ceb1e28126f5ec9cdf4e9815bbda0ac40626681e545a757",
   "cards/size-organization/competitors.json": "28a1ed38de07229ae04b451f1bb11d31505638928ae827a7e2e45c0dc1137c5b",
+  "cards/sleep-better/card.md": "f364eafffa7b7409fa7f882500b927549286957dc4bc43e8d31f25582acae70e",
+  "cards/sleep-better/competitors.json": "05c7523e183877c47efc08bb44ac076d39f77c6f1c1878a7ea9bbcb6cff95e5d",
   "cards/small-changes/card.md": "e429fc737fa98af3e549e696f86025eb664b2227b037d0642b168629445a3324",
   "cards/small-changes/competitors.json": "09f75f23901b0351bd1c905e20c9741761abbfdf7756a57be29d75d6b2cfb770",
   "cards/small-engines/card.md": "7303fd45eb08deacc6dec6d3c1a4676df30836b2af9a4c27e6769c4f9ad0c538",
@@ -767,6 +793,8 @@
   "cards/statistics-probability/competitors.json": "ab6de536ffea79dc1c265ce9762bb7d5909d0338780ca9610c0fd665b8d55a39",
   "cards/stock-market/card.md": "e81063b82b49bc251e67a2db9598b43d1baff45d594249a76f2709fced5f0f1f",
   "cards/stock-market/competitors.json": "69928d32098dccb277d32f9fb64fa5391180ccba36435474a8c31d22ced20021",
+  "cards/strength-training-over-50/card.md": "0e52926c7d58cce798efd88f93e1b985fc4ed1f391015906142971b72eed6a82",
+  "cards/strength-training-over-50/competitors.json": "294d6c7385b01150a86766a20b06bf232221d436684821f06941477744b4dbe4",
   "cards/stress-less/card.md": "ca3951fb1e41a7e000146c39bc71d9f0db4387ba22613fdddc2c547d56cb8bc1",
   "cards/stress-less/competitors.json": "4408ab107e31d614259c3022362dbd16269f935b587327c4af9fcedc9c55e285",
   "cards/survival-project/card.md": "6f0d3dd43a0c53ff09c93e556874e32343611568ab1a4d9d372758ff78bd3cd4",
@@ -795,231 +823,207 @@
  },
  "queue": [
   {
-   "slug": "anxiety-relief",
-   "keyword": "anxiety relief",
-   "position": 1,
-   "eta_date": "2026-11-06"
-  },
-  {
-   "slug": "sleep-better",
-   "keyword": "sleep better",
-   "position": 2,
-   "eta_date": "2026-11-06"
-  },
-  {
-   "slug": "intermittent-fasting",
-   "keyword": "intermittent fasting",
-   "position": 3,
-   "eta_date": "2026-11-06"
-  },
-  {
-   "slug": "strength-training-over-50",
-   "keyword": "strength training over 50",
-   "position": 4,
-   "eta_date": "2026-11-06"
-  },
-  {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-06"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 9,
-   "eta_date": "2026-11-07"
+   "position": 5,
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 10,
-   "eta_date": "2026-11-07"
+   "position": 6,
+   "eta_date": "2026-11-06"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 20,
-   "eta_date": "2026-11-08"
+   "position": 16,
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 21,
-   "eta_date": "2026-11-08"
+   "position": 17,
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "restaurant-favorites",
    "keyword": "restaurant favorites",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
-   "position": 31,
-   "eta_date": "2026-11-09"
+   "position": 27,
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 32,
-   "eta_date": "2026-11-09"
+   "position": 28,
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 34,
+   "position": 30,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-11-09"
   }
  ],
  "budget": {
   "date": "2026-11-06",
-  "used": 46,
+  "used": 107,
   "limit": 240
  }
 }
