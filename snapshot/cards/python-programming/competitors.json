@@ -1,0 +1,255 @@
+[
+ {
+  "asin": "B0GY888SDD",
+  "title": "Python Programming for Self-Taught Beginners : The Complete Step-by-Step Guide to Learning",
+  "bsr": 72246,
+  "rating": 3.8,
+  "price": 0.99,
+  "pub_date": "2026-06-04",
+  "pages": 315,
+  "publisher": null,
+  "cats": [
+   [
+    4,
+    "Python Computer Programming"
+   ],
+   [
+    20,
+    "Introductory & Beginning Programming"
+   ],
+   [
+    23,
+    "Python Programming"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 5,
+  "description": "Master Python Programming: The Complete Self Taught Beginner's Guide to Learning Python with Hands-On Projects and Real-World Examples Are you teaching yourself to code but feel overwhelmed by complex tutorials and scattered resources? Python Programming for Self-Taught Beginners is the comprehensive, step-by-step guide you've been searching for. What You'll Learn: This complete Python programming book for beginners covers everything from foundational concepts to object-oriented programming. Through 20 in-depth chapters, you'll master: Core Python Fundamentals — Variables, data types, strings, numbers, and decision-making logic Data Structures — Lists, dictionaries, tuples, and sets with practical applications Functions & Modules — Write reusable, organized code that professionals use File Handling & APIs — Read/write files, work with CSV/JSON, and interact with web services Object-Oriented Programming — Build scalable applications with classes and inheritance Real-World Projects — Complete 5 full projects from start to finish Interview Preparation — 30 Python interview questions with detailed answers Why This Python Book Stands Out: ✓ Written for Self-Taught Learners — No assumed programming experience. Clear explanations without jargon. ✓ Hands-On Learning — Every chapter includes code examples, action steps, and practical exercises (3 difficulty levels: Beginner, Intermediate, Challenge) ✓ Complete Exercise Solutions — Learn from detailed answers to every practice problem ✓ Job-Ready Skills — Interview preparation section helps you land Python programming positions ✓ Direct, Grounded Approach — No fluff, no unnecessary complexity. Just what you need to actually learn Python. Book Contents: 20 Full Chapters organized in 7 progressive parts Appendix A: Complete chapter"
+ },
+ {
+  "asin": "B09WJX22TV",
+  "title": "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming",
+  "bsr": 41611,
+  "rating": 4.8,
+  "price": 29.99,
+  "pub_date": "2023-01-10",
+  "pages": 368,
+  "publisher": "No Starch Press",
+  "cats": [
+   [
+    1,
+    "Introductory & Beginning Programming"
+   ],
+   [
+    1,
+    "Open Source Programming"
+   ],
+   [
+    1,
+    "Python Programming"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2549,
+  "description": "Python Crash Course is the world’s bestselling programming book, with over 1,500,000 copies sold to date! Python Crash Course is the world’s best-selling guide to the Python programming language. This fast-paced, thorough introduction will have you writing programs, solving problems, and developing functioning applications in no time. You’ll start by learning basic programming concepts, such as variables, lists, classes, and loops, and practice writing clean code with exercises for each topic. You’ll also learn how to make your programs interactive and test your code safely before adding it to a project. You’ll put your new knowledge into practice by creating a Space Invaders–inspired arcade game, building a set of data visualizations with Python’s handy libraries, and deploying a simple application online. As you work through the book, you’ll learn how to: Use powerful Python libraries and tools, including pytest, Pygame, Matplotlib, Plotly, and Django Make increasingly complex 2D games that respond to keypresses and mouse clicks Generate interactive data visualizations using a variety of datasets Build apps that allow users to create accounts and manage their own data, and deploy your apps online Troubleshoot coding errors and solve common programming problems New to this edition : This third edition is completely revised to reflect the latest in Python code. New and updated coverage includes VS Code for text editing, the pathlib module for file handling, pytest for testing your code, as well as the latest features of Matplotlib, Plotly, and Django. If you’ve been thinking about digging into programming, Python Crash Course will provide you with the skills to write real programs fast. Why wait any longer? Start your engines and code! Covers Python 3.x  if(window.mix_c"
+ },
+ {
+  "asin": "B071Z2Q6TQ",
+  "title": "Python (2nd Edition): Learn Python in One Day and Learn It Well. Python for Beginners with",
+  "bsr": 38981,
+  "rating": 4.5,
+  "price": 3.99,
+  "pub_date": "2017-05-11",
+  "pages": 175,
+  "publisher": null,
+  "cats": [
+   [
+    1,
+    "Python Computer Programming"
+   ],
+   [
+    1,
+    "Object Oriented Design"
+   ],
+   [
+    2,
+    "Computer Systems Analysis & Design"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2208,
+  "description": "(2nd Edition: Covers Object Oriented Programming) Learn Python Fast and Learn It Well. Master Python Programming with a unique Hands-On Project. Have you always wanted to learn computer programming but are afraid it'll be too difficult for you? Or perhaps you know other programming languages but are interested in learning the Python language fast? This book is for you. You no longer have to waste your time and money learning Python from lengthy books, expensive online courses or complicated Python tutorials. What this book offers... Python for Beginners Complex concepts are broken down into simple steps to ensure that you can easily master the Python language even if you have never coded before . Carefully Chosen Python Examples Examples are carefully chosen to illustrate all concepts. In addition, the output for all examples are provided immediately so you do not have to wait till you have access to your computer to test the examples. Careful selection of topics Topics are carefully selected to give you a broad exposure to Python, while not overwhelming you with information overload. These topics include object-oriented programming concepts, error handling techniques, file handling techniques and more. Learn The Python Programming Language Fast Concepts are presented in a \"to-the-point\" style to cater to the busy individual. With this book, you can learn Python in just one day and start coding immediately. How is this book different... The best way to learn Python is by doing. This book includes a complete project at the end of the book that requires the application of all the concepts taught previously. Working through the project will not only give you an immense sense of achievement, it\"ll also help you retain the knowledge and master the language. Are you ready to "
+ },
+ {
+  "asin": "B0DYKNNH26",
+  "title": "Learning Python: Powerful Object-Oriented Programming",
+  "bsr": 229175,
+  "rating": 4.4,
+  "price": 50.98,
+  "pub_date": "2025-02-25",
+  "pages": 2594,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    6,
+    "Web Programming"
+   ],
+   [
+    7,
+    "Object-Oriented Design"
+   ],
+   [
+    8,
+    "Object Oriented Design"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 95,
+  "description": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz's popular training course, this updated sixth edition will help you quickly write efficient, high-quality code with Python. It's an ideal way to begin, whether you're new to programming or a professional developer versed in other languages. Complete with quizzes, exercises, and helpful illustrations, this easy-to-follow self-paced tutorial gets you started with Python 3.12 and all other releases in use today. With a pragmatic focus on what you need to know, it also introduces some advanced language features that have become increasingly common in Python code. This book helps you: Explore Python's built-in object types such as strings, lists, dictionaries, and files Create and process objects with Python statements, and learn Python's syntax model Use functions and functional programming to avoid redundancy and maximize reuse Organize code into larger components with modules and packages Code robust programs with Python's exception handling and development tools Apply object-oriented programming and classes to make code customizable Survey advanced Python tools including decorators, descriptors, and metaclasses Write idiomatic Python code that runs portably across a wide variety of platforms  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_5\"]', '#CardInstanceCxKNOK5JHaZZkXAiD0UJRg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_5',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouet"
+ },
+ {
+  "asin": "B0D77D2YDR",
+  "title": "Absolute Beginner's Guide to Python Programming: Master Coding Quickly with Hands-On, Real",
+  "bsr": 132954,
+  "rating": 4.7,
+  "price": 4.99,
+  "pub_date": "2024-06-22",
+  "pages": 216,
+  "publisher": null,
+  "cats": [
+   [
+    13,
+    "Python Computer Programming"
+   ],
+   [
+    28,
+    "Software Development"
+   ],
+   [
+    39,
+    "Introductory & Beginning Programming"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 249,
+  "description": "You Want to Learn Python. You Want It to Actually Lead Somewhere. This Book Was Built for That. Maybe you're eyeing a career in tech. Maybe you want to automate the boring parts of your job, build something of your own, or understand how programming fits into the AI era. Whatever brought you here, you're in the right place. Absolute Beginner's Guide to Python Programming teaches you Python syntax and core concepts—like most books do—but it goes well beyond that. It teaches you to think like a programmer , solve problems creatively, and develop the mindset that drives a successful career in tech. Written by a senior developer with over four decades of real-world experience, this hands-on guide takes you from your very first line of code to building real projects you can actually show off. ★ Featured in DigitalTrends as \"a gateway to the world of coding\" NEW IN THE THIRD EDITION This updated edition reflects what learning programming means in the AI era. It keeps the beginner-friendly Python foundation, but expands the book with new material on building globally useful software, using AI wisely, and developing the mindset needed for long-term success in technology. → Localization — Learn how professional software supports multiple languages, regional formats, and cultural conventions—a practical skill most beginner books never touch. → Programming in the AI Era — The future belongs to people who can combine human ingenuity with AI capability. This book shows how to use AI as a true productivity multiplier while still building the programming judgment, problem-solving skills, and confidence employers value. Existing chapters have also been expanded with clearer explanations, improved examples, and new sections on naming conventions, programming and the English language, an"
+ },
+ {
+  "asin": "B01IA5VIFM",
+  "title": "Python for Everybody: Exploring Data in Python 3",
+  "bsr": 61581,
+  "rating": 4.6,
+  "price": 0.99,
+  "pub_date": "2016-07-10",
+  "pages": 387,
+  "publisher": null,
+  "cats": [
+   [
+    3,
+    "Python Computer Programming"
+   ],
+   [
+    8,
+    "Python Programming"
+   ],
+   [
+    12,
+    "Data Mining (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 3320,
+  "description": "Python for Everybody is designed to introduce students to programming and software development through the lens of exploring data. You can think of the Python programming language as your tool to solve data problems that are beyond the capability of a spreadsheet. Python is an easy to use and easy to learn programming language that is freely available on Macintosh, Windows, or Linux computers. So once you learn Python you can use it for the rest of your career without needing to purchase any software. This book uses the Python 3 language. The earlier Python 2 version of this book is titled \"Python for Informatics: Exploring Information\".  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstance1x1QEH49Hj-g6K0hHkaSJQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_8',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-a"
+ },
+ {
+  "asin": "B0H85MWK59",
+  "title": "Python 3: The Comprehensive Guide to Hands-On Python Programming (Second Edition) (Rheinwe",
+  "bsr": 528867,
+  "rating": 5.0,
+  "price": 58.57,
+  "pub_date": "2026-09-03",
+  "pages": 977,
+  "publisher": null,
+  "cats": [
+   [
+    16,
+    "Python Programming"
+   ],
+   [
+    186,
+    "Python Computer Programming"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2,
+  "description": "Ready to master Python? In this updated edition of the prize-winning Python reference, learn to write effective code, whether you’re a beginner or a professional programmer. Review core Python concepts, including functions, modularization, and object orientation, and walk through the available data types. Then dive into more advanced topics, such as exception handling, static type checking, and regular expressions. With mountains of code examples throughout, this hands-on reference guide has everything you need to become proficient in Python! The complete Python 3 handbook Learn basic Python principles and work with functions, methods, data types, and more Walk through GUIs, network programming, debugging, optimization, and other advanced topics Consult and download practical code examples Coding with Python Learn about Python syntax and structure. Follow examples to start developing and testing your own programs using downloadable code. The Standard Library Explore Python’s built-in library and see how it can be used for a variety of different tasks, from running mathematical functions to debugging code. Advanced Programming Techniques Already know the basics? Enhance your professional skills with more advanced concepts, including GUIs, Django, scientific computing, and connecting to other languages.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_2\"]', '#CardInstanceYhtwYeYxFpU5nB7f89YkkA')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_2',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,"
+ },
+ {
+  "asin": "B0H8MHVYDW",
+  "title": "Python For Beginners: Master Python Through Hands-On Projects, Practical Problem Solving, ",
+  "bsr": 153754,
+  "rating": 4.8,
+  "price": 0.99,
+  "pub_date": "2026-07-12",
+  "pages": 263,
+  "publisher": null,
+  "cats": [
+   [
+    17,
+    "Python Computer Programming"
+   ],
+   [
+    31,
+    "Software Development"
+   ],
+   [
+    73,
+    "Python Programming"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 5,
+  "description": "Why Learn Python? Python isn't just one of the world's most popular programming languages—it's the foundation of modern technology. It's used to build AI applications, automation tools, web applications, data science solutions, cloud services, cybersecurity tools, and enterprise software . Today, Python is trusted by some of the world's most innovative organizations, including Google, Netflix, Instagram, Spotify, NASA, Dropbox, Reddit, and IBM . It consistently ranks among the top programming languages worldwide and remains one of the most sought-after skills for software developers. Whether your goal is to become a software engineer, automate everyday tasks, build real-world applications, or prepare for advanced fields like Artificial Intelligence, Machine Learning, Data Science, or Web Development , Python provides the perfect starting point. Inside This Book, You'll Learn How To: ✔ Build a strong programming foundation from scratch ✔ Think like a programmer and solve problems with confidence ✔ Create real-world Python projects step by step ✔ Master variables, loops, functions, OOP, files, modules, and error handling ✔ Write clean, efficient, and professional-quality Python code ✔ Develop practical skills for software development, automation, and future AI learning Whether you're a student, career changer, aspiring developer, or lifelong learner, this book gives you the practical knowledge, hands-on experience, and confidence to start building with Python from day one. ********Start coding today. Build the skills that shape tomorrow. Get your copy now!*******  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstanceJNSmOPUc2rorlCje3nxNaw')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_8',{wb"
+ },
+ {
+  "asin": "B0HNF2VSFQ",
+  "title": "Practical Python Automation: Scripts That Do Your Boring Work For You (Practical Programmi",
+  "bsr": null,
+  "rating": 4.8,
+  "price": 3.99,
+  "pub_date": "2026-10-18",
+  "pages": 280,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "You do the same boring computer task every week. Python can do it in one second, forever. Most Python books teach you syntax and hope you’ll figure out the useful part later. This one goes straight at the useful part. Every chapter opens with a job you already do by hand — renaming files, merging spreadsheets, cleaning up Downloads, building the same report every month — and closes with a working script that does it for you. You’ll finish with a folder of eighteen real tools, not exercises. A Downloads folder that files itself. A bulk renamer with a full undo log. A merger that turns twelve messy CSVs into one clean master file. A mail merge that generates a hundred Word documents from one template. A backup system that verifies and rotates itself. And a capstone controller that runs every script on a schedule and emails you a dashboard each morning. No theory chapters. No toy examples. Every code block is complete, runnable, and explained line by line. What you’ll learn: Set up Python and write your first working script in ten minutes Walk folders, filter files, and move things safely with a dry-run mode Bulk rename hundreds of files with preview and undo Merge, clean, and de-duplicate CSV files automatically Build formatted Excel reports with charts using openpyxl Merge, split, stamp, and extract text from PDFs Generate Word documents from a template and a spreadsheet Resize, convert, and watermark images in bulk Download files and scrape web pages into spreadsheets Pull data from APIs and keep your keys out of your code Send email alerts and reports from your scripts Schedule everything with cron or Windows Task Scheduler Another hands-on guide from the Practical Programming Series — built for people who want working code, not lectures.  if(window.mix_csa){window.mix"
+ },
+ {
+  "asin": "B0GJGG8K3P",
+  "title": "Python Programming for Beginners: A Hands-On Crash Course with Step-by-Step Projects to Le",
+  "bsr": 1166443,
+  "rating": 5.0,
+  "price": 3.99,
+  "pub_date": "2026-01-25",
+  "pages": 277,
+  "publisher": null,
+  "cats": [
+   [
+    577,
+    "Python Computer Programming"
+   ],
+   [
+    967,
+    "Introductory & Beginning Programming"
+   ],
+   [
+    1092,
+    "Software Development"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2,
+  "description": "Start coding in Python today—no prior experience required. Python Programming for Beginners: The Fundamentals is a complete, beginner-friendly course designed to take you from “Hello, world” to writing real programs with confidence—without overwhelming theory or assumed experience. Here’s the difference: you don’t just read about Python. You learn each concept, see it working, and then practice it through guided mini-programs and exercises with solutions—so the understanding sticks when you code on your own. What you can do with confidence after finishing this book Set up Python and PyCharm properly and understand the IDE workflow, virtual environments and why they matter (so projects stay clean and organized) Write clean Python using variables, numbers, and strings—including essential text methods and formatting Use lists effectively: add/remove/sort, slicing, copying, and list comprehensions Control program logic with if/elif/else , comparisons, and logical conditions Organize real data using dictionaries, tuples, and sets Build interactive programs with input() and while loops (validation, flags, break/continue) Create reusable code with functions (defaults, return values, *args , **kwargs ) Understand classes and core object-oriented programming ( OOP ) thinking Read/write files, import modules, and use practical text-processing tools (f-strings, split, replace, and more) Bonus: Download the interactive, Jupyter-ready practice file including all the book code. This book delivers a complete, rock-solid Python fundamentals foundation. It is also part of the Python Programming for Beginners: Step-by-Step Series , where a companion volume expands into full hands-on step-by-step projects (games, live APIs, automation, AI apps, and web development) for you to go further. "
+ }
+]
