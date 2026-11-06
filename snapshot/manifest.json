@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-06T02:58:33Z",
+ "generated_at": "2026-11-06T03:00:45Z",
  "topics": 86,
  "cards": 130,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 107,
- "elapsed_seconds": 1683,
+ "requests": 121,
+ "elapsed_seconds": 1815,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 8,
-   "requests": 107,
-   "seconds": 1683
+   "words": 9,
+   "requests": 121,
+   "seconds": 1815
   },
   "seeds": {
    "seeds": 34
@@ -35,7 +35,10 @@
   "intermittent-fasting",
   "strength-training-over-50"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "captcha",
+  "next": "meal prep"
+ },
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -826,37 +829,37 @@
    "slug": "meal-prep",
    "keyword": "meal prep",
    "position": 1,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
    "position": 2,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
    "position": 3,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
    "position": 4,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
    "position": 5,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
    "position": 6,
-   "eta_date": "2026-11-06"
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "homesteading",
@@ -892,37 +895,37 @@
    "slug": "crochet",
    "keyword": "crochet",
    "position": 12,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
    "position": 13,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
    "position": 14,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
    "position": 15,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
    "position": 16,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
    "position": 17,
-   "eta_date": "2026-11-07"
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "learn-faster",
@@ -958,37 +961,37 @@
    "slug": "lsat-prep",
    "keyword": "lsat prep",
    "position": 23,
-   "eta_date": "2026-11-08"
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
    "position": 24,
-   "eta_date": "2026-11-08"
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
    "position": 25,
-   "eta_date": "2026-11-08"
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
    "position": 26,
-   "eta_date": "2026-11-08"
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
    "position": 27,
-   "eta_date": "2026-11-08"
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
    "position": 28,
-   "eta_date": "2026-11-08"
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "homemade-candy",
@@ -1023,7 +1026,7 @@
  ],
  "budget": {
   "date": "2026-11-06",
-  "used": 107,
+  "used": 121,
   "limit": 240
  }
 }
