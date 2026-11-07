@@ -1,44 +1,37 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-06T03:00:45Z",
+ "generated_at": "2026-11-07T02:44:06Z",
  "topics": 86,
- "cards": 130,
+ "cards": 134,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 121,
- "elapsed_seconds": 1815,
+ "requests": 56,
+ "elapsed_seconds": 834,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 9,
-   "requests": 121,
-   "seconds": 1815
+   "words": 4,
+   "requests": 56,
+   "seconds": 834
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "survival-project",
-  "python-programming",
-  "public-speaking",
-  "time-management",
-  "anxiety-relief",
-  "sleep-better",
-  "intermittent-fasting",
-  "strength-training-over-50"
+  "meal-prep",
+  "air-fryer",
+  "sourdough",
+  "canning-and-preserving"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "meal prep"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -67,6 +60,10 @@
   "ai-side-hustles": {
    "keyword": "ai side hustles",
    "fetched_at": "2026-11-01"
+  },
+  "air-fryer": {
+   "keyword": "air fryer",
+   "fetched_at": "2026-11-07"
   },
   "anxiety-relief": {
    "keyword": "anxiety relief",
@@ -115,6 +112,10 @@
   "budgeting": {
    "keyword": "budgeting",
    "fetched_at": "2026-11-01"
+  },
+  "canning-and-preserving": {
+   "keyword": "canning and preserving",
+   "fetched_at": "2026-11-07"
   },
   "care-scripts": {
    "keyword": "care scripts",
@@ -328,6 +329,10 @@
    "keyword": "mature bass",
    "fetched_at": "2026-10-26"
   },
+  "meal-prep": {
+   "keyword": "meal prep",
+   "fetched_at": "2026-11-07"
+  },
   "mediterranean-diet": {
    "keyword": "mediterranean diet",
    "fetched_at": "2026-10-24"
@@ -492,6 +497,10 @@
    "keyword": "smarter decisions",
    "fetched_at": "2026-10-22"
   },
+  "sourdough": {
+   "keyword": "sourdough",
+   "fetched_at": "2026-11-07"
+  },
   "speak-up": {
    "keyword": "speak up",
    "fetched_at": "2026-10-28"
@@ -576,6 +585,8 @@
   "cards/ai-industry/competitors.json": "bc8cc27eb77a38277de46e4b20fedd7a708130678f58b4c9cc0398b77bb15e21",
   "cards/ai-side-hustles/card.md": "6f0829425b9fee885e083c509532bce85b91f4a3c86729d34e74e04f2222205e",
   "cards/ai-side-hustles/competitors.json": "5c0370d4348da451bafdec76557a8654bbe773d2aadb1d2cd5ae602a2a6cdc7f",
+  "cards/air-fryer/card.md": "b3e9550c781ad36125fd443a0b07079cc40ba2449925241d9715a219fe325e90",
+  "cards/air-fryer/competitors.json": "b6bb14876b39f19f3fa13dcbc2ea1df0c1734dfd2c94eee96ef8c5e096a74c40",
   "cards/anxiety-relief/card.md": "80b78c4ad0a0f21a74285214f85c432624cf1251a6929acdad9a3ff7821594ce",
   "cards/anxiety-relief/competitors.json": "ca0125a0b0ea2ff0bf1bafc63546a17b922758e08e504cc49a834c86648bba23",
   "cards/appalachian-trail/card.md": "1cb83e15aeb69624d48620ebbd05cf6fc28a69df719b8085661290b7eb708f8d",
@@ -600,6 +611,8 @@
   "cards/budget-friendly-recipes/competitors.json": "72e9345f7c439bd5f050053144f19300fa8c6b140ed759445382a4e74fa95854",
   "cards/budgeting/card.md": "56fa2e4ec706a18009d9e6c3daa61856d985892fcb174e44b8322362cee8fcc2",
   "cards/budgeting/competitors.json": "99edcc32329ceaf696d6cd98acea824e54c1d934362a63b5d355c11fe27e5155",
+  "cards/canning-and-preserving/card.md": "9c8121a22a96580d59aba1b97d8b7e784ce2e8702231b5bd0f19590207a12755",
+  "cards/canning-and-preserving/competitors.json": "4d5264a564a9942486c05bd2f433fcd74daca05d9f0aebd24ae9d72e2985e65b",
   "cards/care-scripts/card.md": "0c7c14e2c6e240b4c0e0567ab30a40ab49630344ef528fef6509edb49955ad8b",
   "cards/care-scripts/competitors.json": "00f66807763c68aff5d464194461c26a48fc3b53da91c244f0aa7ab9f986e985",
   "cards/center-stage/card.md": "3a920319950e7a2a29620cb35dd32467ed99ec0ffdcf45ba7f4471aa11546015",
@@ -706,6 +719,8 @@
   "cards/lymphatic-flow/competitors.json": "d44bfe92e71283c46eaf8f4750253814cac21541480e697b9e6be55f4aee7c00",
   "cards/mature-bass/card.md": "17fc4d512e9fe83eb94f5323ae38798310497fe3e1a71ac890fead2c8ba3993e",
   "cards/mature-bass/competitors.json": "1fe1579e28c08de91a7cdab39a08a64c3706af920e631b2c0b74a09b3a4c2eef",
+  "cards/meal-prep/card.md": "2ab9422ade4e5aac14a80bdc790d5c08b6a9763155a7815b2456f358d49e06e1",
+  "cards/meal-prep/competitors.json": "3e4a3d5f9206b3968736904e77c791061b037b6494d0f0f0f726fe758a5dce7e",
   "cards/mediterranean-diet/card.md": "2f743ff4992bb87922a1640c23564330e9c0b24f957aecc421968e65bd1df638",
   "cards/mediterranean-diet/competitors.json": "30c79346497c0ebb98397cc45f8c34f58bcb91ebb846c5544061cbb2c962b550",
   "cards/mental-health/card.md": "b71fc34034674934b23958caec19d255a7bb7a0abbb6c3a3fd4854327891a016",
@@ -788,6 +803,8 @@
   "cards/smart-decisions/competitors.json": "15cb428ee58fc287829ef28bcec81ec0ff782e8fe4e873f4a2ab0e034cf72035",
   "cards/smarter-decisions/card.md": "9fcb54a8cf48d5929d6ce7cf926317a697da3b252768bff503fce29f7f46fa27",
   "cards/smarter-decisions/competitors.json": "9a298ed3a0379b56ef43bac95129130eb8dc38154712570adc009241ccab9678",
+  "cards/sourdough/card.md": "0d20f1cb1e05607526a66c2c0671612e9092ffdfe4d40eb20c1b1c9b5761cde4",
+  "cards/sourdough/competitors.json": "e1238b62ca563775f9dc79a7c1c4551d3b7fbf596b531810f9b30750108316ac",
   "cards/speak-up/card.md": "6b23cfdc5423b7b7e0e0df194e890703e4a97ced67ebeda82d299a11a2b79aa0",
   "cards/speak-up/competitors.json": "5f44c9d12bd95251fe7e71e870ec8f7145db912de55582d17a8179e882151d3d",
   "cards/stack-high-value/card.md": "6b9ba16fead32bf3b3f5585d3501a1d2a35a7477589c2176b60c5678f6d3748a",
@@ -826,207 +843,189 @@
  },
  "queue": [
   {
-   "slug": "meal-prep",
-   "keyword": "meal prep",
-   "position": 1,
-   "eta_date": "2026-11-07"
-  },
-  {
-   "slug": "air-fryer",
-   "keyword": "air fryer",
-   "position": 2,
-   "eta_date": "2026-11-07"
-  },
-  {
-   "slug": "sourdough",
-   "keyword": "sourdough",
-   "position": 3,
-   "eta_date": "2026-11-07"
-  },
-  {
-   "slug": "canning-and-preserving",
-   "keyword": "canning and preserving",
-   "position": 4,
-   "eta_date": "2026-11-07"
-  },
-  {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 9,
+   "position": 5,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-07"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 12,
-   "eta_date": "2026-11-08"
+   "position": 8,
+   "eta_date": "2026-11-07"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 18,
+   "position": 14,
+   "eta_date": "2026-11-08"
+  },
+  {
+   "slug": "mental-health",
+   "keyword": "mental health",
+   "position": 15,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 19,
+   "position": 16,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 20,
+   "position": 17,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
-   "position": 21,
+   "position": 18,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "restaurant-favorites",
    "keyword": "restaurant favorites",
-   "position": 22,
+   "position": 19,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
-   "position": 23,
+   "position": 20,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 24,
+   "position": 21,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 25,
+   "position": 22,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 26,
+   "position": 23,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
-   "position": 27,
+   "position": 24,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 28,
+   "position": 25,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 29,
+   "position": 26,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 30,
+   "position": 27,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 31,
+   "position": 28,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 32,
+   "position": 29,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 33,
+   "position": 30,
    "eta_date": "2026-11-09"
   }
  ],
  "budget": {
-  "date": "2026-11-06",
-  "used": 121,
+  "date": "2026-11-07",
+  "used": 56,
   "limit": 240
  }
 }
