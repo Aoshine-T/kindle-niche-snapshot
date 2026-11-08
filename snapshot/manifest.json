@@ -1,25 +1,25 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-08T02:44:24Z",
+ "generated_at": "2026-11-08T02:59:34Z",
  "topics": 86,
- "cards": 142,
+ "cards": 143,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 57,
- "elapsed_seconds": 841,
+ "requests": 118,
+ "elapsed_seconds": 1751,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 4,
-   "requests": 57,
-   "seconds": 841
+   "words": 8,
+   "requests": 118,
+   "seconds": 1751
   },
   "seeds": {
    "seeds": 34
@@ -29,7 +29,11 @@
   "home-repair",
   "dog-training",
   "watercolor-painting",
-  "crochet"
+  "crochet",
+  "genealogy",
+  "human-body",
+  "artificial-intelligence",
+  "stress-less"
  ],
  "stopped": null,
  "card_index": {
@@ -75,7 +79,7 @@
   },
   "artificial-intelligence": {
    "keyword": "artificial intelligence",
-   "fetched_at": "2026-10-22"
+   "fetched_at": "2026-11-08"
   },
   "autodesk-fusion": {
    "keyword": "autodesk fusion",
@@ -213,6 +217,10 @@
    "keyword": "ged study",
    "fetched_at": "2026-10-21"
   },
+  "genealogy": {
+   "keyword": "genealogy",
+   "fetched_at": "2026-11-08"
+  },
   "gods-goddesses": {
    "keyword": "gods goddesses",
    "fetched_at": "2026-10-28"
@@ -291,7 +299,7 @@
   },
   "human-body": {
    "keyword": "human body",
-   "fetched_at": "2026-10-20"
+   "fetched_at": "2026-11-08"
   },
   "interaction-count": {
    "keyword": "interaction count",
@@ -543,7 +551,7 @@
   },
   "stress-less": {
    "keyword": "stress less",
-   "fetched_at": "2026-10-21"
+   "fetched_at": "2026-11-08"
   },
   "survival-project": {
    "keyword": "survival project",
@@ -623,8 +631,8 @@
   "cards/anxiety-relief/competitors.json": "ca0125a0b0ea2ff0bf1bafc63546a17b922758e08e504cc49a834c86648bba23",
   "cards/appalachian-trail/card.md": "1cb83e15aeb69624d48620ebbd05cf6fc28a69df719b8085661290b7eb708f8d",
   "cards/appalachian-trail/competitors.json": "f4faba9d0e9f6c4351f6a2b34b28b485fe1ca001ba01c9075c5121fbf8c3c45a",
-  "cards/artificial-intelligence/card.md": "1a42fe6709749061b45afd778e46b722c31562699e8cc2f7e9231ad756a3484b",
-  "cards/artificial-intelligence/competitors.json": "eae96bb6a01ccbc2e6b737f2bf22e8a39be6d06645c1df30e370e96c22e3a919",
+  "cards/artificial-intelligence/card.md": "654e698d7cf665f824fadd79dadbddd70cda8ad00183b9bef97b05cf1c934a8e",
+  "cards/artificial-intelligence/competitors.json": "d4556f220d5bce4b597bcdff08d99f0049b21893dbf90fe03cab37d29da164ce",
   "cards/autodesk-fusion/card.md": "1b1c6ff6d6907fa3f72c2a0dbb06f332e3d35eb9880fd21114ec043aefa6e027",
   "cards/autodesk-fusion/competitors.json": "16489bb38127d77339a0d45fffb86ea1221f20a73c6e20ab1f2581ec7b7b30b7",
   "cards/bambu-studio/card.md": "24a63a1d9fe4f32aeeb2a7a796970c22b3175c89558542ba7d3d290e759c5319",
@@ -693,6 +701,8 @@
   "cards/full-length-practice/competitors.json": "338bf658467b0b07645259f2a1e41a46dc6353e1536e19211ec864ccedc40f17",
   "cards/ged-study/card.md": "c09d3021f5ac978290787800c2c95576148144a940768cdadcf974d26e4eadb8",
   "cards/ged-study/competitors.json": "4ff38a63dd9eb91c9c0d58df07f93a0daccb86435cd5c392f2c0ad42839c1845",
+  "cards/genealogy/card.md": "ddbaffb4677be5d84325bf499bbb5725db04296beb76a01c398c949e09de56b8",
+  "cards/genealogy/competitors.json": "402cb6384b7034f9e645e09e665110e7abf3f2ead47d67b38c1c4716a6ccb57e",
   "cards/gods-goddesses/card.md": "7edc8308ed8f6a2be96d21499b063c7a97d494ecd366387948d599edb8087e4c",
   "cards/gods-goddesses/competitors.json": "7ff9ce6e55f1a07c298effe62f327771bb53e8789772acce1397fb72a3a4353f",
   "cards/golden-age/card.md": "60b11a1881b455aacbb1074d58776f01566dfe35f4221776c6909cb13df8dc78",
@@ -731,8 +741,8 @@
   "cards/homesteading/competitors.json": "2c1eed60d9c799830a74d173769631808b3c1adb14ede6c791135853a8a52242",
   "cards/household-cybersecurity/card.md": "ab18882cd9108ad7068869a1714025a92572435cedd73fe728b2511e7171e9a3",
   "cards/household-cybersecurity/competitors.json": "12dfdd90621cf80b6785d1d1cebba0775de608593510c2edf33b80c236154ac7",
-  "cards/human-body/card.md": "0b39688bbe75796fdc3238fe83ebc7bdf1de9f9380770c76062c64228588628a",
-  "cards/human-body/competitors.json": "272cffb72c5e62cd4ccac4c799c7b0227e4a7aa88f2308a8cc1c8c42dd949c46",
+  "cards/human-body/card.md": "48c060306147049f3c85ed0c6b5ef06b19ee16e0e9c6ecdd73282fc11868ab44",
+  "cards/human-body/competitors.json": "068c9d70fdcb638874fe84da58d116bea8b09c1250002eef15214a13a61233fc",
   "cards/interaction-count/card.md": "644d694545efc8237a3f5c2f300de6c78394097e6c878c709759587480b9467a",
   "cards/interaction-count/competitors.json": "cad6e135e36c54f47dcd157e41bb7ec9daf2a6f3187df7589f94b5ec51b11ba2",
   "cards/intermittent-fasting/card.md": "a70439942210f3430c78b409366489c36880d28a41741a0357b2fd14fdf4eeef",
@@ -857,8 +867,8 @@
   "cards/stock-market/competitors.json": "69928d32098dccb277d32f9fb64fa5391180ccba36435474a8c31d22ced20021",
   "cards/strength-training-over-50/card.md": "0e52926c7d58cce798efd88f93e1b985fc4ed1f391015906142971b72eed6a82",
   "cards/strength-training-over-50/competitors.json": "294d6c7385b01150a86766a20b06bf232221d436684821f06941477744b4dbe4",
-  "cards/stress-less/card.md": "ca3951fb1e41a7e000146c39bc71d9f0db4387ba22613fdddc2c547d56cb8bc1",
-  "cards/stress-less/competitors.json": "4408ab107e31d614259c3022362dbd16269f935b587327c4af9fcedc9c55e285",
+  "cards/stress-less/card.md": "38d6cd23d2bf0f8c57eda003260e00bb5d39c5f19b7f35fec5644ea5a6c21482",
+  "cards/stress-less/competitors.json": "b17c51ad9edcb04d55a0b6cd3eab21f541bf07976845c0a3a11908f5558c03f3",
   "cards/survival-project/card.md": "6f0d3dd43a0c53ff09c93e556874e32343611568ab1a4d9d372758ff78bd3cd4",
   "cards/survival-project/competitors.json": "6c9e0d2d1fb7cbc3b43ae48ec399ce42d7f44109f43fc63e91e7d0a78fc892b7",
   "cards/sweet-hockey/card.md": "6c6225c881d3d229f9c99acb6eac48c3bb3ca577c4acefda46d10d796b761891",
@@ -891,177 +901,153 @@
  },
  "queue": [
   {
-   "slug": "genealogy",
-   "keyword": "genealogy",
-   "position": 1,
-   "eta_date": "2026-11-08"
-  },
-  {
-   "slug": "human-body",
-   "keyword": "human body",
-   "position": 2,
-   "eta_date": "2026-11-08"
-  },
-  {
-   "slug": "artificial-intelligence",
-   "keyword": "artificial intelligence",
-   "position": 3,
-   "eta_date": "2026-11-08"
-  },
-  {
-   "slug": "stress-less",
-   "keyword": "stress less",
-   "position": 4,
-   "eta_date": "2026-11-08"
-  },
-  {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "mental-health",
    "keyword": "mental health",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 9,
-   "eta_date": "2026-11-09"
+   "position": 5,
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "restaurant-favorites",
    "keyword": "restaurant favorites",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 20,
-   "eta_date": "2026-11-10"
+   "position": 16,
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "side-hustles",
    "keyword": "side hustles",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "ai-side-hustles",
    "keyword": "ai side hustles",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "chatgpt-for-beginners",
    "keyword": "chatgpt for beginners",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "ai-for-beginners",
    "keyword": "ai for beginners",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "budgeting",
    "keyword": "budgeting",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-10"
   }
  ],
  "budget": {
   "date": "2026-11-08",
-  "used": 57,
+  "used": 118,
   "limit": 240
  }
 }
