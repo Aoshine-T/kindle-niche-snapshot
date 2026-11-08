@@ -1,44 +1,37 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-07T02:59:50Z",
+ "generated_at": "2026-11-08T02:44:24Z",
  "topics": 86,
- "cards": 138,
+ "cards": 142,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 115,
- "elapsed_seconds": 1778,
+ "requests": 57,
+ "elapsed_seconds": 841,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 485
   },
   "deep": {
-   "words": 9,
-   "requests": 115,
-   "seconds": 1778
+   "words": 4,
+   "requests": 57,
+   "seconds": 841
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "meal-prep",
-  "air-fryer",
-  "sourdough",
-  "canning-and-preserving",
-  "vegetable-gardening",
-  "beekeeping",
-  "homesteading",
-  "woodworking"
+  "home-repair",
+  "dog-training",
+  "watercolor-painting",
+  "crochet"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "home repair"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -172,6 +165,14 @@
    "keyword": "credit repair",
    "fetched_at": "2026-11-02"
   },
+  "crochet": {
+   "keyword": "crochet",
+   "fetched_at": "2026-11-08"
+  },
+  "dog-training": {
+   "keyword": "dog training",
+   "fetched_at": "2026-11-08"
+  },
   "dry-mix": {
    "keyword": "dry mix",
    "fetched_at": "2026-11-03"
@@ -255,6 +256,10 @@
   "historic-cemeteries": {
    "keyword": "historic cemeteries",
    "fetched_at": "2026-10-31"
+  },
+  "home-repair": {
+   "keyword": "home repair",
+   "fetched_at": "2026-11-08"
   },
   "homemade-bread": {
    "keyword": "homemade bread",
@@ -580,6 +585,10 @@
    "keyword": "walt disney",
    "fetched_at": "2026-10-22"
   },
+  "watercolor-painting": {
+   "keyword": "watercolor painting",
+   "fetched_at": "2026-11-08"
+  },
   "woodworking": {
    "keyword": "woodworking",
    "fetched_at": "2026-11-07"
@@ -660,6 +669,10 @@
   "cards/comptia-security/competitors.json": "3b7e1075083f7136a6821e90136e64b7e7323e3ab2a0539b5965eec8924a4516",
   "cards/credit-repair/card.md": "1dc62fca278036608a1b249e1d57779caadcd3b2e6f45ad1210d465f4408fbf3",
   "cards/credit-repair/competitors.json": "d8851f9ef331b618010eebcf0e7e94c80f42104125c7ce597d1711adbb826678",
+  "cards/crochet/card.md": "76d6e5f1ca0db393e1839c560b6643bb3b9b47ed50b805c9d5746a6b30cbbb1a",
+  "cards/crochet/competitors.json": "41e70bbb192590690f614ebe70bff590112b4e8506f535a6a6be7619d1d9754b",
+  "cards/dog-training/card.md": "960fca77a16c6edb8451fd695fa86e504887b53997a3020abfa0c8e41d2a483d",
+  "cards/dog-training/competitors.json": "3cd476256747acaba031273ba655922e250d3cd9fc90184931d5dffa5fa3d782",
   "cards/dry-mix/card.md": "533951e3d45075d227d1c577b5eeb923c733340ab9956cc482df7cc36fd58b9e",
   "cards/dry-mix/competitors.json": "afb03601d45b6ea3cee6d9a0171a7ee39ee06c466f27427e89cc6c8faf2c6601",
   "cards/electrical-engineering/card.md": "366b8065fa23845aa70d3daba272cab31ae1c837249250537f84e312fccbcfd2",
@@ -702,6 +715,8 @@
   "cards/hindenburg-disaster/competitors.json": "b4aab18e6be9785aef531ceae3db787ae28995695ddbdc99f20afe7e9e697492",
   "cards/historic-cemeteries/card.md": "7cf8a96a84b32c3799a51907a84bf29d1b06d7b10fcb584e7311d1325c378d78",
   "cards/historic-cemeteries/competitors.json": "5feb05963710bed19a43aaf6af48d27a379f2d893688ec176977584ede6df002",
+  "cards/home-repair/card.md": "6bab7a0dfc6224c54d34feaa214122f31adbacc5658fc133532f5b5161cd0029",
+  "cards/home-repair/competitors.json": "709272f6ab5017862575293248f103c7ebba2bcfb02040f1f850bea24e7f64a2",
   "cards/homemade-bread/card.md": "3e3daa54fa1f4ec78d944e6f44afead70c21e98831b0e47668ef1e39ef538a55",
   "cards/homemade-bread/competitors.json": "bcad4a5eea92e89c6b0acc111f93b68163de8be30a27279819cebd48946177e1",
   "cards/homemade-candy/card.md": "f1749657a45e223897216d00d31b527bd9fc2fa6c0b1cea42ec21ed0afbd11e0",
@@ -864,6 +879,8 @@
   "cards/vocabulary-builder/competitors.json": "86811ac4de945f25b057cceb8f21ccc12a83d6126dc72f646b4e75adbb5aefcb",
   "cards/walt-disney/card.md": "170705276d6ddde822cec8910998e741ef73292f21369bac2b2dffd3f754719d",
   "cards/walt-disney/competitors.json": "c705d308f3bff26bd9486b2fdbdff762d90d31c1c8a1dd7de4a3404334f2de24",
+  "cards/watercolor-painting/card.md": "17bd4d0886ad5d287b3788599ac8b5c2dcb568369309d82969d8eebcfe08eff5",
+  "cards/watercolor-painting/competitors.json": "191cd449d230bb612b312aad4c762fe1352ea76f19d31fd784f4a1dbd9276033",
   "cards/woodworking/card.md": "6220b0336e51a9dcee9f1ae7509212304cb57aa854446fe233308410b15cf19b",
   "cards/woodworking/competitors.json": "e4a882daa6ed030b2398d72f2aa5fb4549dce3bc43b39ec7c13a57fc323b0271",
   "cards/youtube-channel/card.md": "cfe90b678080185fd1f5e1bd024f42b018434edac6dc3ce0b66a1dc9e5ad9c6c",
@@ -874,165 +891,177 @@
  },
  "queue": [
   {
-   "slug": "home-repair",
-   "keyword": "home repair",
-   "position": 1,
-   "eta_date": "2026-11-08"
-  },
-  {
-   "slug": "dog-training",
-   "keyword": "dog training",
-   "position": 2,
-   "eta_date": "2026-11-08"
-  },
-  {
-   "slug": "watercolor-painting",
-   "keyword": "watercolor painting",
-   "position": 3,
-   "eta_date": "2026-11-08"
-  },
-  {
-   "slug": "crochet",
-   "keyword": "crochet",
-   "position": 4,
-   "eta_date": "2026-11-08"
-  },
-  {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "human-body",
    "keyword": "human body",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "artificial-intelligence",
    "keyword": "artificial intelligence",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "stress-less",
    "keyword": "stress less",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ged-study",
    "keyword": "ged study",
-   "position": 9,
+   "position": 5,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "mental-health",
    "keyword": "mental health",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-08"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 12,
-   "eta_date": "2026-11-09"
+   "position": 8,
+   "eta_date": "2026-11-08"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "multiplier-mindset",
    "keyword": "multiplier mindset",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "restaurant-favorites",
    "keyword": "restaurant favorites",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "lsat-prep",
    "keyword": "lsat prep",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "walt-disney",
    "keyword": "walt disney",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
-   "position": 20,
+   "position": 16,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-09"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 23,
-   "eta_date": "2026-11-10"
+   "position": 19,
+   "eta_date": "2026-11-09"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
+   "position": 22,
+   "eta_date": "2026-11-10"
+  },
+  {
+   "slug": "side-hustles",
+   "keyword": "side hustles",
+   "position": 23,
+   "eta_date": "2026-11-10"
+  },
+  {
+   "slug": "ai-side-hustles",
+   "keyword": "ai side hustles",
+   "position": 24,
+   "eta_date": "2026-11-10"
+  },
+  {
+   "slug": "passive-income",
+   "keyword": "passive income",
+   "position": 25,
+   "eta_date": "2026-11-10"
+  },
+  {
+   "slug": "chatgpt-for-beginners",
+   "keyword": "chatgpt for beginners",
    "position": 26,
+   "eta_date": "2026-11-10"
+  },
+  {
+   "slug": "ai-for-beginners",
+   "keyword": "ai for beginners",
+   "position": 27,
+   "eta_date": "2026-11-10"
+  },
+  {
+   "slug": "budgeting",
+   "keyword": "budgeting",
+   "position": 28,
    "eta_date": "2026-11-10"
   }
  ],
  "budget": {
-  "date": "2026-11-07",
-  "used": 115,
+  "date": "2026-11-08",
+  "used": 57,
   "limit": 240
  }
 }
