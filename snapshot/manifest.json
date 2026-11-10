@@ -1,25 +1,25 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-10T02:41:45Z",
+ "generated_at": "2026-11-10T02:56:52Z",
  "topics": 97,
- "cards": 146,
+ "cards": 151,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 48,
- "elapsed_seconds": 688,
+ "requests": 101,
+ "elapsed_seconds": 1594,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 476
   },
   "deep": {
-   "words": 3,
-   "requests": 48,
-   "seconds": 688
+   "words": 8,
+   "requests": 101,
+   "seconds": 1594
   },
   "seeds": {
    "seeds": 34
@@ -28,7 +28,12 @@
  "new_cards": [
   "international-bestselling",
   "less-useful",
-  "too-late"
+  "too-late",
+  "sign-language",
+  "ai-agent",
+  "quantum-mechanics",
+  "fingerprinting-empire",
+  "important-relationships"
  ],
  "stopped": null,
  "card_index": {
@@ -39,6 +44,10 @@
   "affordable-retirement": {
    "keyword": "affordable retirement",
    "fetched_at": "2026-10-24"
+  },
+  "ai-agent": {
+   "keyword": "ai agent",
+   "fetched_at": "2026-11-10"
   },
   "ai-agents": {
    "keyword": "ai agents",
@@ -192,6 +201,10 @@
    "keyword": "excel",
    "fetched_at": "2026-11-02"
   },
+  "fingerprinting-empire": {
+   "keyword": "fingerprinting empire",
+   "fetched_at": "2026-11-10"
+  },
   "fix-common": {
    "keyword": "fix common",
    "fetched_at": "2026-10-25"
@@ -295,6 +308,10 @@
   "human-body": {
    "keyword": "human body",
    "fetched_at": "2026-11-08"
+  },
+  "important-relationships": {
+   "keyword": "important relationships",
+   "fetched_at": "2026-11-10"
   },
   "interaction-count": {
    "keyword": "interaction count",
@@ -444,6 +461,10 @@
    "keyword": "python programming",
    "fetched_at": "2026-11-06"
   },
+  "quantum-mechanics": {
+   "keyword": "quantum mechanics",
+   "fetched_at": "2026-11-10"
+  },
   "quebec-french": {
    "keyword": "quebec french",
    "fetched_at": "2026-11-04"
@@ -495,6 +516,10 @@
   "side-hustles": {
    "keyword": "side hustles",
    "fetched_at": "2026-11-01"
+  },
+  "sign-language": {
+   "keyword": "sign language",
+   "fetched_at": "2026-11-10"
   },
   "silicon-valley": {
    "keyword": "silicon valley",
@@ -622,6 +647,8 @@
   "cards/adult-ccrn/competitors.json": "afd0eddbd63490a7cafdc9af99f413658cbafa530a0d1eeb4a5fd1d3b2e24e88",
   "cards/affordable-retirement/card.md": "57bf4819295c0fd99c60b0cbc02daa8b6227ab0b996ced59615c0c9052a69a2c",
   "cards/affordable-retirement/competitors.json": "b8e13a5e1f4dc707c4a6b709d694b48f1637e5321247c9d6f14cb57bfcc76c4a",
+  "cards/ai-agent/card.md": "ef4d3156960b77f0013dff6c4f0a66f7379615a139add0494680b11b2d778070",
+  "cards/ai-agent/competitors.json": "81e237e65095d4b4440333a3d8b068db70322bee5ad9354e9e3c1079ebac1483",
   "cards/ai-agents/card.md": "893608d0aa59f1b42c22d4845323f3a62d526ccc838180fdeca375420c1abe1b",
   "cards/ai-agents/competitors.json": "169e38c6f6e2c5a47ff74aa83e374df65a5e779685cea0e0d431284a7dfe7f8e",
   "cards/ai-apocalypse/card.md": "ea1f613a732bec7e14760e16ea8e279239e60c1ba69c93902ac4199b6de359c2",
@@ -698,6 +725,8 @@
   "cards/etsy-selling/competitors.json": "c6538e81408a3a9859587bed5d8f4eb737243b00cc73aa319dee1fadec3aaa27",
   "cards/excel/card.md": "8587aa9661d39ec419810d91c61880d8dba00fbc4aa64c141499ebc9f86124d0",
   "cards/excel/competitors.json": "3c692052a9f3155901a2fc48cbb8a2dc54d5f54756f3b2cfcc2a311dc6a04e6a",
+  "cards/fingerprinting-empire/card.md": "04c1dfc29c670513692a30dbe2e97767b2a2bdb0e67296309a422898b2eb79c3",
+  "cards/fingerprinting-empire/competitors.json": "77deb79bff6822f48186a6ea59fb3b6a1969b0904cae4927260e679e1ead8a83",
   "cards/fix-common/card.md": "54cdd5211ecc14cb4ec034431f833a6efc8e78c2f6a382173d1f4bfb54fe1074",
   "cards/fix-common/competitors.json": "921d7e2230e3a70b52e7e53df611359724da4fe6c2327c18639809d5fec5687b",
   "cards/flavorful-recipes/card.md": "34f3a94d58b6790208207f250973f8eaeed9659a9151ad95fe98b3e60a77fd4f",
@@ -750,6 +779,8 @@
   "cards/household-cybersecurity/competitors.json": "12dfdd90621cf80b6785d1d1cebba0775de608593510c2edf33b80c236154ac7",
   "cards/human-body/card.md": "48c060306147049f3c85ed0c6b5ef06b19ee16e0e9c6ecdd73282fc11868ab44",
   "cards/human-body/competitors.json": "068c9d70fdcb638874fe84da58d116bea8b09c1250002eef15214a13a61233fc",
+  "cards/important-relationships/card.md": "cb1f4547984b4165742cec88e730b4b32a38cac63e58c003bd60d109e66baa2e",
+  "cards/important-relationships/competitors.json": "b5ac0faf3f98182250f89f32036f670b4b1c78fb22941d67e7755a0f09df8651",
   "cards/interaction-count/card.md": "b7b4a0908b7a08ed7ab7e6aeb6fc8458e522d44ad3a174a147544a2ae982f588",
   "cards/interaction-count/competitors.json": "5a614d68d3bd173b7319671306d1913c6a94923d869f1cc48b1962c38e0a7bef",
   "cards/intermittent-fasting/card.md": "a70439942210f3430c78b409366489c36880d28a41741a0357b2fd14fdf4eeef",
@@ -824,6 +855,8 @@
   "cards/publishing-faster/competitors.json": "918fad5afc8ec7139c4ba8a4fe74b44685f4868560f0d8b0392d894cedbc9e9b",
   "cards/python-programming/card.md": "de6f4afbcdacf6748adda0d15851a1b8d376311c5506aa8e48ffd1eea6f72a0a",
   "cards/python-programming/competitors.json": "677acefd19c499b1121ed362ce0b947ea339d76d4658d0d32ff0bfe95d5af0dd",
+  "cards/quantum-mechanics/card.md": "8138752961bd6f532162a382152ca6e61fe5c5a81dc82e747a45ab83f7893420",
+  "cards/quantum-mechanics/competitors.json": "83b44e9a0a65e1a9ee6a0ff2c30d644ab407974f5c0bd0102dfcbfcabd7f480e",
   "cards/quebec-french/card.md": "9e56d74713e796ad944c7ec9a787a7f9afa3d6957ce9f862f8ba92326b763518",
   "cards/quebec-french/competitors.json": "86ff7fcea7671442d6fcd6757d0b253f93f72f9153a749e5599ec7e0fb0d0609",
   "cards/querying-literary/card.md": "742138f0d3d01d03ed778888df12eda86d104e0422f81529372ee83c5fc74c5c",
@@ -850,6 +883,8 @@
   "cards/self-publishing/competitors.json": "5888e16f3496c4e35473647e7eb33f556b9428ef0e52413069cc4c29974cddfd",
   "cards/side-hustles/card.md": "c7823745bf007bdc891e74ec7acbe2083df6eecd240d432635282d7538130715",
   "cards/side-hustles/competitors.json": "1ec8dfefe940addc77632b4c4c4ef81282c0de61520d872fcc4841fd0b4e5df5",
+  "cards/sign-language/card.md": "d24234d756a81b6a9dde4cc19501c2c01a5c7c541e6823fe3c8eb1988c420f85",
+  "cards/sign-language/competitors.json": "c2d95f6ee37ce732b09909bb1321c0d74f4c89ea7c034ebff98b415dfb062f6e",
   "cards/silicon-valley/card.md": "ff1bfb1ebd077cdf282f85cbc77b295802a05feb698d31770e0e0a3168697ffb",
   "cards/silicon-valley/competitors.json": "94e48fcb10cd6408260cf3f2ae6314c7a681a2f876f0bd11b76d20f063d4f96e",
   "cards/size-organization/card.md": "42e5e0d06b0cffc81ceb1e28126f5ec9cdf4e9815bbda0ac40626681e545a757",
@@ -914,321 +949,291 @@
  },
  "queue": [
   {
-   "slug": "sign-language",
-   "keyword": "sign language",
-   "position": 1,
-   "eta_date": "2026-11-10"
-  },
-  {
-   "slug": "ai-agent",
-   "keyword": "ai agent",
-   "position": 2,
-   "eta_date": "2026-11-10"
-  },
-  {
-   "slug": "quantum-mechanics",
-   "keyword": "quantum mechanics",
-   "position": 3,
-   "eta_date": "2026-11-10"
-  },
-  {
-   "slug": "fingerprinting-empire",
-   "keyword": "fingerprinting empire",
-   "position": 4,
-   "eta_date": "2026-11-10"
-  },
-  {
-   "slug": "important-relationships",
-   "keyword": "important relationships",
-   "position": 5,
-   "eta_date": "2026-11-10"
-  },
-  {
    "slug": "show-up",
    "keyword": "show up",
-   "position": 6,
+   "position": 1,
    "eta_date": "2026-11-10"
   },
   {
    "slug": "small-engine",
    "keyword": "small engine",
-   "position": 7,
-   "eta_date": "2026-11-11"
+   "position": 2,
+   "eta_date": "2026-11-10"
   },
   {
    "slug": "agent-operator",
    "keyword": "agent operator",
-   "position": 8,
-   "eta_date": "2026-11-11"
+   "position": 3,
+   "eta_date": "2026-11-10"
   },
   {
    "slug": "draw-realistic",
    "keyword": "draw realistic",
-   "position": 9,
-   "eta_date": "2026-11-11"
+   "position": 4,
+   "eta_date": "2026-11-10"
   },
   {
    "slug": "make-ahead-dry",
    "keyword": "make-ahead dry",
-   "position": 10,
+   "position": 5,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "quantum-physics",
    "keyword": "quantum physics",
-   "position": 11,
+   "position": 6,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "coach-resistance",
    "keyword": "coach resistance",
-   "position": 12,
+   "position": 7,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "inner-creativity",
    "keyword": "inner creativity",
-   "position": 13,
+   "position": 8,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "etymologist-field",
    "keyword": "etymologist field",
-   "position": 14,
+   "position": 9,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "scaffolding-complex",
    "keyword": "scaffolding complex",
-   "position": 15,
+   "position": 10,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "connected-relationships",
    "keyword": "connected relationships",
-   "position": 16,
+   "position": 11,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "agentic-ai",
    "keyword": "agentic ai",
-   "position": 17,
+   "position": 12,
    "eta_date": "2026-11-11"
   },
   {
    "slug": "weight-loss",
    "keyword": "weight loss",
-   "position": 18,
-   "eta_date": "2026-11-12"
+   "position": 13,
+   "eta_date": "2026-11-11"
   },
   {
    "slug": "will-listen",
    "keyword": "will listen",
-   "position": 19,
-   "eta_date": "2026-11-12"
+   "position": 14,
+   "eta_date": "2026-11-11"
   },
   {
    "slug": "relieve-stress",
    "keyword": "relieve stress",
-   "position": 20,
-   "eta_date": "2026-11-12"
+   "position": 15,
+   "eta_date": "2026-11-11"
   },
   {
    "slug": "practice-tests",
    "keyword": "practice tests",
-   "position": 21,
+   "position": 16,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "right-broke",
    "keyword": "right broke",
-   "position": 22,
+   "position": 17,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "size-organization",
    "keyword": "size organization",
-   "position": 23,
+   "position": 18,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "adult-ccrn",
    "keyword": "adult ccrn",
-   "position": 24,
+   "position": 19,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 25,
+   "position": 20,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "household-cybersecurity",
    "keyword": "household cybersecurity",
-   "position": 26,
+   "position": 21,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "off-grid",
    "keyword": "off grid",
-   "position": 27,
+   "position": 22,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "grid-survival",
    "keyword": "grid survival",
-   "position": 28,
+   "position": 23,
    "eta_date": "2026-11-12"
   },
   {
    "slug": "potty-training",
    "keyword": "potty training",
-   "position": 29,
-   "eta_date": "2026-11-13"
+   "position": 24,
+   "eta_date": "2026-11-12"
   },
   {
    "slug": "fix-common",
    "keyword": "fix common",
-   "position": 30,
-   "eta_date": "2026-11-13"
+   "position": 25,
+   "eta_date": "2026-11-12"
   },
   {
    "slug": "rick-steves",
    "keyword": "rick steves",
-   "position": 31,
-   "eta_date": "2026-11-13"
+   "position": 26,
+   "eta_date": "2026-11-12"
   },
   {
    "slug": "bambu-studio",
    "keyword": "bambu studio",
-   "position": 32,
+   "position": 27,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "homemade-candy",
    "keyword": "homemade candy",
-   "position": 33,
+   "position": 28,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "autodesk-fusion",
    "keyword": "autodesk fusion",
-   "position": 34,
+   "position": 29,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "self-help-author",
    "keyword": "self-help author",
-   "position": 35,
+   "position": 30,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 36,
+   "position": 31,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 37,
+   "position": 32,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 38,
+   "position": 33,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
-   "position": 39,
+   "position": 34,
    "eta_date": "2026-11-13"
   },
   {
    "slug": "side-hustles",
    "keyword": "side hustles",
-   "position": 40,
-   "eta_date": "2026-11-14"
+   "position": 35,
+   "eta_date": "2026-11-13"
   },
   {
    "slug": "ai-side-hustles",
    "keyword": "ai side hustles",
-   "position": 41,
-   "eta_date": "2026-11-14"
+   "position": 36,
+   "eta_date": "2026-11-13"
   },
   {
    "slug": "chatgpt-for-beginners",
    "keyword": "chatgpt for beginners",
-   "position": 42,
-   "eta_date": "2026-11-14"
+   "position": 37,
+   "eta_date": "2026-11-13"
   },
   {
    "slug": "ai-for-beginners",
    "keyword": "ai for beginners",
-   "position": 43,
+   "position": 38,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "budgeting",
    "keyword": "budgeting",
-   "position": 44,
+   "position": 39,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "credit-repair",
    "keyword": "credit repair",
-   "position": 45,
+   "position": 40,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "retirement-planning",
    "keyword": "retirement planning",
-   "position": 46,
+   "position": 41,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
-   "position": 47,
+   "position": 42,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 48,
+   "position": 43,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 49,
+   "position": 44,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 50,
+   "position": 45,
    "eta_date": "2026-11-14"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 51,
-   "eta_date": "2026-11-15"
+   "position": 46,
+   "eta_date": "2026-11-14"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 52,
-   "eta_date": "2026-11-15"
+   "position": 47,
+   "eta_date": "2026-11-14"
   }
  ],
  "budget": {
   "date": "2026-11-10",
-  "used": 93,
+  "used": 146,
   "limit": 240
  }
 }

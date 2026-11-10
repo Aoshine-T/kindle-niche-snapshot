@@ -1,0 +1,268 @@
+[
+ {
+  "asin": "B0H381PNPR",
+  "title": "An Illustrated Guide to AI Agents: Concepts and Code for Building Agents with LLMs, Tools,",
+  "bsr": 60376,
+  "rating": 4.9,
+  "price": 50.68,
+  "pub_date": "2026-09-02",
+  "pages": 697,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    1,
+    "Pattern Recognition"
+   ],
+   [
+    6,
+    "Generative AI (Books)"
+   ],
+   [
+    8,
+    "Computer Vision & Pattern Recognition"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 10,
+  "description": "Artificial intelligence is entering a new phase. AI agents can now reason, plan, and act with increasing independence. From accelerating scientific breakthroughs to supporting creative work, these systems are quickly reshaping industries and everyday life. This book provides the conceptual foundation and practical insights you need to understand—and effectively work with—this emerging technology. Through hundreds of clear graphic illustrations, Maarten Grootendorst and Jay Alammar explain how AI agents are built, how they think, and where they're heading. Designed for professionals, students, and curious learners alike, this guide goes beyond the buzz to reveal what's actually happening inside these systems, why it matters, and how to apply the knowledge in real-world contexts. An Illustrated Guide to AI Agents is your essential reference for navigating the next frontier of artificial intelligence. Explore the core architecture of AI agents: tools, memory, and planning Understand reasoning LLMs, multimodal models, and multi-agent collaboration Learn advanced methods, including distillation, quantization, and reinforcement learning Evaluate real-world applications, strengths, and limitations of AI agents  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_4\"]', '#CardInstance-ZcG5Ox3oy62OM3Xb_ssng')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_4',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4p"
+ },
+ {
+  "asin": "B0HBCRBH4F",
+  "title": "Build an AI Agent (From Scratch): Agents that reason, plan, and act autonomously",
+  "bsr": 105020,
+  "rating": 4.8,
+  "price": 43.99,
+  "pub_date": "2026-08-25",
+  "pages": 683,
+  "publisher": "Manning",
+  "cats": [
+   [
+    60,
+    "AI & Semantics"
+   ],
+   [
+    71,
+    "Artificial Intelligence & Semantics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 39,
+  "description": "Get the eBook free when you register your print book at Manning. \"A practical guide for anyone who wants to move beyond demos and create agentic systems with confidence.” —Elliot Kim, Coupang Inc. This book is a fascinating step-by-step journey through design, development, and deployment of a system of autonomous AI agents. Authors Jungjun Hur and Younghee Song guide you concept-by-concept as you build a sophisticated research agent in Python, designed to solve complex, multi-step tasks from the rigorous GAIA (General AI Assistants) benchmark. By seeing the construction of the system end to end, you’ll understand how the underlying mechanics unobstructed by any existing blackbox libraries and frameworks. This book includes ten meaty chapters and a handy appendix (about how to get an OpenAI API key). The technical explanations throughout the book are made crystal clear by the use of many helpful diagrams. As one reviewer remarked, even for someone building their first agent, “nothing feels like magic or a mystery after the first few chapters!” Early on, you’ll establish the foundational blueprint for your agent by distinguishing rigid developer-defined workflows from true, LLM-directed agent loops. You’ll learn how to manage stateless APIs, enforce structured outputs using Pydantic, and implement dynamic tool-calling. Crucially, the book centers on “Context Engineering”—the discipline of systematically structuring information to prevent context rot and the “Lost in the Middle” effect. One technical reviewer particularly appreciated that core concepts like agent loops, context engineering, and evaluation are introduced with clear motivation and practical examples rather than as isolated abstractions. After you build the basic agent, you’ll progressively expand its capabil"
+ },
+ {
+  "asin": "B0GZK4LQS5",
+  "title": "From AI Agent To Employee: How To Build Train, and Deploy AI Agents in Your Business Witho",
+  "bsr": 299445,
+  "rating": 4.8,
+  "price": 0.99,
+  "pub_date": "2026-05-05",
+  "pages": 333,
+  "publisher": null,
+  "cats": [
+   [
+    29,
+    "Business Intelligence Tools"
+   ],
+   [
+    74,
+    "Business Software"
+   ],
+   [
+    162,
+    "Generative AI (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 35,
+  "description": "What if your business had an employee that could draft, summarize, organize, follow up, and prepare work in minutes without hiring another person? AI is no longer just a tool for big tech companies. It is becoming one of the most practical ways for business owners to save time, reduce repetitive work, improve consistency, and get more done without hiring too fast. But most businesses are approaching AI the wrong way. They chase tools. They collect prompts. They experiment without structure. Then they wonder why the results feel inconsistent. From AI Agent to Employee gives you a practical, business-first framework for turning AI agents into useful “employees” inside your business — without coding, hype, or technical overwhelm. This book shows you how to build AI agents around the three things that actually matter: Roles. Workflows. Outcomes. Instead of asking, “What can AI do?” you’ll learn to ask: What role should this AI employee play in my business? What workflow should it follow? What measurable outcome should it improve? Inside, you’ll learn how to: Identify the best first role for your AI employee Map workflows before trying to automate them Set guardrails so AI does not create unnecessary risk Keep humans in the loop where judgment matters Train AI agents with company context, instructions, examples, and knowledge bases Deploy AI into real business workflows Measure time saved, cost reduced, speed improved, and quality increased Build an AI-assisted business without losing control This is not a book about replacing your team. It is a book about helping your business operate better. AI employees can help draft customer responses, follow up with leads, repurpose content, summarize meetings, organize internal documentation, prepare reports, and reduce the repetitive"
+ },
+ {
+  "asin": "B0FJ9QGK8S",
+  "title": "The Agentic AI Bible: The Complete and Up-to-Date Guide to Design, Develop, and Scale Goal",
+  "bsr": 44942,
+  "rating": 4.7,
+  "price": 24.89,
+  "pub_date": "2025-07-21",
+  "pages": 465,
+  "publisher": null,
+  "cats": [
+   [
+    3,
+    "Neural Networks"
+   ],
+   [
+    4,
+    "Robotic Engineering"
+   ],
+   [
+    7,
+    "Robotics & Automation"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 549,
+  "description": "The Complete Engineering Blueprint for Designing and Scaling LLM-Powered Autonomous Agents Agent-based AI is no longer a futuristic dream—it’s the next phase of intelligent software. Yet for most teams, the path to building real-world agentic systems is filled with chaos: bloated prototypes that can’t scale, brittle tools duct-taped together, unclear architectures, and zero visibility into performance or safety. Most technical leaders are left asking the same questions: How do we move beyond demos to dependable systems? How do we orchestrate perception, reasoning, and action in complex environments? How do we design agents that can think, execute, and evolve—while remaining safe, observable, and maintainable? The Agentic AI Bible delivers clear, practical answers. Designed for engineers, system architects, and AI product leads, this comprehensive guide breaks down the entire lifecycle of agentic systems —from foundational design principles to deployment and real-world application—backed by current best practices, production-ready tools, and future-facing insights. Here is a mere fraction of what you will learn: The core principles and modular architecture patterns that power modern agentic systems so you can design agents with reasoning, memory, and planning from the ground up How to implement LLM-powered agents with perception, action, and environment loops to create systems that can interact with the world, not just respond to prompts Advanced behavioral patterns such as recursive reasoning, self-reflection, and goal reprioritization to ensure agents can adapt in real time 3 secret design strategies for safety, reliability, and testability that prevent catastrophic errors and keep your agents under control How to connect your agents with external tools , APIs, and lon"
+ },
+ {
+  "asin": "B0GQJ8V1XH",
+  "title": "AI Agents in Action, Second Edition: Intelligent workflows with LLMs, MCP, A2A, and more",
+  "bsr": 137306,
+  "rating": 4.6,
+  "price": 43.99,
+  "pub_date": "2026-06-30",
+  "pages": 715,
+  "publisher": "Manning",
+  "cats": [
+   [
+    3,
+    "Distributed Systems & Computing"
+   ],
+   [
+    9,
+    "Natural Language Processing (Books)"
+   ],
+   [
+    16,
+    "Natural Language Processing"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 54,
+  "description": "Get the eBook free when you register your print book at Manning. Build AI agents that do more than respond. Give them tools, connect them to knowledge, coordinate their work, and evaluate how well they perform. AI Agents in Action, Second Edition teaches you how to design, build, evaluate, and deploy AI agents through working Python examples. You’ll progress from a simple agent to tool-using assistants, coordinated multi-agent workflows, and deployable systems. Along the way, you’ll learn how the pieces fit together and where to look when an agent needs improvement. What’s new and included in the second edition? A near-total rewrite with new and extensive coverage of the latest agent innovations Agents start to finish—from prompting and planning, to memory and evaluation New chapter! Evaluate agents with LLM-as-judge, test-driven-development, and observable behavior New chapter! Explore the agentic loop, build task-focused agents, and develop long-horizon, goal focused systems New chapter! Metacognition harnesses that structure agent thinking, planning, and learning New chapter! Practical tips and techniques for building AI applications, help desks, and deep research agents New chapter! Voice-driven AI agents, including real-world deployment patterns for multi-agent systems Multi-agent workflows with assembly-flow, orchestration, and collaboration patterns Hands-on with the Model Context Protocol (MCP) to connect agents to tools and servers Hybrid search for Retrieval Augmented Generation (RAG) and practical ways to use memory in agents With more than 95% rewritten from the first edition, AI Agents in Action is far more than a refresh! You’ll go right from your agent’s first response, to systems that use tools, work together, draw on knowledge, and incorporate feedback."
+ },
+ {
+  "asin": "B0HGNKW65V",
+  "title": "AI Agents: The Definitive Guide: Design, Deployment, and Evaluation for Production",
+  "bsr": 133637,
+  "rating": 5.0,
+  "price": 50.68,
+  "pub_date": "2026-08-26",
+  "pages": 706,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    9,
+    "Artificial Intelligence Expert Systems"
+   ],
+   [
+    12,
+    "Natural Language Processing (Books)"
+   ],
+   [
+    15,
+    "Natural Language Processing"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "As AI agents move from research labs into production, engineering teams face mounting challenges—fragile tools, rising inference costs, erratic behavior, and unmet expectations. AI Agents: The Definitive Guide addresses what most books avoid: how to design, deploy, and maintain real AI agents that actually work in the real world, not just in demos. Written by Nicole Koenigstein, this book offers the practical, system-level foundations needed to build robust, scalable, and secure agentic systems. Whether you're tasked with making agent prototypes production-ready or building mission-critical automation from the ground up, this book guides you through every layer of the stack, without being framework-dependent. It covers architectures, tool integration, performance optimization, safety strategies, and advanced evaluation, with a relentless focus on reliability and long-term value. Design stateful, reasoning, and multi-agent systems Apply reinforcement learning, search, and test-time compute Build reliable tool integration and execution boundaries Evaluate agents across development and production Design memory, monitoring, fallbacks, and efficient infrastructure Secure agents through isolation, governance, and threat modeling  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceNW7f8rmI55R1oQHuouibGg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:"
+ },
+ {
+  "asin": "B0DPLNK9GN",
+  "title": "AI Engineering: Building Applications with Foundation Models",
+  "bsr": 30753,
+  "rating": 4.6,
+  "price": 43.7,
+  "pub_date": "2024-12-04",
+  "pages": 875,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    1,
+    "Enterprise Applications"
+   ],
+   [
+    1,
+    "Natural Language Processing"
+   ],
+   [
+    1,
+    "Computer Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1030,
+  "description": "Recent breakthroughs in AI have not only increased demand for AI products, they've also lowered the barriers to entry for those who want to build AI products. The model-as-a-service approach has transformed AI from an esoteric discipline into a powerful development tool that anyone can use. Everyone, including those with minimal or no prior AI experience, can now leverage AI models to build applications. In this book, author Chip Huyen discusses AI engineering: the process of building applications with readily available foundation models. The book starts with an overview of AI engineering, explaining how it differs from traditional ML engineering and discussing the new AI stack. The more AI is used, the more opportunities there are for catastrophic failures, and therefore, the more important evaluation becomes. This book discusses different approaches to evaluating open-ended models, including the rapidly growing AI-as-a-judge approach. AI application developers will discover how to navigate the AI landscape, including models, datasets, evaluation benchmarks, and the seemingly infinite number of use cases and application patterns. You'll learn a framework for developing an AI application, starting with simple techniques and progressing toward more sophisticated methods, and discover how to efficiently deploy these applications. Understand what AI engineering is and how it differs from traditional machine learning engineering Learn the process for developing an AI application, the challenges at each step, and approaches to address them Explore various model adaptation techniques, including prompt engineering, RAG, fine-tuning, agents, and dataset engineering, and understand how and why they work Examine the bottlenecks for latency and cost when serving foundation models "
+ },
+ {
+  "asin": "B0HNXRSRH2",
+  "title": "AI Agents Made Simple: A Decision Guide to Building AI Agents That Work (Super AI Engineer",
+  "bsr": 74134,
+  "rating": 5.0,
+  "price": 9.99,
+  "pub_date": "2026-10-22",
+  "pages": 510,
+  "publisher": null,
+  "cats": [
+   [
+    6,
+    "Software Engineering"
+   ],
+   [
+    10,
+    "Software Design Tools"
+   ],
+   [
+    14,
+    "Software Development"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 15,
+  "description": "By the author of RAG Made Simple and Agent Memory Made Simple, whose open-source AI curricula have earned more than 85,000 GitHub stars. Most agent projects fail because they built the wrong thing, not because they built it badly. The demo worked once. Then real users arrived, and the agent looped on a broken tool, followed instructions hidden inside an email, and ran up a bill several times the forecast. AI Agents Made Simple is a decision guide to building agents that survive that week. 28 chapters, 148 custom illustrations, and no code. Every chapter takes one pattern and answers four questions: how it works, what breaks, what it costs, and when it is overkill. Each one ends with a verdict and the simpler thing to try first, and shows where the pattern lives inside the coding agent you already use. Inside this book: Before you build - whether you need an agent at all, the agent loop with the vocabulary stripped away, and the workflows to try first Giving the model hands - tool calling and tool design, retrieval as a tool, the web and the screen, running code, MCP and A2A, and skills loaded on demand Making it reliable - context engineering, evals and error analysis, tracing, prompt injection and guardrails, human approval, and what an agent really costs Planning and reasoning - reason-act loops, effort levels, plan-then-execute, skeptical reviewers, and thinking budgets State, memory, and many agents - long-running work across sessions, memory in one chapter, when to go multi-agent, orchestrators and workers, and handoffs Shipping - background and scheduled agents, deployment, a coding agent taken apart, and how agents fail Who this book is for: developers and technical product managers who build agents, are about to, or have to decide whether one should be built at "
+ },
+ {
+  "asin": "B0GSNX6H12",
+  "title": "Agentic AI Engineering: Systems That Reason and Act Autonomously – Designing, Building, an",
+  "bsr": 69585,
+  "rating": 4.6,
+  "price": 9.87,
+  "pub_date": "2026-03-15",
+  "pages": 335,
+  "publisher": null,
+  "cats": [
+   [
+    5,
+    "Neural Networks"
+   ],
+   [
+    16,
+    "Computer Neural Networks"
+   ],
+   [
+    32,
+    "Web Development & Design Programming"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 150,
+  "description": "Build the AI agents that companies are betting their future on From the AI Engineering series, with 10,000+ copies sold Agentic AI has quickly become the new class of intelligent software. Every company wants agents, but very few teams can build ones that hold up outside a notebook. And the problems are always the same: agents that loop endlessly, tools that fail silently, multi-agent setups nobody can debug, and no reliable way to tell whether a change made things better or worse. So engineers keep asking: • How do I design an agent that reasons reliably across many steps? • How do I write system prompts and tools the model actually uses correctly? • How do I test and safely deploy something non-deterministic? Agentic AI Engineering answers these questions with proven systems and working code. AI engineer Hyun Erwin takes you through 43 modules across seven chapters, from the fundamentals of autonomy to agents running in production. Along the way, you build two complete systems: A single-agent personal assistant that reads your files, searches the web, and drafts documents A multi-agent coding system built on an Orchestrator → Worker → Verifier architecture, with parallel subtasks and human approval for risky commands Here's a preview of what you’ll learn: • What separates true agentic AI from automation • The reasoning loop and core components behind every agent • How to design system prompts and tools that make agents reliable instead of unpredictable • How to architect multi-agent systems that divide work and verify each other’s output • Evaluation and testing methods that show whether your agent is improving or quietly breaking • Deployment practices that keep agents running reliably in real-world workflows • And much more! What’s inside: • Full Python code for eve"
+ },
+ {
+  "asin": "B0FR9PN9RX",
+  "title": "Building Applications with AI Agents: Designing and Implementing Multiagent Systems",
+  "bsr": 503747,
+  "rating": 4.2,
+  "price": 53.59,
+  "pub_date": "2025-09-16",
+  "pages": 610,
+  "publisher": "O'Reilly Media",
+  "cats": [
+   [
+    6,
+    "Computer Systems Analysis & Design (Books)"
+   ],
+   [
+    8,
+    "Software Design Tools"
+   ],
+   [
+    65,
+    "Artificial Intelligence & Semantics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 63,
+  "description": "Generative AI has revolutionized how organizations tackle problems, accelerating the journey from concept to prototype to solution. As the models become increasingly capable, we have witnessed a new design pattern emerge: AI agents. By combining tools, knowledge, memory, and learning with advanced foundation models, we can now sequence multiple model inferences together to solve ambiguous and difficult problems. From coding agents to research agents to analyst agents and more, we've already seen agents accelerate teams and organizations. While these agents enhance efficiency, they often require extensive planning, drafting, and revising to complete complex tasks, and deploying them remains a challenge for many organizations, especially as technology and research rapidly develops. This book is your indispensable guide through this intricate and fast-moving landscape. Author Michael Albada provides a practical and research-based approach to designing and implementing single- and multiagent systems. It simplifies the complexities and equips you with the tools to move from concept to solution efficiently. Understand the distinct features of foundation model-enabled AI agents Discover the core components and design principles of AI agents Explore design trade-offs and implement effective multiagent systems Design and deploy tailored AI solutions, enhancing efficiency and innovation in your field  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstancehuVPoKNnIOYmXUPDlH0d-w')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_8',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-fi"
+ }
+]
