@@ -1,7 +1,7 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-09T02:59:33Z",
- "topics": 86,
+ "generated_at": "2026-11-10T02:08:14Z",
+ "topics": 97,
  "cards": 143,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
@@ -9,12 +9,12 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 111,
- "elapsed_seconds": 1769,
+ "requests": 45,
+ "elapsed_seconds": 476,
  "steps": {
   "topics": {
    "requests": 45,
-   "seconds": 485
+   "seconds": 476
   },
   "deep": {
    "words": 9,
@@ -25,20 +25,8 @@
    "seeds": 34
   }
  },
- "new_cards": [
-  "ged-study",
-  "learn-faster",
-  "mental-health",
-  "ai-agents",
-  "interaction-count",
-  "multiplier-mindset",
-  "restaurant-favorites",
-  "lsat-prep"
- ],
- "stopped": {
-  "reason": "captcha",
-  "next": "ai industry"
- },
+ "new_cards": [],
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -900,157 +888,343 @@
   "cards/youtube-channel/competitors.json": "17b24e65678d258fe84a6b6aa881c5c58dad27aa1bf23a3e546a46bb8ab66498",
   "cards/youtube-millionaire/card.md": "22d672d8f9adc57574a27c6e41d5ba30c1d4e6bfc42e68dd3694b8f7a3a2d4bb",
   "cards/youtube-millionaire/competitors.json": "9d4a6f8949467305cfd5dbcaace30fa1b27e40e58cce02539b9de2896f5f63fb",
-  "topics.json": "d717094bec0a8ba66eaa6cf39a34c66df65b0d0818516e1cfa6ec78a57aefdaf"
+  "topics.json": "9da8694a04c5f675055d3e6a56471ad6f0ad82af9450042c8f8d8e7870469b79"
  },
  "queue": [
   {
-   "slug": "ai-industry",
-   "keyword": "ai industry",
+   "slug": "international-bestselling",
+   "keyword": "international bestselling",
    "position": 1,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "right-broke",
-   "keyword": "right broke",
+   "slug": "less-useful",
+   "keyword": "less useful",
    "position": 2,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "walt-disney",
-   "keyword": "walt disney",
+   "slug": "too-late",
+   "keyword": "too late",
    "position": 3,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "bambu-studio",
-   "keyword": "bambu studio",
+   "slug": "sign-language",
+   "keyword": "sign language",
    "position": 4,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "lsat-logical",
-   "keyword": "lsat logical",
+   "slug": "ai-agent",
+   "keyword": "ai agent",
    "position": 5,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "homemade-candy",
-   "keyword": "homemade candy",
+   "slug": "quantum-mechanics",
+   "keyword": "quantum mechanics",
    "position": 6,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "autodesk-fusion",
-   "keyword": "autodesk fusion",
+   "slug": "fingerprinting-empire",
+   "keyword": "fingerprinting empire",
    "position": 7,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "self-help-author",
-   "keyword": "self-help author",
+   "slug": "important-relationships",
+   "keyword": "important relationships",
    "position": 8,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "stack-high-value",
-   "keyword": "stack high-value",
+   "slug": "show-up",
+   "keyword": "show up",
    "position": 9,
    "eta_date": "2026-11-10"
   },
   {
-   "slug": "bucket-retirement",
-   "keyword": "bucket retirement",
+   "slug": "small-engine",
+   "keyword": "small engine",
    "position": 10,
-   "eta_date": "2026-11-10"
+   "eta_date": "2026-11-11"
   },
   {
-   "slug": "side-hustles",
-   "keyword": "side hustles",
+   "slug": "agent-operator",
+   "keyword": "agent operator",
    "position": 11,
-   "eta_date": "2026-11-10"
+   "eta_date": "2026-11-11"
   },
   {
-   "slug": "ai-side-hustles",
-   "keyword": "ai side hustles",
+   "slug": "draw-realistic",
+   "keyword": "draw realistic",
    "position": 12,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "passive-income",
-   "keyword": "passive income",
+   "slug": "make-ahead-dry",
+   "keyword": "make-ahead dry",
    "position": 13,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "chatgpt-for-beginners",
-   "keyword": "chatgpt for beginners",
+   "slug": "quantum-physics",
+   "keyword": "quantum physics",
    "position": 14,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "ai-for-beginners",
-   "keyword": "ai for beginners",
+   "slug": "coach-resistance",
+   "keyword": "coach resistance",
    "position": 15,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "budgeting",
-   "keyword": "budgeting",
+   "slug": "inner-creativity",
+   "keyword": "inner creativity",
    "position": 16,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "credit-repair",
-   "keyword": "credit repair",
+   "slug": "etymologist-field",
+   "keyword": "etymologist field",
    "position": 17,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "retirement-planning",
-   "keyword": "retirement planning",
+   "slug": "scaffolding-complex",
+   "keyword": "scaffolding complex",
    "position": 18,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "real-estate-investing",
-   "keyword": "real estate investing",
+   "slug": "connected-relationships",
+   "keyword": "connected relationships",
    "position": 19,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "stock-market",
-   "keyword": "stock market",
+   "slug": "agentic-ai",
+   "keyword": "agentic ai",
    "position": 20,
    "eta_date": "2026-11-11"
   },
   {
-   "slug": "etsy-selling",
-   "keyword": "etsy selling",
+   "slug": "weight-loss",
+   "keyword": "weight loss",
    "position": 21,
-   "eta_date": "2026-11-11"
+   "eta_date": "2026-11-12"
   },
   {
-   "slug": "youtube-channel",
-   "keyword": "youtube channel",
+   "slug": "will-listen",
+   "keyword": "will listen",
    "position": 22,
-   "eta_date": "2026-11-11"
+   "eta_date": "2026-11-12"
   },
   {
-   "slug": "self-publishing",
-   "keyword": "self publishing",
+   "slug": "relieve-stress",
+   "keyword": "relieve stress",
    "position": 23,
    "eta_date": "2026-11-12"
   },
   {
-   "slug": "excel",
-   "keyword": "excel",
+   "slug": "practice-tests",
+   "keyword": "practice tests",
    "position": 24,
    "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "right-broke",
+   "keyword": "right broke",
+   "position": 25,
+   "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "size-organization",
+   "keyword": "size organization",
+   "position": 26,
+   "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "adult-ccrn",
+   "keyword": "adult ccrn",
+   "position": 27,
+   "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "lsat-logical",
+   "keyword": "lsat logical",
+   "position": 28,
+   "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "household-cybersecurity",
+   "keyword": "household cybersecurity",
+   "position": 29,
+   "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "off-grid",
+   "keyword": "off grid",
+   "position": 30,
+   "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "grid-survival",
+   "keyword": "grid survival",
+   "position": 31,
+   "eta_date": "2026-11-12"
+  },
+  {
+   "slug": "potty-training",
+   "keyword": "potty training",
+   "position": 32,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "fix-common",
+   "keyword": "fix common",
+   "position": 33,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "rick-steves",
+   "keyword": "rick steves",
+   "position": 34,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "bambu-studio",
+   "keyword": "bambu studio",
+   "position": 35,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "homemade-candy",
+   "keyword": "homemade candy",
+   "position": 36,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "autodesk-fusion",
+   "keyword": "autodesk fusion",
+   "position": 37,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "self-help-author",
+   "keyword": "self-help author",
+   "position": 38,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "stack-high-value",
+   "keyword": "stack high-value",
+   "position": 39,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "bucket-retirement",
+   "keyword": "bucket retirement",
+   "position": 40,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "mediterranean-diet",
+   "keyword": "mediterranean diet",
+   "position": 41,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "passive-income",
+   "keyword": "passive income",
+   "position": 42,
+   "eta_date": "2026-11-13"
+  },
+  {
+   "slug": "side-hustles",
+   "keyword": "side hustles",
+   "position": 43,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "ai-side-hustles",
+   "keyword": "ai side hustles",
+   "position": 44,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "chatgpt-for-beginners",
+   "keyword": "chatgpt for beginners",
+   "position": 45,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "ai-for-beginners",
+   "keyword": "ai for beginners",
+   "position": 46,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "budgeting",
+   "keyword": "budgeting",
+   "position": 47,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "credit-repair",
+   "keyword": "credit repair",
+   "position": 48,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "retirement-planning",
+   "keyword": "retirement planning",
+   "position": 49,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "real-estate-investing",
+   "keyword": "real estate investing",
+   "position": 50,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "stock-market",
+   "keyword": "stock market",
+   "position": 51,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "etsy-selling",
+   "keyword": "etsy selling",
+   "position": 52,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "youtube-channel",
+   "keyword": "youtube channel",
+   "position": 53,
+   "eta_date": "2026-11-14"
+  },
+  {
+   "slug": "self-publishing",
+   "keyword": "self publishing",
+   "position": 54,
+   "eta_date": "2026-11-15"
+  },
+  {
+   "slug": "excel",
+   "keyword": "excel",
+   "position": 55,
+   "eta_date": "2026-11-15"
   }
  ],
  "budget": {
-  "date": "2026-11-09",
-  "used": 111,
+  "date": "2026-11-10",
+  "used": 45,
   "limit": 240
  }
 }
