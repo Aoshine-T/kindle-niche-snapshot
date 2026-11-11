@@ -1,0 +1,220 @@
+[
+ {
+  "asin": "B0HNR3MNZG",
+  "title": "The Agent Operator's Handbook: An Unofficial Power-User's Field Guide to Meta's Personal A",
+  "bsr": 135329,
+  "rating": 5.0,
+  "price": 4.99,
+  "pub_date": "2026-10-21",
+  "pages": 125,
+  "publisher": null,
+  "cats": [
+   [
+    10,
+    "Computer Literacy"
+   ],
+   [
+    23,
+    "Computers & Technology Teaching & Reference"
+   ],
+   [
+    38,
+    "Generative AI"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 3,
+  "description": "You're past the first week with your personal AI agent. You've asked it questions, maybe had it summarize something. And you keep hearing people say they're running their whole life on one — while you're using maybe ten percent of what yours can do. This book is the other ninety percent. The Agent Operator's Handbook is a field guide for power users: how to actually run your life and business on a personal AI agent, from someone who does it every day. Not theory. Real workflows, built and battle-tested: the 3:30 AM briefing that assembles your day while you sleep, inbox triage that drafts replies for your one-tap approval, a monitoring layer that watches prices, news, and deadlines for you, and a full outreach pipeline that finds prospects, writes to them, and stops the second anything looks off. The whole book is built on one rule: teach patterns, not buttons. Apps change weekly; the way you delegate doesn't. Every chapter gives you a durable framework you can use no matter what version lands tomorrow. What you'll build as you read: A setup that compounds: personality, memory, and permissions configured once, paying off forever A daily operating system: morning briefings, inbox triage, a calendar that's actually managed, pre-meeting briefs Delegation playbooks you can copy: research briefs, content pipelines, outreach campaigns, even the weekly grocery run Scheduled work that runs while you sleep — and the approval habits that keep you in charge without making you the bottleneck The debugging playbook for when your AI agent gets it wrong (it will, and you'll fix it in minutes) Twenty-eight chapters, zero fluff, plus a prompt library, setup checklists, and a glossary in the appendices. Written with the AI agent it teaches you to use — and edited by a human who actually "
+ },
+ {
+  "asin": "B0H38BPG85",
+  "title": "The Agent Operator's Manual: Write Instructions That Make AI Agents Actually Work Across A",
+  "bsr": 1154708,
+  "rating": 4.3,
+  "price": 9.99,
+  "pub_date": "2026-05-29",
+  "pages": 149,
+  "publisher": null,
+  "cats": [
+   [
+    116,
+    "Software Design Tools"
+   ],
+   [
+    188,
+    "Computer Engineering"
+   ],
+   [
+    346,
+    "Software Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "The Agent Operator's Manual — Write Instructions That Make AI Agents Actually Work Across Any Tool You let the agent do it — Claude, Cursor, Cline, Aider, whatever you're running this week. Some days the output is perfect. Other days it produces something you wouldn't put your name on. You re-prompt. You add caveats. You paste in more context. You try a better model. You switch tools. The problem follows you. The problem isn't the model. The problem isn't the tool. The problem is the file that tells the agent what to do. Most founders are tuning the wrong variable. The model is responsible for roughly 20 percent of agent quality. The instruction file is responsible for the other 80. This book is about the 80 — and the craft transfers cleanly across every agent tool on the market. Inside this book: The Agent Instruction Model (AIM). A six-layer framework — Mission, Tools, Decisions, Output, Error Handling, Quality Gates — wrapped in a Context layer. Every effective instruction file Pat has ever written has these layers, whether the target is a CLAUDE.md, a Cursor rules file, a Cline config, or a custom system prompt. Every failure he has diagnosed traces back to a missing or underdeveloped layer. Eight named principles you can apply to any agent on any tool, any frontier model: Scope Boundary, Confidence Threshold, Canary-Pilot-Full, Inspector Independence, Fallback Chain, Debug Loop, Autonomy Spectrum, and the 80/20 Rule of Agent Quality. The instruction file from the morning seventy-two posts went live. The full annotated CLAUDE.md, the broken version, the rewrite, and the line-by-line diff that explains why the rewrite would have prevented the crisis. Plus complete starter files for the Writer, the Optimizer, and the Site Monitor — ready to fork into whatever tool you"
+ },
+ {
+  "asin": "B0HLJ7F51C",
+  "title": "The Agent Operator's Handbook: A Field Guide to Dispatching, Steering, and Recovering Mult",
+  "bsr": null,
+  "rating": null,
+  "price": 12.0,
+  "pub_date": "2026-09-30",
+  "pages": 88,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "A field guide to operating several AI coding agents at once: writing the complete brief, when to split work and when not to, steering a running agent, recovering an interrupted one, and reading its report. This is an independent book. It is not affiliated with, sponsored by, or endorsed by the owners of the names it mentions (Claude Code, Codex, Claude, OpenAI, Anthropic).  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_5\"]', '#CardInstancecqlckgE_T5MFYUvQ6tb4AQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_5',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-d"
+ },
+ {
+  "asin": "B0HNR3CGQK",
+  "title": "The Agent Operator’s Field Manual: Running coding agents on work that cannot be undone",
+  "bsr": null,
+  "rating": 4.8,
+  "price": 9.99,
+  "pub_date": "2026-10-20",
+  "pages": 248,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Most books about coding agents explain the features. This one is about what broke. We ran an agent as the operator of a live publishing business. It wrote manuscripts, drove a vendor web console it did not control, registered products, and pressed buttons that could not be un-pressed. This manual is the record of that work: twenty-six failures, in order, each with the symptom as it appeared, the cause we verified, and the practice that now prevents it. What you will find • Why a write can report success and store nothing. • Why the position of a control in the page is not where it is on the screen. • What to do when several copies of one value disagree and only one of them ships. • How two agents on one account produced a duplicate listing that had to be withdrawn. • Why a search term with almost no competition is not the same as a term with demand. • How to leave work recoverable when a platform refuses you and will not even save a draft. How it is written Twenty of the twenty-six failures produced no error message at all. They were found by looking. That is the argument of the book, and it is why every chapter ends with a checklist rather than a summary. No invented case studies, no imaginary companies, no fabricated metrics. Every incident happened to us and is quoted as it was recorded. Where a number appears, it was measured. Where our log is silent, the book says so instead of guessing. This is a field manual, not a tutorial. It assumes you can already run the tool. It is about the discipline that keeps an agent's output trustworthy when the work cannot be undone. Not affiliated with or endorsed by Anthropic.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_2\"]', '#CardInstancedQCBx_cL067g7ewUY3UnMA')('mark', 'bb')} if(window.uet)"
+ },
+ {
+  "asin": "B0HHG9V34N",
+  "title": "The Operator's Guide to AI Agents: Building and Running Reliable Agent Systems",
+  "bsr": 1172588,
+  "rating": 5.0,
+  "price": 4.99,
+  "pub_date": "2026-09-01",
+  "pages": 158,
+  "publisher": null,
+  "cats": [
+   [
+    252,
+    "Human-Computer Interaction"
+   ],
+   [
+    266,
+    "Computer Systems Analysis & Design"
+   ],
+   [
+    625,
+    "Computer Systems Analysis & Design (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 6,
+  "description": "Your agents are capable. But are they reliable? AI agents can reason, use tools, and take real-world action. But capability is not reliability. Every agent is a bounded intelligence—systematically blind to what it can't see. Without structural safeguards, you don't get collective intelligence. You get distributed failure. The Operator's Guide to AI Agents bridges AI agent architecture with the proven error-prevention tools used in high-reliability organizations—nuclear power, aviation, surgical medicine—adapted for the teams now building and operating agent systems. Inside, you'll learn: How agents actually work—models, memory, context, tools, MCP, and multi-agent systems The C.A.R.E.S. framework for keeping agents reliable in production 13 reliability tools with clear behavior standards and real-world examples How to catch failure before it propagates, using S.A.F.E.R. and B.L.I.N.D. Practical applications for today's platforms, including Claude Cowork Whether you're a business leader deciding whether to trust an agentic workflow, or an engineer stitching together a multi-agent pipeline at midnight, this book gives you a practical language for reliability—before these systems become infrastructure. For business leaders and engineers alike —anyone who operates AI agents in production.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_4\"]', '#CardInstanceks-Pasul5dk0Bp3oKSZgnQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_4',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var("
+ },
+ {
+  "asin": "B0GNZL5X87",
+  "title": "Agentic AI Systems - The Complete Guide for Building Production AI Agents: A practical gui",
+  "bsr": 519284,
+  "rating": 4.7,
+  "price": 3.99,
+  "pub_date": "2026-02-18",
+  "pages": 193,
+  "publisher": null,
+  "cats": [
+   [
+    426,
+    "Generative AI"
+   ],
+   [
+    554,
+    "AI & Semantics"
+   ],
+   [
+    687,
+    "Generative AI (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 13,
+  "description": "Most AI agents break in production. Yours won't. The difference between a demo and a deployable system? Architecture. Not prompts. Not \"better models.\" The disciplined design that keeps agents reliable when reality gets messy. This book teaches you to build AI agents as systems, not conversations. You'll learn the complete stack: agent loops, state management, tool contracts, multi-agent teams, guardrails, and production deployment. No theory. No fluff. Just the engineering discipline that separates toys from tools. What You'll Build: The Agent Loop (Chapter 2-3): Master the core cycle: input, planning, tool execution, observation, state updates, and artifact generation. Build your first working agent in one evening with draft-first safety patterns and approval gates. Production Patterns (Chapter 7-12): Implement tool contracts with idempotency, multi-agent teams with verifier roles, and guardrails with permission tiers. Learn when to use deterministic workflows vs. agents, and how to prevent the chaos that kills most agent projects. Memory & Retrieval (Chapter 8-9): Separate short-term state from long-term knowledge. Build RAG systems that cite sources, resolve conflicts, and prevent hallucinated facts from spreading through your operations. Deployment Architecture (Chapter 16-18): Scale from single-run agents to event-driven systems. Manage costs, implement observability, and deploy with rollout stages, kill switches, and copyable blueprints. Who This Is For: Operators, founders, and technical teams building real automation, not experimenting with prompts. No-code builders and developers both get the complete architecture for agents that ship. The Result: An agent operating system: a reusable foundation with consistent governance, measurable performance, and productio"
+ },
+ {
+  "asin": "B0HJD9RMCQ",
+  "title": "How to Build and Sell an AI Agent: The Agent Operator's No-Code Playbook for Proving Your ",
+  "bsr": null,
+  "rating": 4.4,
+  "price": 8.99,
+  "pub_date": "2026-09-10",
+  "pages": 132,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "A client asked me, half-joking, whether one of those AI agents could just handle the thing she'd been paying me to do by hand for two years. I didn't have a good answer. I'd read the same \"5 Books in 1\" AI-agent guide everyone in my client group chats was recommending, and I still couldn't tell you how to turn a ChatGPT trick into something I'd actually charge for. This is the book I wish someone had handed me instead. Every other AI-agent book sits in one of two rooms: enterprise strategy written for executives managing company-wide rollouts, or software-engineering references written for people who already code. Neither one tells a freelancer, VA, or solo ops consultant how to find one real automatable workflow inside a business she already works with, build it using no-code tools (Zapier, Make, or n8n), prove with real measured numbers that it actually saves time, and sell it as a fixed-price retainer instead of one more hourly line item. This book does exactly that, using one real, fully worked example from first build to signed client. You'll follow a fictional but realistic build, start to finish: a three-person property management company drowning in maintenance-request emails, built into a working triage agent, piloted for three weeks unpaid, and priced from the pilot's own measured result, a 78 percent cut in the owner's weekly triage time. No projected income. No \"imagine what this could do.\" Every dollar figure in this book traces to either a named, dated source or arithmetic stated openly enough that you can check it yourself, a direct fix for the overpromised-numbers problem that's burned readers across this entire genre. By the last chapter, you'll know how to: Tell a chatbot, a fixed automation, and a real agent apart, and never let a client confuse the t"
+ },
+ {
+  "asin": "B0H6H5CD55",
+  "title": "The Operator's Agent Governance Stack: G.A.T.E. Framework for Production Agents: Because 4",
+  "bsr": null,
+  "rating": null,
+  "price": 4.99,
+  "pub_date": "2026-06-24",
+  "pages": 64,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "The Operator's Agent Governance Stack G.A.T.E. Framework for Production Agents: Because 49% of Organizations Have Already Had an AI Data Exposure There is an agent in your organization that no one controls. This is not a theory. This is not hyperbole. This is a fact. It is in customer support, responding to thousands of people. It is in finance, approving or rejecting expenses. It is in operations, optimizing supply chains. It is in human resources, filtering resumes. It is in legal, reviewing contracts. No one knows exactly what decisions it makes. No one can explain why it made that decision. No one knows what would happen if it failed. In 2026, Box State of AI research found that 49% of organizations have already experienced an AI-related data exposure. Only 34% have formal standards for how agents access company data. Only 39% have comprehensive visibility into sanctioned and unsanctioned AI use. The agent economy has arrived — $11.78 billion in 2026, growing 46.6% year over year. Gartner predicts that over 40% of agentic AI projects will be canceled by the end of 2027 — not because the technology fails, but because governance fails, costs spiral, and business value becomes unclear. THE OPERATOR'S AGENT GOVERNANCE STACK is the practical playbook for governing agents in production. It applies the G.A.T.E. Framework — Governance, Automation, Tools & Evaluation — to the urgent challenge of deploying agents safely, securely, and accountably. Inside this book, you will learn: The 49% Problem — why most organizations are already exposed The Fragmentation Crisis — LangGraph, CrewAI, Microsoft, AWS, Google — how to choose The G.A.T.E. Agent Governance Protocol — the 5-Point Protocol (Capability Boundary, Decision Threshold, Budget Cap, Audit Trail, Kill Switch) The Agent Ov"
+ },
+ {
+  "asin": "B0H3MQTRNV",
+  "title": "The Agentic Operator's Field Guide: How to Build, Organize, and Operate Agentic AI Systems",
+  "bsr": 2883542,
+  "rating": 5.0,
+  "price": 9.99,
+  "pub_date": "2026-06-02",
+  "pages": 137,
+  "publisher": null,
+  "cats": [
+   [
+    1196,
+    "Expert Systems"
+   ],
+   [
+    1227,
+    "Information Management"
+   ],
+   [
+    1935,
+    "Artificial Intelligence Expert Systems"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "The Agentic AI Operator's Field Guide Book 1 in the Agentic AI Operator Series Agentic AI is creating a new kind of work. Organizations of every size are beginning to deploy AI systems capable of research, content creation, planning, coordination, monitoring, knowledge management, and workflow automation. Yet while most books focus on the technology itself, far fewer focus on the people responsible for organizing, guiding, supervising, and improving these systems. That person is the Operator. Just as personal computers created computer technicians, networking created network administrators, the Internet created server administrators, and the Web created webmasters and digital marketers, Agentic AI is creating a growing need for people who can successfully operate intelligent systems. The Agentic AI Operator's Field Guide was written for those people. This practical, experience-driven guide introduces the mindset, principles, and operational discipline required to work effectively with modern agentic AI systems. Rather than focusing on a single platform or tool, the book explores the enduring concepts that help intelligent systems produce useful, reliable, and responsible outcomes. Inside you'll learn: ✓ What Agentic AI is and how it differs from traditional chatbots and AI assistants ✓ Why operations, organization, and governance matter as much as intelligence ✓ How to evaluate and choose an agentic AI platform ✓ How to think like an Operator rather than simply a user ✓ How to build stable AI workspaces, workflows, and operating environments ✓ How to organize knowledge so intelligent systems remain useful over time ✓ How memory, instructions, context, and operational structure influence outcomes ✓ How to supervise AI agents responsibly and maintain human accountability "
+ },
+ {
+  "asin": "B0DDWZRYRD",
+  "title": "The Agentic Operator: Leading the Enterprise When AI Runs the Operations",
+  "bsr": 2398220,
+  "rating": 5.0,
+  "price": 9.99,
+  "pub_date": "2026-04-04",
+  "pages": 246,
+  "publisher": null,
+  "cats": [
+   [
+    1629,
+    "Strategic Management"
+   ],
+   [
+    3064,
+    "Generative AI"
+   ],
+   [
+    3484,
+    "Business Systems & Planning"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2,
+  "description": "The enterprise operating model was built for human operators. AI agents are changing what it means to operate. Enterprises are spending billions on AI and capturing a fraction of the value. The technology works. The operating model has not kept up. Ninety-three percent of AI investment goes to technology and infrastructure. Seven percent goes to redesigning how the enterprise actually works. The result: 95% of generative AI projects fail to deliver meaningful business value. The Agentic Operator picks up where Mario Guerendo's first book, The Transformation Operator , left off. Where that book defined what it means to be the leader who makes transformation real, this book confronts what happens when AI can do that job. AI agents can now plan, coordinate across systems, make decisions, and learn from outcomes. The capabilities that once required a senior executive managing operations across dozens of countries are being encoded into autonomous systems that run continuously, at scale. The operator's role transforms from execution to architecture, from running the machine to designing it. This book provides the leadership playbook for that transition. Drawing on his experience as Global CIO for Supply Chain and Manufacturing at a Fortune 150 company, COO of a global logistics enterprise, and founder of a technology company he built through a private equity exit, Guerendo introduces three proprietary frameworks: the Two-Engine Operating Model, the Agentic Architecture, and the Value Realization Framework. The Agentic Operator is written for CEOs, COOs, CIOs, and transformation leaders who are responsible for making the enterprise work and who can see that the way they have always done it is about to change. It includes a practical 90-day launch playbook, a platform evaluati"
+ }
+]
