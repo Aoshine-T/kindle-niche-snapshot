@@ -2,7 +2,7 @@
  {
   "asin": "B0CGTHPPXV",
   "title": "CompTIA Security+ Get Certified Get Ahead: SY0-701 Study Guide",
-  "bsr": 69631,
+  "bsr": 57438,
   "rating": 4.6,
   "price": 9.99,
   "pub_date": "2023-10-31",
@@ -10,80 +10,80 @@
   "publisher": null,
   "cats": [
    [
-    1,
+    2,
     "Certification, Training & Reference"
    ],
    [
-    8,
+    6,
     "Security Certifications"
    ],
    [
-    78,
+    67,
     "Computer Science"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 497,
+  "reviews_n": 500,
   "description": "Your complete resource for passing the Security+ exam on the first try. The CompTIA Security+ Get Certified Get Ahead Study Guide series has helped thousands of readers pass the exam on their first attempt. This book covers all of the SY0-701 objectives and includes the same elements readers raved about in the previous versions. Each of the eleven chapters presents topics in an easy-to-understand manner and includes real-world examples of security principles in action. The authors use many of the same analogies and explanations that they honed in the classroom that have helped thousands of students master the Security+ content. With this book, you’ll understand the important and relevant security topics for the Security+ exam without being overloaded with unnecessary details. Additionally, each chapter includes a comprehensive Exam Topic Review section to help you focus on what’s important. Over 300 realistic practice test questions with in-depth explanations will help you test your comprehension and readiness for the exam. The study guide includes a 50-question pre-test, practice test questions at the end of every chapter, as well as a full 90-question practice exam. Each question includes a detailed explanation, helping you understand why the correct answers are correct and why the incorrect answers are wrong. Using these resources, you’ll be ready to take and pass the exam the first time you take it. If you plan to pursue any of the advanced security certifications, this guide will also help you lay a solid foundation of security knowledge. Learn this material, and you’ll be a step ahead for other exams. This SY0-701 study guide is for any IT or security professional interested in advancing in their field and a must-read for anyone striving to master the basics of IT"
  },
  {
   "asin": "B0CMNSPNVH",
   "title": "CompTIA Security+ Study Guide with over 500 Practice Test Questions: Exam SY0-701 (Sybex S",
-  "bsr": 157747,
-  "rating": 4.6,
+  "bsr": 186765,
+  "rating": 4.7,
   "price": 33.0,
   "pub_date": "2023-11-03",
   "pages": 704,
   "publisher": "Sybex",
   "cats": [
    [
-    2,
+    4,
     "CompTIA Certification Guides"
    ],
    [
-    2,
+    5,
     "Security Certifications"
    ],
    [
-    4,
+    9,
     "Computer Network Security"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 366,
-  "description": "Master key exam objectives and crucial cybersecurity concepts for the CompTIA Security+ SY0-701 exam, along with an online test bank with hundreds of practice questions and flashcards In the newly revised ninth edition of CompTIA Security+ Study Guide: Exam SY0-701 , veteran cybersecurity professionals and educators Mike Chapple and David Seidl deliver easy-to-follow coverage of the security fundamentals tested by the challenging CompTIA SY0-701 exam. You’ll explore general security concepts, threats, vulnerabilities, mitigations, security architecture and operations, as well as security program management and oversight. You’ll get access to the information you need to start a new career—or advance an existing one—in cybersecurity, with efficient and accurate content. You’ll also find: Practice exams that get you ready to succeed on your first try at the real thing and help you conquer test anxiety Hundreds of review questions that gauge your readiness for the certification exam and help you retain and remember key concepts Complimentary access to the online Sybex learning environment, complete with hundreds of additional practice questions and flashcards, and a glossary of key terms, all supported by Wiley's support agents who are available 24x7 via email or live chat to assist with access and login questions Perfect for everyone planning to take the CompTIA SY0-701 exam, as well as those aiming to secure a higher-level certification like the CASP+, CISSP, or CISA, this study guide will also earn a place on the bookshelves of anyone who’s ever wondered if IT security is right for them. It’s a must-read reference!  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstancegpz5CBwGgx7l60uRzzd0dg')('mark', 'bb')} if(window.uet){"
+  "reviews_n": 368,
+  "description": "Master key exam objectives and crucial cybersecurity concepts for the CompTIA Security+ SY0-701 exam, along with an online test bank with hundreds of practice questions and flashcards In the newly revised ninth edition of CompTIA Security+ Study Guide: Exam SY0-701 , veteran cybersecurity professionals and educators Mike Chapple and David Seidl deliver easy-to-follow coverage of the security fundamentals tested by the challenging CompTIA SY0-701 exam. You’ll explore general security concepts, threats, vulnerabilities, mitigations, security architecture and operations, as well as security program management and oversight. You’ll get access to the information you need to start a new career—or advance an existing one—in cybersecurity, with efficient and accurate content. You’ll also find: Practice exams that get you ready to succeed on your first try at the real thing and help you conquer test anxiety Hundreds of review questions that gauge your readiness for the certification exam and help you retain and remember key concepts Complimentary access to the online Sybex learning environment, complete with hundreds of additional practice questions and flashcards, and a glossary of key terms, all supported by Wiley's support agents who are available 24x7 via email or live chat to assist with access and login questions Perfect for everyone planning to take the CompTIA SY0-701 exam, as well as those aiming to secure a higher-level certification like the CASP+, CISSP, or CISA, this study guide will also earn a place on the bookshelves of anyone who’s ever wondered if IT security is right for them. It’s a must-read reference!  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_2\"]', '#CardInstanceWwdNdGDUX-mjXTtczMxlNw')('mark', 'bb')} if(window.uet){"
  },
  {
-  "asin": "B0HHMFX8V2",
-  "title": "CompTIA® Security+® SY0-801 Certification Guide: Build essential cybersecurity skills and ",
-  "bsr": 96479,
-  "rating": 5.0,
-  "price": 34.19,
-  "pub_date": "2026-09-16",
-  "pages": 1116,
+  "asin": "B0CPSXKWDJ",
+  "title": "CompTIA® Security+® SY0-701 Certification Guide: Master cybersecurity fundamentals and pas",
+  "bsr": 404239,
+  "rating": 4.7,
+  "price": 13.29,
+  "pub_date": "2024-01-19",
+  "pages": 951,
   "publisher": "Packt Publishing",
   "cats": [
    [
-    3,
-    "Network Security"
-   ],
-   [
-    4,
-    "Certification, Training & Reference"
-   ],
-   [
-    4,
+    6,
     "CompTIA Certification Guides"
+   ],
+   [
+    10,
+    "Computer Network Security"
+   ],
+   [
+    11,
+    "Security Certifications"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 10,
-  "description": "MASTER THE NEW COMPTIA SECURITY+ SY0-801 EXAM The Security+ exam is changing. Make sure your study material has changed with it. The new CompTIA Security+ SY0-801 exam launches on November 17, 2026 , introducing 184 new topics . Relying on older study materials could leave critical gaps in your exam preparation. Written by international bestselling author and experienced CompTIA certification trainer Ian Neil , the fourth edition of the CompTIA Security+ Certification Guide is built specifically for the new exam. EVERYTHING YOU NEED TO PREPARE ✓ 100% coverage of the SY0-801 exam objectives, including all 184 new topics ✓ 27 focused chapters , each dedicated to an exam objective ✓ Exam objectives mapped to your learning for structured preparation ✓ 500+ multiple-choice practice questions to reinforce your knowledge ✓ Detailed explanations for correct and incorrect answers , so you understand the reasoning behind every choice ✓ 3 full-length mock exams to assess your exam readiness ✓ End-of-chapter questions and summaries to consolidate learning ✓ Interactive flashcards, key acronyms, and exam tips for effective revision ✓ Practical, real-world cybersecurity scenarios to connect theory with application ✓ Exclusive 12% discount on your CompTIA Security+ exam voucher What You Will Learn: Don't Just Memorize Security, Understand It Ian Neil breaks complex concepts into clear, easy-to-understand explanations , helping you build practical cybersecurity knowledge rather than simply memorize definitions. From essential security principles to the latest SecAI threats and defenses , you'll learn how to: Apply Zero Trust and least privilege to strengthen security controls and protect critical systems Protect sensitive data using modern cryptography and encryption techniques Identif"
+  "reviews_n": 907,
+  "description": "100% coverage of the latest CompTIA Security+ SY0-701 exam objectives ensures you study what you need to pass Unlocks access to an interactive online platform featuring over 500 practice test questions, 100 flashcards, and 200 key acronyms to enhance your Security+ exam preparation Key Features Gain certified security knowledge from Ian Neil, a world-class CompTIA certification trainer Build a strong foundation in cybersecurity and gain hands-on skills for a successful career Assess your CompTIA Security+ exam readiness with 3 mock exams to pass confidently on your first try Benefit from an exclusive 12% Security+ exam discount voucher included with this book Book Description Building on the success of its international bestselling predecessor, this third edition of the CompTIA Security+ SY0-701 Certification Guide serves as your one-stop resource for Security+ exam preparation. Written by cybersecurity expert Ian Neil, this comprehensive guide helps you unlock the intricacies of cybersecurity and understand the technology behind the CompTIA Security+ SY0-701 certification, ensuring you approach the exam with confidence and pass on your first attempt. By exploring security in detail, this book introduces essential principles, controls, and best practices. The chapters are meticulously designed to provide 100% coverage of the CompTIA Security+ SY0-701 exam objectives, ensuring you have the most up-to-date and relevant study material. By mastering cybersecurity fundamentals, you’ll acquire the knowledge and skills to identify and mitigate threats, manage vulnerabilities, and safeguard enterprise infrastructure. Additionally, the book grants lifetime access to web-based exam prep tools, including 3 full-length mock exams, flashcards, acronyms, along with a 12% Security+ ex"
  },
  {
   "asin": "B0FJTDCQN7",
   "title": "CompTIA Security+ SY0-701 Study Guide: The All in One Manual to Prepare for the Certificat",
-  "bsr": 86995,
+  "bsr": 54672,
   "rating": 4.6,
   "price": 20.99,
   "pub_date": "2025-07-23",
@@ -91,53 +91,26 @@
   "publisher": null,
   "cats": [
    [
-    3,
+    1,
     "Certification, Training & Reference"
    ],
    [
-    9,
+    10,
     "Security Certifications"
    ],
    [
-    79,
+    51,
     "Computers & Technology"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 173,
+  "reviews_n": 175,
   "description": "Your Fast Lane to CompTIA Security+ — Now with AI-Powered Study Tools 📈 Do you feel overwhelmed by lengthy and tedious classic study guides? Are you looking for a clear, concise guide to ace your CompTIA exams? Looking for a practical guide that connects concepts to real-world scenarios? Many IT study guides overload readers with complex theory and lack practical direction—making it harder to learn what really matters.. This practical , no-nonsense system helps you build real-world skills. Designed with both newcomers and IT professionals in mind, this book follows a structured, objective-aligned format to help you build real cybersecurity skills while staying focused on the exam requirements. What You’ll Learn Inside 1️⃣ General Security Concepts: Understand foundational principles like the CIA triad, access control types, cryptography, and zero trust architecture. 2️⃣ Threats, Vulnerabilities, and Mitigations: Learn to identify threat actors, analyze indicators of compromise (IoCs), and apply mitigation strategies using real-world logic. 3️⃣ Security Architecture: Get familiar with secure network design, cloud and on-prem models, virtualization, embedded systems, and data protection. 4️⃣ Security Operations: Master operational security, incident response, SIEM tools, IAM practices, forensics basics, and automation concepts. 5️⃣ Security Program Management and Oversight: Explore governance, compliance, risk management, business continuity, training programs, and third-party risks. Why This Guide Stands Out ✅ Objective-Aligned: Every section is mapped to CompTIA’s official domains and subtopics. ✅ Hands-On Focus: Labs and exercises support active learning and skill development. ✅ Streamlined Format: Each chapter breaks down complex topics into clear, actionable explanat"
- },
- {
-  "asin": "B0DFCB4Y1J",
-  "title": "CompTIA Security+ Exam: Your Comprehensive Guide to Mastering Cybersecurity and Passing th",
-  "bsr": 1136388,
-  "rating": 5.0,
-  "price": 0.99,
-  "pub_date": "2024-08-26",
-  "pages": 298,
-  "publisher": null,
-  "cats": [
-   [
-    762,
-    "Computer Network Administration"
-   ],
-   [
-    982,
-    "Computer Networks, Protocols & APIs (Books)"
-   ],
-   [
-    1134,
-    "Computer Networking"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": 19,
-  "description": "Unlock Your Path to Success in Cybersecurity and Conquer the CompTIA Security+ Exam on Your First Try! Concerned about the daunting challenge of the CompTIA Security+ Exam and the time needed for effective preparation? Are you a tech enthusiast on the quest to master the world of cybersecurity? Eager to soar in your IT career but struggling with complex cybersecurity concepts and their real-world applications? Your comprehensive solution is here! Introducing \"CompTIA Security+ Exam: Your Definitive Guide to Acing the Exam and Launching Your Cybersecurity Career,\" a transformative resource meticulously designed to address your specific needs. Here's a sneak peek of what you'll effortlessly learn and master with this book: Comprehensive Cybersecurity Knowledge: Delve into a world of cybersecurity, starting from the basics and progressing with ease. Practical Application: Bridge the gap between theory and practice by mastering the hands-on use of security technologies and tools. Confidence in Exam Preparation: Equip yourself with expert strategies and tackle the CompTIA Security+ Exam with confidence. Clear Understanding of Complex Concepts: Say goodbye to confusion as we break down intricate cybersecurity topics into digestible nuggets. Real-World Scenarios: Navigate through real-world scenarios, gaining practical insights into handling threats, attacks, and vulnerabilities. Flexible Learning: Enjoy a user-friendly learning experience, complete with illustrations and examples, making cybersecurity concepts a breeze to understand. And Much, Much More… Our guide is your ally, offering you an immersive learning experience and addressing your pain points head-on. We understand the challenges you face as a determined professional striving for career growth. This book is meticu"
  },
  {
   "asin": "B0CRXKH3SB",
   "title": "CompTIA Security+ SY0-701 Last Minute Cram",
-  "bsr": 202728,
+  "bsr": 483731,
   "rating": 4.8,
   "price": 9.99,
   "pub_date": "2024-01-08",
@@ -145,53 +118,26 @@
   "publisher": null,
   "cats": [
    [
-    21,
-    "Two-Hour Computers & Technology Short Reads"
-   ],
-   [
-    30,
+    179,
     "Certification, Training & Reference"
    ],
    [
-    89,
+    196,
+    "Two-Hour Computers & Technology Short Reads"
+   ],
+   [
+    343,
     "Computer & Technology Certification Guides"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 67,
-  "description": "Pass your CompTIA Security+ SY0-701 with this quick review guide that summarizes all of the exam objectives in just a few sentences. It will also provide you with a list of all the acronyms on the exam and an explanation of each.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceD4FwIUSEntx-cyXvhnnDDw')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{display:none}._tell-amazon-desktop_style_tell_amazon_freeform_text__DOb62{margin:10px 0}._tell-amazon-desktop_style"
- },
- {
-  "asin": "B0HFJ1RHCW",
-  "title": "CompTIA Security+ SY0-701: The Complete Study Guide — All 5 Domains, 7 Full Practice Exams",
-  "bsr": 401477,
-  "rating": 5.0,
-  "price": 9.99,
-  "pub_date": "2026-08-17",
-  "pages": 220,
-  "publisher": null,
-  "cats": [
-   [
-    82,
-    "Computer Networks, Protocols & APIs"
-   ],
-   [
-    125,
-    "Certification, Training & Reference"
-   ],
-   [
-    152,
-    "Security Certifications"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": 3,
-  "description": "Everything you need to pass the CompTIA Security+ SY0-701 exam — in one book, with nothing gated behind a website. Most Security+ guides make you choose: deep content OR real practice questions OR a glossary you can actually use. This one gives you all three, plus something no competitor offers — every single chapter opens with a real, named breach (SolarWinds, Colonial Pipeline, Equifax, Twitter, and more) that shows you exactly why the control you're about to learn actually matters. What's inside: 19 chapters covering all 5 SY0-701 domains, in the exact order and weight CompTIA tests them 7 full-length practice exams — 630 questions total, each with a complete Answer Key and plain-English explanation A Knowledge Check after every chapter, so you test yourself before moving on, not just at the end A full Glossary of every key term, and a page-referenced Index — so you can actually find what you're looking for later Real breach case studies tied to each domain — because memorizing \"why\" sticks better than memorizing definitions Verified current against CompTIA's official SY0-701 exam objectives, with no outdated SY0-601 leftovers Built for how people actually study: clear explanations before jargon, concrete definitions instead of circular ones, and zero bait-and-switch — no broken coupon codes, no \"register online for your bonus test bank\" that turns out to be dead. If it's promised on this cover, it's printed in these pages. Whether you're starting your first cybersecurity role, adding a DoD 8570-required credential, or switching careers into IT security, this guide gets you exam-ready — and gets you there understanding the material, not just memorizing it.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceaHw2F1fui"
+  "reviews_n": 68,
+  "description": "Pass your CompTIA Security+ SY0-701 with this quick review guide that summarizes all of the exam objectives in just a few sentences. It will also provide you with a list of all the acronyms on the exam and an explanation of each.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_2\"]', '#CardInstanceGktnWirqhNhRVCJNcU63JQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_2',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{display:none}._tell-amazon-desktop_style_tell_amazon_freeform_text__DOb62{margin:10px 0}._tell-amazon-desktop_style"
  },
  {
   "asin": "B08NC38RQY",
   "title": "CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601)",
-  "bsr": 1020877,
+  "bsr": 609456,
   "rating": 4.7,
   "price": 35.99,
   "pub_date": "2021-04-09",
@@ -199,74 +145,128 @@
   "publisher": "McGraw Hill",
   "cats": [
    [
-    32,
+    17,
     "Computer Viruses"
    ],
    [
-    36,
+    20,
     "Web Encryption"
    ],
    [
-    39,
+    22,
     "Computer Cryptography"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 936,
-  "description": "This fully updated study guide covers every topic on the current version of the CompTIA Security+ exam Get complete coverage of all objectives included on the CompTIA Security+ exam SY0-601 from this comprehensive resource. Written by a team of leading information security experts, this authoritative guide fully addresses the skills required to perform essential security functions and to secure hardware, systems, and software. You’ll find learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth explanations. Designed to help you pass the exam with ease, this definitive volume also serves as an essential on-the-job reference. Covers all exam domains, including: Threats, Attacks, and Vulnerabilities Architecture and Design Implementation Operations and Incident Response Governance, Risk, and Compliance Online content includes: 250 practice exam questions Test engine that provides full-length practice exams and customizable quizzes by chapter or by exam domain  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstanceuSwzrV88B8wfC49aKZySyA')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_8',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon"
+  "reviews_n": 937,
+  "description": "This fully updated study guide covers every topic on the current version of the CompTIA Security+ exam Get complete coverage of all objectives included on the CompTIA Security+ exam SY0-601 from this comprehensive resource. Written by a team of leading information security experts, this authoritative guide fully addresses the skills required to perform essential security functions and to secure hardware, systems, and software. You’ll find learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth explanations. Designed to help you pass the exam with ease, this definitive volume also serves as an essential on-the-job reference. Covers all exam domains, including: Threats, Attacks, and Vulnerabilities Architecture and Design Implementation Operations and Incident Response Governance, Risk, and Compliance Online content includes: 250 practice exam questions Test engine that provides full-length practice exams and customizable quizzes by chapter or by exam domain  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_7\"]', '#CardInstancenc13ICD6nO38wR_z79rchg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_7',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon"
+ },
+ {
+  "asin": "B0HFJ1RHCW",
+  "title": "CompTIA Security+ SY0-701: The Complete Study Guide — All 5 Domains, 7 Full Practice Exams",
+  "bsr": 751451,
+  "rating": 5.0,
+  "price": 9.99,
+  "pub_date": "2026-08-17",
+  "pages": 220,
+  "publisher": null,
+  "cats": [
+   [
+    239,
+    "Computer Networks, Protocols & APIs"
+   ],
+   [
+    346,
+    "Certification, Training & Reference"
+   ],
+   [
+    368,
+    "Security Certifications"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 3,
+  "description": "Everything you need to pass the CompTIA Security+ SY0-701 exam — in one book, with nothing gated behind a website. Most Security+ guides make you choose: deep content OR real practice questions OR a glossary you can actually use. This one gives you all three, plus something no competitor offers — every single chapter opens with a real, named breach (SolarWinds, Colonial Pipeline, Equifax, Twitter, and more) that shows you exactly why the control you're about to learn actually matters. What's inside: 19 chapters covering all 5 SY0-701 domains, in the exact order and weight CompTIA tests them 7 full-length practice exams — 630 questions total, each with a complete Answer Key and plain-English explanation A Knowledge Check after every chapter, so you test yourself before moving on, not just at the end A full Glossary of every key term, and a page-referenced Index — so you can actually find what you're looking for later Real breach case studies tied to each domain — because memorizing \"why\" sticks better than memorizing definitions Verified current against CompTIA's official SY0-701 exam objectives, with no outdated SY0-601 leftovers Built for how people actually study: clear explanations before jargon, concrete definitions instead of circular ones, and zero bait-and-switch — no broken coupon codes, no \"register online for your bonus test bank\" that turns out to be dead. If it's promised on this cover, it's printed in these pages. Whether you're starting your first cybersecurity role, adding a DoD 8570-required credential, or switching careers into IT security, this guide gets you exam-ready — and gets you there understanding the material, not just memorizing it.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_6\"]', '#CardInstance8vXesCvIw"
+ },
+ {
+  "asin": "B0HLLLS6JS",
+  "title": "CompTIA Security+ Get Certified Get Ahead: SY0-801 Study Guide",
+  "bsr": 748580,
+  "rating": 4.9,
+  "price": 12.99,
+  "pub_date": "2026-11-25",
+  "pages": null,
+  "publisher": "Certification Experts, LLC",
+  "cats": [
+   [
+    190,
+    "Network Security"
+   ],
+   [
+    273,
+    "Professional Test Guides"
+   ],
+   [
+    341,
+    "Certification, Training & Reference"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "NEW EDITION! Updated for the CompTIA Security+ SY0-801 exam. The CompTIA Security+ Get Certified Get Ahead Study Guide series has helped thousands of readers pass the exam on their first attempt. This book covers all of the SY0-801 objectives and includes the same elements readers raved about in the previous versions. Each of the eleven chapters presents topics in an easy-to-understand manner and includes real-world examples of security principles in action. The authors use many of the same analogies and explanations that they honed in the classroom that have helped thousands of students master the Security+ content. With this book, you’ll understand the important and relevant security topics for the Security+ exam without being overloaded with unnecessary details. Additionally, each chapter includes a comprehensive Exam Topic Review section to help you focus on what’s important. Over 300 realistic practice test questions with in-depth explanations will help you test your comprehension and readiness for the exam. The study guide includes a 50-question pre-test, practice test questions at the end of every chapter, as well as a full 90-question practice exam. Each question includes a detailed explanation, helping you understand why the correct answers are correct and why the incorrect answers are wrong. Using these resources, you’ll be ready to take and pass the exam the first time you take it. If you plan to pursue any of the advanced security certifications, this guide will also help you lay a solid foundation of security knowledge. Learn this material, and you’ll be a step ahead for other exams. This SY0-801 study guide is for any IT or security professional interested in advancing in their field and a must-read for anyone striving to master the basics of IT systems se"
+ },
+ {
+  "asin": "B0CPWBB823",
+  "title": "CompTIA Security+ Practice Tests: Exam SY0-701 (Sybex Study Guide)",
+  "bsr": 360296,
+  "rating": 4.6,
+  "price": 27.0,
+  "pub_date": "2023-12-08",
+  "pages": 704,
+  "publisher": "Sybex",
+  "cats": [
+   [
+    37,
+    "CompTIA Certification Guides"
+   ],
+   [
+    57,
+    "Network Security"
+   ],
+   [
+    88,
+    "Security Certifications"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 99,
+  "description": "Prepare for the Security+ certification exam confidently and quickly CompTIA Security+ Practice Tests: Exam SY0-701, Third Edition, prepares you for the newly updated CompTIA Security+ exam. You'll focus on challenging areas and get ready to ace the exam and earn your Security+ certification. This essential collection of practice tests contains study questions covering every single objective domain included on the SY0-701. Comprehensive coverage of every essential exam topic guarantees that you'll know what to expect on exam day, minimize test anxiety, and maximize your chances of success. You'll find 1000 practice questions on topics like general security concepts, threats, vulnerabilities, mitigations, security architecture, security operations, and security program oversight. You'll also find: Complimentary access to the Sybex test bank and interactive learning environment Clear and accurate answers, complete with explanations and discussions of exam objectives Material that integrates with the CompTIA Security+ Study Guide: Exam SY0-701, Ninth Edition The questions contained in CompTIA Security+ Practice Tests increase comprehension, strengthen your retention, and measure overall knowledge. It's an indispensable part of any complete study plan for Security+ certification.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstance577fQxPaD_n5N6_SVnGEcQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs"
  },
  {
   "asin": "B0FBX99VLM",
   "title": "CompTIA® SecurityX® CAS-005 Certification Guide: Master advanced security strategies and c",
-  "bsr": 192824,
+  "bsr": 394799,
   "rating": 4.6,
   "price": 22.39,
   "pub_date": "2025-07-25",
-  "pages": 1025,
+  "pages": 1062,
   "publisher": "Packt Publishing",
   "cats": [
    [
-    12,
-    "Online Safety & Piracy"
-   ],
-   [
     20,
-    "Network Security"
+    "Security Certifications"
    ],
    [
-    21,
-    "Security Certifications"
+    24,
+    "Computer Network Security"
+   ],
+   [
+    28,
+    "Privacy & Online Safety"
    ]
   ],
   "free_promo": false,
   "reviews_n": 74,
   "description": "Become a cybersecurity expert with comprehensive CAS-005 preparation using this detailed guide packed with practical insights, mock exams, diagrams, and actionable strategies that align with modern enterprise security demands Key Features Strengthen your grasp of key concepts and real-world security practices across updated exam objectives Gauge your preparedness with over 300 practice questions, flashcards, and mock exams Visualize complex topics with diagrams of AI-driven threats, Zero Trust, cloud security, cryptography, and incident response Book Description As cyber threats evolve at unprecedented speed and enterprises demand resilient, scalable security architectures, the CompTIA SecurityX CAS-005 Certification Guide stands as the definitive preparation resource for today's security leaders. This expert-led study guide enables senior security professionals to master the full breadth and depth of the new CAS-005 exam objectives. Written by veteran instructor Mark Birch, this guide draws from over 30 years of experience in teaching, consulting, and implementing cybersecurity controls to deliver clear, actionable content across the four core domains: governance, risk, and compliance; security architecture; security engineering; and security operations. It addresses the most pressing security challenges, from AI-driven threats and Zero Trust design to hybrid cloud environments, post-quantum cryptography, and automation. While exploring cutting-edge developments, it reinforces essential practices such as threat modeling, secure SDLC, advanced incident response, and risk management. Beyond comprehensive content coverage, this guide ensures you are fully prepared to pass the exam through exam tips, review questions, and detailed mock exams, helping you build the confiden"
- },
- {
-  "asin": "B0FBKQC837",
-  "title": "CompTIA Security+ SY0-701: The Concise Study Guide: High-Impact Summary Notes for Rapid Ex",
-  "bsr": 2116448,
-  "rating": 5.0,
-  "price": 2.99,
-  "pub_date": "2026-04-02",
-  "pages": 212,
-  "publisher": null,
-  "cats": [
-   [
-    1160,
-    "Security Certifications"
-   ],
-   [
-    1583,
-    "Certification, Training & Reference"
-   ],
-   [
-    2656,
-    "Security & Encryption"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": null,
-  "description": "Are you overwhelmed by 600-page Security+ textbooks? Do you need a focused, high-density summary to get you through the final stretch of your SY0-701 studies? CompTIA Security+ SY0-701: The Concise Study Guide is designed for one purpose: to help you pass the exam by stripping away the fluff and focusing on the core objectives. At 212 pages, this is the ultimate \"last-minute\" resource for the busy student or professional. Inside these notes, you’ll find: • Rapid-Fire Definitions: Every key term from the SY0-701 objectives explained in simple, easy-to-memorize English. • High-Impact Bullet Points: No long paragraphs. Just the facts you need. • The \"Gap\" Method: Identify quickly what you know and what you need to review. • Exam Day Success Secrets: Practical tips on how to handle the clock and \"trap\" answers. Covering All Five Domains: General Security Concepts Threats, Vulnerabilities, and Mitigations Security Architecture Security Operations Security Program Management Don't walk into the testing center without a final review. Get your copy today and secure your certification!  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_6\"]', '#CardInstancet7GoakJ3sBQ4cMCiKXktSw')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_6',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__"
  }
 ]

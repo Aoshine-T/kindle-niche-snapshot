@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-14T02:41:09Z",
+ "generated_at": "2026-11-14T02:58:58Z",
  "topics": 97,
  "cards": 166,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 46,
- "elapsed_seconds": 648,
+ "requests": 123,
+ "elapsed_seconds": 1717,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 476
   },
   "deep": {
-   "words": 3,
-   "requests": 46,
-   "seconds": 648
+   "words": 8,
+   "requests": 123,
+   "seconds": 1717
   },
   "seeds": {
    "seeds": 34
@@ -28,9 +28,16 @@
  "new_cards": [
   "fix-common",
   "rick-steves",
-  "bambu-studio"
+  "bambu-studio",
+  "homemade-candy",
+  "autodesk-fusion",
+  "comptia-security",
+  "self-help-author"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "captcha",
+  "next": "stack high-value"
+ },
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -90,7 +97,7 @@
   },
   "autodesk-fusion": {
    "keyword": "autodesk fusion",
-   "fetched_at": "2026-10-30"
+   "fetched_at": "2026-11-14"
   },
   "bambu-studio": {
    "keyword": "bambu studio",
@@ -174,7 +181,7 @@
   },
   "comptia-security": {
    "keyword": "comptia security",
-   "fetched_at": "2026-11-04"
+   "fetched_at": "2026-11-14"
   },
   "connected-relationships": {
    "keyword": "connected relationships",
@@ -302,7 +309,7 @@
   },
   "homemade-candy": {
    "keyword": "homemade candy",
-   "fetched_at": "2026-10-24"
+   "fetched_at": "2026-11-14"
   },
   "homemade-casseroles": {
    "keyword": "homemade casseroles",
@@ -546,7 +553,7 @@
   },
   "self-help-author": {
    "keyword": "self-help author",
-   "fetched_at": "2026-10-30"
+   "fetched_at": "2026-11-14"
   },
   "self-publishing": {
    "keyword": "self publishing",
@@ -726,8 +733,8 @@
   "cards/appalachian-trail/competitors.json": "f4faba9d0e9f6c4351f6a2b34b28b485fe1ca001ba01c9075c5121fbf8c3c45a",
   "cards/artificial-intelligence/card.md": "654e698d7cf665f824fadd79dadbddd70cda8ad00183b9bef97b05cf1c934a8e",
   "cards/artificial-intelligence/competitors.json": "d4556f220d5bce4b597bcdff08d99f0049b21893dbf90fe03cab37d29da164ce",
-  "cards/autodesk-fusion/card.md": "1b1c6ff6d6907fa3f72c2a0dbb06f332e3d35eb9880fd21114ec043aefa6e027",
-  "cards/autodesk-fusion/competitors.json": "16489bb38127d77339a0d45fffb86ea1221f20a73c6e20ab1f2581ec7b7b30b7",
+  "cards/autodesk-fusion/card.md": "ce4b6c12f6a7e7a570bdeb05a3906f989bab51a0b37c15b77b67372cfe1dc6ee",
+  "cards/autodesk-fusion/competitors.json": "0410afe068ec2a734ab23b4bbf39a917512435bcb2b04777031d42df66c4a045",
   "cards/bambu-studio/card.md": "7f7eaf5cdc15886e75cfed98a38bfdd2bd8c6e67e28de6a53b85224f64e047db",
   "cards/bambu-studio/competitors.json": "042e0a18efefcc6b7375ec61fbbaeb28df23518c8d836c1ca9f6fa23d7147526",
   "cards/beekeeping/card.md": "bb1dcf3b49d9ba8f1fc03e285bfed54d104415612b8695c496388ab066886ff1",
@@ -768,8 +775,8 @@
   "cards/coding-required/competitors.json": "21ed8089aa6b869851e4cf5605e47260a0d35cd76a4a0076e7c8b530ce2abbca",
   "cards/comptia-linux/card.md": "84d5dc4e68f0b5838dc300ccd475c406fdee074793e98df9d20fc62e4d2030ef",
   "cards/comptia-linux/competitors.json": "d9e44a9786896f33f29f7c66a4edbe1956e57dba0d9bedab648a3fa4bdcf0192",
-  "cards/comptia-security/card.md": "483745d80e744c71539a227722db55b860d0f68597f043ee62964d2d1a301367",
-  "cards/comptia-security/competitors.json": "3b7e1075083f7136a6821e90136e64b7e7323e3ab2a0539b5965eec8924a4516",
+  "cards/comptia-security/card.md": "654d8dd98badc1b63d957d80ec4cad9654dfc6e937cbd2983428e37a4ad2bde9",
+  "cards/comptia-security/competitors.json": "9f75f5c0c6430a080d6eeb340b7381cc01c708153ca60b07bbc4c0b57b911507",
   "cards/connected-relationships/card.md": "b087c41619b4315f29c5f9131aa8a71a35836b6eb3ffd9bdb34f0c1bea39d56f",
   "cards/connected-relationships/competitors.json": "f0fb3a6884a2e20d4011a1530f496a6090fc83337d7bab41d874289612057acb",
   "cards/credit-repair/card.md": "1dc62fca278036608a1b249e1d57779caadcd3b2e6f45ad1210d465f4408fbf3",
@@ -832,8 +839,8 @@
   "cards/home-repair/competitors.json": "709272f6ab5017862575293248f103c7ebba2bcfb02040f1f850bea24e7f64a2",
   "cards/homemade-bread/card.md": "3e3daa54fa1f4ec78d944e6f44afead70c21e98831b0e47668ef1e39ef538a55",
   "cards/homemade-bread/competitors.json": "bcad4a5eea92e89c6b0acc111f93b68163de8be30a27279819cebd48946177e1",
-  "cards/homemade-candy/card.md": "f1749657a45e223897216d00d31b527bd9fc2fa6c0b1cea42ec21ed0afbd11e0",
-  "cards/homemade-candy/competitors.json": "ae54b0f9dd5a72dffed075df39d5be23aa8227b2ed82dab717acf5d8dd38ac48",
+  "cards/homemade-candy/card.md": "90e3855480934586325dc1743555b08f611cf009113f7e4317eaa75ca66757ab",
+  "cards/homemade-candy/competitors.json": "89a8dc4740c17b9657ac6ea4b50162975c39a28035635dc6ea34d90da8782898",
   "cards/homemade-casseroles/card.md": "77da73cc160beb0a287c4fa003835c9018be36e7123834d9662c5708204846ab",
   "cards/homemade-casseroles/competitors.json": "1d8cead75edc67575062f43e7ba6ddd668b2b832cb813748533ee0c9e5c3eb78",
   "cards/homemade-pantry/card.md": "5da2908b1674ee7ea92b7b71726b6fb5b20fca5756e4bda5f9986dbf32047b6a",
@@ -954,8 +961,8 @@
   "cards/ruined-earth/competitors.json": "939811b24d16ab264b7ff3b41a2c802b4449fd2f763700ba09533e737c5d2a64",
   "cards/scaffolding-complex/card.md": "ab2bbd27442734218d8dda732fdde337a84d11cee21f8e4d3a011dcdd274963a",
   "cards/scaffolding-complex/competitors.json": "a7771a1196c4c0a7244bf5762088c07553e563e80a7eb718a2086dd088980e76",
-  "cards/self-help-author/card.md": "8d0d6a28ec4446ec4519cefab64a64171ac27c85311dcfa1f0c4ee77e9049221",
-  "cards/self-help-author/competitors.json": "f95295b078e8065d2007d61bb6d4d6d3fff4605f7403108f24694947a05b4bb5",
+  "cards/self-help-author/card.md": "8c5d199577636d37f2fba8c8147251c121caebe2798f343c0b9fd1d453f317fb",
+  "cards/self-help-author/competitors.json": "938723c766f573af1a735a2f2fbec92a454ca288f3273b89b5b8b2e799c5b3ee",
   "cards/self-publishing/card.md": "d4bb87708a35f6e9753dd231eaff19d6ef8edf85ba57c9bdacfd6900597543fc",
   "cards/self-publishing/competitors.json": "5888e16f3496c4e35473647e7eb33f556b9428ef0e52413069cc4c29974cddfd",
   "cards/show-up/card.md": "12d4a16d6a74a92661eed5acd4a6509cebe265a9dd02a46f65f3622bb5340a4d",
@@ -1034,231 +1041,207 @@
  },
  "queue": [
   {
-   "slug": "homemade-candy",
-   "keyword": "homemade candy",
-   "position": 1,
-   "eta_date": "2026-11-14"
-  },
-  {
-   "slug": "autodesk-fusion",
-   "keyword": "autodesk fusion",
-   "position": 2,
-   "eta_date": "2026-11-14"
-  },
-  {
-   "slug": "comptia-security",
-   "keyword": "comptia security",
-   "position": 3,
-   "eta_date": "2026-11-14"
-  },
-  {
-   "slug": "self-help-author",
-   "keyword": "self-help author",
-   "position": 4,
-   "eta_date": "2026-11-14"
-  },
-  {
    "slug": "stack-high-value",
    "keyword": "stack high-value",
-   "position": 5,
-   "eta_date": "2026-11-14"
+   "position": 1,
+   "eta_date": "2026-11-15"
   },
   {
    "slug": "bucket-retirement",
    "keyword": "bucket retirement",
-   "position": 6,
-   "eta_date": "2026-11-14"
+   "position": 2,
+   "eta_date": "2026-11-15"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 7,
-   "eta_date": "2026-11-14"
+   "position": 3,
+   "eta_date": "2026-11-15"
   },
   {
    "slug": "passive-income",
    "keyword": "passive income",
-   "position": 8,
-   "eta_date": "2026-11-14"
+   "position": 4,
+   "eta_date": "2026-11-15"
   },
   {
    "slug": "survival-project",
    "keyword": "survival project",
-   "position": 9,
-   "eta_date": "2026-11-14"
+   "position": 5,
+   "eta_date": "2026-11-15"
   },
   {
    "slug": "side-hustles",
    "keyword": "side hustles",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-15"
   },
   {
    "slug": "ai-side-hustles",
    "keyword": "ai side hustles",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-15"
   },
   {
    "slug": "chatgpt-for-beginners",
    "keyword": "chatgpt for beginners",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-15"
   },
   {
    "slug": "ai-for-beginners",
    "keyword": "ai for beginners",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-15"
   },
   {
    "slug": "budgeting",
    "keyword": "budgeting",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-15"
   },
   {
    "slug": "credit-repair",
    "keyword": "credit repair",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-15"
   },
   {
    "slug": "retirement-planning",
    "keyword": "retirement planning",
-   "position": 16,
-   "eta_date": "2026-11-15"
+   "position": 12,
+   "eta_date": "2026-11-16"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
-   "position": 17,
-   "eta_date": "2026-11-15"
+   "position": 13,
+   "eta_date": "2026-11-16"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 18,
-   "eta_date": "2026-11-15"
+   "position": 14,
+   "eta_date": "2026-11-16"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 19,
-   "eta_date": "2026-11-15"
+   "position": 15,
+   "eta_date": "2026-11-16"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 20,
-   "eta_date": "2026-11-15"
+   "position": 16,
+   "eta_date": "2026-11-16"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-16"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-16"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-16"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-16"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-16"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-16"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 27,
-   "eta_date": "2026-11-16"
+   "position": 23,
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 28,
-   "eta_date": "2026-11-16"
+   "position": 24,
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 29,
-   "eta_date": "2026-11-16"
+   "position": 25,
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 30,
-   "eta_date": "2026-11-16"
+   "position": 26,
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 31,
-   "eta_date": "2026-11-16"
+   "position": 27,
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 32,
+   "position": 28,
    "eta_date": "2026-11-17"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-11-17"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 34,
+   "position": 30,
    "eta_date": "2026-11-17"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-11-17"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-11-17"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-11-17"
   }
  ],
  "budget": {
   "date": "2026-11-14",
-  "used": 46,
+  "used": 123,
   "limit": 240
  }
 }
