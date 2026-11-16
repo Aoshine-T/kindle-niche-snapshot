@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-15T03:03:08Z",
+ "generated_at": "2026-11-16T02:43:14Z",
  "topics": 97,
  "cards": 166,
  "skill": {
@@ -9,38 +9,29 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 120,
- "elapsed_seconds": 1982,
+ "requests": 50,
+ "elapsed_seconds": 766,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 476
   },
   "deep": {
-   "words": 11,
-   "requests": 120,
-   "seconds": 1982
+   "words": 4,
+   "requests": 50,
+   "seconds": 766
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "artificial-intelligence",
-  "stress-less",
-  "stack-high-value",
-  "bucket-retirement",
-  "mediterranean-diet",
-  "passive-income",
-  "survival-project",
-  "side-hustles",
-  "ai-side-hustles",
-  "chatgpt-for-beginners"
+  "ged-study",
+  "learn-faster",
+  "interaction-count",
+  "mental-health"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "ai for beginners"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -252,7 +243,7 @@
   },
   "ged-study": {
    "keyword": "ged study",
-   "fetched_at": "2026-11-09"
+   "fetched_at": "2026-11-16"
   },
   "genealogy": {
    "keyword": "genealogy",
@@ -348,7 +339,7 @@
   },
   "interaction-count": {
    "keyword": "interaction count",
-   "fetched_at": "2026-11-09"
+   "fetched_at": "2026-11-16"
   },
   "intermittent-fasting": {
    "keyword": "intermittent fasting",
@@ -376,7 +367,7 @@
   },
   "learn-faster": {
    "keyword": "learn faster",
-   "fetched_at": "2026-11-09"
+   "fetched_at": "2026-11-16"
   },
   "learn-hebrew": {
    "keyword": "learn hebrew",
@@ -424,7 +415,7 @@
   },
   "mental-health": {
    "keyword": "mental health",
-   "fetched_at": "2026-11-09"
+   "fetched_at": "2026-11-16"
   },
   "middle-east": {
    "keyword": "middle east",
@@ -812,8 +803,8 @@
   "cards/foolproof-recipes/competitors.json": "dcbd662523f473a9376ec1d29a4d17ae1789c88ca6bddb65fedd031eff272794",
   "cards/full-length-practice/card.md": "1ee63a95fa3328c0f9649cbc1df01bd6b47d021ac9e1ac1be4414f20650872bb",
   "cards/full-length-practice/competitors.json": "338bf658467b0b07645259f2a1e41a46dc6353e1536e19211ec864ccedc40f17",
-  "cards/ged-study/card.md": "805178b112d28fdf9e651ad088521328a166cba0823993062a16f6ae2cfa234e",
-  "cards/ged-study/competitors.json": "ca87abda611d0b3dd9ce001b4ca127dbb2e452ea5155e8169e639ba1ee0ce436",
+  "cards/ged-study/card.md": "704fedfb88672ceb3b55eb5051d10c76684f3c7b3e7ac56c8e44d9516d759f9b",
+  "cards/ged-study/competitors.json": "f09e2c13f1afa735326374437ead6df77c06d69e96849c3a678e5e8c81785db8",
   "cards/genealogy/card.md": "ddbaffb4677be5d84325bf499bbb5725db04296beb76a01c398c949e09de56b8",
   "cards/genealogy/competitors.json": "402cb6384b7034f9e645e09e665110e7abf3f2ead47d67b38c1c4716a6ccb57e",
   "cards/gods-goddesses/card.md": "7edc8308ed8f6a2be96d21499b063c7a97d494ecd366387948d599edb8087e4c",
@@ -860,8 +851,8 @@
   "cards/important-relationships/competitors.json": "b5ac0faf3f98182250f89f32036f670b4b1c78fb22941d67e7755a0f09df8651",
   "cards/inner-creativity/card.md": "60efca2c5b4936116e7591b0f14376da690356547e34f2d09aa36fbf930a0ee5",
   "cards/inner-creativity/competitors.json": "66d8d787f76942fb19219dc5c49233c6cc863e651b59d11bdba06577306de115",
-  "cards/interaction-count/card.md": "b7b4a0908b7a08ed7ab7e6aeb6fc8458e522d44ad3a174a147544a2ae982f588",
-  "cards/interaction-count/competitors.json": "5a614d68d3bd173b7319671306d1913c6a94923d869f1cc48b1962c38e0a7bef",
+  "cards/interaction-count/card.md": "91c990b6e5906b47fcc52f539cb282d8e4ec53fe1ad4bc731f1021e10dc8b8d7",
+  "cards/interaction-count/competitors.json": "14266110ae621a59fa58547aa247bdfab4a15370dd5fdbb4ea0d5428a63f2c78",
   "cards/intermittent-fasting/card.md": "a70439942210f3430c78b409366489c36880d28a41741a0357b2fd14fdf4eeef",
   "cards/intermittent-fasting/competitors.json": "72c369d35a51a6013dc00f8edd22ea086c28003768c57c80df25e0eaa2ac30ab",
   "cards/international-bestselling/card.md": "c55d26c185283f7f776bef6fb1c16fc4ae839149aa179f297032cc5a8a8c5f46",
@@ -874,8 +865,8 @@
   "cards/leading-former/competitors.json": "e4a263f1dabbf1edf81ea756acdc5c689c5aa775b7fe83cade8511c09292c107",
   "cards/learn-ai/card.md": "1a249df7945cd18bf8ad79b45624db279162e9eae2e3bc04c3da4e8438f4771a",
   "cards/learn-ai/competitors.json": "b99b32d6ff644a586dafbabed621ad6f44e6582a1f8877c43b77c63bf7188e63",
-  "cards/learn-faster/card.md": "b071a8290007341251973148641a88ce1b85be12a7c037fbaf9671ea601acb0d",
-  "cards/learn-faster/competitors.json": "5795c9f92306fbc2d2150364a0e85bd8fccc4324ac7778f5f3c9133be60a6fbf",
+  "cards/learn-faster/card.md": "74d12ace104a50f76de6a307e10c237823448c68688825a4dd39d34b6f466f4c",
+  "cards/learn-faster/competitors.json": "b0ee7a7cbd5d8608625905b3b29690417935898d8a397b53bf8dcdb585345a4b",
   "cards/learn-hebrew/card.md": "44925ba4fd6d51caadd0885a6aa8b4bb61d483e6b5bfb3035a429d8230dc1ef9",
   "cards/learn-hebrew/competitors.json": "8791145138bcd5762194411dd804b914a23172ff577eee84b458ba3295fd0589",
   "cards/less-time/card.md": "3d3cd7f2fba169440550144f7002eef4b0083d523229efe3a92b0150f49ce19d",
@@ -898,8 +889,8 @@
   "cards/meal-prep/competitors.json": "3e4a3d5f9206b3968736904e77c791061b037b6494d0f0f0f726fe758a5dce7e",
   "cards/mediterranean-diet/card.md": "8e766b8e9553adc4298067280363f384aae0ea0b498f5ccf37629c083f798dd9",
   "cards/mediterranean-diet/competitors.json": "b8a0bb2020e286e8348c331b2737cf5fe52f30f93c2e1f27e8e3505577423031",
-  "cards/mental-health/card.md": "dcf3b6c52084d956c489dcaead52a1a8b9782ccfa76e8e44868858f9967f8feb",
-  "cards/mental-health/competitors.json": "f9f3c0f6e5febb3e4cdeef37c23fe7ca659e94234e69e7a5a954c8c1efe02405",
+  "cards/mental-health/card.md": "ccefae354e4a6244fda3b3ee8a6f0edc28fb5cd985835786f5c8b548a81e5cf0",
+  "cards/mental-health/competitors.json": "2b56939ce3b5cfbcc67758ef70863ce77fb42f0fd55ea3cd5de95a7e2c9f711c",
   "cards/middle-east/card.md": "808fa53edb789b3c94a218c610b5a0caec1f477c94ccf35d7772788cece73b48",
   "cards/middle-east/competitors.json": "3a110b0442b9b1fa96df745868162efab6f97d06c152729b368766facd859a67",
   "cards/multiplier-mindset/card.md": "36f1739785579e1651f3a51f4ab74e5a899682d58580ea3ca98140281047feed",
@@ -1095,19 +1086,19 @@
    "slug": "self-publishing",
    "keyword": "self publishing",
    "position": 9,
-   "eta_date": "2026-11-16"
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "excel",
    "keyword": "excel",
    "position": 10,
-   "eta_date": "2026-11-16"
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
    "position": 11,
-   "eta_date": "2026-11-16"
+   "eta_date": "2026-11-17"
   },
   {
    "slug": "public-speaking",
@@ -1161,19 +1152,19 @@
    "slug": "sourdough",
    "keyword": "sourdough",
    "position": 20,
-   "eta_date": "2026-11-17"
+   "eta_date": "2026-11-18"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
    "position": 21,
-   "eta_date": "2026-11-17"
+   "eta_date": "2026-11-18"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
    "position": 22,
-   "eta_date": "2026-11-17"
+   "eta_date": "2026-11-18"
   },
   {
    "slug": "beekeeping",
@@ -1225,8 +1216,8 @@
   }
  ],
  "budget": {
-  "date": "2026-11-15",
-  "used": 120,
+  "date": "2026-11-16",
+  "used": 50,
   "limit": 240
  }
 }
