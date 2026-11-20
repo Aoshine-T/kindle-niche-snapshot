@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-20T02:44:24Z",
+ "generated_at": "2026-11-20T02:57:10Z",
  "topics": 101,
  "cards": 191,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 56,
- "elapsed_seconds": 835,
+ "requests": 101,
+ "elapsed_seconds": 1602,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 483
   },
   "deep": {
-   "words": 4,
-   "requests": 56,
-   "seconds": 835
+   "words": 8,
+   "requests": 101,
+   "seconds": 1602
   },
   "seeds": {
    "seeds": 34
@@ -29,13 +29,17 @@
   "practice-tests",
   "less-useful",
   "right-broke",
-  "health-recoded"
+  "health-recoded",
+  "adult-ccrn",
+  "off-grid",
+  "potty-training",
+  "usa-road"
  ],
  "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
-   "fetched_at": "2026-11-13"
+   "fetched_at": "2026-11-20"
   },
   "affordable-retirement": {
    "keyword": "affordable retirement",
@@ -503,7 +507,7 @@
   },
   "off-grid": {
    "keyword": "off grid",
-   "fetched_at": "2026-11-13"
+   "fetched_at": "2026-11-20"
   },
   "off-grid-survival": {
    "keyword": "off-grid survival",
@@ -531,7 +535,7 @@
   },
   "potty-training": {
    "keyword": "potty training",
-   "fetched_at": "2026-11-13"
+   "fetched_at": "2026-11-20"
   },
   "practice-questions": {
    "keyword": "practice questions",
@@ -751,7 +755,7 @@
   },
   "usa-road": {
    "keyword": "usa road",
-   "fetched_at": "2026-10-25"
+   "fetched_at": "2026-11-20"
   },
   "vegetable-gardening": {
    "keyword": "vegetable gardening",
@@ -799,8 +803,8 @@
   }
  },
  "files": {
-  "cards/adult-ccrn/card.md": "e8bc42674876d2951e3c8f367066d0b1014e092ee6e1e1c0a99bbdc47b6d8f77",
-  "cards/adult-ccrn/competitors.json": "f80ecd7478e330cd13857339a20d48a956c9fe4eb544c990e8257ac94aaf641b",
+  "cards/adult-ccrn/card.md": "dda9157fd0c4d5d28fdba4c35caa173ee93352e42ebb8a4c933a80614e075d61",
+  "cards/adult-ccrn/competitors.json": "674414ce17c36d6a7304389bf963184e218fc79da44e5738db33a0799f4248ae",
   "cards/affordable-retirement/card.md": "57bf4819295c0fd99c60b0cbc02daa8b6227ab0b996ced59615c0c9052a69a2c",
   "cards/affordable-retirement/competitors.json": "b8e13a5e1f4dc707c4a6b709d694b48f1637e5321247c9d6f14cb57bfcc76c4a",
   "cards/agent-operator/card.md": "28c342def492846d6d59a57136f7074588ef2ff5ef62e470e1d623d08c6445b1",
@@ -1035,8 +1039,8 @@
   "cards/north-america/competitors.json": "414e69436cf3285d493e8ed0f70567afac2512c75495413007f70bf0a52c8321",
   "cards/off-grid-survival/card.md": "f57e70c283f131ce693fcccff5ef6e17ab541254ad513c256a0e5946406f665e",
   "cards/off-grid-survival/competitors.json": "92be2aefcec18c40514196e2b301277d342edfc976ddb0ac73ca17ccd8b5cdd8",
-  "cards/off-grid/card.md": "0f84baf4ccb695ba58de042ae6dc37528187a0443549ca5df0bdf4b771173ebc",
-  "cards/off-grid/competitors.json": "5160cb58ba3ab7e89dc1366ffb2ce8b70bde0e2136cf456249a37db0f5ff6861",
+  "cards/off-grid/card.md": "54b7d19b73d128844b90ef122ce4dd93e0917a13bb6cc2586f90dc42e71d6f41",
+  "cards/off-grid/competitors.json": "feb6e9abba4520419d991fc5987b55183bd4e2ddbd430a367e6e7d56b653ceb5",
   "cards/online-safety/card.md": "b07598045f1ccf51f48d61370152ae74f56726ed31b8fdc761240bc4bffe2df8",
   "cards/online-safety/competitors.json": "e4b66f9dee58858a8e0ece86ded2ea98dd99479532529baf6993f8b4f69d921f",
   "cards/out-loud/card.md": "1dd0caf30412bac6c7f1dc229d5b905ee406f7a1cbe07d161c9ac5def924e87a",
@@ -1047,8 +1051,8 @@
   "cards/patty-lyons/competitors.json": "abb4669dc72dadb10af8d24518d9d70908578dbae53a4b1c47bf10c43f907665",
   "cards/peak-performance/card.md": "2a6bba0dd623b93c5db2e26a66bab29796d0413e826a376708f57760cd9dd2a4",
   "cards/peak-performance/competitors.json": "5b3ffd3eed0e216138a061e49e3eefdefe6299c582493e0233a34f10299e47b8",
-  "cards/potty-training/card.md": "9492b2c2feb8ed82fb404707c09ad85edf1bf033c3b1003f0ae4e9c5a03192ba",
-  "cards/potty-training/competitors.json": "b1c332d7747b18f6412e8e16dd602ffd5b52756973f7113f7de735d167e915e8",
+  "cards/potty-training/card.md": "07db673413fed469dd32bceaf0f6bad6f7f56b1bfb04f7df6d19ac342ff1ba07",
+  "cards/potty-training/competitors.json": "9d57165d05759cd50b5f6c771da5c7e3c84f2819fc88d14c0f3f8e6c117cffa0",
   "cards/practice-questions/card.md": "ce0f74bf77a11a18a203689f61485821ec5725c92b4aa26ce65ae41fb7c0673d",
   "cards/practice-questions/competitors.json": "26062490d6b464acd0ff94cfd7d1d2d8818f69f7a0d806076564e6b17b1776d9",
   "cards/practice-tests/card.md": "7c465998c706d1597d5f78a5e564b2975aef2b780ae630803fd505362b7067e1",
@@ -1157,8 +1161,8 @@
   "cards/too-late/competitors.json": "01dc9548715b1281aa9310e7ee8ce973f6bcae273d94bfca0f630b95d7ff0911",
   "cards/transformative-power/card.md": "1534586d404f6bd41e8b518cbb888154f79852e9915475b801d549f06370ab77",
   "cards/transformative-power/competitors.json": "d41b1ae9613e32e56e8059821a1ba0ee9d6a595b129e5639902850edc3c90af8",
-  "cards/usa-road/card.md": "37fc5f61404ef422f35e7500b5e0f3b17e7a38dfee8097a3c86211e094140c09",
-  "cards/usa-road/competitors.json": "1d7cd1e6a87be37c64afa470e1ffbe7069751e98dd5401dce3690a818424da23",
+  "cards/usa-road/card.md": "0e0d5419935946f9cb5a2d6196078e544e295e8686d0fa818c5aecf270c0b2c5",
+  "cards/usa-road/competitors.json": "272018d473babd6eace1a33a723b2b4c325570de5f4777e22c237c24e7aff596",
   "cards/vegetable-gardening/card.md": "2e46fa139182795afa43db57f52f793da02dbe0492874e8366e6c6fd0c81fc7b",
   "cards/vegetable-gardening/competitors.json": "c75e0f3f6ed6c104e7430a1b4155d840686e43e42d1dd1924220929cd6e14595",
   "cards/vocabulary-builder/card.md": "85ece951cfa6ac811dd0aa6d0c067b77a0203f611bc64933a6095f25bd7d8115",
@@ -1185,249 +1189,225 @@
  },
  "queue": [
   {
-   "slug": "adult-ccrn",
-   "keyword": "adult ccrn",
-   "position": 1,
-   "eta_date": "2026-11-20"
-  },
-  {
-   "slug": "off-grid",
-   "keyword": "off grid",
-   "position": 2,
-   "eta_date": "2026-11-20"
-  },
-  {
-   "slug": "potty-training",
-   "keyword": "potty training",
-   "position": 3,
-   "eta_date": "2026-11-20"
-  },
-  {
-   "slug": "usa-road",
-   "keyword": "usa road",
-   "position": 4,
-   "eta_date": "2026-11-20"
-  },
-  {
    "slug": "ai-industry",
    "keyword": "ai industry",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-20"
   },
   {
    "slug": "learn-hebrew",
    "keyword": "learn hebrew",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-20"
   },
   {
    "slug": "lsat-logical",
    "keyword": "lsat logical",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-20"
   },
   {
    "slug": "quantum-physics",
    "keyword": "quantum physics",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-20"
   },
   {
    "slug": "inner-creativity",
    "keyword": "inner creativity",
-   "position": 9,
-   "eta_date": "2026-11-21"
+   "position": 5,
+   "eta_date": "2026-11-20"
   },
   {
    "slug": "etymologist-field",
    "keyword": "etymologist field",
-   "position": 10,
-   "eta_date": "2026-11-21"
+   "position": 6,
+   "eta_date": "2026-11-20"
   },
   {
    "slug": "homemade-casseroles",
    "keyword": "homemade casseroles",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "small-talk",
    "keyword": "small talk",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "prepper-survival",
    "keyword": "prepper survival",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "grid-survival",
    "keyword": "grid survival",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 20,
-   "eta_date": "2026-11-22"
+   "position": 16,
+   "eta_date": "2026-11-21"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 21,
-   "eta_date": "2026-11-22"
+   "position": 17,
+   "eta_date": "2026-11-21"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 31,
-   "eta_date": "2026-11-23"
+   "position": 27,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 32,
-   "eta_date": "2026-11-23"
+   "position": 28,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 34,
+   "position": 30,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 38,
+   "position": 34,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 39,
+   "position": 35,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 40,
+   "position": 36,
    "eta_date": "2026-11-23"
   }
  ],
  "budget": {
   "date": "2026-11-20",
-  "used": 56,
+  "used": 101,
   "limit": 240
  }
 }
