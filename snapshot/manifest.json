@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-20T03:02:33Z",
+ "generated_at": "2026-11-21T02:42:08Z",
  "topics": 101,
  "cards": 191,
  "skill": {
@@ -9,37 +9,30 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 119,
- "elapsed_seconds": 1924,
+ "requests": 41,
+ "elapsed_seconds": 727,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 483
   },
   "deep": {
-   "words": 10,
-   "requests": 119,
-   "seconds": 1924
+   "words": 5,
+   "requests": 41,
+   "seconds": 727
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "practice-tests",
-  "less-useful",
-  "right-broke",
-  "health-recoded",
-  "adult-ccrn",
-  "off-grid",
-  "potty-training",
-  "usa-road",
-  "ai-industry"
+  "rick-steves",
+  "bambu-studio",
+  "learn-hebrew",
+  "lsat-logical",
+  "homemade-candy"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "learn hebrew"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -107,7 +100,7 @@
   },
   "bambu-studio": {
    "keyword": "bambu studio",
-   "fetched_at": "2026-11-14"
+   "fetched_at": "2026-11-21"
   },
   "beekeeping": {
    "keyword": "beekeeping",
@@ -359,7 +352,7 @@
   },
   "homemade-candy": {
    "keyword": "homemade candy",
-   "fetched_at": "2026-11-14"
+   "fetched_at": "2026-11-21"
   },
   "homemade-casseroles": {
    "keyword": "homemade casseroles",
@@ -443,7 +436,7 @@
   },
   "learn-hebrew": {
    "keyword": "learn hebrew",
-   "fetched_at": "2026-11-04"
+   "fetched_at": "2026-11-21"
   },
   "less-time": {
    "keyword": "less time",
@@ -459,7 +452,7 @@
   },
   "lsat-logical": {
    "keyword": "lsat logical",
-   "fetched_at": "2026-11-13"
+   "fetched_at": "2026-11-21"
   },
   "lsat-prep": {
    "keyword": "lsat prep",
@@ -607,7 +600,7 @@
   },
   "rick-steves": {
    "keyword": "rick steves",
-   "fetched_at": "2026-11-14"
+   "fetched_at": "2026-11-21"
   },
   "right-broke": {
    "keyword": "right broke",
@@ -839,8 +832,8 @@
   "cards/artificial-intelligence/competitors.json": "aacf597e53fd743cde0819818003f90a54f209d938af439a030818e9cd8b2b12",
   "cards/autodesk-fusion/card.md": "ce4b6c12f6a7e7a570bdeb05a3906f989bab51a0b37c15b77b67372cfe1dc6ee",
   "cards/autodesk-fusion/competitors.json": "0410afe068ec2a734ab23b4bbf39a917512435bcb2b04777031d42df66c4a045",
-  "cards/bambu-studio/card.md": "7f7eaf5cdc15886e75cfed98a38bfdd2bd8c6e67e28de6a53b85224f64e047db",
-  "cards/bambu-studio/competitors.json": "042e0a18efefcc6b7375ec61fbbaeb28df23518c8d836c1ca9f6fa23d7147526",
+  "cards/bambu-studio/card.md": "8fb0fdc7a75c5f6bb6aff2c76ffea3ddba1a7e200d08cc67b5091291b9d6e84a",
+  "cards/bambu-studio/competitors.json": "4007d7baeff6f6469c9dad65ad77d9adc4ea26321da33b1eba3754cc6fafc338",
   "cards/beekeeping/card.md": "bb1dcf3b49d9ba8f1fc03e285bfed54d104415612b8695c496388ab066886ff1",
   "cards/beekeeping/competitors.json": "7f2a05bc02bd3ddb3aa28c7a5633a3d1a4984ea01ce471e5fc9701cc3af350d2",
   "cards/beginner-friendly-patterns/card.md": "66fd4cd4deea14dfd11e57994a492cd1c804568078133dd7e86a80867b28aee7",
@@ -965,8 +958,8 @@
   "cards/home-repair/competitors.json": "709272f6ab5017862575293248f103c7ebba2bcfb02040f1f850bea24e7f64a2",
   "cards/homemade-bread/card.md": "3e3daa54fa1f4ec78d944e6f44afead70c21e98831b0e47668ef1e39ef538a55",
   "cards/homemade-bread/competitors.json": "bcad4a5eea92e89c6b0acc111f93b68163de8be30a27279819cebd48946177e1",
-  "cards/homemade-candy/card.md": "90e3855480934586325dc1743555b08f611cf009113f7e4317eaa75ca66757ab",
-  "cards/homemade-candy/competitors.json": "89a8dc4740c17b9657ac6ea4b50162975c39a28035635dc6ea34d90da8782898",
+  "cards/homemade-candy/card.md": "8462e7093521b52d39b27606d5bd94c817e4f843f3cbdbc047d5a3fdd558bcfe",
+  "cards/homemade-candy/competitors.json": "7389147248d5a0abc6ece7502df1908c459b2528da8f0958812a51320b309a9c",
   "cards/homemade-casseroles/card.md": "77da73cc160beb0a287c4fa003835c9018be36e7123834d9662c5708204846ab",
   "cards/homemade-casseroles/competitors.json": "1d8cead75edc67575062f43e7ba6ddd668b2b832cb813748533ee0c9e5c3eb78",
   "cards/homemade-pantry/card.md": "5da2908b1674ee7ea92b7b71726b6fb5b20fca5756e4bda5f9986dbf32047b6a",
@@ -1007,16 +1000,16 @@
   "cards/learn-ancient/competitors.json": "083ca82905405ccb75c13c78b87dfee2c1cf7415cf4f02f1308041ecd5b7d478",
   "cards/learn-faster/card.md": "74d12ace104a50f76de6a307e10c237823448c68688825a4dd39d34b6f466f4c",
   "cards/learn-faster/competitors.json": "b0ee7a7cbd5d8608625905b3b29690417935898d8a397b53bf8dcdb585345a4b",
-  "cards/learn-hebrew/card.md": "44925ba4fd6d51caadd0885a6aa8b4bb61d483e6b5bfb3035a429d8230dc1ef9",
-  "cards/learn-hebrew/competitors.json": "8791145138bcd5762194411dd804b914a23172ff577eee84b458ba3295fd0589",
+  "cards/learn-hebrew/card.md": "f360274d0c2147009221157828ed08a360c6def0e9d80b9ed599fb2a05243e01",
+  "cards/learn-hebrew/competitors.json": "117e8965bb83313cdf54ebfd218f0e299f48d2345c8c037ef206518e3ca1d687",
   "cards/less-time/card.md": "3d3cd7f2fba169440550144f7002eef4b0083d523229efe3a92b0150f49ce19d",
   "cards/less-time/competitors.json": "f40f9d97e902d318fa8bf5b08d73bb5d20366d0bd222d4521f9d141b9750b059",
   "cards/less-useful/card.md": "59ec2c0672dc54029531dac23046b8bc3a37dce67f49e3c90b2aa60dc116af19",
   "cards/less-useful/competitors.json": "5b4f6897177a33291c0dffb571e20d0c1e117e0c493801f83f903a96173cddca",
   "cards/long-term-survival/card.md": "19a0a428a06cd7d0e7aafff09e29baf7fe6f4073cdd92ff530d3da8d5b3256a2",
   "cards/long-term-survival/competitors.json": "970030209615db69e4531e9db9ec68bb2e82e11d380e907636a27b7b0eb40565",
-  "cards/lsat-logical/card.md": "8a60dd782bc9684620b498db51e338041a9c74db6e4ea22ab1f4b938c94e8bff",
-  "cards/lsat-logical/competitors.json": "ce26825f6a7ca50fefb1480e89fe2a9b112e740b639f847d0cfd9f8e37794072",
+  "cards/lsat-logical/card.md": "50a75192d424a40faa0d03cb2e98008687c001470b3d6f9aee00aed81f96b709",
+  "cards/lsat-logical/competitors.json": "01df1f467c0a1bbbfed2b3fbc821deeeff7a46fd12f2c69999c81551b11641a8",
   "cards/lsat-prep/card.md": "c13a26b896e0a10862681bc85f29625d08b37eb3caf7d01af09d2f2303e77ea3",
   "cards/lsat-prep/competitors.json": "49139cfd0299f393eaf850fad03a3e2f0e6dad75b46ad157ead44f6a703e94e8",
   "cards/lymphatic-flow/card.md": "d1140a4563aec4cab39f34279ecec0b2855e1c4fdb1bd737ed6690bbf453a092",
@@ -1089,8 +1082,8 @@
   "cards/restaurant-favorites/competitors.json": "83ff22548ce3699561284395f44311e00939d3e8470fb1d6ada9865ae5afc622",
   "cards/retirement-planning/card.md": "4e578f562327517924c1a4ad50b0f87b80d67a48a994cc7b5e5d450d5158a0d9",
   "cards/retirement-planning/competitors.json": "bddae1a6b182bd6f6deee5d89177e845c988cb77a1d1c1a7d53ef2de6323b2cf",
-  "cards/rick-steves/card.md": "5f26cc0a203dea3ed931b50d3a543f8eb1c491ef8bbf196e2af6668c378585d9",
-  "cards/rick-steves/competitors.json": "cad2f6974af804d8fcf4aa9cb6e94fb15904022eb65be62a7650357771f7e192",
+  "cards/rick-steves/card.md": "062d0bd4d8d49212148cd98b03f064e901a7334159429b43bcf33c4b910a237b",
+  "cards/rick-steves/competitors.json": "7e4aeccb1516a7a7d4e7e423493b5e90013e8e5b2c3ab0a60d8e78b4cd061b31",
   "cards/right-broke/card.md": "dfd79e77d6a0cdfcc0b19bc5c80f9aea3337913719c0792ae932fcab97b710ab",
   "cards/right-broke/competitors.json": "de05a599a14289ee7b4e339395efe48dcfbba0e51b3a09b3ef90e47e940a0a07",
   "cards/right-numbers/card.md": "36d490f973ad3ee30874c23088bf069c43998d810419af924e5773da728b763a",
@@ -1193,219 +1186,213 @@
  },
  "queue": [
   {
-   "slug": "learn-hebrew",
-   "keyword": "learn hebrew",
-   "position": 1,
-   "eta_date": "2026-11-21"
-  },
-  {
-   "slug": "lsat-logical",
-   "keyword": "lsat logical",
-   "position": 2,
-   "eta_date": "2026-11-21"
-  },
-  {
    "slug": "quantum-physics",
    "keyword": "quantum physics",
-   "position": 3,
+   "position": 1,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "inner-creativity",
    "keyword": "inner creativity",
-   "position": 4,
+   "position": 2,
+   "eta_date": "2026-11-21"
+  },
+  {
+   "slug": "self-help-author",
+   "keyword": "self-help author",
+   "position": 3,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "etymologist-field",
    "keyword": "etymologist field",
-   "position": 5,
+   "position": 4,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "homemade-casseroles",
    "keyword": "homemade casseroles",
-   "position": 6,
+   "position": 5,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "small-talk",
    "keyword": "small talk",
-   "position": 7,
+   "position": 6,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "prepper-survival",
    "keyword": "prepper survival",
-   "position": 8,
+   "position": 7,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "grid-survival",
    "keyword": "grid survival",
-   "position": 9,
+   "position": 8,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
-   "position": 10,
+   "position": 9,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 11,
-   "eta_date": "2026-11-21"
+   "position": 10,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 12,
+   "position": 11,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 13,
+   "position": 12,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 14,
+   "position": 13,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 15,
+   "position": 14,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 16,
+   "position": 15,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 17,
+   "position": 16,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 18,
+   "position": 17,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 19,
+   "position": 18,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 20,
+   "position": 19,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 21,
+   "position": 20,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 22,
-   "eta_date": "2026-11-22"
+   "position": 21,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 23,
+   "position": 22,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 24,
+   "position": 23,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 25,
+   "position": 24,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 26,
+   "position": 25,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 27,
+   "position": 26,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 28,
+   "position": 27,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 29,
+   "position": 28,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 30,
+   "position": 29,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 31,
+   "position": 30,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 32,
+   "position": 31,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 33,
-   "eta_date": "2026-11-23"
+   "position": 32,
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 34,
+   "position": 33,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 35,
+   "position": 34,
    "eta_date": "2026-11-24"
   }
  ],
  "budget": {
-  "date": "2026-11-20",
-  "used": 119,
+  "date": "2026-11-21",
+  "used": 41,
   "limit": 240
  }
 }
