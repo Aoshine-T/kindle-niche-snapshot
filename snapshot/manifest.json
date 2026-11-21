@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-21T02:42:08Z",
+ "generated_at": "2026-11-21T02:58:46Z",
  "topics": 101,
  "cards": 191,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 41,
- "elapsed_seconds": 727,
+ "requests": 102,
+ "elapsed_seconds": 1724,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 483
   },
   "deep": {
-   "words": 5,
-   "requests": 41,
-   "seconds": 727
+   "words": 10,
+   "requests": 102,
+   "seconds": 1724
   },
   "seeds": {
    "seeds": 34
@@ -30,7 +30,12 @@
   "bambu-studio",
   "learn-hebrew",
   "lsat-logical",
-  "homemade-candy"
+  "homemade-candy",
+  "quantum-physics",
+  "inner-creativity",
+  "self-help-author",
+  "etymologist-field",
+  "homemade-casseroles"
  ],
  "stopped": null,
  "card_index": {
@@ -244,7 +249,7 @@
   },
   "etymologist-field": {
    "keyword": "etymologist field",
-   "fetched_at": "2026-11-12"
+   "fetched_at": "2026-11-21"
   },
   "excel": {
    "keyword": "excel",
@@ -356,7 +361,7 @@
   },
   "homemade-casseroles": {
    "keyword": "homemade casseroles",
-   "fetched_at": "2026-11-05"
+   "fetched_at": "2026-11-21"
   },
   "homemade-pantry": {
    "keyword": "homemade pantry",
@@ -392,7 +397,7 @@
   },
   "inner-creativity": {
    "keyword": "inner creativity",
-   "fetched_at": "2026-11-11"
+   "fetched_at": "2026-11-21"
   },
   "interaction-count": {
    "keyword": "interaction count",
@@ -572,7 +577,7 @@
   },
   "quantum-physics": {
    "keyword": "quantum physics",
-   "fetched_at": "2026-11-11"
+   "fetched_at": "2026-11-21"
   },
   "quebec-french": {
    "keyword": "quebec french",
@@ -628,7 +633,7 @@
   },
   "self-help-author": {
    "keyword": "self-help author",
-   "fetched_at": "2026-11-14"
+   "fetched_at": "2026-11-21"
   },
   "self-publishing": {
    "keyword": "self publishing",
@@ -904,8 +909,8 @@
   "cards/etsy-selling/competitors.json": "c6538e81408a3a9859587bed5d8f4eb737243b00cc73aa319dee1fadec3aaa27",
   "cards/etymological-past/card.md": "940d23a9dfa1b271a69ff7d2d7b7c9d08d9185a54e88bc2d31e1fa8da0a6bded",
   "cards/etymological-past/competitors.json": "ba7008df5e8e572b4a8e8b618041c28c328691bb90d4b1fa1b6a9e6b3cdddb29",
-  "cards/etymologist-field/card.md": "2f94db0ba795cdb97ebb184946fd9c9ff4792c470804a8e8f6cb5b71776322bc",
-  "cards/etymologist-field/competitors.json": "e10321364ea81942f13b136e3402b982ba5e7e8c51d73102c157112da4c11e9a",
+  "cards/etymologist-field/card.md": "b08ad74b0eaaf6985c223c55945635f82036f20241a6fab76becd0f6b55e808f",
+  "cards/etymologist-field/competitors.json": "ca2c5461207ed65a0e563611861440ccb45852b456633b55fe6703a7b316af82",
   "cards/excel/card.md": "8587aa9661d39ec419810d91c61880d8dba00fbc4aa64c141499ebc9f86124d0",
   "cards/excel/competitors.json": "3c692052a9f3155901a2fc48cbb8a2dc54d5f54756f3b2cfcc2a311dc6a04e6a",
   "cards/fandom-playbook/card.md": "11f23c3bad7a79a1c312f21f02505ec2b25837694627b3e828e6ad96531cfa2e",
@@ -960,8 +965,8 @@
   "cards/homemade-bread/competitors.json": "bcad4a5eea92e89c6b0acc111f93b68163de8be30a27279819cebd48946177e1",
   "cards/homemade-candy/card.md": "8462e7093521b52d39b27606d5bd94c817e4f843f3cbdbc047d5a3fdd558bcfe",
   "cards/homemade-candy/competitors.json": "7389147248d5a0abc6ece7502df1908c459b2528da8f0958812a51320b309a9c",
-  "cards/homemade-casseroles/card.md": "77da73cc160beb0a287c4fa003835c9018be36e7123834d9662c5708204846ab",
-  "cards/homemade-casseroles/competitors.json": "1d8cead75edc67575062f43e7ba6ddd668b2b832cb813748533ee0c9e5c3eb78",
+  "cards/homemade-casseroles/card.md": "7bc0e6cad5efd93d7b98d43b6c39a5df255f3aa068d5070c0945b07920463843",
+  "cards/homemade-casseroles/competitors.json": "5cbfa6caef8099965ad04505a38ce584f2d3ccce44d2a00dc1a24d16aa43d5b3",
   "cards/homemade-pantry/card.md": "5da2908b1674ee7ea92b7b71726b6fb5b20fca5756e4bda5f9986dbf32047b6a",
   "cards/homemade-pantry/competitors.json": "ef2ff26d102207aace9a740b52200b9e7d5f5edecb7434866c7ff32918b98ef9",
   "cards/homemade-snacks/card.md": "fd7d041ca87795760dd20b52d925df29622e0eda1ccf9434cdac43862a2c38ec",
@@ -978,8 +983,8 @@
   "cards/in-demand-chief/competitors.json": "29bf61ab1bf6b5cbb919ea952c5de2b56c09843ad19019223208afc3d72fee7f",
   "cards/independence-self-reliance/card.md": "300be2beb0d9bbb37c87194c76b45c7ee7806fb73a43d15913d101cb18c89d07",
   "cards/independence-self-reliance/competitors.json": "d3b0eb801ac3c69d61e2806a7105408ac451bd48436056b1be90239521372128",
-  "cards/inner-creativity/card.md": "60efca2c5b4936116e7591b0f14376da690356547e34f2d09aa36fbf930a0ee5",
-  "cards/inner-creativity/competitors.json": "66d8d787f76942fb19219dc5c49233c6cc863e651b59d11bdba06577306de115",
+  "cards/inner-creativity/card.md": "9e4af85b379e1270c1277b230e71bf47151da7938d6a8ecbd46b35ae1b49dbad",
+  "cards/inner-creativity/competitors.json": "bc093e5829f6a79ad7c738a75c351fa6c7233747d37e42163c4a4bf7267934ae",
   "cards/interaction-count/card.md": "91c990b6e5906b47fcc52f539cb282d8e4ec53fe1ad4bc731f1021e10dc8b8d7",
   "cards/interaction-count/competitors.json": "14266110ae621a59fa58547aa247bdfab4a15370dd5fdbb4ea0d5428a63f2c78",
   "cards/intermittent-fasting/card.md": "a70439942210f3430c78b409366489c36880d28a41741a0357b2fd14fdf4eeef",
@@ -1068,8 +1073,8 @@
   "cards/python-programming/competitors.json": "677acefd19c499b1121ed362ce0b947ea339d76d4658d0d32ff0bfe95d5af0dd",
   "cards/quantum-mechanics/card.md": "8138752961bd6f532162a382152ca6e61fe5c5a81dc82e747a45ab83f7893420",
   "cards/quantum-mechanics/competitors.json": "83b44e9a0a65e1a9ee6a0ff2c30d644ab407974f5c0bd0102dfcbfcabd7f480e",
-  "cards/quantum-physics/card.md": "9b59365a53ab2376e7b381219e6cc5eca03d3556dd7629388f7167967372fdb8",
-  "cards/quantum-physics/competitors.json": "a43a05f7911c8698f1fa67a9a49360ce4bbc0bf6f5adb83634453fe804a2d1e5",
+  "cards/quantum-physics/card.md": "c11686ff5712dac274bc2b188799cd4a27adbd93e895fe15be260772ea07e10e",
+  "cards/quantum-physics/competitors.json": "60c9d0f84cfa7b65eac924e9e1d98738ec203903f17db564eaa7410e008c2447",
   "cards/quebec-french/card.md": "9e56d74713e796ad944c7ec9a787a7f9afa3d6957ce9f862f8ba92326b763518",
   "cards/quebec-french/competitors.json": "86ff7fcea7671442d6fcd6757d0b253f93f72f9153a749e5599ec7e0fb0d0609",
   "cards/querying-literary/card.md": "742138f0d3d01d03ed778888df12eda86d104e0422f81529372ee83c5fc74c5c",
@@ -1096,8 +1101,8 @@
   "cards/safe-haven/competitors.json": "92003ac91cf181f7a4839f8fd632c7922f4bb6307397f38f05c9a91e6b70938d",
   "cards/scaffolding-complex/card.md": "ab2bbd27442734218d8dda732fdde337a84d11cee21f8e4d3a011dcdd274963a",
   "cards/scaffolding-complex/competitors.json": "a7771a1196c4c0a7244bf5762088c07553e563e80a7eb718a2086dd088980e76",
-  "cards/self-help-author/card.md": "8c5d199577636d37f2fba8c8147251c121caebe2798f343c0b9fd1d453f317fb",
-  "cards/self-help-author/competitors.json": "938723c766f573af1a735a2f2fbec92a454ca288f3273b89b5b8b2e799c5b3ee",
+  "cards/self-help-author/card.md": "d6416d1705637ab69f80df1020f60e3871d4494c74d594525319fb70edbe5332",
+  "cards/self-help-author/competitors.json": "a60668158074569ce6d3e942e677711c993a26694dcc814c0d97df886ca6977f",
   "cards/self-publishing/card.md": "d4bb87708a35f6e9753dd231eaff19d6ef8edf85ba57c9bdacfd6900597543fc",
   "cards/self-publishing/competitors.json": "5888e16f3496c4e35473647e7eb33f556b9428ef0e52413069cc4c29974cddfd",
   "cards/show-up/card.md": "12d4a16d6a74a92661eed5acd4a6509cebe265a9dd02a46f65f3622bb5340a4d",
@@ -1186,213 +1191,183 @@
  },
  "queue": [
   {
-   "slug": "quantum-physics",
-   "keyword": "quantum physics",
-   "position": 1,
-   "eta_date": "2026-11-21"
-  },
-  {
-   "slug": "inner-creativity",
-   "keyword": "inner creativity",
-   "position": 2,
-   "eta_date": "2026-11-21"
-  },
-  {
-   "slug": "self-help-author",
-   "keyword": "self-help author",
-   "position": 3,
-   "eta_date": "2026-11-21"
-  },
-  {
-   "slug": "etymologist-field",
-   "keyword": "etymologist field",
-   "position": 4,
-   "eta_date": "2026-11-21"
-  },
-  {
-   "slug": "homemade-casseroles",
-   "keyword": "homemade casseroles",
-   "position": 5,
-   "eta_date": "2026-11-21"
-  },
-  {
    "slug": "small-talk",
    "keyword": "small talk",
-   "position": 6,
+   "position": 1,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "prepper-survival",
    "keyword": "prepper survival",
-   "position": 7,
+   "position": 2,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "grid-survival",
    "keyword": "grid survival",
-   "position": 8,
+   "position": 3,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
-   "position": 9,
+   "position": 4,
    "eta_date": "2026-11-21"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 10,
-   "eta_date": "2026-11-22"
+   "position": 5,
+   "eta_date": "2026-11-21"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 11,
-   "eta_date": "2026-11-22"
+   "position": 6,
+   "eta_date": "2026-11-21"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 12,
+   "position": 7,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 13,
+   "position": 8,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 14,
+   "position": 9,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 15,
+   "position": 10,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 16,
+   "position": 11,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 17,
+   "position": 12,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 18,
+   "position": 13,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 19,
+   "position": 14,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 20,
+   "position": 15,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 21,
-   "eta_date": "2026-11-23"
+   "position": 16,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 22,
-   "eta_date": "2026-11-23"
+   "position": 17,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 23,
+   "position": 18,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 24,
+   "position": 19,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 25,
+   "position": 20,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 26,
+   "position": 21,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 27,
+   "position": 22,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 28,
+   "position": 23,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 29,
+   "position": 24,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 30,
+   "position": 25,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 31,
+   "position": 26,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 32,
-   "eta_date": "2026-11-24"
+   "position": 27,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 33,
-   "eta_date": "2026-11-24"
+   "position": 28,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 34,
+   "position": 29,
    "eta_date": "2026-11-24"
   }
  ],
  "budget": {
   "date": "2026-11-21",
-  "used": 41,
+  "used": 102,
   "limit": 240
  }
 }
