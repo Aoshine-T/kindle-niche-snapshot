@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-22T02:44:22Z",
+ "generated_at": "2026-11-22T02:57:30Z",
  "topics": 101,
  "cards": 191,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 56,
- "elapsed_seconds": 848,
+ "requests": 99,
+ "elapsed_seconds": 1636,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 483
   },
   "deep": {
-   "words": 4,
-   "requests": 56,
-   "seconds": 848
+   "words": 9,
+   "requests": 99,
+   "seconds": 1636
   },
   "seeds": {
    "seeds": 34
@@ -29,7 +29,12 @@
   "artificial-intelligence",
   "stress-less",
   "prepper-survival",
-  "grid-survival"
+  "grid-survival",
+  "side-hustles",
+  "ai-side-hustles",
+  "passive-income",
+  "chatgpt-for-beginners",
+  "real-estate-investing"
  ],
  "stopped": null,
  "card_index": {
@@ -71,7 +76,7 @@
   },
   "ai-side-hustles": {
    "keyword": "ai side hustles",
-   "fetched_at": "2026-11-15"
+   "fetched_at": "2026-11-22"
   },
   "air-fryer": {
    "keyword": "air fryer",
@@ -147,7 +152,7 @@
   },
   "chatgpt-for-beginners": {
    "keyword": "chatgpt for beginners",
-   "fetched_at": "2026-11-15"
+   "fetched_at": "2026-11-22"
   },
   "christmas-ornaments": {
    "keyword": "christmas ornaments",
@@ -519,7 +524,7 @@
   },
   "passive-income": {
    "keyword": "passive income",
-   "fetched_at": "2026-11-15"
+   "fetched_at": "2026-11-22"
   },
   "patty-lyons": {
    "keyword": "patty lyons",
@@ -583,7 +588,7 @@
   },
   "real-estate-investing": {
    "keyword": "real estate investing",
-   "fetched_at": "2026-11-02"
+   "fetched_at": "2026-11-22"
   },
   "relieve-stress": {
    "keyword": "relieve stress",
@@ -639,7 +644,7 @@
   },
   "side-hustles": {
    "keyword": "side hustles",
-   "fetched_at": "2026-11-15"
+   "fetched_at": "2026-11-22"
   },
   "sign-language": {
    "keyword": "sign language",
@@ -817,8 +822,8 @@
   "cards/ai-for-beginners/competitors.json": "fa0a10e51a582114d7fb37d6f3a8f0ee1e72879fa60846eff331b2dd642e875e",
   "cards/ai-industry/card.md": "8f5a7a79f8d9c525d398242bc48a7b7cdcfb0e9f9232f5ce26b79f45591e7fe9",
   "cards/ai-industry/competitors.json": "21b612b64779f3f5bc7915a8119f0c03c54e88065239c6479f2cfb13d74d7def",
-  "cards/ai-side-hustles/card.md": "6587e4a3d93561a5f651ced553e7672473d30735f49944991d0c69fe782a3585",
-  "cards/ai-side-hustles/competitors.json": "463893b2dd1cf030f2c6f7262a3aa74bb6a3aaa2b3ac570f48b0a7ea60f6e0a2",
+  "cards/ai-side-hustles/card.md": "aa945d4379336afecce7c7c37d2c7d8bdb8af0f73fae01b05ba5c7c68c9a44d2",
+  "cards/ai-side-hustles/competitors.json": "61c5559a34c7d079340fbf3a7042e19443a8db123f0e42bca3324b8e75e8f23e",
   "cards/air-fryer/card.md": "b3e9550c781ad36125fd443a0b07079cc40ba2449925241d9715a219fe325e90",
   "cards/air-fryer/competitors.json": "b6bb14876b39f19f3fa13dcbc2ea1df0c1734dfd2c94eee96ef8c5e096a74c40",
   "cards/america-obscura/card.md": "8bbbc8ceb1ee616387261a3dbe2e3bb0ee4c26847b2dc98ab8b023db3102bdb1",
@@ -855,8 +860,8 @@
   "cards/care-scripts/competitors.json": "00f66807763c68aff5d464194461c26a48fc3b53da91c244f0aa7ab9f986e985",
   "cards/center-stage/card.md": "3a920319950e7a2a29620cb35dd32467ed99ec0ffdcf45ba7f4471aa11546015",
   "cards/center-stage/competitors.json": "5160c65aa5ff806890f09ad47e25a8f806070b556fb3276f083c30bcf961bb45",
-  "cards/chatgpt-for-beginners/card.md": "b71069cda3b53b2b4a8d15fa2dadec917fa569ce9db890cd01383ecc968a114c",
-  "cards/chatgpt-for-beginners/competitors.json": "aee8ec1f2cae8cb52b351e919983a5ff5d5b70dd8943a4a2aeb3134d6e662e11",
+  "cards/chatgpt-for-beginners/card.md": "dee2099a3f2f832d5fd827091438bb5971bdf057fb37638b53da9edc242bb88b",
+  "cards/chatgpt-for-beginners/competitors.json": "4eaa7f71bd70433a918c5dee9b1a6f29e7d025244ace2b26cc1314bf2e9a043f",
   "cards/christmas-ornaments/card.md": "630bbe49e9155dde41b49123a6fe9db412f90882e4e8a62bb2869cf4612e4c51",
   "cards/christmas-ornaments/competitors.json": "594973385909103c3e23d776f0fbcdb1578ef6ef64392b0fb2628d8892834c72",
   "cards/civilian-field/card.md": "c2bc68b60687f431ec6b21ed8d2803f40989b5ef9de5bcc6286c095a5561c796",
@@ -1041,8 +1046,8 @@
   "cards/online-safety/competitors.json": "e4b66f9dee58858a8e0ece86ded2ea98dd99479532529baf6993f8b4f69d921f",
   "cards/out-loud/card.md": "1dd0caf30412bac6c7f1dc229d5b905ee406f7a1cbe07d161c9ac5def924e87a",
   "cards/out-loud/competitors.json": "f509e1b63f87ca4d3bc54aed3240e48bbb19f729ae159f2f6fa509b06a91a90a",
-  "cards/passive-income/card.md": "4f9ad1b319ec31a71b9af65bb832fadf52fcab9ce41d0c30a996c03f590adb02",
-  "cards/passive-income/competitors.json": "6051286556b5e1e1e93e4758ee663ab27f555c7d2b47da2a01738989aabea5f7",
+  "cards/passive-income/card.md": "53d34cf87a89f21701a49ff4f227c6b73ba5717f4a93f3192e556678ba1b5a60",
+  "cards/passive-income/competitors.json": "3110f20d5f085df14dcdc3dba819e58ddda48fbceed4ca4f01d7208d2ed0d296",
   "cards/patty-lyons/card.md": "02bc0d6fefaf6b3df916dd03d6a4111139cbd9a2713b6cf6fbef0c738d72a8b3",
   "cards/patty-lyons/competitors.json": "abb4669dc72dadb10af8d24518d9d70908578dbae53a4b1c47bf10c43f907665",
   "cards/peak-performance/card.md": "2a6bba0dd623b93c5db2e26a66bab29796d0413e826a376708f57760cd9dd2a4",
@@ -1073,8 +1078,8 @@
   "cards/quebec-french/competitors.json": "86ff7fcea7671442d6fcd6757d0b253f93f72f9153a749e5599ec7e0fb0d0609",
   "cards/querying-literary/card.md": "742138f0d3d01d03ed778888df12eda86d104e0422f81529372ee83c5fc74c5c",
   "cards/querying-literary/competitors.json": "ad7fa8d4a22f9840bf82a846fea36b66a5506c439389490227db5e1674fa2e2f",
-  "cards/real-estate-investing/card.md": "6394316aa7715cbdc71a6ef2c0e6b436e5ed6313609b4a37dd46285d3e4f2a0e",
-  "cards/real-estate-investing/competitors.json": "0502f29bd5b07f1c2a5f7f39296bec171c6f1836651800f7a4486ad84f940764",
+  "cards/real-estate-investing/card.md": "2c10518f5caaf94f1408ba6b522fff3495c30b49f90e1d61d26530c56a0e7c1c",
+  "cards/real-estate-investing/competitors.json": "968bf806ba93c3c4ee8c9ee6048e99f3c6deedd89c3abf38519c31ba67ba2702",
   "cards/relieve-stress/card.md": "e6c593038ee53ccadd19e3655cc1ac66c8bfbf887043e7c076bda0564d5d00b4",
   "cards/relieve-stress/competitors.json": "73add4649ceac5b30626f9e6041e18602f1589a10c66dccee3d627850b3ee806",
   "cards/restaurant-favorites/card.md": "154ab00814bbdd99b711010ebe4d838b9ec0843e077d96c538f7cf877dbcd3df",
@@ -1101,8 +1106,8 @@
   "cards/self-publishing/competitors.json": "5888e16f3496c4e35473647e7eb33f556b9428ef0e52413069cc4c29974cddfd",
   "cards/show-up/card.md": "12d4a16d6a74a92661eed5acd4a6509cebe265a9dd02a46f65f3622bb5340a4d",
   "cards/show-up/competitors.json": "50351e44547d5ab5a614c664e6a4e16878b484a4f5cdf55b6a9c216ecd10a9cd",
-  "cards/side-hustles/card.md": "1f92f3bf1709a9ecb000a106cc9805898248fe499c29d632a9006d1d90ed0524",
-  "cards/side-hustles/competitors.json": "07e7756949e57c3c402fe76d4c28c2db7348881599f7eb9527096c648e427445",
+  "cards/side-hustles/card.md": "3e53a7e776c6f6f8b165a3a891449215fcec83863c6265baa61ce6d5a24d680b",
+  "cards/side-hustles/competitors.json": "cc6b6ae1e597d6476b3725ce87935eaaecf1315511d9dd45fc3ce1210e898934",
   "cards/sign-language/card.md": "d24234d756a81b6a9dde4cc19501c2c01a5c7c541e6823fe3c8eb1988c420f85",
   "cards/sign-language/competitors.json": "c2d95f6ee37ce732b09909bb1321c0d74f4c89ea7c034ebff98b415dfb062f6e",
   "cards/silicon-valley/card.md": "ff1bfb1ebd077cdf282f85cbc77b295802a05feb698d31770e0e0a3168697ffb",
@@ -1185,189 +1190,159 @@
  },
  "queue": [
   {
-   "slug": "side-hustles",
-   "keyword": "side hustles",
-   "position": 1,
-   "eta_date": "2026-11-22"
-  },
-  {
-   "slug": "ai-side-hustles",
-   "keyword": "ai side hustles",
-   "position": 2,
-   "eta_date": "2026-11-22"
-  },
-  {
-   "slug": "passive-income",
-   "keyword": "passive income",
-   "position": 3,
-   "eta_date": "2026-11-22"
-  },
-  {
-   "slug": "chatgpt-for-beginners",
-   "keyword": "chatgpt for beginners",
-   "position": 4,
-   "eta_date": "2026-11-22"
-  },
-  {
-   "slug": "real-estate-investing",
-   "keyword": "real estate investing",
-   "position": 5,
-   "eta_date": "2026-11-22"
-  },
-  {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 6,
+   "position": 1,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 7,
+   "position": 2,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 8,
+   "position": 3,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 9,
-   "eta_date": "2026-11-23"
+   "position": 4,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 10,
-   "eta_date": "2026-11-23"
+   "position": 5,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 11,
-   "eta_date": "2026-11-23"
+   "position": 6,
+   "eta_date": "2026-11-22"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 12,
+   "position": 7,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 13,
+   "position": 8,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 14,
+   "position": 9,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 15,
+   "position": 10,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 16,
+   "position": 11,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 17,
+   "position": 12,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 18,
+   "position": 13,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 19,
+   "position": 14,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 20,
-   "eta_date": "2026-11-24"
+   "position": 15,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 21,
-   "eta_date": "2026-11-24"
+   "position": 16,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 22,
-   "eta_date": "2026-11-24"
+   "position": 17,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 23,
+   "position": 18,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 24,
+   "position": 19,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 25,
+   "position": 20,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 26,
+   "position": 21,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 27,
+   "position": 22,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 28,
+   "position": 23,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 29,
+   "position": 24,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 30,
+   "position": 25,
    "eta_date": "2026-11-24"
   }
  ],
  "budget": {
   "date": "2026-11-22",
-  "used": 56,
+  "used": 99,
   "limit": 240
  }
 }
