@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-21T03:03:41Z",
+ "generated_at": "2026-11-22T02:44:22Z",
  "topics": 101,
  "cards": 191,
  "skill": {
@@ -9,39 +9,29 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 118,
- "elapsed_seconds": 2019,
+ "requests": 56,
+ "elapsed_seconds": 848,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 483
   },
   "deep": {
-   "words": 12,
-   "requests": 118,
-   "seconds": 2019
+   "words": 4,
+   "requests": 56,
+   "seconds": 848
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "rick-steves",
-  "bambu-studio",
-  "learn-hebrew",
-  "lsat-logical",
-  "homemade-candy",
-  "quantum-physics",
-  "inner-creativity",
-  "self-help-author",
-  "etymologist-field",
-  "homemade-casseroles",
-  "small-talk"
+  "artificial-intelligence",
+  "stress-less",
+  "prepper-survival",
+  "grid-survival"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "prepper survival"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -101,7 +91,7 @@
   },
   "artificial-intelligence": {
    "keyword": "artificial intelligence",
-   "fetched_at": "2026-11-15"
+   "fetched_at": "2026-11-22"
   },
   "autodesk-fusion": {
    "keyword": "autodesk fusion",
@@ -317,7 +307,7 @@
   },
   "grid-survival": {
    "keyword": "grid survival",
-   "fetched_at": "2026-11-13"
+   "fetched_at": "2026-11-22"
   },
   "grok-bot": {
    "keyword": "grok bot",
@@ -553,7 +543,7 @@
   },
   "prepper-survival": {
    "keyword": "prepper survival",
-   "fetched_at": "2026-11-05"
+   "fetched_at": "2026-11-22"
   },
   "prompt-engineering": {
    "keyword": "prompt engineering",
@@ -717,7 +707,7 @@
   },
   "stress-less": {
    "keyword": "stress less",
-   "fetched_at": "2026-11-15"
+   "fetched_at": "2026-11-22"
   },
   "survival-project": {
    "keyword": "survival project",
@@ -837,8 +827,8 @@
   "cards/anxiety-relief/competitors.json": "ca0125a0b0ea2ff0bf1bafc63546a17b922758e08e504cc49a834c86648bba23",
   "cards/appalachian-trail/card.md": "1cb83e15aeb69624d48620ebbd05cf6fc28a69df719b8085661290b7eb708f8d",
   "cards/appalachian-trail/competitors.json": "f4faba9d0e9f6c4351f6a2b34b28b485fe1ca001ba01c9075c5121fbf8c3c45a",
-  "cards/artificial-intelligence/card.md": "c61626391153e1b9d1eb7eb1fc4517f2bb0f7683aa66ac3b054a7a11bedae3d6",
-  "cards/artificial-intelligence/competitors.json": "aacf597e53fd743cde0819818003f90a54f209d938af439a030818e9cd8b2b12",
+  "cards/artificial-intelligence/card.md": "d553befebb762d528b0e44dfa92ef80df8174a2d255df5b5416376d84752dbc4",
+  "cards/artificial-intelligence/competitors.json": "3fdc6ae8b853889e5aba223442844fdfab272a6f539a7f8620c9b3efa924404d",
   "cards/autodesk-fusion/card.md": "ce4b6c12f6a7e7a570bdeb05a3906f989bab51a0b37c15b77b67372cfe1dc6ee",
   "cards/autodesk-fusion/competitors.json": "0410afe068ec2a734ab23b4bbf39a917512435bcb2b04777031d42df66c4a045",
   "cards/bambu-studio/card.md": "8fb0fdc7a75c5f6bb6aff2c76ffea3ddba1a7e200d08cc67b5091291b9d6e84a",
@@ -945,8 +935,8 @@
   "cards/golden-age/competitors.json": "36a103ab83ecf90473c506c7a3699bf45136c89b6601c47fccd62b2243b6896f",
   "cards/grid-living/card.md": "3aa767a23a8ebb9aefec22867d2cfdfdea1db3fadce7ff2f175558609aef367a",
   "cards/grid-living/competitors.json": "1bd5c1828cdc1674bbf76c7b6e0a365297ef033658b64fa8b69af8528c7a6108",
-  "cards/grid-survival/card.md": "f850861b71db223c052750e9b7f32705b1301af21b6dd94fc328e6c27c5a636f",
-  "cards/grid-survival/competitors.json": "0fd97c1b9af99c09ec057489ab8ff7f8c8c8793b7a2eec00a260a3e2d45249f6",
+  "cards/grid-survival/card.md": "9b9b8b9937d663b01ea8ee81fbf524459f3960c4830fe9561a56522acb22ba64",
+  "cards/grid-survival/competitors.json": "b45651a6894806bf3b2abc2e9564ccba9d867c9ce75eb010eebcf7adaaa3f7a8",
   "cards/grok-bot/card.md": "af8d28d1b9d8582560c7bf1a5a12e231fa6f5808dd8b73162cd857578733b97d",
   "cards/grok-bot/competitors.json": "0113aa4971b21aff28305d2867c080364078f90815856c2d65aa5ad0fadb1b9d",
   "cards/guided-devotional/card.md": "24b061852b0591c63494ad7d4a1346f16e53135f2a840ebfb94075c43e5989fc",
@@ -1063,8 +1053,8 @@
   "cards/practice-questions/competitors.json": "26062490d6b464acd0ff94cfd7d1d2d8818f69f7a0d806076564e6b17b1776d9",
   "cards/practice-tests/card.md": "7c465998c706d1597d5f78a5e564b2975aef2b780ae630803fd505362b7067e1",
   "cards/practice-tests/competitors.json": "5526037c5c24d84db5c0a1d3346285d155a0d0f4ed2e0062ab1a839ccd2de0b7",
-  "cards/prepper-survival/card.md": "bdcdb570b613d9680d0701950ddfe225b20fe53ea6a8081498d389c505a89aaf",
-  "cards/prepper-survival/competitors.json": "d639125ccd38c3cde186591e3e80739e65e4b8a08d49411b6114d954bc87ad15",
+  "cards/prepper-survival/card.md": "c9e6fb8e7b67b6229770a99ecd973e492af6dee86b67540ffbcec9411d754bc6",
+  "cards/prepper-survival/competitors.json": "7d974d346f36ed999c15ffedec441b65a5406ac58ceefa2696c094cc2a5d3553",
   "cards/prompt-engineering/card.md": "32afc51e5f88cb23e2e16e6e2d663864600bb26e1bd1a64571fbac7baf500821",
   "cards/prompt-engineering/competitors.json": "1e50f22cef1ed1e9a594502dabc1cf8458a1c163590bc37ed2fe1892518830ea",
   "cards/protect-yourself/card.md": "7b30dafa93e8d9c018acd375cdfba7ddf4c29680bf09e7e8bdb6af4879a3afe9",
@@ -1145,8 +1135,8 @@
   "cards/stock-market/competitors.json": "69928d32098dccb277d32f9fb64fa5391180ccba36435474a8c31d22ced20021",
   "cards/strength-training-over-50/card.md": "0e52926c7d58cce798efd88f93e1b985fc4ed1f391015906142971b72eed6a82",
   "cards/strength-training-over-50/competitors.json": "294d6c7385b01150a86766a20b06bf232221d436684821f06941477744b4dbe4",
-  "cards/stress-less/card.md": "c2631c1ff3ce610cb2985b395e4fb4520e33c620b0dc2e3eccaaa23a507fe749",
-  "cards/stress-less/competitors.json": "ea4e33ed41d9683134309f084dc7bfc811746e4d07f88ade7c7838807c722531",
+  "cards/stress-less/card.md": "da8db6ce33b43602ca6a4189606f68c5cb87e857fed5d43d943144585e262af4",
+  "cards/stress-less/competitors.json": "014aa2ac54639bce46ad6c9d5d3775bf7c39d0f63c6bb7dc1caa7489df4980cd",
   "cards/survival-project/card.md": "6ca3a95d7f80dc7c51390d8ffd81c300daca3d0d26c661b2f979427ad12a35c6",
   "cards/survival-project/competitors.json": "6fc4a19c7b5d49cd22bfe42bd53e493a8e0a72da0125fd45f4774ed2884eba06",
   "cards/survival-projects/card.md": "659515d79065bba0621016679bb421d7e12302385481cf6f405f70666e3fecc1",
@@ -1195,177 +1185,189 @@
  },
  "queue": [
   {
-   "slug": "prepper-survival",
-   "keyword": "prepper survival",
+   "slug": "side-hustles",
+   "keyword": "side hustles",
    "position": 1,
    "eta_date": "2026-11-22"
   },
   {
-   "slug": "grid-survival",
-   "keyword": "grid survival",
+   "slug": "ai-side-hustles",
+   "keyword": "ai side hustles",
    "position": 2,
+   "eta_date": "2026-11-22"
+  },
+  {
+   "slug": "passive-income",
+   "keyword": "passive income",
+   "position": 3,
+   "eta_date": "2026-11-22"
+  },
+  {
+   "slug": "chatgpt-for-beginners",
+   "keyword": "chatgpt for beginners",
+   "position": 4,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "real-estate-investing",
    "keyword": "real estate investing",
-   "position": 3,
+   "position": 5,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "stock-market",
    "keyword": "stock market",
-   "position": 4,
+   "position": 6,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "etsy-selling",
    "keyword": "etsy selling",
-   "position": 5,
+   "position": 7,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "youtube-channel",
    "keyword": "youtube channel",
-   "position": 6,
+   "position": 8,
    "eta_date": "2026-11-22"
   },
   {
    "slug": "self-publishing",
    "keyword": "self publishing",
-   "position": 7,
-   "eta_date": "2026-11-22"
+   "position": 9,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "excel",
    "keyword": "excel",
-   "position": 8,
-   "eta_date": "2026-11-22"
+   "position": 10,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 9,
-   "eta_date": "2026-11-22"
+   "position": 11,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 10,
-   "eta_date": "2026-11-22"
+   "position": 12,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 11,
-   "eta_date": "2026-11-22"
+   "position": 13,
+   "eta_date": "2026-11-23"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 12,
+   "position": 14,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 13,
+   "position": 15,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 14,
+   "position": 16,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 15,
+   "position": 17,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 16,
+   "position": 18,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 17,
+   "position": 19,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 18,
-   "eta_date": "2026-11-23"
+   "position": 20,
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 19,
-   "eta_date": "2026-11-23"
+   "position": 21,
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 20,
-   "eta_date": "2026-11-23"
+   "position": 22,
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 21,
-   "eta_date": "2026-11-23"
+   "position": 23,
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 22,
-   "eta_date": "2026-11-23"
+   "position": 24,
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 23,
+   "position": 25,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 24,
+   "position": 26,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 25,
+   "position": 27,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 26,
+   "position": 28,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 27,
+   "position": 29,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 28,
+   "position": 30,
    "eta_date": "2026-11-24"
   }
  ],
  "budget": {
-  "date": "2026-11-21",
-  "used": 118,
+  "date": "2026-11-22",
+  "used": 56,
   "limit": 240
  }
 }
