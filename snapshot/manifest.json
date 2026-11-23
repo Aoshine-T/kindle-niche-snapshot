@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-22T03:03:13Z",
+ "generated_at": "2026-11-23T02:44:27Z",
  "topics": 101,
  "cards": 191,
  "skill": {
@@ -9,38 +9,31 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 119,
- "elapsed_seconds": 1979,
+ "requests": 46,
+ "elapsed_seconds": 840,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 483
   },
   "deep": {
-   "words": 11,
-   "requests": 119,
-   "seconds": 1979
+   "words": 6,
+   "requests": 46,
+   "seconds": 840
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "artificial-intelligence",
-  "stress-less",
-  "prepper-survival",
-  "grid-survival",
-  "side-hustles",
-  "ai-side-hustles",
-  "passive-income",
-  "chatgpt-for-beginners",
-  "real-estate-investing",
-  "stock-market"
+  "mental-health",
+  "ged-study",
+  "ai-for-beginners",
+  "budgeting",
+  "credit-repair",
+  "retirement-planning"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "etsy selling"
- },
+ "stopped": null,
  "card_index": {
   "adult-ccrn": {
    "keyword": "adult ccrn",
@@ -72,7 +65,7 @@
   },
   "ai-for-beginners": {
    "keyword": "ai for beginners",
-   "fetched_at": "2026-11-16"
+   "fetched_at": "2026-11-23"
   },
   "ai-industry": {
    "keyword": "ai industry",
@@ -140,7 +133,7 @@
   },
   "budgeting": {
    "keyword": "budgeting",
-   "fetched_at": "2026-11-16"
+   "fetched_at": "2026-11-23"
   },
   "canning-and-preserving": {
    "keyword": "canning and preserving",
@@ -208,7 +201,7 @@
   },
   "credit-repair": {
    "keyword": "credit repair",
-   "fetched_at": "2026-11-16"
+   "fetched_at": "2026-11-23"
   },
   "crochet": {
    "keyword": "crochet",
@@ -292,7 +285,7 @@
   },
   "ged-study": {
    "keyword": "ged study",
-   "fetched_at": "2026-11-16"
+   "fetched_at": "2026-11-23"
   },
   "genealogy": {
    "keyword": "genealogy",
@@ -492,7 +485,7 @@
   },
   "mental-health": {
    "keyword": "mental health",
-   "fetched_at": "2026-11-16"
+   "fetched_at": "2026-11-23"
   },
   "middle-east": {
    "keyword": "middle east",
@@ -604,7 +597,7 @@
   },
   "retirement-planning": {
    "keyword": "retirement planning",
-   "fetched_at": "2026-11-16"
+   "fetched_at": "2026-11-23"
   },
   "rick-steves": {
    "keyword": "rick steves",
@@ -822,8 +815,8 @@
   "cards/ai-agents/competitors.json": "169e38c6f6e2c5a47ff74aa83e374df65a5e779685cea0e0d431284a7dfe7f8e",
   "cards/ai-apocalypse/card.md": "ea1f613a732bec7e14760e16ea8e279239e60c1ba69c93902ac4199b6de359c2",
   "cards/ai-apocalypse/competitors.json": "7564e2bc913e68246637c34e7243b606e4f370570df9fbac25b916df07ed3d7a",
-  "cards/ai-for-beginners/card.md": "371ee5f779588c8fc1971fa49343e73eedb0f527a353697b3bf7f975ad4f1468",
-  "cards/ai-for-beginners/competitors.json": "fa0a10e51a582114d7fb37d6f3a8f0ee1e72879fa60846eff331b2dd642e875e",
+  "cards/ai-for-beginners/card.md": "b33b58d800882b2f878d96e01b5ccb249a5aa893c4ef26b308d7abdd4f9e73fc",
+  "cards/ai-for-beginners/competitors.json": "360e9aad961c9a6bd4815db09ed53926a3a23a9e9e389610f30c4e080cdbece6",
   "cards/ai-industry/card.md": "8f5a7a79f8d9c525d398242bc48a7b7cdcfb0e9f9232f5ce26b79f45591e7fe9",
   "cards/ai-industry/competitors.json": "21b612b64779f3f5bc7915a8119f0c03c54e88065239c6479f2cfb13d74d7def",
   "cards/ai-side-hustles/card.md": "aa945d4379336afecce7c7c37d2c7d8bdb8af0f73fae01b05ba5c7c68c9a44d2",
@@ -856,8 +849,8 @@
   "cards/bucket-retirement/competitors.json": "d09b2645792112115fcc50787a513f8e28a14ba5c84f32a6b57c459436a55ace",
   "cards/budget-friendly-recipes/card.md": "f6ccc6f8fe362736e40917d14d8f4f48699906d57bfca1a837f8b2c6e2f70d96",
   "cards/budget-friendly-recipes/competitors.json": "72e9345f7c439bd5f050053144f19300fa8c6b140ed759445382a4e74fa95854",
-  "cards/budgeting/card.md": "1c913dd4894682e743b475732b5c0e6f17fd876b0de45161afd2d6bd4a643a8a",
-  "cards/budgeting/competitors.json": "1eb93520103bdf538319f6e8ab32e52774d997c3019e54e13882ad7873d8aa09",
+  "cards/budgeting/card.md": "02ad3579e54088a10341ac29ef26431a78956b589178c2b53da140906786c9f0",
+  "cards/budgeting/competitors.json": "7316b01f9df2662e01c77d4b6746f55e25f427588914d8082c5365ee2ee8e188",
   "cards/canning-and-preserving/card.md": "9c8121a22a96580d59aba1b97d8b7e784ce2e8702231b5bd0f19590207a12755",
   "cards/canning-and-preserving/competitors.json": "4d5264a564a9942486c05bd2f433fcd74daca05d9f0aebd24ae9d72e2985e65b",
   "cards/care-scripts/card.md": "0c7c14e2c6e240b4c0e0567ab30a40ab49630344ef528fef6509edb49955ad8b",
@@ -890,8 +883,8 @@
   "cards/conflict-resolution/competitors.json": "604c93251757822c45bdeafee54fc4eb6268222693b92ad9f0dc1fba2e302cc7",
   "cards/connected-relationships/card.md": "b087c41619b4315f29c5f9131aa8a71a35836b6eb3ffd9bdb34f0c1bea39d56f",
   "cards/connected-relationships/competitors.json": "f0fb3a6884a2e20d4011a1530f496a6090fc83337d7bab41d874289612057acb",
-  "cards/credit-repair/card.md": "d2a13db1f90a497d79a893a746dcf1b3bc0af940d043a8684eb1fcbd8a5c8d3d",
-  "cards/credit-repair/competitors.json": "d2c3a5dfc06b3c49f14e82bda3bb378d2127f6978f8c7b33347b811cc87a146c",
+  "cards/credit-repair/card.md": "4d52bad3ce778ef15f15c5215a84b7489bafee37d4f4519a902650f4e3325895",
+  "cards/credit-repair/competitors.json": "67856b445a83eee3146e1dcc1f1fcabb3c8888d53c0518e9f03bede541e12314",
   "cards/crochet/card.md": "76d6e5f1ca0db393e1839c560b6643bb3b9b47ed50b805c9d5746a6b30cbbb1a",
   "cards/crochet/competitors.json": "41e70bbb192590690f614ebe70bff590112b4e8506f535a6a6be7619d1d9754b",
   "cards/diy-projects/card.md": "a2014d90227d9ce277ce20e070b56e2636b3ba013636a4b11274f5cab842a540",
@@ -932,8 +925,8 @@
   "cards/foolproof-recipes/competitors.json": "dcbd662523f473a9376ec1d29a4d17ae1789c88ca6bddb65fedd031eff272794",
   "cards/full-length-practice/card.md": "1ee63a95fa3328c0f9649cbc1df01bd6b47d021ac9e1ac1be4414f20650872bb",
   "cards/full-length-practice/competitors.json": "338bf658467b0b07645259f2a1e41a46dc6353e1536e19211ec864ccedc40f17",
-  "cards/ged-study/card.md": "704fedfb88672ceb3b55eb5051d10c76684f3c7b3e7ac56c8e44d9516d759f9b",
-  "cards/ged-study/competitors.json": "f09e2c13f1afa735326374437ead6df77c06d69e96849c3a678e5e8c81785db8",
+  "cards/ged-study/card.md": "5ec17bc36f53cec320bf37985d53ab253757218628efe82983e3fcb3d5de4ccc",
+  "cards/ged-study/competitors.json": "687a0667816e8526b6c30038661aa0381285c689625321e10a4be07ee81b8965",
   "cards/genealogy/card.md": "ddbaffb4677be5d84325bf499bbb5725db04296beb76a01c398c949e09de56b8",
   "cards/genealogy/competitors.json": "402cb6384b7034f9e645e09e665110e7abf3f2ead47d67b38c1c4716a6ccb57e",
   "cards/gods-goddesses/card.md": "7edc8308ed8f6a2be96d21499b063c7a97d494ecd366387948d599edb8087e4c",
@@ -1032,8 +1025,8 @@
   "cards/medicinal-herbs/competitors.json": "57e80c3ecab0d53a3b616201ff611390b320d1220574f5042bf6c1bd7ad746a5",
   "cards/mediterranean-diet/card.md": "8e766b8e9553adc4298067280363f384aae0ea0b498f5ccf37629c083f798dd9",
   "cards/mediterranean-diet/competitors.json": "b8a0bb2020e286e8348c331b2737cf5fe52f30f93c2e1f27e8e3505577423031",
-  "cards/mental-health/card.md": "ccefae354e4a6244fda3b3ee8a6f0edc28fb5cd985835786f5c8b548a81e5cf0",
-  "cards/mental-health/competitors.json": "2b56939ce3b5cfbcc67758ef70863ce77fb42f0fd55ea3cd5de95a7e2c9f711c",
+  "cards/mental-health/card.md": "b785d195083f1c5e28d616cb1f407c6f79cf0f5189ea7e5675eed4973ceb2cf0",
+  "cards/mental-health/competitors.json": "9e8ff1471e9dfda00147fb390c338d9ae29ffcb8a4fc54f50eb766ac18d01d52",
   "cards/middle-east/card.md": "808fa53edb789b3c94a218c610b5a0caec1f477c94ccf35d7772788cece73b48",
   "cards/middle-east/competitors.json": "3a110b0442b9b1fa96df745868162efab6f97d06c152729b368766facd859a67",
   "cards/multiplier-mindset/card.md": "36f1739785579e1651f3a51f4ab74e5a899682d58580ea3ca98140281047feed",
@@ -1088,8 +1081,8 @@
   "cards/relieve-stress/competitors.json": "73add4649ceac5b30626f9e6041e18602f1589a10c66dccee3d627850b3ee806",
   "cards/restaurant-favorites/card.md": "154ab00814bbdd99b711010ebe4d838b9ec0843e077d96c538f7cf877dbcd3df",
   "cards/restaurant-favorites/competitors.json": "83ff22548ce3699561284395f44311e00939d3e8470fb1d6ada9865ae5afc622",
-  "cards/retirement-planning/card.md": "4e578f562327517924c1a4ad50b0f87b80d67a48a994cc7b5e5d450d5158a0d9",
-  "cards/retirement-planning/competitors.json": "bddae1a6b182bd6f6deee5d89177e845c988cb77a1d1c1a7d53ef2de6323b2cf",
+  "cards/retirement-planning/card.md": "e4a9d5a35eb863cbb7218fbfad879c599863b04c66db22cf9bd6283a2aca94dc",
+  "cards/retirement-planning/competitors.json": "ca6c09a989f4c599346592ddee6c53c4a947cccda2b8f98f38aca02c11351f11",
   "cards/rick-steves/card.md": "062d0bd4d8d49212148cd98b03f064e901a7334159429b43bcf33c4b910a237b",
   "cards/rick-steves/competitors.json": "7e4aeccb1516a7a7d4e7e423493b5e90013e8e5b2c3ab0a60d8e78b4cd061b31",
   "cards/right-broke/card.md": "dfd79e77d6a0cdfcc0b19bc5c80f9aea3337913719c0792ae932fcab97b710ab",
@@ -1251,13 +1244,13 @@
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
    "position": 10,
-   "eta_date": "2026-11-23"
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
    "position": 11,
-   "eta_date": "2026-11-23"
+   "eta_date": "2026-11-24"
   },
   {
    "slug": "meal-prep",
@@ -1317,13 +1310,13 @@
    "slug": "dog-training",
    "keyword": "dog training",
    "position": 21,
-   "eta_date": "2026-11-24"
+   "eta_date": "2026-11-25"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
    "position": 22,
-   "eta_date": "2026-11-24"
+   "eta_date": "2026-11-25"
   },
   {
    "slug": "crochet",
@@ -1339,8 +1332,8 @@
   }
  ],
  "budget": {
-  "date": "2026-11-22",
-  "used": 119,
+  "date": "2026-11-23",
+  "used": 46,
   "limit": 240
  }
 }
