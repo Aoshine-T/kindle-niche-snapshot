@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-23T02:44:27Z",
+ "generated_at": "2026-11-23T02:56:29Z",
  "topics": 101,
  "cards": 191,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 46,
- "elapsed_seconds": 840,
+ "requests": 93,
+ "elapsed_seconds": 1562,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 483
   },
   "deep": {
-   "words": 6,
-   "requests": 46,
-   "seconds": 840
+   "words": 9,
+   "requests": 93,
+   "seconds": 1562
   },
   "seeds": {
    "seeds": 34
@@ -31,7 +31,10 @@
   "ai-for-beginners",
   "budgeting",
   "credit-repair",
-  "retirement-planning"
+  "retirement-planning",
+  "etsy-selling",
+  "youtube-channel",
+  "self-publishing"
  ],
  "stopped": null,
  "card_index": {
@@ -237,7 +240,7 @@
   },
   "etsy-selling": {
    "keyword": "etsy selling",
-   "fetched_at": "2026-11-02"
+   "fetched_at": "2026-11-23"
   },
   "etymological-past": {
    "keyword": "etymological past",
@@ -633,7 +636,7 @@
   },
   "self-publishing": {
    "keyword": "self publishing",
-   "fetched_at": "2026-11-02"
+   "fetched_at": "2026-11-23"
   },
   "show-up": {
    "keyword": "show up",
@@ -793,7 +796,7 @@
   },
   "youtube-channel": {
    "keyword": "youtube channel",
-   "fetched_at": "2026-11-02"
+   "fetched_at": "2026-11-23"
   },
   "youtube-millionaire": {
    "keyword": "youtube millionaire",
@@ -901,8 +904,8 @@
   "cards/emergency-preparedness/competitors.json": "8cc219093b6913e3017fb11d23e30d81d9af9d36db0efc4ebe3986e2f26934cd",
   "cards/english-grammar/card.md": "025c36abb2fac5ffcac7e6abb11f4fb30919897a5dd4312a1f86fe7b61418190",
   "cards/english-grammar/competitors.json": "3db5b5a578611690d859721e1da08711f240a72a89fd9ce99a9fa95c3d1293bb",
-  "cards/etsy-selling/card.md": "9693b742e8893bb5df127e7cc444016d32e7d45a5e4fba60d4178622d0da178e",
-  "cards/etsy-selling/competitors.json": "c6538e81408a3a9859587bed5d8f4eb737243b00cc73aa319dee1fadec3aaa27",
+  "cards/etsy-selling/card.md": "04b4182edf2ffdc487314e52505f0ff96ffbf56745837f494b43d6f4ef19e201",
+  "cards/etsy-selling/competitors.json": "7cf3147b24101c53b02c4eb019de74c6c71b77df5afe2a06133df2a3d6c90f25",
   "cards/etymological-past/card.md": "940d23a9dfa1b271a69ff7d2d7b7c9d08d9185a54e88bc2d31e1fa8da0a6bded",
   "cards/etymological-past/competitors.json": "ba7008df5e8e572b4a8e8b618041c28c328691bb90d4b1fa1b6a9e6b3cdddb29",
   "cards/etymologist-field/card.md": "b08ad74b0eaaf6985c223c55945635f82036f20241a6fab76becd0f6b55e808f",
@@ -1099,8 +1102,8 @@
   "cards/scaffolding-complex/competitors.json": "a7771a1196c4c0a7244bf5762088c07553e563e80a7eb718a2086dd088980e76",
   "cards/self-help-author/card.md": "d6416d1705637ab69f80df1020f60e3871d4494c74d594525319fb70edbe5332",
   "cards/self-help-author/competitors.json": "a60668158074569ce6d3e942e677711c993a26694dcc814c0d97df886ca6977f",
-  "cards/self-publishing/card.md": "d4bb87708a35f6e9753dd231eaff19d6ef8edf85ba57c9bdacfd6900597543fc",
-  "cards/self-publishing/competitors.json": "5888e16f3496c4e35473647e7eb33f556b9428ef0e52413069cc4c29974cddfd",
+  "cards/self-publishing/card.md": "5943fa4f4fe4c45b500e27792cece04a921e736be75617739a8f081dc1eb0eb4",
+  "cards/self-publishing/competitors.json": "0b3441b38063837ceeda2fdb9f1f162db5c5163a6ec4dcc3b723c4632be62ded",
   "cards/show-up/card.md": "12d4a16d6a74a92661eed5acd4a6509cebe265a9dd02a46f65f3622bb5340a4d",
   "cards/show-up/competitors.json": "50351e44547d5ab5a614c664e6a4e16878b484a4f5cdf55b6a9c216ecd10a9cd",
   "cards/side-hustles/card.md": "3e53a7e776c6f6f8b165a3a891449215fcec83863c6265baa61ce6d5a24d680b",
@@ -1179,161 +1182,143 @@
   "cards/woodworking/competitors.json": "e4a882daa6ed030b2398d72f2aa5fb4549dce3bc43b39ec7c13a57fc323b0271",
   "cards/writing-empowered/card.md": "8ff92012b3f01a7fc1f21c7baf29466f190877e72b9ec1abab950c69eddc77dd",
   "cards/writing-empowered/competitors.json": "849dda93d997b9dace6674a215aa200344101b86d5458638cfea8e0fe45cd5d2",
-  "cards/youtube-channel/card.md": "cfe90b678080185fd1f5e1bd024f42b018434edac6dc3ce0b66a1dc9e5ad9c6c",
-  "cards/youtube-channel/competitors.json": "17b24e65678d258fe84a6b6aa881c5c58dad27aa1bf23a3e546a46bb8ab66498",
+  "cards/youtube-channel/card.md": "721a797bf3aa87d3f8355cc9a2cf205478dc4768b18f17b2dd1597af0e179dd8",
+  "cards/youtube-channel/competitors.json": "f17347953a7b8cfc30784e2efbc25ca1b1882793dc8adb3def77161b823d08d5",
   "cards/youtube-millionaire/card.md": "22d672d8f9adc57574a27c6e41d5ba30c1d4e6bfc42e68dd3694b8f7a3a2d4bb",
   "cards/youtube-millionaire/competitors.json": "9d4a6f8949467305cfd5dbcaace30fa1b27e40e58cce02539b9de2896f5f63fb",
   "topics.json": "7217641cb041b73743ff446a19b4796e8bdb91b26f3891bda16e2e6cb2515d46"
  },
  "queue": [
   {
-   "slug": "etsy-selling",
-   "keyword": "etsy selling",
-   "position": 1,
-   "eta_date": "2026-11-23"
-  },
-  {
-   "slug": "youtube-channel",
-   "keyword": "youtube channel",
-   "position": 2,
-   "eta_date": "2026-11-23"
-  },
-  {
-   "slug": "self-publishing",
-   "keyword": "self publishing",
-   "position": 3,
-   "eta_date": "2026-11-23"
-  },
-  {
    "slug": "excel",
    "keyword": "excel",
-   "position": 4,
+   "position": 1,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 5,
+   "position": 2,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 6,
+   "position": 3,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 7,
+   "position": 4,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 8,
+   "position": 5,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 9,
+   "position": 6,
    "eta_date": "2026-11-23"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 10,
+   "position": 7,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 11,
+   "position": 8,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 12,
+   "position": 9,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 13,
+   "position": 10,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 14,
+   "position": 11,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 15,
+   "position": 12,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 16,
+   "position": 13,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 17,
+   "position": 14,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 18,
+   "position": 15,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 19,
+   "position": 16,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 20,
+   "position": 17,
    "eta_date": "2026-11-24"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 21,
+   "position": 18,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 22,
+   "position": 19,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 23,
+   "position": 20,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 24,
+   "position": 21,
    "eta_date": "2026-11-25"
   }
  ],
  "budget": {
   "date": "2026-11-23",
-  "used": 46,
+  "used": 93,
   "limit": 240
  }
 }
