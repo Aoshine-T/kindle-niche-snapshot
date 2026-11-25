@@ -1,25 +1,25 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-25T02:40:24Z",
+ "generated_at": "2026-11-25T02:56:29Z",
  "topics": 95,
- "cards": 201,
+ "cards": 205,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 41,
- "elapsed_seconds": 594,
+ "requests": 104,
+ "elapsed_seconds": 1559,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 3,
-   "requests": 41,
-   "seconds": 594
+   "words": 7,
+   "requests": 104,
+   "seconds": 1559
   },
   "seeds": {
    "seeds": 34
@@ -28,7 +28,11 @@
  "new_cards": [
   "draw-faces",
   "lead-anyway",
-  "academic-talk"
+  "academic-talk",
+  "water-freedom",
+  "christian-high",
+  "gaap-explained",
+  "diy-atmospheric"
  ],
  "stopped": null,
  "card_index": {
@@ -164,6 +168,10 @@
    "keyword": "chatgpt for beginners",
    "fetched_at": "2026-11-22"
   },
+  "christian-high": {
+   "keyword": "christian high",
+   "fetched_at": "2026-11-25"
+  },
   "christmas-ornaments": {
    "keyword": "christmas ornaments",
    "fetched_at": "2026-10-27"
@@ -219,6 +227,10 @@
   "crochet": {
    "keyword": "crochet",
    "fetched_at": "2026-11-08"
+  },
+  "diy-atmospheric": {
+   "keyword": "diy atmospheric",
+   "fetched_at": "2026-11-25"
   },
   "diy-projects": {
    "keyword": "diy projects",
@@ -299,6 +311,10 @@
   "full-length-practice": {
    "keyword": "full-length practice",
    "fetched_at": "2026-11-03"
+  },
+  "gaap-explained": {
+   "keyword": "gaap explained",
+   "fetched_at": "2026-11-25"
   },
   "ged-study": {
    "keyword": "ged study",
@@ -800,6 +816,10 @@
    "keyword": "walt disney",
    "fetched_at": "2026-10-22"
   },
+  "water-freedom": {
+   "keyword": "water freedom",
+   "fetched_at": "2026-11-25"
+  },
   "water-independence": {
    "keyword": "water independence",
    "fetched_at": "2026-11-19"
@@ -904,6 +924,8 @@
   "cards/center-stage/competitors.json": "5160c65aa5ff806890f09ad47e25a8f806070b556fb3276f083c30bcf961bb45",
   "cards/chatgpt-for-beginners/card.md": "dee2099a3f2f832d5fd827091438bb5971bdf057fb37638b53da9edc242bb88b",
   "cards/chatgpt-for-beginners/competitors.json": "4eaa7f71bd70433a918c5dee9b1a6f29e7d025244ace2b26cc1314bf2e9a043f",
+  "cards/christian-high/card.md": "6b6dd783b8a972d4ea7d78825d17835e3a123c5bae7a0eeff559975d66c250f0",
+  "cards/christian-high/competitors.json": "a91a196167c8d81bc6c7594856288d7ce903200f6db307e2c4a1bc3b8aa72e11",
   "cards/christmas-ornaments/card.md": "630bbe49e9155dde41b49123a6fe9db412f90882e4e8a62bb2869cf4612e4c51",
   "cards/christmas-ornaments/competitors.json": "594973385909103c3e23d776f0fbcdb1578ef6ef64392b0fb2628d8892834c72",
   "cards/civilian-field/card.md": "c2bc68b60687f431ec6b21ed8d2803f40989b5ef9de5bcc6286c095a5561c796",
@@ -932,6 +954,8 @@
   "cards/credit-repair/competitors.json": "67856b445a83eee3146e1dcc1f1fcabb3c8888d53c0518e9f03bede541e12314",
   "cards/crochet/card.md": "76d6e5f1ca0db393e1839c560b6643bb3b9b47ed50b805c9d5746a6b30cbbb1a",
   "cards/crochet/competitors.json": "41e70bbb192590690f614ebe70bff590112b4e8506f535a6a6be7619d1d9754b",
+  "cards/diy-atmospheric/card.md": "7dbb12444f61d44e0b9c269692ec13b809f7b3b9aa2ba41c9bb315612ea221fb",
+  "cards/diy-atmospheric/competitors.json": "44bcde02bb85a5eeec19adf46e45b18b5c00e5062ee01b535f04ce91149a7015",
   "cards/diy-projects/card.md": "a2014d90227d9ce277ce20e070b56e2636b3ba013636a4b11274f5cab842a540",
   "cards/diy-projects/competitors.json": "37b9dedeb1bae41f641197d30f25dad158cf043a284381d612c3307e62378255",
   "cards/dog-training/card.md": "960fca77a16c6edb8451fd695fa86e504887b53997a3020abfa0c8e41d2a483d",
@@ -972,6 +996,8 @@
   "cards/foolproof-recipes/competitors.json": "dcbd662523f473a9376ec1d29a4d17ae1789c88ca6bddb65fedd031eff272794",
   "cards/full-length-practice/card.md": "1ee63a95fa3328c0f9649cbc1df01bd6b47d021ac9e1ac1be4414f20650872bb",
   "cards/full-length-practice/competitors.json": "338bf658467b0b07645259f2a1e41a46dc6353e1536e19211ec864ccedc40f17",
+  "cards/gaap-explained/card.md": "66a3553da0df80ed106a893a6132fea4655d279edaf8d7ab4d33eae3b9d4a57c",
+  "cards/gaap-explained/competitors.json": "ead0579bc590257e0b5c3806f6c68262503250c4e452376c71691d50874d43fa",
   "cards/ged-study/card.md": "5ec17bc36f53cec320bf37985d53ab253757218628efe82983e3fcb3d5de4ccc",
   "cards/ged-study/competitors.json": "687a0667816e8526b6c30038661aa0381285c689625321e10a4be07ee81b8965",
   "cards/genealogy/card.md": "ddbaffb4677be5d84325bf499bbb5725db04296beb76a01c398c949e09de56b8",
@@ -1222,6 +1248,8 @@
   "cards/vocabulary-builder/competitors.json": "86811ac4de945f25b057cceb8f21ccc12a83d6126dc72f646b4e75adbb5aefcb",
   "cards/walt-disney/card.md": "170705276d6ddde822cec8910998e741ef73292f21369bac2b2dffd3f754719d",
   "cards/walt-disney/competitors.json": "c705d308f3bff26bd9486b2fdbdff762d90d31c1c8a1dd7de4a3404334f2de24",
+  "cards/water-freedom/card.md": "ef7d1c629c1926209b343ef91eafca5cdfe857c28797d4ec985d45982114a77f",
+  "cards/water-freedom/competitors.json": "a76c069741867e28956890c17c2ece2ad000db20da6cae7a207b83e9e96f8495",
   "cards/water-independence/card.md": "08c090eebfa8786ade41603844b69f37d15bd73ab2d41ff1db5cec02ffeea17b",
   "cards/water-independence/competitors.json": "d31a3e790b6f6c7d076930a62d4abd45179790e5cedfd2225f6ae8ff9f450f36",
   "cards/watercolor-painting/card.md": "17bd4d0886ad5d287b3788599ac8b5c2dcb568369309d82969d8eebcfe08eff5",
@@ -1244,285 +1272,261 @@
  },
  "queue": [
   {
-   "slug": "water-freedom",
-   "keyword": "water freedom",
-   "position": 1,
-   "eta_date": "2026-11-25"
-  },
-  {
-   "slug": "christian-high",
-   "keyword": "christian high",
-   "position": 2,
-   "eta_date": "2026-11-25"
-  },
-  {
-   "slug": "gaap-explained",
-   "keyword": "gaap explained",
-   "position": 3,
-   "eta_date": "2026-11-25"
-  },
-  {
-   "slug": "diy-atmospheric",
-   "keyword": "diy atmospheric",
-   "position": 4,
-   "eta_date": "2026-11-25"
-  },
-  {
    "slug": "actually-matters",
    "keyword": "actually matters",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "nursing-mnemonic",
    "keyword": "nursing mnemonic",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "off-grid-meshtastic",
    "keyword": "off-grid meshtastic",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "neurodivergent-adults",
    "keyword": "neurodivergent adults",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "practice-questions",
    "keyword": "practice questions",
-   "position": 9,
+   "position": 5,
    "eta_date": "2026-11-25"
   },
   {
    "slug": "ham-radio",
    "keyword": "ham radio",
-   "position": 10,
-   "eta_date": "2026-11-26"
+   "position": 6,
+   "eta_date": "2026-11-25"
   },
   {
    "slug": "food-preservation",
    "keyword": "food preservation",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "comptia-security",
    "keyword": "comptia security",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "sign-language",
    "keyword": "sign language",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "emergency-preparedness",
    "keyword": "emergency preparedness",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "america-obscura",
    "keyword": "america obscura",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "show-up",
    "keyword": "show up",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "fix-common",
    "keyword": "fix common",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "small-engine",
    "keyword": "small engine",
-   "position": 20,
+   "position": 16,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "college-admission",
    "keyword": "college admission",
-   "position": 21,
-   "eta_date": "2026-11-27"
+   "position": 17,
+   "eta_date": "2026-11-26"
   },
   {
    "slug": "etymological-past",
    "keyword": "etymological past",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "statistics-probability",
    "keyword": "statistics probability",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 31,
+   "position": 27,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 32,
-   "eta_date": "2026-11-28"
+   "position": 28,
+   "eta_date": "2026-11-27"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 34,
+   "position": 30,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 38,
+   "position": 34,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 39,
+   "position": 35,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 40,
+   "position": 36,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 41,
+   "position": 37,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 42,
+   "position": 38,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 43,
-   "eta_date": "2026-11-29"
+   "position": 39,
+   "eta_date": "2026-11-28"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 44,
+   "position": 40,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 45,
+   "position": 41,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 46,
+   "position": 42,
    "eta_date": "2026-11-29"
   }
  ],
  "budget": {
   "date": "2026-11-25",
-  "used": 41,
+  "used": 104,
   "limit": 240
  }
 }
