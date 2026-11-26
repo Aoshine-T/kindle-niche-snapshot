@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-26T02:44:23Z",
+ "generated_at": "2026-11-26T02:59:45Z",
  "topics": 95,
  "cards": 209,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 57,
- "elapsed_seconds": 851,
+ "requests": 116,
+ "elapsed_seconds": 1773,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 4,
-   "requests": 57,
-   "seconds": 851
+   "words": 8,
+   "requests": 116,
+   "seconds": 1773
   },
   "seeds": {
    "seeds": 34
@@ -29,7 +29,11 @@
   "nursing-mnemonic",
   "off-grid-meshtastic",
   "neurodivergent-adults",
-  "practice-questions"
+  "practice-questions",
+  "ham-radio",
+  "food-preservation",
+  "clear-explanations",
+  "comptia-security"
  ],
  "stopped": null,
  "card_index": {
@@ -191,7 +195,7 @@
   },
   "clear-explanations": {
    "keyword": "clear explanations",
-   "fetched_at": "2026-11-19"
+   "fetched_at": "2026-11-26"
   },
   "coach-resistance": {
    "keyword": "coach resistance",
@@ -211,7 +215,7 @@
   },
   "comptia-security": {
    "keyword": "comptia security",
-   "fetched_at": "2026-11-14"
+   "fetched_at": "2026-11-26"
   },
   "conflict-resolution": {
    "keyword": "conflict resolution",
@@ -303,7 +307,7 @@
   },
   "food-preservation": {
    "keyword": "food preservation",
-   "fetched_at": "2026-11-17"
+   "fetched_at": "2026-11-26"
   },
   "foolproof-recipes": {
    "keyword": "foolproof recipes",
@@ -359,7 +363,7 @@
   },
   "ham-radio": {
    "keyword": "ham radio",
-   "fetched_at": "2026-11-17"
+   "fetched_at": "2026-11-26"
   },
   "hands-on-projects": {
    "keyword": "hands-on projects",
@@ -949,8 +953,8 @@
   "cards/class-act/competitors.json": "76f1bddce56f51645d3ea268a2659f0d00a249765f5e3f1d85a52c8884c9fb6c",
   "cards/claude-ai/card.md": "b12c7bfc80de55da33c53dc7c78ac7e14e4fa07b27246c74e8e6bdb519a99eb3",
   "cards/claude-ai/competitors.json": "1c3281901839423b55dd3ee954b32f691be39c04e871c62841a25d47d9c7b592",
-  "cards/clear-explanations/card.md": "7d51fc0cde8fa7406139249d577813640c6be1ee1de9d1cad80632ce7a8f80f0",
-  "cards/clear-explanations/competitors.json": "5ae562077893f925b3941a20ab3abe7723d042694dbb3c890837c11e8cc54845",
+  "cards/clear-explanations/card.md": "50b8d29d5530854a47c21f5a21327382ddc196317c0c09194bd9425507349d52",
+  "cards/clear-explanations/competitors.json": "d4ab2697389c64d469d93248fad72a4d7754a65adff20c036f83bc47366344e1",
   "cards/coach-resistance/card.md": "6a7cd7fafd65fd8c6ebcbf46ce0a60496bb4648e402a0caf193bb502050a85a2",
   "cards/coach-resistance/competitors.json": "cbcb31b079dedb0ce6309bc069c0c017d0767e483e5515691edbea016d932f57",
   "cards/coding-required/card.md": "a85fb5103ff687e5f996decc8186f5ed607a76f421f0d7f65b6a70d2e7f46129",
@@ -959,8 +963,8 @@
   "cards/college-admission/competitors.json": "e343af0846f45ae13a8479f3375fccd76e8ee22adaa3b925d2659657429b1f1d",
   "cards/comptia-linux/card.md": "84d5dc4e68f0b5838dc300ccd475c406fdee074793e98df9d20fc62e4d2030ef",
   "cards/comptia-linux/competitors.json": "d9e44a9786896f33f29f7c66a4edbe1956e57dba0d9bedab648a3fa4bdcf0192",
-  "cards/comptia-security/card.md": "654d8dd98badc1b63d957d80ec4cad9654dfc6e937cbd2983428e37a4ad2bde9",
-  "cards/comptia-security/competitors.json": "9f75f5c0c6430a080d6eeb340b7381cc01c708153ca60b07bbc4c0b57b911507",
+  "cards/comptia-security/card.md": "7fca74c10f4c1708d4914c6793a298e71f2f339285318814eee34f5979640468",
+  "cards/comptia-security/competitors.json": "705720d13c24dfddb88117249780745ed4f923f93ca2601120640aca0e81c400",
   "cards/conflict-resolution/card.md": "690f90fb24f0c1e91f374b14bc8d70ff45daafa50078e1681de555a405cb35ec",
   "cards/conflict-resolution/competitors.json": "604c93251757822c45bdeafee54fc4eb6268222693b92ad9f0dc1fba2e302cc7",
   "cards/connected-relationships/card.md": "b087c41619b4315f29c5f9131aa8a71a35836b6eb3ffd9bdb34f0c1bea39d56f",
@@ -1005,8 +1009,8 @@
   "cards/fix-common/competitors.json": "0402ea1c65eaaeb055407de925bf33452615229f16b400dbe90c1013f3aa0f0a",
   "cards/flavorful-recipes/card.md": "34f3a94d58b6790208207f250973f8eaeed9659a9151ad95fe98b3e60a77fd4f",
   "cards/flavorful-recipes/competitors.json": "51fc6f58dac5b1c783fe7d368b9dfffc88d3c1dacca1da85ca12ef5b8fd353e2",
-  "cards/food-preservation/card.md": "e19c9f12a68d2b55bba4685768465eac6069cf2816474ed84388bb8454258608",
-  "cards/food-preservation/competitors.json": "296b4529aa741543d6cfedefef33e82c3b5babc701bbf1e8800bddca535f0950",
+  "cards/food-preservation/card.md": "2b22c1be4f70e8a475ebf745476d51b451c1ff861f8cc229a86251b478d29b07",
+  "cards/food-preservation/competitors.json": "c620103f8978ef75f5c3a93ac0f3b38df157d6de0feeae7ec9d7b16a0e6254c3",
   "cards/foolproof-recipes/card.md": "7199a29c06a72368c6193fd2cd8ffad85bb7cc0dbc65d9115aedd6344fa6015d",
   "cards/foolproof-recipes/competitors.json": "dcbd662523f473a9376ec1d29a4d17ae1789c88ca6bddb65fedd031eff272794",
   "cards/full-length-practice/card.md": "1ee63a95fa3328c0f9649cbc1df01bd6b47d021ac9e1ac1be4414f20650872bb",
@@ -1033,8 +1037,8 @@
   "cards/gta-vi/competitors.json": "b929486807ec9f41134d5fb10f0b6aac306175015b9e4f87e7ee6a0035b51bd9",
   "cards/guided-devotional/card.md": "24b061852b0591c63494ad7d4a1346f16e53135f2a840ebfb94075c43e5989fc",
   "cards/guided-devotional/competitors.json": "82f9d98d4c2566ba0f4d64fd22e275c09c7d196a54d614219d45d4f344e698d6",
-  "cards/ham-radio/card.md": "ddf464dac09d81afb46c13777a6a4303671ac12134051bf05b68cf5dceb134e1",
-  "cards/ham-radio/competitors.json": "62a836ca6bfcb435df042771a0f1a53e5812f3c8166a8c16cfc15911ca8be1d4",
+  "cards/ham-radio/card.md": "cf66d635c7f646704cc562ae0074450d7f56501c3407ce2c16ca719d83ed56c8",
+  "cards/ham-radio/competitors.json": "ef29fb626a0fbf70b9b6b61ab7913e1f6f099cf0ab090e9d0e11d71d5e955d5f",
   "cards/hands-on-projects/card.md": "2907f02539caefca39c534819a7cb7dd86827f3289897683fde9e5590e176122",
   "cards/hands-on-projects/competitors.json": "0174777772a49cb5ae71b4744bb59578f99859807ba631565cdd8e5d0c32a83f",
   "cards/happy-place/card.md": "0234c64afc412f28cc6731d4f791bb39c087b16c421e12afa62f6ab683289b60",
@@ -1293,243 +1297,219 @@
  },
  "queue": [
   {
-   "slug": "ham-radio",
-   "keyword": "ham radio",
-   "position": 1,
-   "eta_date": "2026-11-26"
-  },
-  {
-   "slug": "food-preservation",
-   "keyword": "food preservation",
-   "position": 2,
-   "eta_date": "2026-11-26"
-  },
-  {
-   "slug": "clear-explanations",
-   "keyword": "clear explanations",
-   "position": 3,
-   "eta_date": "2026-11-26"
-  },
-  {
-   "slug": "comptia-security",
-   "keyword": "comptia security",
-   "position": 4,
-   "eta_date": "2026-11-26"
-  },
-  {
    "slug": "sign-language",
    "keyword": "sign language",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "emergency-preparedness",
    "keyword": "emergency preparedness",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "america-obscura",
    "keyword": "america obscura",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "show-up",
    "keyword": "show up",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 9,
-   "eta_date": "2026-11-27"
+   "position": 5,
+   "eta_date": "2026-11-26"
   },
   {
    "slug": "fix-common",
    "keyword": "fix common",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "small-engine",
    "keyword": "small engine",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "college-admission",
    "keyword": "college admission",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "etymological-past",
    "keyword": "etymological past",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "statistics-probability",
    "keyword": "statistics probability",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "independence-self-reliance",
    "keyword": "independence self-reliance",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 20,
-   "eta_date": "2026-11-28"
+   "position": 16,
+   "eta_date": "2026-11-27"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 31,
-   "eta_date": "2026-11-29"
+   "position": 27,
+   "eta_date": "2026-11-28"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 32,
+   "position": 28,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 33,
+   "position": 29,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 34,
+   "position": 30,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 35,
+   "position": 31,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 36,
+   "position": 32,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 37,
+   "position": 33,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 38,
+   "position": 34,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 39,
+   "position": 35,
    "eta_date": "2026-11-29"
   }
  ],
  "budget": {
   "date": "2026-11-26",
-  "used": 57,
+  "used": 116,
   "limit": 240
  }
 }
