@@ -1,0 +1,272 @@
+[
+ {
+  "asin": "B0HSHLBPXP",
+  "title": "Off-Grid Meshtastic for SHTF: A Pragmatic Guide to Meshtastic",
+  "bsr": 129581,
+  "rating": null,
+  "price": 6.8,
+  "pub_date": "2026-12-24",
+  "pages": null,
+  "publisher": "Off-Grid Media OY",
+  "cats": [
+   [
+    9,
+    "Wireless Computer Networks"
+   ],
+   [
+    10,
+    "Computer Networks, Protocols & APIs"
+   ],
+   [
+    11,
+    "Radio & Wireless Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Using Meshtastic for grid-down emergency communications makes sense, but choosing the right equipment and building or joining a mesh network that actually works takes practical skills and experience. A useful place to start is figuring out who you need to reach, where they are likely to be, and whether you can reliably exchange messages with them when cellular service and the internet are down. This handbook is written for people in the preparedness community who want a working off-grid messaging system rather than another theoretical discussion. It begins with what Meshtastic can do when the grid is down: short text messages, position sharing, and basic status updates that can be relayed by other nodes without depending on cellular or internet service. It then walks through the different types of devices and how to match one to the job you actually need done. That includes standalone units you can use without a phone, compact nodes for everyday carry and tracking, and hardware suited to providing coverage or supporting the network. The book covers setting up the device you have chosen and getting reliable performance from the mesh. Drawing on real-world work with Finland’s Meshtastic network, it looks at the practical problems that appear once people start using the system. These include interference that can overwhelm inexpensive radios, why the default modem settings are not always the best choice, how hop limits and other parameters need to fit local conditions, and straightforward steps that improve reliability. It also addresses contributing your own node so the network serves more than just your own traffic, plus accessories, gateways, and powering fixed or temporary nodes independently, including solar or wind options for longer off-grid use. The goal is to shor"
+ },
+ {
+  "asin": "B0FP2SKMZV",
+  "title": "Meshtastic: A Comprehensive Guide to Off-Grid Mesh Communication: Second Edition (Off-Grid",
+  "bsr": 58421,
+  "rating": 4.2,
+  "price": 7.77,
+  "pub_date": "2025-08-28",
+  "pages": 175,
+  "publisher": null,
+  "cats": [
+   [
+    1,
+    "Wireless Computer Networks"
+   ],
+   [
+    3,
+    "Computer Networks, Protocols & APIs"
+   ],
+   [
+    11,
+    "Mountaineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 130,
+  "description": "Meshtastic: A Comprehensive Guide to Off-Grid Mesh Communication Second Edition Updated November 14, 2026 Stay connected when cell service disappears. This authoritative guide shows you how to turn inexpensive LoRa radios into a decentralized, long-range, private messaging and location network. No towers. No Wi-Fi. No subscriptions. Whether you are preparing for emergencies, coordinating outdoor adventures, running events, or exploring off-grid technology, this book teaches you how to build a resilient mesh that works when everything else fails. Fully updated for the second edition, this book reflects major changes to Meshtastic firmware, security, routing behavior, and device capabilities. What you will learn inside • Set up a secure private mesh in minutes with a clear Quick Start • Choose the right hardware, including LILYGO, Heltec, RAK WisBlock, and Seeed devices • Tune range, speed, hop limits, antennas, batteries, and solar power • Use Client, Client_Mute, Router, Repeater, and Tracker roles correctly • Protect messages with AES-256 channels and end-to-end encrypted direct messages • Integrate with MQTT, Home Assistant, Node-RED, and mapping tools • Apply real-world lessons from outdoor use, events, and emergency response Perfect for Outdoor enthusiasts, families, preparedness groups, event teams, educators, and makers who need reliable communication without relying on infrastructure. Inside you will find setup flows, hardware checklists, role playbooks, power planning guidance, security best practices, and integration recipes you can reuse immediately. When the grid fails, your network should not. Build communications you control that are reliable, private, and ready when it counts. Meshtastic: A Comprehensive Guide to Off-Grid Mesh Communication, Second Edition"
+ },
+ {
+  "asin": "B0GYT9MQMB",
+  "title": "THE ULTIMATE MESHTASTIC BIBLE: Build Off-Grid Networks, Long-Range Messaging, Hardware Set",
+  "bsr": 918646,
+  "rating": 4.3,
+  "price": 8.9,
+  "pub_date": "2026-04-28",
+  "pages": 204,
+  "publisher": null,
+  "cats": [
+   [
+    18,
+    "LANs (Books)"
+   ],
+   [
+    19,
+    "Wireless Computer Networks"
+   ],
+   [
+    35,
+    "LANs"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 3,
+  "description": "The last message you ever send over a cell network may have already been sent. Not because of anything dramatic. A storm. A wildfire. A grid failure. And in that instant, every app on your phone becomes a beautiful, useless piece of glass. This book exists because that moment is not hypothetical. It has happened to millions. The ones who communicated and survived were the ones who had built something before the failure arrived. That something is Meshtastic. The Ultimate Meshtastic Bible takes you from zero experience to building a real, resilient, off-grid mesh network that runs without cell towers, internet, or monthly fees. No fluff. No padding. Just the complete technical education you need. Inside you will master: How LoRa radio works and why it outranges Wi-Fi, Bluetooth, and cellular Every major Meshtastic device compared so you buy right the first time Step-by-step firmware installation with every failure point pre-solved Antenna selection, range optimization, and the one factor most users ignore Network design, node roles, encryption, and the six mistakes that silently kill performance MQTT internet bridging, Home Assistant automation, and the Meshtastic Python API Emergency communication plans, disaster-ready network design, and real-world scenarios Five complete build projects from a home base station to a solar hilltop repeater A full bonus section with checklists, buying guides, troubleshooting tables, and a glossary This is not a book for people who want to read about off-grid communication. It is for people who want to build it.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_1\"]', '#CardInstanceMRXzhPkDc2MOirmoRGVpiw')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_1',{wb: 1})} ._tell-amazo"
+ },
+ {
+  "asin": "B0H2XXS1SB",
+  "title": "Advanced Meshtastic Off-Grid Communication: Build Reliable LoRa Mesh Networks with Solar N",
+  "bsr": 2010537,
+  "rating": 1.0,
+  "price": 7.99,
+  "pub_date": "2026-05-26",
+  "pages": 295,
+  "publisher": null,
+  "cats": [
+   [
+    236,
+    "Wireless Computer Networks"
+   ],
+   [
+    342,
+    "Open Source Programming"
+   ],
+   [
+    359,
+    "LANs (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Meshtastic is transforming off-grid communication by combining LoRa radios, mesh networking, GPS tracking, MQTT gateways, telemetry, sensors, solar nodes, and low-power field devices into practical local messaging systems. For outdoor teams, vehicle users, preparedness groups, makers, field operators, and radio experimenters, Meshtastic offers a flexible way to build communication networks beyond cell service and internet access. Advanced Meshtastic Off-Grid Communication is written for users who already understand the basics and want to build stronger, more reliable LoRa mesh networks. Instead of exaggerated range claims, this book focuses on practical deployment: coverage planning, antenna strategy, solar power, base stations, GPS discipline, MQTT privacy, telemetry monitoring, emergency communication planning, and long-term maintenance. Summary of the Book This book shows you how to move from a basic Meshtastic setup to a planned, tested, and maintainable off-grid communication system. You will learn how to define network goals, choose the right node roles, improve signal quality, build fixed base stations, deploy solar-powered nodes, configure vehicle and portable field kits, manage GPS tracking, use MQTT responsibly, add telemetry and sensors, and prepare realistic emergency communication plans. What’s Inside Practical Meshtastic network planning for real coverage areas, terrain limits, user needs, and communication priorities Advanced node role guidance for Client, Router, Repeater, Tracker, Sensor, and Client Mute setups Long-range antenna strategy covering gain, line of sight, height, connectors, frequency matching, and weak-link troubleshooting Base station and fixed node setup for homes, rooftops, attics, outdoor locations, and field coverage points Solar-powe"
+ },
+ {
+  "asin": "B0DYWXR6VV",
+  "title": "Meshtastic Made Simple: How to Set Up an Emergency Radio Network for Encrypted Off-Grid Co",
+  "bsr": 187002,
+  "rating": 4.6,
+  "price": 6.99,
+  "pub_date": "2025-02-28",
+  "pages": 94,
+  "publisher": null,
+  "cats": [
+   [
+    13,
+    "Wireless Computer Networks"
+   ],
+   [
+    18,
+    "Radio & Wireless Engineering"
+   ],
+   [
+    19,
+    "Computer Networks, Protocols & APIs"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 72,
+  "description": "Imagine staying connected with local friends and family without relying on cell towers, WiFi, or expensive satellite services. Meshtastic® makes it possible—and this book shows you how. Whether you’re an outdoor adventurer, a preparedness enthusiast, or a tech tinkerer, this book is your essential companion to understanding this revolutionary open-source mesh communication system. And Meshtastic requires no FCC license to operate! Inside, you’ll discover: • How Meshtastic Works: Learn the fundamentals of mesh networks and how they keep you connected locally or across a region. • Getting Started: Step-by-step instructions to set up your devices and join the Meshtastic community. • Real-World Applications: Explore how Meshtastic is used in off-grid living, hiking, and emergency preparedness, as well as tracking livestock, pets, or loved ones who are at risk of becoming lost. • Tips, Tricks, and Troubleshooting: Advice on optimizing your network for the greatest efficiency and reliability. Whether you’re gearing up for a wilderness trek, preparing for emergencies, or just curious about cutting-edge technology, this book offers practical knowledge and inspiration to keep you connected. Stay connected beyond the grid—Meshtastic makes it possible!  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstanceyeZDmb4OVfmZ1WT2zT8oIQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_8',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-"
+ },
+ {
+  "asin": "B0HRLBJVSY",
+  "title": "Meshtastic® Quick Reference: Off-Grid Text Messaging, Setup & Troubleshooting",
+  "bsr": null,
+  "rating": 4.4,
+  "price": 3.29,
+  "pub_date": "2026-11-13",
+  "pages": 357,
+  "publisher": null,
+  "cats": [
+   [
+    152,
+    "Wireless Computer Networks"
+   ],
+   [
+    651,
+    "Radio Communications"
+   ],
+   [
+    656,
+    "Radio Operation"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Stop searching through Meshtastic manuals. Find the settings, procedures, and troubleshooting steps you need, fast. Setting up two radios? Messages not getting through? Having trouble with Bluetooth pairing or radio range? Meshtastic Quick Reference helps you get straight to the relevant instructions without reading an entire chapter. Built for quick answers, not cover-to-cover reading. The Start Here task finder points you toward common procedures, while the alphabetical Task Index helps you locate specific settings, symptoms, and solutions. Clear page references take you directly to the information you need. Inside, you'll learn how to: Get connected: Set up compatible Meshtastic radios and verify two-way off-grid text messaging. Find essential settings: Look up channels, encryption, privacy, location sharing, and offline maps. Troubleshoot common problems: Diagnose Bluetooth pairing failures, missing messages, limited range, and battery drain. Prepare for the field: Use practical message templates, communication plans, and test sheets to organize and verify your setup. Includes hardware guidance for the Heltec V3/V3.1, RAK4631, SenseCAP T1000-E, and T-Deck Plus . Whether you're setting up your first Meshtastic radios or troubleshooting an existing network, this focused guide puts selected essential procedures within easy reach. Less searching. More time getting your radios working. An independent guide by John Pertell, KC2TAV. Not affiliated with or endorsed by Meshtastic LLC. Meshtastic® is a registered trademark of Meshtastic LLC.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstancerwa9iWTYx3Aw8Z1DRZto0g')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-deskt"
+ },
+ {
+  "asin": "B0HHH1R9K9",
+  "title": "Meshtastic Mastery: The Complete Beginner’s Manual to Build, Configure, and Master Off-Gri",
+  "bsr": 392008,
+  "rating": 4.2,
+  "price": 9.99,
+  "pub_date": "2026-09-02",
+  "pages": 337,
+  "publisher": null,
+  "cats": [
+   [
+    12,
+    "Wireless Computer Networks"
+   ],
+   [
+    58,
+    "Computer Networks, Protocols & APIs (Books)"
+   ],
+   [
+    62,
+    "Radio & Wireless Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "What if you could communicate when there’s no cell service, Wi-Fi, or internet? What if you’re hiking through the wilderness, traveling in a remote area, preparing for emergencies, or simply looking for another way to stay connected? How can small, low-power devices communicate across long distances without depending on traditional cellular networks? That’s where Meshtastic comes in. Meshtastic Mastery is a practical, beginner-friendly manual designed to help you understand, build, configure, and use off-grid LoRa mesh networks for private messaging, emergency communication, outdoor adventures, and remote connectivity. But where should you begin? What exactly is Meshtastic? How does LoRa work? What is a mesh network? Which hardware should you choose? How do you install the firmware and configure your first node? And once everything is connected, how do you actually communicate with other people across the mesh? This book answers those questions step by step. You won’t simply learn which settings to change—you’ll learn why those settings matter and how they affect your network. You’ll explore essential Meshtastic concepts while gaining practical knowledge you can apply to your own setup. Whether you're completely new to the technology or you've already experimented with a Meshtastic device, you'll learn how the different components work together. Have you ever wondered: How do you choose the right Meshtastic hardware? How do you install and configure Meshtastic firmware? How do you connect your node to a smartphone or computer? How do channels, regions, frequencies, and radio settings work? How do you send private and group messages? How can you improve the reliability and range of your network? Where should you place nodes for better coverage? How can Meshtastic support"
+ },
+ {
+  "asin": "B0H1DQ6RF2",
+  "title": "Meshtastic for Beginners: Build Your Own Off-Grid Mesh Network for Hiking, Emergency Comms",
+  "bsr": 2301747,
+  "rating": 5.0,
+  "price": 9.99,
+  "pub_date": "2026-05-11",
+  "pages": 156,
+  "publisher": null,
+  "cats": [
+   [
+    288,
+    "Wireless Computer Networks"
+   ],
+   [
+    1188,
+    "Computer Networks, Protocols & APIs"
+   ],
+   [
+    2362,
+    "Electrical & Electronics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "Meshtastic turns inexpensive LoRa radio modules into a self-healing mesh network — no cell towers, no internet, no subscription fees. Meshtastic for Beginners covers hardware selection, firmware flashing, channel configuration, LoRa radio principles, home base nodes, and MQTT integration  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceFjr_C-IHL-4GLOTn834vNA')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{display:none}._tell-amazon-desktop_style_tell_amazon_fre"
+ },
+ {
+  "asin": "B0FXBM9KT1",
+  "title": "Meshtastic Off-Grid Communication Mastery: Complete Solution for Large-Property Operations",
+  "bsr": 4292564,
+  "rating": null,
+  "price": 8.99,
+  "pub_date": "2025-10-22",
+  "pages": 231,
+  "publisher": null,
+  "cats": [
+   [
+    555,
+    "Wireless Computer Networks"
+   ],
+   [
+    1009,
+    "Radio & Wireless Engineering"
+   ],
+   [
+    1983,
+    "Radio Operation"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "📡 Build Reliable Off-Grid Communication Networks for Large Properties + Complete Python Automation + Real Ranch Solutions 📡 🚫 Struggling with dead zones, expensive cellular bills, and unreliable communication across your ranch or farm? ⚠️ If you’ve battled spotty coverage, rising fees, or communication failures during critical moments, you’re not alone. ✅ The good news: you can build your own long-range mesh network that covers every acre, costs pennies to run, and stays online when the grid fails. ➡️ That’s why I wrote “Meshtastic Off-Grid Communication Mastery” —your hands-on guide to deploying a professional-grade communication system across any property. From setup to full automation, this book gives you everything to plan, build, and maintain your network. 🔧 WHY THIS BOOK MATTERS ⏱️ Fast Deployment – Go from box to working network in one weekend with clear hardware and setup steps. 📡 Miles of Coverage – Extend communication through forests, valleys, and hills with hop-based relays. 💻 Full Python Automation – Monitor water tanks, gates, sensors, and workers with ready-to-run scripts. ⚡ No Monthly Fees – Build a private, infrastructure-independent system that’s always under your control. 🌦️ Proven in the Field – Every workflow tested across working ranches and harsh conditions. 📘 WHAT YOU’LL MASTER 🗺️ Planning, coverage mapping, and node placement for reliable range. 🔌 Choosing and configuring Heltec, T-Beam, or WisBlock nodes with solar power. 📲 Firmware flashing, channel setup, and signal validation that works the first time. 🌡️ Sensor integration for water levels, temperature, and gates with real Python code. ⚙️ Alert systems and dashboards that notify you instantly when conditions change. 🚜 Maintenance, training, and scaling procedures for long-term ranch operati"
+ },
+ {
+  "asin": "B0HRCJ56QQ",
+  "title": "The Complete Meshtastic Handbook: Build, Configure, Secure, and Deploy LoRa Mesh Networks ",
+  "bsr": 1446475,
+  "rating": 4.8,
+  "price": 8.99,
+  "pub_date": "2026-11-11",
+  "pages": 497,
+  "publisher": null,
+  "cats": [
+   [
+    171,
+    "Wireless Computer Networks"
+   ],
+   [
+    243,
+    "LANs (Books)"
+   ],
+   [
+    350,
+    "Radio & Wireless Engineering"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "THE COMPLETE MESHTASTIC HANDBOOK What happens when cellular networks disappear, internet access becomes unavailable, or you need to communicate beyond the reach of conventional infrastructure? Discover how to build and operate your own off-grid communication network with The Complete Meshtastic Handbook , a comprehensive, practical guide to Meshtastic, LoRa radio technology, and decentralized mesh networking. Whether you are a complete beginner, electronics enthusiast, amateur radio hobbyist, homelab builder, outdoor adventurer, or emergency preparedness planner, this handbook takes you from understanding wireless communication fundamentals to configuring, securing, expanding, and maintaining functional Meshtastic networks. WHAT YOU WILL LEARN INSIDE: Meshtastic and Off-Grid Communication: Understand how decentralized LoRa mesh networks operate without requiring cellular service or an internet connection for local communication. LoRa Radio Technology: Explore radio frequencies, wavelengths, bandwidth, spreading factors, coding rates, signal strength, and the principles behind wireless transmission. Hardware Selection and Configuration: Choose compatible Meshtastic devices, antennas, and accessories, install firmware, connect applications, and configure your first radio nodes. Channels, Messaging, and GPS Tracking: Configure communication channels, exchange messages, manage devices, share location information, and understand position-sharing controls. Advanced Mesh Networking: Understand device roles, routing, packet forwarding, hop limits, and network architecture to build more effective mesh deployments. Range and Network Reliability: Learn antenna placement, radio propagation, coverage testing, signal measurements, and practical techniques for evaluating wireless comm"
+ }
+]

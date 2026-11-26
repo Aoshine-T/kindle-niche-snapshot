@@ -1,166 +1,85 @@
 [
  {
+  "asin": "B0HRWXBNQ7",
+  "title": "RTE Practice Exam: 160 Practice Questions with Detailed Answer Explanations",
+  "bsr": 10099,
+  "rating": 5.0,
+  "price": 2.99,
+  "pub_date": "2026-11-16",
+  "pages": 431,
+  "publisher": null,
+  "cats": [
+   [
+    1,
+    "Respiratory Therapy (Books)"
+   ],
+   [
+    1,
+    "Respiratory Therapy"
+   ],
+   [
+    1,
+    "Medical Education & Training"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 15,
+  "description": "Preparing for the Respiratory Therapy Examination (RTE)? Put your knowledge to the test with 160 practice questions and detailed answer explanations designed to help you prepare with confidence. Passing the RTE requires more than memorizing facts. You need to understand respiratory care concepts, interpret clinical information, and apply your knowledge to challenging patient scenarios. Whether you're approaching graduation or preparing for your board examination, effective practice can make an important difference in your preparation. Created by Respiratory Therapy Zone, RTE Practice Exam provides a comprehensive collection of 160 multiple-choice questions designed to help respiratory therapy students and graduates evaluate their knowledge and strengthen their clinical reasoning skills. The questions cover essential areas of respiratory care, including mechanical ventilation, arterial blood gas interpretation, oxygen therapy, airway management, pulmonary function testing, respiratory pharmacology, patient assessment, cardiopulmonary physiology, neonatal and pediatric care, and emergency respiratory care. Each question is accompanied by a detailed answer explanation that reinforces important concepts and clarifies the reasoning behind the correct response. Rather than simply memorizing answers, you'll have the opportunity to understand why a particular intervention, assessment, or clinical decision is appropriate. This approach can help you recognize knowledge gaps, strengthen weaker areas, and develop greater confidence when approaching unfamiliar questions. The book is organized to make your practice experience straightforward and effective. All 160 questions appear in a dedicated examination section, followed by a separate answer key with detailed rationales. This all"
+ },
+ {
   "asin": "B0HH9X4JRL",
   "title": "AIGP Practice Questions: 600 Scenario-Based Questions with Explained Answers for the IAPP ",
-  "bsr": 516910,
-  "rating": 4.6,
+  "bsr": 209726,
+  "rating": 4.2,
   "price": 4.99,
   "pub_date": "2026-08-31",
   "pages": 462,
   "publisher": null,
   "cats": [
    [
-    107,
+    20,
     "Information Management"
    ],
    [
-    141,
-    "Information Management (Books)"
+    28,
+    "Certification, Training & Reference"
    ],
    [
-    194,
-    "Certification, Training & Reference"
+    73,
+    "Information Management (Books)"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 12,
+  "reviews_n": 13,
   "description": "[2026 Edition. Aligned to AIGP Body of Knowledge v2.1, effective 2 February 2026.] Includes 5 printable companion resources you can use alongside this book. You have studied the material. Now find out what you still get wrong. You have read the guide. You have highlighted it. You scored well on the practice test and told yourself you were ready. Then you sat down with someone who had actually taken the exam, and they described questions where every option looked defensible, where the task was not recalling a definition but choosing the best governance response among four reasonable ones. And you realised you had no idea whether you could do that. That gap has a name. The Comfort Score : a practice result high enough to stop you preparing, produced by questions easier than the exam you are about to pay several hundred dollars to sit. It is the most expensive number in certification study, and almost every candidate meets it. What this book is for This is not a study guide and it will not teach you the syllabus. It is a readiness instrument, built to be opened after the guide, when the only question left is whether you can apply what you read. It is deliberately demanding, because a bank that flatters you is worse than no bank at all. What is inside Scenario questions written the way candidates describe the real thing, where several answers are defensible and only one is best An explanation for every option, not just the correct one, so you learn why the tempting wrong answer was tempting Domain and competency tags on every question, so a weak score points at what to study rather than leaving you to guess Targeted drills for each of the four domains, then full-length mixed simulations for final calibration A diagnostic score sheet that turns your results into a study orde"
  },
  {
-  "asin": "B071ZNW57H",
-  "title": "Official GRE Quantitative Reasoning Practice Questions, Volume 1, Second Edition",
-  "bsr": 385722,
-  "rating": 4.4,
-  "price": 9.99,
-  "pub_date": "2017-02-10",
-  "pages": 364,
-  "publisher": "McGraw Hill",
-  "cats": [
-   [
-    6,
-    "GRE Test Guides"
-   ],
-   [
-    25,
-    "GRE Test Guides (Books)"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": 256,
-  "description": "150 Real GRE Quantitative Reasoning questions – direct from the test maker! The best way to prepare for the Quantitative Reasoning measure of the GRE® General Test is with real GRE test questions—and that is what you will find in this unique guide. Specially created by the actual test maker, it offers 150 actual GRE Quantitative Reasoning questions with complete explanations. Plus, this guide includes a review of math topics likely to appear on Quantitative Reasoning measure. Only ETS can show you exactly what to expect on the test. For in-depth practice and accurate, reliable test preparation for the GRE Quantitative Reasoning measure, this guide is your best choice! This essential study guide features: • Authentic GRE Quantitative Reasoning practice questions, arranged by content and question type -- to help you build your test-taking skills -- plus, mixed practice tests • Answers and explanations for every question! • GRE Math Review covering math topics you need to know for the test • ETS’s own test-taking strategies: Valuable hints and tips to help you do your best • Official information on the GRE Quantitative Reasoning measure: The facts about the test content, scoring, and more – straight from ETS  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_7\"]', '#CardInstancebgdNybvZZAC2C5QcYDPbrg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_7',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:"
- },
- {
-  "asin": "B0H32BJCCN",
-  "title": "NAPLEX Practice Question Workbook: 1,000+ Comprehensive Practice Questions (2026 Edition)",
-  "bsr": 1908783,
-  "rating": 4.3,
-  "price": 9.99,
-  "pub_date": "2026-05-27",
-  "pages": 425,
-  "publisher": null,
-  "cats": [
-   [
-    103,
-    "Pharmacies"
-   ],
-   [
-    301,
-    "Pharmacy"
-   ],
-   [
-    1083,
-    "Basic Medical Sciences"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": 190,
-  "description": "The NAPLEX Practice Question Workbook provides over 1,000 comprehensive practice questions to prepare for the demanding North American Pharmacist Licensure Examination (NAPLEX). Master exam topics with intensive practice in the areas you'll find on the test. All questions are test-level difficulty and focused solely on helping you pass. Whether you're challenging the exam for the first time or trying again after an unsuccessful attempt, you will learn the critical skills needed to master the exam. This innovative workbook includes: • Full-length 250 question practice exam, including multiple-response, constructed-response, and ordered-response questions • Over 100 pharmaceutical calculation questions including ratios and conversions, alligation, total parenteral nutrition, and measurements for accurate drug doses • Over 100 sterile & non-sterile compounding questions • Detailed solutions to all practice questions to help you pinpoint your strengths and weaknesses and identify areas in need of further study Included are practice exams for the following topics: • Cardiovascular Disorders • Immunologic • Hematologic & Oncologic Disorders • Neurologic & Psychiatric Disorders • Endocrine Disorders • Gastrointestinal Disorders • Respiratory Disorders • Renal & Urologic Disorders • Bone & Joint Disorders • Ophthalmic, Otic & Dermatologic Disorders • Women's Health • Nutrition Support & Critical Care • Over-the-Counter Medications & Dietary Supplements  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_7\"]', '#CardInstance8sk8aLHaUsmxS5jR_YMBbg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_7',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-pri"
- },
- {
-  "asin": "B0GRV7KBP2",
-  "title": "PTCB Exam Study Guide: Pass the 2026 PTCE on Your First Attempt — 5 Full-Length Practice T",
-  "bsr": 384929,
-  "rating": 5.0,
-  "price": 0.99,
-  "pub_date": "2026-03-09",
-  "pages": 322,
-  "publisher": null,
-  "cats": [
-   [
-    39,
-    "Pharmacy"
-   ],
-   [
-    70,
-    "Study & Test-Taking Skills"
-   ],
-   [
-    157,
-    "Pharmacies"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": 2,
-  "description": "41% of PTCE candidates fail. That is not a scare tactic. It is the official pass rate from the Pharmacy Technician Certification Board. Nearly half of the people who sit for the exam walk out without the credential they studied for. Most of them studied hard. Most of them felt prepared. And most of them were blindsided by what the 2026 exam actually demands. This book exists to make sure you are not one of them. Why This Book Is Different From Every Other PTCB Study Guide Most PTCB prep books give you a content review and a practice test. This book gives you a complete system. It is built around a four-phase method—Orient, Build, Simulate, Launch—that mirrors how the highest-scoring candidates actually prepare. Every chapter, every practice exam, and every appendix serves a specific purpose in that system. Nothing is filler. Nothing is padding. Every page earns its place. And unlike every competitor on the market, this is the first study guide written specifically for the 2026 PTCE blueprint. That means full DSCSA (Drug Supply Chain Security Act) coverage, the removal of alligation and nonsterile compounding calculations, and dedicated practice with the new question formats—hot-spot, drag-and-drop, and case-based vignettes—that most candidates will encounter for the first time on exam day. Here Is Exactly What You Get 15 content-rich chapters covering all four PTCE domains at exam-level depth 5 full-length 90-question practice exams (450+ questions total) with escalating difficulty Complete RACE framework explanations for every single question—not just the answer, but why each distractor is wrong Full DSCSA coverage from first principles: serialization, transaction documentation, suspect product response New format mastery chapter: the only guide with dedicated hot-spot"
- },
- {
-  "asin": "B0CDJ8HDBR",
-  "title": "Project Management: Practice Questions for the CAPM Exam",
-  "bsr": 125152,
-  "rating": 4.5,
-  "price": 5.99,
-  "pub_date": "2023-08-02",
-  "pages": 212,
-  "publisher": null,
-  "cats": [
-   [
-    5,
-    "Technical Project Management"
-   ],
-   [
-    17,
-    "Engineering Project Management"
-   ],
-   [
-    17,
-    "Business Project Management"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": 198,
-  "description": "Aligned with the July 2023 CAPM Exam Content Outline, and sourced from concepts, methodology, and frameworks contained in PMBOK 7th Edition, Agile Practice Guide, and Business Analysis Practice Guide. 400 questions organized in 8 sets designed to help students prepare for the current CAPM certification exam. Book contains link to online versions of all 8 question sets and full 150 question simulation exam, and other study tools such as quick quizzes and flash cards.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_3\"]', '#CardInstancedT7Eq8ONmJUnqllvm7lapA')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_3',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}"
- },
- {
-  "asin": "B0HP7D1F7D",
-  "title": "1,000 ML & AI Practice Questions: Find your weak spots before the interview does",
-  "bsr": 491716,
+  "asin": "B0HMZ1MN1R",
+  "title": "100 High Yield NCLEX-RN Practice Questions with Rationale",
+  "bsr": 853268,
   "rating": null,
-  "price": 11.99,
-  "pub_date": "2026-10-24",
-  "pages": 956,
+  "price": 2.99,
+  "pub_date": "2026-10-14",
+  "pages": 68,
   "publisher": null,
   "cats": [
    [
-    15,
-    "Computer Mathematics"
+    210,
+    "Nursing Reviews & Study Guides"
    ],
    [
-    104,
-    "Neural Networks"
-   ],
-   [
-    212,
-    "Computer Neural Networks"
+    1077,
+    "Nursing Reviews & Study Guides (Books)"
    ]
   ],
   "free_promo": false,
   "reviews_n": null,
-  "description": "Find your weak spots before the interview does. 1,000 multiple-choice questions on the machine learning, deep learning, Python, SQL, statistics and MLOps topics that ML engineers, data scientists and students are expected to know. Every question has one best answer and a worked explanation, and many explanations name the tempting wrong options, so you learn from your misses as well as your hits. How the book works Ten parts: Python; Python for ML, shell and Git; databases and SQL; probability and statistics; calculus and linear algebra; supervised and unsupervised learning; deep learning; reinforcement learning and RLHF; MLOps and system design; algorithms and interview preparation. Each part opens with a one-page \"Key ideas at a glance\" reference of formulas, rules and common traps. Questions are tagged foundational, intermediate or advanced (300 / 500 / 200), so you can warm up or go straight to interview-level problems. 66 figures and sketches sit beside the explanations they illustrate. A twelve-week plan, a four-week interview sprint and reading tracks for ML engineers, ML systems architects and forward-deployed engineers tell you what to do each day. Four timed 50-question mock tests, each set out as a paper of its own with no answer links, let you measure your progress without interruption. An answer sheet, a score tracker with an error log, and a 200-term glossary that links back to the questions. Tap Answer to jump to the explanation and tap back to return to the question. Who it is for Engineering graduates new to ML, working engineers preparing for interviews, and anyone who wants to check what they really know before relying on it. This is a practice book of questions and explanations, not a textbook. Suggested further reading is listed for each part.  if(wi"
+  "description": "Strengthen your nursing knowledge and clinical reasoning with 100 high yield NCLEX RN practice questions with rationale, a focused study guide covering concepts that can challenge nursing students. This 46-page guide contains 100 original, single best answer practice questions organized into ten sections. Get ready for your NCLEX board exam!  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceumhZbe8KC5IX15pv-1eEXQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{d"
  },
  {
   "asin": "B0HHKNWG22",
   "title": "GED STUDY GUIDE 2026-2027 ALL SUBJECTS: Complete study guide for Math, Language Arts, Scie",
-  "bsr": 65962,
+  "bsr": 55916,
   "rating": 5.0,
   "price": 0.99,
   "pub_date": "2026-09-02",
@@ -172,11 +91,11 @@
     "Education Testing"
    ],
    [
-    4,
+    5,
     "Study & Test-Taking Skills"
    ],
    [
-    11,
+    9,
     "GED Test Guides (Books)"
    ]
   ],
@@ -185,84 +104,157 @@
   "description": "Your Complete All-Subjects Guide to Smarter GED Preparation Preparing for the GED can feel overwhelming , especially when you're not sure what to study, how to manage your time, or whether you're truly ready for test day. You don't have to study without a plan. GED Study Guide 2026–2027 gives you the structure, practice, and strategies you need to prepare with confidence for all four GED subject areas: Mathematical Reasoning, Reasoning Through Language Arts, Science, and Social Studies. Instead of simply reading information and hoping you'll remember it, this guide helps you learn, practice, identify weak areas, understand your mistakes, and measure your progress. WHAT'S INSIDE 4 FULL-LENGTH PRACTICE TESTS Test your knowledge with four realistic practice exams designed to help you: Identify areas needing more review Practice time management Become familiar with different question types Measure your progress Build confidence before test day DETAILED ANSWER EXPLANATIONS Don't just check whether an answer is right or wrong. Detailed explanations show you why an answer is correct and how to approach similar questions , turning mistakes into valuable learning opportunities. STRATEGIES FOR EVERY QUESTION TYPE Learn practical techniques to understand what each question is asking, eliminate incorrect choices, manage your time, and approach challenging questions more systematically. STEP-BY-STEP ESSAY TEMPLATE Get a clear framework for planning and organizing your Reasoning Through Language Arts essay , so you don't have to face a blank page wondering where to begin. REALISTIC STUDY PLAN Follow a step-by-step study plan to organize your preparation and make consistent progress. Adjust it to fit your schedule, strengths, and areas that need more practice. QUICK-REFERENCE VAULT Re"
  },
  {
-  "asin": "B0HKGN4959",
-  "title": "NCLEX-RN Complete Study Guide: High-Yield Nursing Review, Clinical Judgment & Practice Que",
-  "bsr": 655459,
-  "rating": 4.4,
-  "price": 4.99,
-  "pub_date": "2026-09-20",
-  "pages": 769,
+  "asin": "B0GYKG98SV",
+  "title": "ASP Exam Prep: Your Complete Guide with 750 Practice Questions and Detailed Rationales for",
+  "bsr": 494464,
+  "rating": 4.3,
+  "price": 0.99,
+  "pub_date": "2026-04-25",
+  "pages": 586,
   "publisher": null,
   "cats": [
    [
-    97,
-    "Nursing Reference"
+    24,
+    "Safety & Health Engineering"
    ],
    [
-    136,
-    "Nursing Reviews & Study Guides"
+    26,
+    "Safety & Health in Technology"
    ],
    [
-    359,
-    "Nursing Reference (Books)"
+    50,
+    "Industrial Technology"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 6,
+  "description": "Unofficial Study guide: Associate Safety Professional (ASP)® Exam Prep: 750 Practice Questions, 500 Flashcards, Detailed Rationales, Full Domain Coverage for ASP Certification Success What You Get in This Study Package 750 high-quality, exam-style practice questions with detailed, instructive rationales 500 digital flashcards for rapid reinforcement of key terms, tools, and frameworks Full coverage of all exam domains with concise, high-yield summaries Practical test-taking strategies tailored to the exam’s real-world application format Complete alignment with the latest content outline This comprehensive study guide is designed to help candidates confidently prepare for the Associate Safety Professional (ASP)® certification exam. Built around the latest BCSP blueprint, the guide delivers focused coverage of all exam domains while reinforcing both conceptual understanding and calculation-based problem solving. Through a powerful combination of realistic practice questions, concise domain summaries, and targeted flashcards, learners can strengthen their mastery of safety management systems, industrial hygiene, ergonomics, risk analysis, emergency preparedness, and legal responsibilities. Some of the major domains include: Mathematical Calculations Safety Programs and Concepts Ergonomics Fire Prevention and Protection Emergency Preparedness and Response Industrial Hygiene and Occupational Health Environmental Management Training, Education, and Communication Legal Whether you are beginning your ASP preparation or finalizing your review before exam day, this study package provides a structured and practical path to mastery. With realistic practice, full blueprint alignment, and clear explanations throughout, it equips safety professionals with the knowledge and confidence "
+ },
+ {
+  "asin": "B0H6QYZBDJ",
+  "title": "AWS Certified Solutions Architect Study Guide: Pass the SAA-C03 Exam on Your First Try wit",
+  "bsr": 396304,
+  "rating": 5.0,
+  "price": 0.53,
+  "pub_date": "2026-06-26",
+  "pages": 843,
+  "publisher": "Grapevine (26th June, 2026)",
+  "cats": [
+   [
+    24,
+    "Education Assessment"
+   ],
+   [
+    28,
+    "Distributed Systems & Computing"
+   ],
+   [
+    59,
+    "Cloud Computing"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 1,
+  "description": "A complete SAA-C03 exam prep system with deep architecture coverage and four full-length practice exams. Built for serious AWS Certified Solutions Architect Associate preparation, this IT certification guide AWS pairs technical depth with a premium question bank of AWS practice test questions, chapter reviews, and detailed SAA-C03 exam questions and answers to fast-track your journey to becoming a successful cloud solutions architect. Train across the 4 official AWS exam domains: Design secure architectures using AWS Identity and Access Management IAM, encryption, governance, and AWS security best practices. Build resilient architectures with AWS high availability design, Multi-AZ planning, backups, failover, and disaster recovery. Create high-performing architectures using Amazon S3 and EC2, AWS VPC and networking, databases, caching, and serverless services. Optimize cloud costs with right-sizing, storage tiers, pricing models, and AWS cost optimization strategies. Ideal for AWS cloud practitioner learners moving toward architect-level skills and professionals needing a systematic review for the AWS exam SAA-C03 2025. Deploy this targeted AWS exam cram SAA-C03 methodology to study smarter, practice harder, and pass the AWS solutions architect exam on your very first try.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_6\"]', '#CardInstancecItEIM_MEy8zJXzfDsOKjQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_6',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-ef"
+ },
+ {
+  "asin": "B0HPXBKBQ7",
+  "title": "ASVAB Study Guide 2026-2027: 40 Full-Length Practice Tests, 5,500+ Questions, Online Simul",
+  "bsr": 124595,
+  "rating": 4.9,
+  "price": 0.99,
+  "pub_date": "2026-10-31",
+  "pages": 936,
+  "publisher": null,
+  "cats": [
+   [
+    2,
+    "Civil Service Test Guides"
+   ],
+   [
+    4,
+    "Armed Forces Test Guides"
+   ],
+   [
+    5,
+    "Civil Service Test Guides (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 27,
+  "description": "ASVAB Study Guide 2026-2027: 40 Full-Length Practice Tests and 5,500+ Questions to Prepare for Your AFQT and Line Scores Your ASVAB results decide two things: whether you can enlist, and which military jobs are open to you. The AFQT score that controls enlistment comes from only four of the ten sections, while your line scores control job choices. On the computer version, every answer is final, there is no skipping ahead, and guessing wildly at the end of a section can hurt you. This ASVAB test prep is built around those rules, so your study time goes into the sections and habits that move your scores. Exact CAT-ASVAB Test Format Every practice test copies the CAT-ASVAB exactly: 135 questions, 10 sections, the official section order, and the same time limits. By test day, the pace, the length, and the no-going-back rule will already feel normal. Built-In AFQT Score Estimates After each test, an answer key and score tally convert your correct answers into AFQT points. The scoring chapter then shows your estimated AFQT range and category. Record every result in the Score Tracker and measure your progress against the common targets of 31, 50, and 65. Trap-Labeled Answer Explanations Every one of the 5,500+ questions comes with a full explanation. Math is solved step by step, and each wrong choice is labeled with the trap it sets, such as a Halfway Stop, a Related Word, or a Flipped Operation. Count which traps catch you most, and you know exactly what to fix. Timed Online Simulator and 1,892 Flashcards Scan the QR code inside to reach the companion vault. No sign-up is needed. Take all 40 tests in a timed simulator that follows CAT rules, print tests on paper, estimate your AFQT for any test, and review flashcards for vocabulary, word parts, formulas, science, circuits, au"
+ },
+ {
+  "asin": "B0H7RRZWN5",
+  "title": "JLPT N2 Practice Questions: 300 Original Questions with English Explanations",
+  "bsr": 727509,
+  "rating": 5.0,
+  "price": 4.0,
+  "pub_date": "2026-07-06",
+  "pages": 170,
+  "publisher": null,
+  "cats": [
+   [
+    135,
+    "Japanese Language Instruction"
    ]
   ],
   "free_promo": false,
   "reviews_n": null,
-  "description": "Pass the NCLEX-RN by Learning How to Think Like a Nurse Preparing for the NCLEX-RN can feel overwhelming when important information is spread across multiple resources. NCLEX-RN Complete Study Guide brings essential nursing concepts together in one organized, practical review designed to help nursing students and NCLEX-RN candidates strengthen both knowledge and clinical judgment. Rather than focusing only on memorization, this guide emphasizes the reasoning process behind safe nursing decisions. Inside you'll review: ✓ Nursing fundamentals and clinical judgment ✓ Management of care and prioritization ✓ Delegation and assignment ✓ Legal, ethical, and professional nursing ✓ Infection prevention and patient safety ✓ Emergency and disaster nursing ✓ Growth and development ✓ Maternal, prenatal, postpartum, and newborn care ✓ Nutrition, mobility, elimination, pain, and comfort ✓ Pharmacology and medication administration ✓ Dosage-calculation concepts ✓ Cardiovascular, respiratory, neurologic, renal, GI, and endocrine disorders ✓ Mental health and psychiatric nursing ✓ Laboratory values and diagnostic interpretation ✓ Fluid, electrolyte, and acid-base balance ✓ Risk reduction and early recognition of deterioration ✓ Shock, sepsis, respiratory failure, trauma, burns, and critical illness ✓ Integrated clinical judgment and final NCLEX review Designed for Active Review  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_6\"]', '#CardInstanceGgl6bWQvPwRXqWkv9qrepg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_6',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-f"
+  "description": "JLPT N2 Practice Questions for English Speakers is a practical study book for upper-intermediate learners preparing for the JLPT N2. This book includes 300 original questions covering kanji, vocabulary, grammar, reading comprehension, integrated reading, and information search. Each question comes with an English explanation, so learners can understand not only the correct answer, but also why it fits the context. The questions focus on N2-level Japanese used in work, society, public services, local communities, data, rules, opinions, and daily life. Sample Question: 人口が減少する（ ）、地方の学校数も減っている。 A. に対して B. にしたがって C. によると D. について Explanation: にしたがって means “as one change progresses, another change also progresses.” Here, as the population decreases, the number of local schools also decreases. Answer: B This book is useful for JLPT N2 review, weakness checking, reading practice, and final preparation before the exam.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_3\"]', '#CardInstanceE9kr0fV725EI-XNyNwDTCg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_3',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_styl"
  },
  {
-  "asin": "B0F84GJLKR",
-  "title": "Respiratory Therapy Practice Questions: 480+ Multiple Choice Exam Questions and Answers",
-  "bsr": 1073948,
-  "rating": 3.8,
-  "price": 9.98,
-  "pub_date": "2025-05-08",
-  "pages": 186,
+  "asin": "B0CMNSPNVH",
+  "title": "CompTIA Security+ Study Guide with over 500 Practice Test Questions: Exam SY0-701 (Sybex S",
+  "bsr": 197138,
+  "rating": 4.7,
+  "price": 33.0,
+  "pub_date": "2023-11-03",
+  "pages": 704,
+  "publisher": "Sybex",
+  "cats": [
+   [
+    4,
+    "CompTIA Certification Guides"
+   ],
+   [
+    8,
+    "Security Certifications"
+   ],
+   [
+    13,
+    "Computer Network Security"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 373,
+  "description": "Master key exam objectives and crucial cybersecurity concepts for the CompTIA Security+ SY0-701 exam, along with an online test bank with hundreds of practice questions and flashcards In the newly revised ninth edition of CompTIA Security+ Study Guide: Exam SY0-701 , veteran cybersecurity professionals and educators Mike Chapple and David Seidl deliver easy-to-follow coverage of the security fundamentals tested by the challenging CompTIA SY0-701 exam. You’ll explore general security concepts, threats, vulnerabilities, mitigations, security architecture and operations, as well as security program management and oversight. You’ll get access to the information you need to start a new career—or advance an existing one—in cybersecurity, with efficient and accurate content. You’ll also find: Practice exams that get you ready to succeed on your first try at the real thing and help you conquer test anxiety Hundreds of review questions that gauge your readiness for the certification exam and help you retain and remember key concepts Complimentary access to the online Sybex learning environment, complete with hundreds of additional practice questions and flashcards, and a glossary of key terms, all supported by Wiley's support agents who are available 24x7 via email or live chat to assist with access and login questions Perfect for everyone planning to take the CompTIA SY0-701 exam, as well as those aiming to secure a higher-level certification like the CASP+, CISSP, or CISA, this study guide will also earn a place on the bookshelves of anyone who’s ever wondered if IT security is right for them. It’s a must-read reference!  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_5\"]', '#CardInstancepmDf7iEp2_dtO_emzePD9g')('mark', 'bb')} if(window.uet){"
+ },
+ {
+  "asin": "B0GHTKYCGX",
+  "title": "CPPS Study Guide: 750 Practice Questions and Expert Rationales to Help You Pass the Certif",
+  "bsr": 506483,
+  "rating": 5.0,
+  "price": 0.99,
+  "pub_date": "2026-04-10",
+  "pages": 554,
   "publisher": null,
   "cats": [
    [
-    47,
-    "Respiratory Therapy"
+    18,
+    "Nursing Management & Administration"
    ],
    [
-    89,
-    "Respiratory Therapy (Books)"
+    139,
+    "Nursing Administration & Management"
    ],
    [
-    662,
+    188,
     "Medical Education & Training"
    ]
   ],
   "free_promo": false,
-  "reviews_n": 5,
-  "description": "Master the Respiratory Therapy Exam with 480+ Practice Questions Get ready to boost your confidence and test-taking skills with Respiratory Therapy Practice Questions: 480+ Multiple Choice Exam Questions and Answers . This comprehensive resource is packed with high-quality, exam-style questions designed to help you review all the essential topics covered in respiratory therapy school. With over 480 multiple-choice questions and correct answers included, this book is perfect for quick review and repeated practice. The questions cover a wide range of critical subjects in respiratory care, including mechanical ventilation, patient assessment, airway management, pharmacology, diagnostics, and more. Whether you're reviewing on the go or doing a focused study session, this book will help you identify strengths and target weak areas efficiently. Plus, your purchase includes free access to the full set of questions online at RespiratoryTherapyZone.com , organized into three 160-question practice exams—just like the real thing. This added bonus lets you simulate the exam experience and track your progress digitally. If you're serious about passing the board exam and becoming a successful respiratory therapist, this book is a must-have tool for your study plan.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceBlxZ-4hioRTCccbf_zIn3w')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-s"
- },
- {
-  "asin": "B0099W9V1E",
-  "title": "MPRE Practice Questions",
-  "bsr": 1454075,
-  "rating": 4.0,
-  "price": 9.99,
-  "pub_date": "2012-09-11",
-  "pages": 156,
-  "publisher": null,
-  "cats": [
-   [
-    151,
-    "Law Ethics & Professional Responsibility"
-   ],
-   [
-    250,
-    "Professional Responsibility & Law Ethics"
-   ],
-   [
-    397,
-    "Law Legal Education"
-   ]
-  ],
-  "free_promo": false,
-  "reviews_n": 62,
-  "description": "Study for the Multistate Professional Responsibility Exam (MPRE) on your own schedule with the AmeriBar MPRE Practice Questions book. The AmeriBar MPRE Practice Questions book is fully updated to reflect the most recent changes to the MPRE. The book contains 150 simulated MPRE practice questions with answers and explanations.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_7\"]', '#CardInstanceP97ZhW_5tPjrmhglmNtHzQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_7',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_hide_element__3ccqo,._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{display:none}._te"
+  "reviews_n": 6,
+  "description": "Unofficial Study guide: Certified Professional in Patient Safety (CPPS)® Exam Prep: 750 Practice Questions, 500 Flashcards, Detailed Rationales, Full Patient Safety Domain Coverage, for CPPS Certification Success What You Get in This Study Package 750 high-quality, exam-style practice questions with detailed, instructive rationales 500 digital flashcards for rapid reinforcement of key patient safety concepts, frameworks, and terminology Full coverage of all exam domains with concise, high-yield summaries Practical test-taking strategies tailored to the CPPS exam’s real-world healthcare application format Complete alignment with the latest content outline This comprehensive study guide is designed to help healthcare professionals prepare effectively for the Certified Professional in Patient Safety (CPPS)® certification examination. Built around the competencies outlined by the Certification Board for Professionals in Patient Safety (CBPPS), the guide focuses on strengthening knowledge of patient safety science, human factors engineering, risk mitigation, and systems-based healthcare improvement. Through realistic practice questions, focused flashcards, and clear concept summaries, learners develop the analytical and decision-making skills needed to recognize hazards, reduce medical errors, and implement sustainable safety initiatives across healthcare settings. Some of the major domains include: Patient Safety Science Patient Safety and Risk Solutions Measuring and Improving Performance Systems Thinking and Design / Human Factors Whether you are beginning your CPPS preparation or completing your final review before exam day, this study package provides a clear and structured path to mastery. With realistic exam-style practice, full alignment with the CPPS framework, and "
  }
 ]

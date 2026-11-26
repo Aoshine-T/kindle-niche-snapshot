@@ -1,44 +1,37 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-25T03:01:42Z",
+ "generated_at": "2026-11-26T02:44:23Z",
  "topics": 95,
- "cards": 206,
+ "cards": 209,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 122,
- "elapsed_seconds": 1873,
+ "requests": 57,
+ "elapsed_seconds": 851,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 9,
-   "requests": 122,
-   "seconds": 1873
+   "words": 4,
+   "requests": 57,
+   "seconds": 851
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "draw-faces",
-  "lead-anyway",
-  "academic-talk",
-  "water-freedom",
-  "christian-high",
-  "gaap-explained",
-  "diy-atmospheric",
-  "actually-matters"
+  "nursing-mnemonic",
+  "off-grid-meshtastic",
+  "neurodivergent-adults",
+  "practice-questions"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "nursing mnemonic"
- },
+ "stopped": null,
  "card_index": {
   "academic-talk": {
    "keyword": "academic talk",
@@ -552,13 +545,25 @@
    "keyword": "navy seal",
    "fetched_at": "2026-11-17"
   },
+  "neurodivergent-adults": {
+   "keyword": "neurodivergent adults",
+   "fetched_at": "2026-11-26"
+  },
   "north-america": {
    "keyword": "north america",
    "fetched_at": "2026-10-31"
   },
+  "nursing-mnemonic": {
+   "keyword": "nursing mnemonic",
+   "fetched_at": "2026-11-26"
+  },
   "off-grid": {
    "keyword": "off grid",
    "fetched_at": "2026-11-20"
+  },
+  "off-grid-meshtastic": {
+   "keyword": "off-grid meshtastic",
+   "fetched_at": "2026-11-26"
   },
   "off-grid-survival": {
    "keyword": "off-grid survival",
@@ -590,7 +595,7 @@
   },
   "practice-questions": {
    "keyword": "practice questions",
-   "fetched_at": "2026-10-27"
+   "fetched_at": "2026-11-26"
   },
   "practice-tests": {
    "keyword": "practice tests",
@@ -1122,8 +1127,14 @@
   "cards/multiplier-mindset/competitors.json": "7411f6c8445ef93ebd00b22cfdb7d3248dda45ef978517a8e16c8ad546d1d77b",
   "cards/navy-seal/card.md": "40d024606c318e50d483ebf35d4be255141950fc255b34d24bd4dc8a8ef6b5f5",
   "cards/navy-seal/competitors.json": "b52b323620732a8394d26e40ae6c4154bca06fbb10d6d332ee8ffe0f07c0f739",
+  "cards/neurodivergent-adults/card.md": "3ff522f5aee78d1ea6b7034c4366c4cf0c99f65194a5b0476b9da45abf17fa90",
+  "cards/neurodivergent-adults/competitors.json": "a203e6791b2eae60b44e9b74ca046c59f86224565888228a07b89895a1d9b819",
   "cards/north-america/card.md": "bd25b7384b73af1fc58dbc170511653f2155d100f2a7722c076e7493e7774dae",
   "cards/north-america/competitors.json": "414e69436cf3285d493e8ed0f70567afac2512c75495413007f70bf0a52c8321",
+  "cards/nursing-mnemonic/card.md": "fe31cdca52707dc63eb74625fe31c46f374eab63341affc7c0d3e5f25956109c",
+  "cards/nursing-mnemonic/competitors.json": "cdad55ea92407c8fea2ea6d9b8594652d71d7ccd75a38dc349a546eced3c187f",
+  "cards/off-grid-meshtastic/card.md": "4628beb7b4730484417063121b03eb65b17d35d02511a16e453cb58dee140024",
+  "cards/off-grid-meshtastic/competitors.json": "a3e632c40ebf8df2f520757a0ba2fc1e4b9ae99cb005305700e8cce5b4a9c07e",
   "cards/off-grid-survival/card.md": "f57e70c283f131ce693fcccff5ef6e17ab541254ad513c256a0e5946406f665e",
   "cards/off-grid-survival/competitors.json": "92be2aefcec18c40514196e2b301277d342edfc976ddb0ac73ca17ccd8b5cdd8",
   "cards/off-grid/card.md": "54b7d19b73d128844b90ef122ce4dd93e0917a13bb6cc2586f90dc42e71d6f41",
@@ -1140,8 +1151,8 @@
   "cards/peak-performance/competitors.json": "5b3ffd3eed0e216138a061e49e3eefdefe6299c582493e0233a34f10299e47b8",
   "cards/potty-training/card.md": "07db673413fed469dd32bceaf0f6bad6f7f56b1bfb04f7df6d19ac342ff1ba07",
   "cards/potty-training/competitors.json": "9d57165d05759cd50b5f6c771da5c7e3c84f2819fc88d14c0f3f8e6c117cffa0",
-  "cards/practice-questions/card.md": "ce0f74bf77a11a18a203689f61485821ec5725c92b4aa26ce65ae41fb7c0673d",
-  "cards/practice-questions/competitors.json": "26062490d6b464acd0ff94cfd7d1d2d8818f69f7a0d806076564e6b17b1776d9",
+  "cards/practice-questions/card.md": "3ed3a2c963bc95fe331566d4af63d09374d21240583ece06b3faf6698c83ab65",
+  "cards/practice-questions/competitors.json": "c5c798991c8587dcd8eac2b02b39c2b7ad8bd6356e7a1e194bfc92156d1027bb",
   "cards/practice-tests/card.md": "7c465998c706d1597d5f78a5e564b2975aef2b780ae630803fd505362b7067e1",
   "cards/practice-tests/competitors.json": "5526037c5c24d84db5c0a1d3346285d155a0d0f4ed2e0062ab1a839ccd2de0b7",
   "cards/prepper-survival/card.md": "c9e6fb8e7b67b6229770a99ecd973e492af6dee86b67540ffbcec9411d754bc6",
@@ -1282,255 +1293,243 @@
  },
  "queue": [
   {
-   "slug": "nursing-mnemonic",
-   "keyword": "nursing mnemonic",
-   "position": 1,
-   "eta_date": "2026-11-26"
-  },
-  {
-   "slug": "off-grid-meshtastic",
-   "keyword": "off-grid meshtastic",
-   "position": 2,
-   "eta_date": "2026-11-26"
-  },
-  {
-   "slug": "neurodivergent-adults",
-   "keyword": "neurodivergent adults",
-   "position": 3,
-   "eta_date": "2026-11-26"
-  },
-  {
-   "slug": "practice-questions",
-   "keyword": "practice questions",
-   "position": 4,
-   "eta_date": "2026-11-26"
-  },
-  {
    "slug": "ham-radio",
    "keyword": "ham radio",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "food-preservation",
    "keyword": "food preservation",
-   "position": 6,
+   "position": 2,
+   "eta_date": "2026-11-26"
+  },
+  {
+   "slug": "clear-explanations",
+   "keyword": "clear explanations",
+   "position": 3,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "comptia-security",
    "keyword": "comptia security",
-   "position": 7,
+   "position": 4,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "sign-language",
    "keyword": "sign language",
-   "position": 8,
+   "position": 5,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "emergency-preparedness",
    "keyword": "emergency preparedness",
-   "position": 9,
+   "position": 6,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "america-obscura",
    "keyword": "america obscura",
-   "position": 10,
+   "position": 7,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "show-up",
    "keyword": "show up",
-   "position": 11,
+   "position": 8,
    "eta_date": "2026-11-26"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 12,
+   "position": 9,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "fix-common",
    "keyword": "fix common",
-   "position": 13,
+   "position": 10,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "learn-faster",
    "keyword": "learn faster",
-   "position": 14,
+   "position": 11,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "small-engine",
    "keyword": "small engine",
-   "position": 15,
+   "position": 12,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "college-admission",
    "keyword": "college admission",
-   "position": 16,
+   "position": 13,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "etymological-past",
    "keyword": "etymological past",
-   "position": 17,
+   "position": 14,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 18,
+   "position": 15,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 19,
+   "position": 16,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "statistics-probability",
    "keyword": "statistics probability",
-   "position": 20,
+   "position": 17,
+   "eta_date": "2026-11-27"
+  },
+  {
+   "slug": "independence-self-reliance",
+   "keyword": "independence self-reliance",
+   "position": 18,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 21,
+   "position": 19,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 22,
-   "eta_date": "2026-11-27"
+   "position": 20,
+   "eta_date": "2026-11-28"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 23,
+   "position": 21,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 24,
+   "position": 22,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 25,
+   "position": 23,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 26,
+   "position": 24,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 27,
+   "position": 25,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 28,
+   "position": 26,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 29,
+   "position": 27,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 30,
+   "position": 28,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 31,
+   "position": 29,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 32,
+   "position": 30,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 33,
-   "eta_date": "2026-11-28"
+   "position": 31,
+   "eta_date": "2026-11-29"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 34,
+   "position": 32,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 35,
+   "position": 33,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 36,
+   "position": 34,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 37,
+   "position": 35,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 38,
+   "position": 36,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 39,
+   "position": 37,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 40,
+   "position": 38,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 41,
+   "position": 39,
    "eta_date": "2026-11-29"
   }
  ],
  "budget": {
-  "date": "2026-11-25",
-  "used": 122,
+  "date": "2026-11-26",
+  "used": 57,
   "limit": 240
  }
 }
