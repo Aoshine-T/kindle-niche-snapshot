@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-26T03:00:46Z",
+ "generated_at": "2026-11-27T02:43:16Z",
  "topics": 95,
  "cards": 209,
  "skill": {
@@ -9,36 +9,30 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 117,
- "elapsed_seconds": 1834,
+ "requests": 46,
+ "elapsed_seconds": 784,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 9,
-   "requests": 117,
-   "seconds": 1834
+   "words": 5,
+   "requests": 46,
+   "seconds": 784
   },
   "seeds": {
    "seeds": 34
   }
  },
  "new_cards": [
-  "nursing-mnemonic",
-  "off-grid-meshtastic",
-  "neurodivergent-adults",
-  "practice-questions",
-  "ham-radio",
-  "food-preservation",
-  "clear-explanations",
-  "comptia-security"
+  "less-useful",
+  "practice-tests",
+  "right-broke",
+  "sign-language",
+  "emergency-preparedness"
  ],
- "stopped": {
-  "reason": "captcha",
-  "next": "sign language"
- },
+ "stopped": null,
  "card_index": {
   "academic-talk": {
    "keyword": "academic talk",
@@ -266,7 +260,7 @@
   },
   "emergency-preparedness": {
    "keyword": "emergency preparedness",
-   "fetched_at": "2026-11-17"
+   "fetched_at": "2026-11-27"
   },
   "english-grammar": {
    "keyword": "english grammar",
@@ -498,7 +492,7 @@
   },
   "less-useful": {
    "keyword": "less useful",
-   "fetched_at": "2026-11-20"
+   "fetched_at": "2026-11-27"
   },
   "long-term-survival": {
    "keyword": "long-term survival",
@@ -606,7 +600,7 @@
   },
   "practice-tests": {
    "keyword": "practice tests",
-   "fetched_at": "2026-11-20"
+   "fetched_at": "2026-11-27"
   },
   "prepper-survival": {
    "keyword": "prepper survival",
@@ -670,7 +664,7 @@
   },
   "right-broke": {
    "keyword": "right broke",
-   "fetched_at": "2026-11-20"
+   "fetched_at": "2026-11-27"
   },
   "right-numbers": {
    "keyword": "right numbers",
@@ -710,7 +704,7 @@
   },
   "sign-language": {
    "keyword": "sign language",
-   "fetched_at": "2026-11-10"
+   "fetched_at": "2026-11-27"
   },
   "silicon-valley": {
    "keyword": "silicon valley",
@@ -990,8 +984,8 @@
   "cards/dry-mix/competitors.json": "afb03601d45b6ea3cee6d9a0171a7ee39ee06c466f27427e89cc6c8faf2c6601",
   "cards/electrical-engineering/card.md": "366b8065fa23845aa70d3daba272cab31ae1c837249250537f84e312fccbcfd2",
   "cards/electrical-engineering/competitors.json": "30f2437bf0305dd7e0168d4c87631b7f1e9c8042fabf2659e5d6578084343fc5",
-  "cards/emergency-preparedness/card.md": "0ae116502254e9ba4f41e2a99331624054089e68798f52ccf78787eb07abdf6f",
-  "cards/emergency-preparedness/competitors.json": "8cc219093b6913e3017fb11d23e30d81d9af9d36db0efc4ebe3986e2f26934cd",
+  "cards/emergency-preparedness/card.md": "4dbde09507637542ec47085cc871216bf8ff5e888de3ac1e39409a072cfbe8b0",
+  "cards/emergency-preparedness/competitors.json": "fc3ec5c2836a22d658cd7d6e907ffccad5848e299c7eb963dc643be21c2169f9",
   "cards/english-grammar/card.md": "025c36abb2fac5ffcac7e6abb11f4fb30919897a5dd4312a1f86fe7b61418190",
   "cards/english-grammar/competitors.json": "3db5b5a578611690d859721e1da08711f240a72a89fd9ce99a9fa95c3d1293bb",
   "cards/etsy-selling/card.md": "04b4182edf2ffdc487314e52505f0ff96ffbf56745837f494b43d6f4ef19e201",
@@ -1106,8 +1100,8 @@
   "cards/learn-hebrew/competitors.json": "117e8965bb83313cdf54ebfd218f0e299f48d2345c8c037ef206518e3ca1d687",
   "cards/less-time/card.md": "3d3cd7f2fba169440550144f7002eef4b0083d523229efe3a92b0150f49ce19d",
   "cards/less-time/competitors.json": "f40f9d97e902d318fa8bf5b08d73bb5d20366d0bd222d4521f9d141b9750b059",
-  "cards/less-useful/card.md": "59ec2c0672dc54029531dac23046b8bc3a37dce67f49e3c90b2aa60dc116af19",
-  "cards/less-useful/competitors.json": "5b4f6897177a33291c0dffb571e20d0c1e117e0c493801f83f903a96173cddca",
+  "cards/less-useful/card.md": "fc12f3ba7afe8fa3dc68aa4fde63f53528e4624728ec2b3c9d69717e4dac225f",
+  "cards/less-useful/competitors.json": "785dbdf77709a8ff1e1c43bf5ed47f829e765ad41a15f664863137216329fc2e",
   "cards/long-term-survival/card.md": "19a0a428a06cd7d0e7aafff09e29baf7fe6f4073cdd92ff530d3da8d5b3256a2",
   "cards/long-term-survival/competitors.json": "970030209615db69e4531e9db9ec68bb2e82e11d380e907636a27b7b0eb40565",
   "cards/lsat-logical/card.md": "50a75192d424a40faa0d03cb2e98008687c001470b3d6f9aee00aed81f96b709",
@@ -1160,8 +1154,8 @@
   "cards/potty-training/competitors.json": "9d57165d05759cd50b5f6c771da5c7e3c84f2819fc88d14c0f3f8e6c117cffa0",
   "cards/practice-questions/card.md": "3ed3a2c963bc95fe331566d4af63d09374d21240583ece06b3faf6698c83ab65",
   "cards/practice-questions/competitors.json": "c5c798991c8587dcd8eac2b02b39c2b7ad8bd6356e7a1e194bfc92156d1027bb",
-  "cards/practice-tests/card.md": "7c465998c706d1597d5f78a5e564b2975aef2b780ae630803fd505362b7067e1",
-  "cards/practice-tests/competitors.json": "5526037c5c24d84db5c0a1d3346285d155a0d0f4ed2e0062ab1a839ccd2de0b7",
+  "cards/practice-tests/card.md": "492788d30791c06328949ab54b2f09b4baf02e853afea6ade3e95f14a42b9c56",
+  "cards/practice-tests/competitors.json": "66199b508a0e2c480a72459422f5d05201aa6849064286507ac48d41c6a70b89",
   "cards/prepper-survival/card.md": "c9e6fb8e7b67b6229770a99ecd973e492af6dee86b67540ffbcec9411d754bc6",
   "cards/prepper-survival/competitors.json": "7d974d346f36ed999c15ffedec441b65a5406ac58ceefa2696c094cc2a5d3553",
   "cards/prompt-engineering/card.md": "32afc51e5f88cb23e2e16e6e2d663864600bb26e1bd1a64571fbac7baf500821",
@@ -1192,8 +1186,8 @@
   "cards/retirement-planning/competitors.json": "ca6c09a989f4c599346592ddee6c53c4a947cccda2b8f98f38aca02c11351f11",
   "cards/rick-steves/card.md": "062d0bd4d8d49212148cd98b03f064e901a7334159429b43bcf33c4b910a237b",
   "cards/rick-steves/competitors.json": "7e4aeccb1516a7a7d4e7e423493b5e90013e8e5b2c3ab0a60d8e78b4cd061b31",
-  "cards/right-broke/card.md": "dfd79e77d6a0cdfcc0b19bc5c80f9aea3337913719c0792ae932fcab97b710ab",
-  "cards/right-broke/competitors.json": "de05a599a14289ee7b4e339395efe48dcfbba0e51b3a09b3ef90e47e940a0a07",
+  "cards/right-broke/card.md": "377e4447b568df595f3da26f4cbddfba714e7b6112f1bf498ba7d4e809aeab06",
+  "cards/right-broke/competitors.json": "9212ec2962d43ab2c8ea30a5b473788994a1bab590ff729076c8a8ba0e87fee4",
   "cards/right-numbers/card.md": "36d490f973ad3ee30874c23088bf069c43998d810419af924e5773da728b763a",
   "cards/right-numbers/competitors.json": "e260973acf74a4bab502a37c54b243b4646d3d8c00435e761d64d6b4c6c3c75c",
   "cards/road-trip/card.md": "495889467cc8bf4876b88fbda162812177128ae3efba6262a47f87cc34b36cd2",
@@ -1212,8 +1206,8 @@
   "cards/show-up/competitors.json": "50351e44547d5ab5a614c664e6a4e16878b484a4f5cdf55b6a9c216ecd10a9cd",
   "cards/side-hustles/card.md": "3e53a7e776c6f6f8b165a3a891449215fcec83863c6265baa61ce6d5a24d680b",
   "cards/side-hustles/competitors.json": "cc6b6ae1e597d6476b3725ce87935eaaecf1315511d9dd45fc3ce1210e898934",
-  "cards/sign-language/card.md": "d24234d756a81b6a9dde4cc19501c2c01a5c7c541e6823fe3c8eb1988c420f85",
-  "cards/sign-language/competitors.json": "c2d95f6ee37ce732b09909bb1321c0d74f4c89ea7c034ebff98b415dfb062f6e",
+  "cards/sign-language/card.md": "e97b0dfd555f276492c405e7a94857d7f1f95c7a69ccab0afa5240e42f68ff0d",
+  "cards/sign-language/competitors.json": "212a79adeac2b372949ee8fbbccfb9902d4e748b8a156125a84319e45469a7c1",
   "cards/silicon-valley/card.md": "ff1bfb1ebd077cdf282f85cbc77b295802a05feb698d31770e0e0a3168697ffb",
   "cards/silicon-valley/competitors.json": "94e48fcb10cd6408260cf3f2ae6314c7a681a2f876f0bd11b76d20f063d4f96e",
   "cards/size-organization/card.md": "64d51bbfc73cbae007c410756537304ad878806f2cde6d8894dabcd298e19e96",
@@ -1300,38 +1294,38 @@
  },
  "queue": [
   {
-   "slug": "sign-language",
-   "keyword": "sign language",
+   "slug": "america-obscura",
+   "keyword": "america obscura",
    "position": 1,
    "eta_date": "2026-11-27"
   },
   {
-   "slug": "emergency-preparedness",
-   "keyword": "emergency preparedness",
+   "slug": "potty-training",
+   "keyword": "potty training",
    "position": 2,
-   "eta_date": "2026-11-27"
-  },
-  {
-   "slug": "america-obscura",
-   "keyword": "america obscura",
-   "position": 3,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "show-up",
    "keyword": "show up",
-   "position": 4,
+   "position": 3,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "ai-agents",
    "keyword": "ai agents",
-   "position": 5,
+   "position": 4,
    "eta_date": "2026-11-27"
   },
   {
    "slug": "fix-common",
    "keyword": "fix common",
+   "position": 5,
+   "eta_date": "2026-11-27"
+  },
+  {
+   "slug": "ai-industry",
+   "keyword": "ai industry",
    "position": 6,
    "eta_date": "2026-11-27"
   },
@@ -1357,13 +1351,13 @@
    "slug": "etymological-past",
    "keyword": "etymological past",
    "position": 10,
-   "eta_date": "2026-11-27"
+   "eta_date": "2026-11-28"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
    "position": 11,
-   "eta_date": "2026-11-27"
+   "eta_date": "2026-11-28"
   },
   {
    "slug": "mediterranean-diet",
@@ -1423,13 +1417,13 @@
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
    "position": 21,
-   "eta_date": "2026-11-28"
+   "eta_date": "2026-11-29"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
    "position": 22,
-   "eta_date": "2026-11-28"
+   "eta_date": "2026-11-29"
   },
   {
    "slug": "meal-prep",
@@ -1489,13 +1483,13 @@
    "slug": "dog-training",
    "keyword": "dog training",
    "position": 32,
-   "eta_date": "2026-11-29"
+   "eta_date": "2026-11-30"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
    "position": 33,
-   "eta_date": "2026-11-29"
+   "eta_date": "2026-11-30"
   },
   {
    "slug": "crochet",
@@ -1511,8 +1505,8 @@
   }
  ],
  "budget": {
-  "date": "2026-11-26",
-  "used": 117,
+  "date": "2026-11-27",
+  "used": 46,
   "limit": 240
  }
 }
