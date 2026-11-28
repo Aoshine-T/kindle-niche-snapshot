@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-28T02:58:44Z",
+ "generated_at": "2026-11-28T03:11:19Z",
  "topics": 95,
  "cards": 209,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 112,
- "elapsed_seconds": 1698,
+ "requests": 155,
+ "elapsed_seconds": 2453,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 7,
-   "requests": 112,
-   "seconds": 1698
+   "words": 11,
+   "requests": 155,
+   "seconds": 2453
   },
   "seeds": {
    "seeds": 34
@@ -32,7 +32,11 @@
   "small-engine",
   "quantum-physics",
   "self-help-author",
-  "college-admission"
+  "college-admission",
+  "etymological-past",
+  "interaction-count",
+  "mediterranean-diet",
+  "statistics-probability"
  ],
  "stopped": null,
  "card_index": {
@@ -274,7 +278,7 @@
   },
   "etymological-past": {
    "keyword": "etymological past",
-   "fetched_at": "2026-11-18"
+   "fetched_at": "2026-11-28"
   },
   "etymologist-field": {
    "keyword": "etymologist field",
@@ -442,7 +446,7 @@
   },
   "interaction-count": {
    "keyword": "interaction count",
-   "fetched_at": "2026-11-16"
+   "fetched_at": "2026-11-28"
   },
   "intermittent-fasting": {
    "keyword": "intermittent fasting",
@@ -530,7 +534,7 @@
   },
   "mediterranean-diet": {
    "keyword": "mediterranean diet",
-   "fetched_at": "2026-11-15"
+   "fetched_at": "2026-11-28"
   },
   "mental-health": {
    "keyword": "mental health",
@@ -758,7 +762,7 @@
   },
   "statistics-probability": {
    "keyword": "statistics probability",
-   "fetched_at": "2026-11-05"
+   "fetched_at": "2026-11-28"
   },
   "stock-market": {
    "keyword": "stock market",
@@ -992,8 +996,8 @@
   "cards/english-grammar/competitors.json": "3db5b5a578611690d859721e1da08711f240a72a89fd9ce99a9fa95c3d1293bb",
   "cards/etsy-selling/card.md": "04b4182edf2ffdc487314e52505f0ff96ffbf56745837f494b43d6f4ef19e201",
   "cards/etsy-selling/competitors.json": "7cf3147b24101c53b02c4eb019de74c6c71b77df5afe2a06133df2a3d6c90f25",
-  "cards/etymological-past/card.md": "940d23a9dfa1b271a69ff7d2d7b7c9d08d9185a54e88bc2d31e1fa8da0a6bded",
-  "cards/etymological-past/competitors.json": "ba7008df5e8e572b4a8e8b618041c28c328691bb90d4b1fa1b6a9e6b3cdddb29",
+  "cards/etymological-past/card.md": "5d894086d07fb6c8d0aab78ee10be18ad05e2ab2d9150ba71a9e9d413f1ffb24",
+  "cards/etymological-past/competitors.json": "76022816313ea3239f167f9f6e3f6ece4e95a8bb99d3a443ddd8bba19e63cd8d",
   "cards/etymologist-field/card.md": "b08ad74b0eaaf6985c223c55945635f82036f20241a6fab76becd0f6b55e808f",
   "cards/etymologist-field/competitors.json": "ca2c5461207ed65a0e563611861440ccb45852b456633b55fe6703a7b316af82",
   "cards/excel/card.md": "c6986527368d7cd98e79e4b02bef0d7f82a8920dd9a3a4cebf0c54762ab2876c",
@@ -1076,8 +1080,8 @@
   "cards/independence-self-reliance/competitors.json": "d3b0eb801ac3c69d61e2806a7105408ac451bd48436056b1be90239521372128",
   "cards/inner-creativity/card.md": "9e4af85b379e1270c1277b230e71bf47151da7938d6a8ecbd46b35ae1b49dbad",
   "cards/inner-creativity/competitors.json": "bc093e5829f6a79ad7c738a75c351fa6c7233747d37e42163c4a4bf7267934ae",
-  "cards/interaction-count/card.md": "91c990b6e5906b47fcc52f539cb282d8e4ec53fe1ad4bc731f1021e10dc8b8d7",
-  "cards/interaction-count/competitors.json": "14266110ae621a59fa58547aa247bdfab4a15370dd5fdbb4ea0d5428a63f2c78",
+  "cards/interaction-count/card.md": "5a35fb5ab8f903a3fe39f3b558d6b0edc4dd96d62745225c890c4d46fb1f891a",
+  "cards/interaction-count/competitors.json": "95db0dbf70bbc01323a2c45162df01721b6858bf3e89c0612f2008a788236560",
   "cards/intermittent-fasting/card.md": "a70439942210f3430c78b409366489c36880d28a41741a0357b2fd14fdf4eeef",
   "cards/intermittent-fasting/competitors.json": "72c369d35a51a6013dc00f8edd22ea086c28003768c57c80df25e0eaa2ac30ab",
   "cards/international-bestselling/card.md": "c55d26c185283f7f776bef6fb1c16fc4ae839149aa179f297032cc5a8a8c5f46",
@@ -1120,8 +1124,8 @@
   "cards/meal-prep/competitors.json": "3e4a3d5f9206b3968736904e77c791061b037b6494d0f0f0f726fe758a5dce7e",
   "cards/medicinal-herbs/card.md": "454dec7005df18615824dd98e1ef8b8af8a5767955f463d1b50d161092578703",
   "cards/medicinal-herbs/competitors.json": "57e80c3ecab0d53a3b616201ff611390b320d1220574f5042bf6c1bd7ad746a5",
-  "cards/mediterranean-diet/card.md": "8e766b8e9553adc4298067280363f384aae0ea0b498f5ccf37629c083f798dd9",
-  "cards/mediterranean-diet/competitors.json": "b8a0bb2020e286e8348c331b2737cf5fe52f30f93c2e1f27e8e3505577423031",
+  "cards/mediterranean-diet/card.md": "5a99920a055e21bb6dcb6ccaaf594f7c0d25923f0a934767529e26ee1b54f74a",
+  "cards/mediterranean-diet/competitors.json": "dc1953a818098fce052f9e47e00f37756b04ade2b2e95068786d69bdf4639d47",
   "cards/mental-health/card.md": "b785d195083f1c5e28d616cb1f407c6f79cf0f5189ea7e5675eed4973ceb2cf0",
   "cards/mental-health/competitors.json": "9e8ff1471e9dfda00147fb390c338d9ae29ffcb8a4fc54f50eb766ac18d01d52",
   "cards/middle-east/card.md": "808fa53edb789b3c94a218c610b5a0caec1f477c94ccf35d7772788cece73b48",
@@ -1234,8 +1238,8 @@
   "cards/speak-up/competitors.json": "5f44c9d12bd95251fe7e71e870ec8f7145db912de55582d17a8179e882151d3d",
   "cards/stack-high-value/card.md": "dd918ed50ae37fd96b8df3219f917240325e216db960063acfac41c62d121d1b",
   "cards/stack-high-value/competitors.json": "aedd890edd42ba06befe6caf7197e54ab9f912ccf911bb8ac68d151c43245023",
-  "cards/statistics-probability/card.md": "6d6e03e6f29209a22b6402f58889cc3a14a77c69cfa2d9ddc5470b2c1fe5f81a",
-  "cards/statistics-probability/competitors.json": "ab6de536ffea79dc1c265ce9762bb7d5909d0338780ca9610c0fd665b8d55a39",
+  "cards/statistics-probability/card.md": "1bddd9bcaf989aae72116857286e806f9a42083e1f03a1275b6b3ab54172dffa",
+  "cards/statistics-probability/competitors.json": "85f5bb0ace2e57793aa470c909333828575f2382a7c71c0638b2f70871c60e97",
   "cards/stock-market/card.md": "5239acaff7b58deef8620125fb27c77a79f7fe272d1589db613c22a5fcc4d02e",
   "cards/stock-market/competitors.json": "c932eda66809dc98de3989cb9ec8101dd98d07f1105c39161b27d80662270764",
   "cards/strength-training-over-50/card.md": "0e52926c7d58cce798efd88f93e1b985fc4ed1f391015906142971b72eed6a82",
@@ -1296,165 +1300,141 @@
  },
  "queue": [
   {
-   "slug": "etymological-past",
-   "keyword": "etymological past",
-   "position": 1,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "interaction-count",
-   "keyword": "interaction count",
-   "position": 2,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "mediterranean-diet",
-   "keyword": "mediterranean diet",
-   "position": 3,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "statistics-probability",
-   "keyword": "statistics probability",
-   "position": 4,
-   "eta_date": "2026-11-28"
-  },
-  {
    "slug": "independence-self-reliance",
    "keyword": "independence self-reliance",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 6,
-   "eta_date": "2026-11-29"
+   "position": 2,
+   "eta_date": "2026-11-28"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 7,
-   "eta_date": "2026-11-29"
+   "position": 3,
+   "eta_date": "2026-11-28"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 9,
+   "position": 5,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 17,
-   "eta_date": "2026-11-30"
+   "position": 13,
+   "eta_date": "2026-11-29"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 18,
-   "eta_date": "2026-11-30"
+   "position": 14,
+   "eta_date": "2026-11-29"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 20,
+   "position": 16,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-30"
   }
  ],
  "budget": {
   "date": "2026-11-28",
-  "used": 112,
+  "used": 155,
   "limit": 240
  }
 }
