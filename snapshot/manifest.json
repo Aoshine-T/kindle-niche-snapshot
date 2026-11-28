@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-28T03:11:19Z",
+ "generated_at": "2026-11-28T03:26:56Z",
  "topics": 95,
  "cards": 209,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 155,
- "elapsed_seconds": 2453,
+ "requests": 215,
+ "elapsed_seconds": 3390,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 11,
-   "requests": 155,
-   "seconds": 2453
+   "words": 15,
+   "requests": 215,
+   "seconds": 3390
   },
   "seeds": {
    "seeds": 34
@@ -36,7 +36,11 @@
   "etymological-past",
   "interaction-count",
   "mediterranean-diet",
-  "statistics-probability"
+  "statistics-probability",
+  "independence-self-reliance",
+  "kindle-app",
+  "time-management",
+  "python-programming"
  ],
  "stopped": null,
  "card_index": {
@@ -438,7 +442,7 @@
   },
   "independence-self-reliance": {
    "keyword": "independence self-reliance",
-   "fetched_at": "2026-11-19"
+   "fetched_at": "2026-11-28"
   },
   "inner-creativity": {
    "keyword": "inner creativity",
@@ -466,7 +470,7 @@
   },
   "kindle-app": {
    "keyword": "kindle app",
-   "fetched_at": "2026-10-31"
+   "fetched_at": "2026-11-28"
   },
   "lead-anyway": {
    "keyword": "lead anyway",
@@ -630,7 +634,7 @@
   },
   "python-programming": {
    "keyword": "python programming",
-   "fetched_at": "2026-11-06"
+   "fetched_at": "2026-11-28"
   },
   "quantum-mechanics": {
    "keyword": "quantum mechanics",
@@ -806,7 +810,7 @@
   },
   "time-management": {
    "keyword": "time management",
-   "fetched_at": "2026-11-06"
+   "fetched_at": "2026-11-28"
   },
   "time-traveler": {
    "keyword": "time traveler",
@@ -1076,8 +1080,8 @@
   "cards/important-relationships/competitors.json": "b5ac0faf3f98182250f89f32036f670b4b1c78fb22941d67e7755a0f09df8651",
   "cards/in-demand-chief/card.md": "87494c82035717e652d73f8467b079d819e9d818f5d60a5be5eef3a44cbdb63a",
   "cards/in-demand-chief/competitors.json": "29bf61ab1bf6b5cbb919ea952c5de2b56c09843ad19019223208afc3d72fee7f",
-  "cards/independence-self-reliance/card.md": "300be2beb0d9bbb37c87194c76b45c7ee7806fb73a43d15913d101cb18c89d07",
-  "cards/independence-self-reliance/competitors.json": "d3b0eb801ac3c69d61e2806a7105408ac451bd48436056b1be90239521372128",
+  "cards/independence-self-reliance/card.md": "e27efe55f0ee8c6dab2929e8f7e513faad00dad58ad58c692ad37424e2e1f15a",
+  "cards/independence-self-reliance/competitors.json": "759b9f646806917789d579ac7c2192b0d3cbc6389278aee11d195180419b50b1",
   "cards/inner-creativity/card.md": "9e4af85b379e1270c1277b230e71bf47151da7938d6a8ecbd46b35ae1b49dbad",
   "cards/inner-creativity/competitors.json": "bc093e5829f6a79ad7c738a75c351fa6c7233747d37e42163c4a4bf7267934ae",
   "cards/interaction-count/card.md": "5a35fb5ab8f903a3fe39f3b558d6b0edc4dd96d62745225c890c4d46fb1f891a",
@@ -1090,8 +1094,8 @@
   "cards/invisible-wounds/competitors.json": "f6f04a1919e515623196cb9ab6004030a61906d9f36d02448bc8967c89e7610a",
   "cards/just-add-water-mason/card.md": "1ee51c7ba22a9edf9e7375744e073eb861fc77b5d8230e00e45276235b61c8b4",
   "cards/just-add-water-mason/competitors.json": "a411beccd7b87fc8c80338514c80a7ae8bdbb73f09cca7dc8f4d3d6f6ca6a513",
-  "cards/kindle-app/card.md": "f0740d8137b51dcd8940eee293356f370cfef5127cad27cec7ae8612b9b67e6b",
-  "cards/kindle-app/competitors.json": "a7341c6f3a01a3e2c68973900f8011e873860514dd8e7dd88fca9bb5a35612c5",
+  "cards/kindle-app/card.md": "91a9009d3a71a829be230d4aea1f3752ba21f0d82583880bfcfefc7989ce32cc",
+  "cards/kindle-app/competitors.json": "e51167a875baa091d95843059a5215b1231fcd63c96115f2687af902b424d8d8",
   "cards/lead-anyway/card.md": "c8f74ddaf337a3b4f3686a27b568233740efb6e279df8702aaf4b46713b9b35b",
   "cards/lead-anyway/competitors.json": "3e45784708543d6dff143737cfd225527ed11805e3b61d0b8f5cf4f8c02f7b8d",
   "cards/leading-former/card.md": "2cd028deb7cfb40c72dd20f6aeef8d29353af449fdec9f220544fb5183ddaf89",
@@ -1172,8 +1176,8 @@
   "cards/public-speaking/competitors.json": "a90a7cc74dfbe7ef8376e9921db18e624d910a9ba7098b1cf8b1a4a63c284061",
   "cards/publishing-faster/card.md": "31b75ba319eaf12950bef7f9dc3be5d0767ab61fc8feada0280eaa05cedc1824",
   "cards/publishing-faster/competitors.json": "918fad5afc8ec7139c4ba8a4fe74b44685f4868560f0d8b0392d894cedbc9e9b",
-  "cards/python-programming/card.md": "de6f4afbcdacf6748adda0d15851a1b8d376311c5506aa8e48ffd1eea6f72a0a",
-  "cards/python-programming/competitors.json": "677acefd19c499b1121ed362ce0b947ea339d76d4658d0d32ff0bfe95d5af0dd",
+  "cards/python-programming/card.md": "35253228f6de8c74f5642bdc708b362e0ed11a02b2c646c5dc71c9d590a4ac1b",
+  "cards/python-programming/competitors.json": "c0900e27d41e88e1bc78dcaf73b1cf878539838c40d84cfb217309a25b912800",
   "cards/quantum-mechanics/card.md": "8138752961bd6f532162a382152ca6e61fe5c5a81dc82e747a45ab83f7893420",
   "cards/quantum-mechanics/competitors.json": "83b44e9a0a65e1a9ee6a0ff2c30d644ab407974f5c0bd0102dfcbfcabd7f480e",
   "cards/quantum-physics/card.md": "705b8cca738c1a7061322c35f2cbcfdbcf2f76477b9d9e4a29297c89cae509c7",
@@ -1260,8 +1264,8 @@
   "cards/test-free-law/competitors.json": "8134e8948a0ba2b66747ae72822a606117290a926eadb9854d191a56551b64e7",
   "cards/tested-advice/card.md": "1bd120acd2fe1f2ec50c37d14f5f5d65e8ddeda0cfea3c300cbb3f31b0bd2215",
   "cards/tested-advice/competitors.json": "199eaf7fafc5072730b6d154164f3e93fa20c92668a0092bd049b61f0717515b",
-  "cards/time-management/card.md": "0f9f2d7fdcf4c2775167ee9b61227283d19d4ab4fcaf9c20dde523b3b66b6ce0",
-  "cards/time-management/competitors.json": "0b02d3885a8afa6edeb1bb8e5803c1c1dc140e033012d6903837903ceaacd542",
+  "cards/time-management/card.md": "185490c3c3e2445fafef683f80d84b8f1e39b245d3706c3a4c0b0034f5b9e7da",
+  "cards/time-management/competitors.json": "dea2a90d886bcecd73d290b470783fbcd50ec81bb93ee45c1eb7eff4b8acf8b7",
   "cards/time-traveler/card.md": "c185641b82db920f648f4ea5f8934cd52c5d3fb163f2924824482564a7868c25",
   "cards/time-traveler/competitors.json": "6f1d408424c3e0787d33c6006e7d1a6b10f375b29b87d37f1e567d278cb85c27",
   "cards/too-late/card.md": "1e8daa43dd7d8b9faaa523d0d9205b1eda7c9bfdb4c95be5110f6da7ad82eb45",
@@ -1300,141 +1304,117 @@
  },
  "queue": [
   {
-   "slug": "independence-self-reliance",
-   "keyword": "independence self-reliance",
+   "slug": "public-speaking",
+   "keyword": "public speaking",
    "position": 1,
    "eta_date": "2026-11-28"
   },
   {
-   "slug": "kindle-app",
-   "keyword": "kindle app",
-   "position": 2,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "time-management",
-   "keyword": "time management",
-   "position": 3,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "python-programming",
-   "keyword": "python programming",
-   "position": 4,
-   "eta_date": "2026-11-29"
-  },
-  {
-   "slug": "public-speaking",
-   "keyword": "public speaking",
-   "position": 5,
-   "eta_date": "2026-11-29"
-  },
-  {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 9,
+   "position": 5,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 15,
-   "eta_date": "2026-11-30"
+   "position": 11,
+   "eta_date": "2026-11-29"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 16,
-   "eta_date": "2026-11-30"
+   "position": 12,
+   "eta_date": "2026-11-29"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 20,
+   "position": 16,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-30"
   }
  ],
  "budget": {
   "date": "2026-11-28",
-  "used": 155,
+  "used": 215,
   "limit": 240
  }
 }
