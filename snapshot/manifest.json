@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-28T02:41:42Z",
+ "generated_at": "2026-11-28T02:58:44Z",
  "topics": 95,
  "cards": 209,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 47,
- "elapsed_seconds": 676,
+ "requests": 112,
+ "elapsed_seconds": 1698,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 3,
-   "requests": 47,
-   "seconds": 676
+   "words": 7,
+   "requests": 112,
+   "seconds": 1698
   },
   "seeds": {
    "seeds": 34
@@ -28,7 +28,11 @@
  "new_cards": [
   "rick-steves",
   "bambu-studio",
-  "learn-faster"
+  "learn-faster",
+  "small-engine",
+  "quantum-physics",
+  "self-help-author",
+  "college-admission"
  ],
  "stopped": null,
  "card_index": {
@@ -202,7 +206,7 @@
   },
   "college-admission": {
    "keyword": "college admission",
-   "fetched_at": "2026-11-18"
+   "fetched_at": "2026-11-28"
   },
   "comptia-linux": {
    "keyword": "comptia linux",
@@ -630,7 +634,7 @@
   },
   "quantum-physics": {
    "keyword": "quantum physics",
-   "fetched_at": "2026-11-21"
+   "fetched_at": "2026-11-28"
   },
   "quebec-french": {
    "keyword": "quebec french",
@@ -686,7 +690,7 @@
   },
   "self-help-author": {
    "keyword": "self-help author",
-   "fetched_at": "2026-11-21"
+   "fetched_at": "2026-11-28"
   },
   "self-publishing": {
    "keyword": "self publishing",
@@ -722,7 +726,7 @@
   },
   "small-engine": {
    "keyword": "small engine",
-   "fetched_at": "2026-11-11"
+   "fetched_at": "2026-11-28"
   },
   "small-engines": {
    "keyword": "small engines",
@@ -954,8 +958,8 @@
   "cards/coach-resistance/competitors.json": "cbcb31b079dedb0ce6309bc069c0c017d0767e483e5515691edbea016d932f57",
   "cards/coding-required/card.md": "a85fb5103ff687e5f996decc8186f5ed607a76f421f0d7f65b6a70d2e7f46129",
   "cards/coding-required/competitors.json": "21ed8089aa6b869851e4cf5605e47260a0d35cd76a4a0076e7c8b530ce2abbca",
-  "cards/college-admission/card.md": "d4d6b1fa88bcb76c6b9745c0fe1e0824303341192c8c07c1233d6004ed245847",
-  "cards/college-admission/competitors.json": "e343af0846f45ae13a8479f3375fccd76e8ee22adaa3b925d2659657429b1f1d",
+  "cards/college-admission/card.md": "ba0c15f803450cbb0781969a342ade237be712ecae274b5f340b04909005f27f",
+  "cards/college-admission/competitors.json": "aba1de8cf1c971257d5d66b95133c45a5579d4186c4ce6baa98742de9c78b0fe",
   "cards/comptia-linux/card.md": "84d5dc4e68f0b5838dc300ccd475c406fdee074793e98df9d20fc62e4d2030ef",
   "cards/comptia-linux/competitors.json": "d9e44a9786896f33f29f7c66a4edbe1956e57dba0d9bedab648a3fa4bdcf0192",
   "cards/comptia-security/card.md": "7fca74c10f4c1708d4914c6793a298e71f2f339285318814eee34f5979640468",
@@ -1168,8 +1172,8 @@
   "cards/python-programming/competitors.json": "677acefd19c499b1121ed362ce0b947ea339d76d4658d0d32ff0bfe95d5af0dd",
   "cards/quantum-mechanics/card.md": "8138752961bd6f532162a382152ca6e61fe5c5a81dc82e747a45ab83f7893420",
   "cards/quantum-mechanics/competitors.json": "83b44e9a0a65e1a9ee6a0ff2c30d644ab407974f5c0bd0102dfcbfcabd7f480e",
-  "cards/quantum-physics/card.md": "c11686ff5712dac274bc2b188799cd4a27adbd93e895fe15be260772ea07e10e",
-  "cards/quantum-physics/competitors.json": "60c9d0f84cfa7b65eac924e9e1d98738ec203903f17db564eaa7410e008c2447",
+  "cards/quantum-physics/card.md": "705b8cca738c1a7061322c35f2cbcfdbcf2f76477b9d9e4a29297c89cae509c7",
+  "cards/quantum-physics/competitors.json": "0052fd493f076cf4b6226e15fb0428968d751cd980dcd69ccff715770519a95b",
   "cards/quebec-french/card.md": "9e56d74713e796ad944c7ec9a787a7f9afa3d6957ce9f862f8ba92326b763518",
   "cards/quebec-french/competitors.json": "86ff7fcea7671442d6fcd6757d0b253f93f72f9153a749e5599ec7e0fb0d0609",
   "cards/querying-literary/card.md": "742138f0d3d01d03ed778888df12eda86d104e0422f81529372ee83c5fc74c5c",
@@ -1196,8 +1200,8 @@
   "cards/safe-haven/competitors.json": "92003ac91cf181f7a4839f8fd632c7922f4bb6307397f38f05c9a91e6b70938d",
   "cards/scaffolding-complex/card.md": "ab2bbd27442734218d8dda732fdde337a84d11cee21f8e4d3a011dcdd274963a",
   "cards/scaffolding-complex/competitors.json": "a7771a1196c4c0a7244bf5762088c07553e563e80a7eb718a2086dd088980e76",
-  "cards/self-help-author/card.md": "d6416d1705637ab69f80df1020f60e3871d4494c74d594525319fb70edbe5332",
-  "cards/self-help-author/competitors.json": "a60668158074569ce6d3e942e677711c993a26694dcc814c0d97df886ca6977f",
+  "cards/self-help-author/card.md": "3e3bea8d531f506b5e3bde913fb34d21e79132c139093126394ad9c425d25149",
+  "cards/self-help-author/competitors.json": "1530ad39cfb205a60042cdf2eedd0a4b2c5ab4b01c989e62a8300759ebe194c6",
   "cards/self-publishing/card.md": "5943fa4f4fe4c45b500e27792cece04a921e736be75617739a8f081dc1eb0eb4",
   "cards/self-publishing/competitors.json": "0b3441b38063837ceeda2fdb9f1f162db5c5163a6ec4dcc3b723c4632be62ded",
   "cards/show-up/card.md": "740d6e3afca3f22a280c8d84a446a5044e7d6dc79ac8248f66b87688af087b2d",
@@ -1214,8 +1218,8 @@
   "cards/sleep-better/competitors.json": "05c7523e183877c47efc08bb44ac076d39f77c6f1c1878a7ea9bbcb6cff95e5d",
   "cards/small-changes/card.md": "e429fc737fa98af3e549e696f86025eb664b2227b037d0642b168629445a3324",
   "cards/small-changes/competitors.json": "09f75f23901b0351bd1c905e20c9741761abbfdf7756a57be29d75d6b2cfb770",
-  "cards/small-engine/card.md": "5a772c3913032b62f5c5805f85fe434156cdaa1e94a8fc1c82e57bb77a82843c",
-  "cards/small-engine/competitors.json": "cf5910c6f98348ce92db9c1769fc05e9efdcfb5e6bd51c072303331d9e1e8ecd",
+  "cards/small-engine/card.md": "8dbd68d2973aabc712b26b6cb64e7651c62ac18eeff20c35fabdd39192b6ccdc",
+  "cards/small-engine/competitors.json": "72968603f6bd3e4467cc724cb33216a866e91c289633ec2215837964110f2f89",
   "cards/small-engines/card.md": "7303fd45eb08deacc6dec6d3c1a4676df30836b2af9a4c27e6769c4f9ad0c538",
   "cards/small-engines/competitors.json": "68bc8e049734b31b053737923986902a7cc8d299b062c1bc43dacdbccd606f08",
   "cards/small-talk/card.md": "9b287017ce51a3657cded3a5940c8a154558c959306ae1c0f5fedf06f6ebc254",
@@ -1292,189 +1296,165 @@
  },
  "queue": [
   {
-   "slug": "small-engine",
-   "keyword": "small engine",
-   "position": 1,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "quantum-physics",
-   "keyword": "quantum physics",
-   "position": 2,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "self-help-author",
-   "keyword": "self-help author",
-   "position": 3,
-   "eta_date": "2026-11-28"
-  },
-  {
-   "slug": "college-admission",
-   "keyword": "college admission",
-   "position": 4,
-   "eta_date": "2026-11-28"
-  },
-  {
    "slug": "etymological-past",
    "keyword": "etymological past",
-   "position": 5,
+   "position": 1,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "interaction-count",
    "keyword": "interaction count",
-   "position": 6,
+   "position": 2,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "mediterranean-diet",
    "keyword": "mediterranean diet",
-   "position": 7,
+   "position": 3,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "statistics-probability",
    "keyword": "statistics probability",
-   "position": 8,
+   "position": 4,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "independence-self-reliance",
    "keyword": "independence self-reliance",
-   "position": 9,
+   "position": 5,
    "eta_date": "2026-11-28"
   },
   {
    "slug": "kindle-app",
    "keyword": "kindle app",
-   "position": 10,
+   "position": 6,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "time-management",
    "keyword": "time management",
-   "position": 11,
+   "position": 7,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "python-programming",
    "keyword": "python programming",
-   "position": 12,
+   "position": 8,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "public-speaking",
    "keyword": "public speaking",
-   "position": 13,
+   "position": 9,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 14,
+   "position": 10,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 15,
+   "position": 11,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 16,
+   "position": 12,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 17,
+   "position": 13,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 18,
+   "position": 14,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 19,
+   "position": 15,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 20,
+   "position": 16,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 21,
+   "position": 17,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 22,
+   "position": 18,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 23,
+   "position": 19,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 24,
+   "position": 20,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 25,
+   "position": 21,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 26,
+   "position": 22,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 27,
+   "position": 23,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 28,
+   "position": 24,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 29,
+   "position": 25,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 30,
+   "position": 26,
    "eta_date": "2026-11-30"
   }
  ],
  "budget": {
   "date": "2026-11-28",
-  "used": 47,
+  "used": 112,
   "limit": 240
  }
 }
