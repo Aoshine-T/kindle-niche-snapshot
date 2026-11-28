@@ -1,6 +1,6 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-11-28T03:26:56Z",
+ "generated_at": "2026-11-28T03:30:52Z",
  "topics": 95,
  "cards": 209,
  "skill": {
@@ -9,17 +9,17 @@
   "branch": "staging",
   "commit": "91621897954c0a6e6388d545022873449b86be45"
  },
- "requests": 215,
- "elapsed_seconds": 3390,
+ "requests": 230,
+ "elapsed_seconds": 3626,
  "steps": {
   "topics": {
    "requests": 45,
    "seconds": 470
   },
   "deep": {
-   "words": 15,
-   "requests": 215,
-   "seconds": 3390
+   "words": 16,
+   "requests": 230,
+   "seconds": 3626
   },
   "seeds": {
    "seeds": 34
@@ -40,9 +40,13 @@
   "independence-self-reliance",
   "kindle-app",
   "time-management",
-  "python-programming"
+  "python-programming",
+  "public-speaking"
  ],
- "stopped": null,
+ "stopped": {
+  "reason": "request-budget",
+  "next": "anxiety relief"
+ },
  "card_index": {
   "academic-talk": {
    "keyword": "academic talk",
@@ -626,7 +630,7 @@
   },
   "public-speaking": {
    "keyword": "public speaking",
-   "fetched_at": "2026-11-06"
+   "fetched_at": "2026-11-28"
   },
   "publishing-faster": {
    "keyword": "publishing faster",
@@ -1172,8 +1176,8 @@
   "cards/prompt-engineering/competitors.json": "1e50f22cef1ed1e9a594502dabc1cf8458a1c163590bc37ed2fe1892518830ea",
   "cards/protect-yourself/card.md": "7b30dafa93e8d9c018acd375cdfba7ddf4c29680bf09e7e8bdb6af4879a3afe9",
   "cards/protect-yourself/competitors.json": "1bbfcdb2dd6d961f9ae7c776e081a19585993e8d0b0b74bbf00ffaa665c6ac2b",
-  "cards/public-speaking/card.md": "e3690940da40d0aec554267df9602e39b3a9e816667d7ac53a55210766a16840",
-  "cards/public-speaking/competitors.json": "a90a7cc74dfbe7ef8376e9921db18e624d910a9ba7098b1cf8b1a4a63c284061",
+  "cards/public-speaking/card.md": "bffc7649b9ac4f4b28519013a4e7d6f7c667dd605d4fe66df9faf9156f78f9c4",
+  "cards/public-speaking/competitors.json": "a38ecd3d4db4e226665e4895bf3fcc5185014b60235719f19a27167e2a9a5ae0",
   "cards/publishing-faster/card.md": "31b75ba319eaf12950bef7f9dc3be5d0767ab61fc8feada0280eaa05cedc1824",
   "cards/publishing-faster/competitors.json": "918fad5afc8ec7139c4ba8a4fe74b44685f4868560f0d8b0392d894cedbc9e9b",
   "cards/python-programming/card.md": "35253228f6de8c74f5642bdc708b362e0ed11a02b2c646c5dc71c9d590a4ac1b",
@@ -1304,117 +1308,111 @@
  },
  "queue": [
   {
-   "slug": "public-speaking",
-   "keyword": "public speaking",
-   "position": 1,
-   "eta_date": "2026-11-28"
-  },
-  {
    "slug": "anxiety-relief",
    "keyword": "anxiety relief",
-   "position": 2,
+   "position": 1,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sleep-better",
    "keyword": "sleep better",
-   "position": 3,
+   "position": 2,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "intermittent-fasting",
    "keyword": "intermittent fasting",
-   "position": 4,
+   "position": 3,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "strength-training-over-50",
    "keyword": "strength training over 50",
-   "position": 5,
+   "position": 4,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "meal-prep",
    "keyword": "meal prep",
-   "position": 6,
+   "position": 5,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "air-fryer",
    "keyword": "air fryer",
-   "position": 7,
+   "position": 6,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "sourdough",
    "keyword": "sourdough",
-   "position": 8,
+   "position": 7,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "canning-and-preserving",
    "keyword": "canning and preserving",
-   "position": 9,
+   "position": 8,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "vegetable-gardening",
    "keyword": "vegetable gardening",
-   "position": 10,
+   "position": 9,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "beekeeping",
    "keyword": "beekeeping",
-   "position": 11,
+   "position": 10,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "homesteading",
    "keyword": "homesteading",
-   "position": 12,
+   "position": 11,
    "eta_date": "2026-11-29"
   },
   {
    "slug": "woodworking",
    "keyword": "woodworking",
-   "position": 13,
+   "position": 12,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "home-repair",
    "keyword": "home repair",
-   "position": 14,
+   "position": 13,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "dog-training",
    "keyword": "dog training",
-   "position": 15,
+   "position": 14,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "watercolor-painting",
    "keyword": "watercolor painting",
-   "position": 16,
+   "position": 15,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "crochet",
    "keyword": "crochet",
-   "position": 17,
+   "position": 16,
    "eta_date": "2026-11-30"
   },
   {
    "slug": "genealogy",
    "keyword": "genealogy",
-   "position": 18,
+   "position": 17,
    "eta_date": "2026-11-30"
   }
  ],
  "budget": {
   "date": "2026-11-28",
-  "used": 215,
+  "used": 230,
   "limit": 240
  }
 }
